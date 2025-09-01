@@ -1,0 +1,28 @@
+packages: []
+catalogs:
+  cli:
+    pncat: ^0.5.3
+    taze: ^19.4.0
+  dev:
+    '@octohash/tsconfig': ^0.2.0
+    domhandler: ^5.0.3
+    typescript: ^5.9.2
+  lint:
+    '@antfu/eslint-config': ^5.2.1
+    eslint: ^9.34.0
+    lint-staged: ^16.1.6
+    simple-git-hooks: ^2.13.1
+  network:
+    axios: ^1.11.0
+  node:
+    '@clack/prompts': ^0.11.0
+    ansis: ^4.1.0
+    cac: ^6.7.14
+  script:
+    tsx: ^4.20.5
+  test:
+    vitest: ^3.2.4
+  types:
+    '@types/node': ^24.3.0
+  utils:
+    cheerio: ^1.1.2

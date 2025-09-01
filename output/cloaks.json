@@ -1,0 +1,162 @@
+[
+  {
+    "name": "[Cape of the Red Prince](https://bg3.wiki/wiki/Cape_of_the_Red_Prince)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Cape_of_the_Red_Prince_Unfaded_Icon.png/50px-Cape_of_the_Red_Prince_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1,
+    "effects": ""
+  },
+  {
+    "name": "[Cloak](https://bg3.wiki/wiki/Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0c/Cloak_Unfaded_Icon.png/50px-Cloak_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Cloak](https://bg3.wiki/wiki/Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/Cloak_Long_C_1_Unfaded_Icon.png/50px-Cloak_Long_C_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Cloak](https://bg3.wiki/wiki/Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Cloak_B_Unfaded_Icon.png/50px-Cloak_B_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Cindermoth Cloak](https://bg3.wiki/wiki/Cindermoth_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Cindermoth_Cloak_Unfaded_Icon.png/50px-Cindermoth_Cloak_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Flaming Shroud](https://bg3.wiki/wiki/Flaming_Shroud)A creature that damages the wearer within  2 m / 7 ft receives  [Burning](https://bg3.wiki/wiki/Burning_(Condition))."
+  },
+  {
+    "name": "[Cloak of Cunning Brume](https://bg3.wiki/wiki/Cloak_of_Cunning_Brume)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Cloak_of_Cunning_Brume_Unfaded_Icon.png/50px-Cloak_of_Cunning_Brume_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Cunning Brume](https://bg3.wiki/wiki/Cunning_Brume)When the wearer  [Disengages](https://bg3.wiki/wiki/Disengage), they also create a foggy cloud with 2 m / 7 ft radius that lasts for 1 turn."
+  },
+  {
+    "name": "[Cloak of Elemental Absorption](https://bg3.wiki/wiki/Cloak_of_Elemental_Absorption)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Cloak_of_Elemental_Absorption_Unfaded_Icon.png/50px-Cloak_of_Elemental_Absorption_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 115,
+    "effects": "[Absorb Elements](https://bg3.wiki/wiki/Absorb_Elements) \nAbsorb elemental damage once per [Short Rest](https://bg3.wiki/wiki/Short_Rest). Take half damage from the next elemental attack targeting you, and deal an additional 1d6 of that element type on your next attack. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Cloak of Protection](https://bg3.wiki/wiki/Cloak_of_Protection)",
+    "image": "https://bg3.wiki/w/images/thumb/d/da/Cloak_Of_Protection_Unfaded_Icon.png/50px-Cloak_Of_Protection_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 200,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n [Saving throw](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Fleshmelter Cloak](https://bg3.wiki/wiki/Fleshmelter_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Fleshmelter_Cloak_Unfaded_Icon.png/50px-Fleshmelter_Cloak_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Caustic Reprisal](https://bg3.wiki/wiki/Caustic_Reprisal)Whenever a creature deals melee damage to the wearer, that creature takes 1d4Acid Damage."
+  },
+  {
+    "name": "[Reverse Rain Cloak](https://bg3.wiki/wiki/Reverse_Rain_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ef/Reverse_Rain_Cloak_Unfaded_Icon.png/50px-Reverse_Rain_Cloak_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1,
+    "effects": "[Wet](https://bg3.wiki/wiki/Wet_(Condition))"
+  },
+  {
+    "name": "[Thunderskin Cloak](https://bg3.wiki/wiki/Thunderskin_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bb/Thunderskin_Cloak_Unfaded_Icon.png/50px-Thunderskin_Cloak_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 75,
+    "effects": "[Dazing Echo](https://bg3.wiki/wiki/Dazing_Echo)When a creature with  [Reverberation](https://bg3.wiki/wiki/Reverberation_(Condition)) deals damage to the wearer, the creature needs to make a  [Constitution](https://bg3.wiki/wiki/Constitution) [saving throw](https://bg3.wiki/wiki/Saving_throw) or become  [Dazed](https://bg3.wiki/wiki/Dazed_(Condition))."
+  },
+  {
+    "name": "[Vivacious Cloak](https://bg3.wiki/wiki/Vivacious_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/Vivacious_Cloak_Unfaded_Icon.png/50px-Vivacious_Cloak_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Arcane Vivaciousness](https://bg3.wiki/wiki/Arcane_Vivaciousness)You gain  8 [temporary hit points](https://bg3.wiki/wiki/Temporary_Hit_Points) after casting a [spell](https://bg3.wiki/wiki/Spells) while in melee."
+  },
+  {
+    "name": "[Cloak of Displacement](https://bg3.wiki/wiki/Cloak_of_Displacement)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bb/Cloak_of_Displacement_Unfaded_Icon.png/50px-Cloak_of_Displacement_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 190,
+    "effects": "[Displacement](https://bg3.wiki/wiki/Displacement)At the beginning of the wearer's turn, the cloak activates, granting enemies  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on [Attack rolls](https://bg3.wiki/wiki/Attack_roll) that target the wearer. This effect lasts until the wearer takes damage."
+  },
+  {
+    "name": "[Derivation Cloak](https://bg3.wiki/wiki/Derivation_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Derivation_Cloak_Unfaded_Icon.png/50px-Derivation_Cloak_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 190,
+    "effects": "[Deadly Derivation](https://bg3.wiki/wiki/Deadly_Derivation)When you  [Poison](https://bg3.wiki/wiki/Poisoned_(Condition)) a foe, heal yourself for 1d4hit points."
+  },
+  {
+    "name": "[The Deathstalker Mantle](https://bg3.wiki/wiki/The_Deathstalker_Mantle)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/The_Deathstalker_Mantle_Unfaded_Icon.png/50px-The_Deathstalker_Mantle_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 190,
+    "effects": "[The Shadow Itself](https://bg3.wiki/wiki/The_Shadow_Itself)Once per turn when you kill an enemy, shroud yourself in primeval darkness to become  [Invisible](https://bg3.wiki/wiki/Invisible_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Wavemother's Cloak](https://bg3.wiki/wiki/Wavemother%27s_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0c/Wavemother%27s_Cloak_Unfaded_Icon.png/50px-Wavemother%27s_Cloak_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 190,
+    "effects": "[Damp Aegis](https://bg3.wiki/wiki/Damp_Aegis)During Combat, once per turn, the cloak grants the wearer  [Water Layer Protection](https://bg3.wiki/wiki/Water_Layer_Protection_(Condition))[[See: Bugs](https://bg3.wiki/wiki/Damp_Aegis#Bugs)] until the wearer takes damage."
+  },
+  {
+    "name": "[Cloak of the Weave](https://bg3.wiki/wiki/Cloak_of_the_Weave)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0c/Cloak_of_the_Weave_Unfaded_Icon.png/50px-Cloak_of_the_Weave_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Absorb Elements](https://bg3.wiki/wiki/Absorb_Elements) \nAbsorb elemental damage once per [Short Rest](https://bg3.wiki/wiki/Short_Rest). Take half damage from the next elemental attack targeting you, and deal an additional 1d6 of that element type on your next attack. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Arcane Enchantment](https://bg3.wiki/wiki/Arcane_Enchantment_(%2B1))You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC) and [Spell Attack](https://bg3.wiki/wiki/Spell_Attack) rolls."
+  },
+  {
+    "name": "[Mantle of the Holy Warrior](https://bg3.wiki/wiki/Mantle_of_the_Holy_Warrior)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b2/Mantle_of_the_Holy_Warrior_Unfaded_Icon.png/50px-Mantle_of_the_Holy_Warrior_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 630,
+    "effects": "[Crusader's Mantle](https://bg3.wiki/wiki/Crusader%27s_Mantle) \nCast as a level 3 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Nymph Cloak](https://bg3.wiki/wiki/Nymph_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/7/78/Nymph_Cloak_Unfaded_Icon.png/50px-Nymph_Cloak_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 360,
+    "effects": "[Dominate Person](https://bg3.wiki/wiki/Dominate_Person) \nCast as a level 5 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Shade-Slayer Cloak](https://bg3.wiki/wiki/Shade-Slayer_Cloak)",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Shade-Slayer_Cloak_Unfaded_Icon.png/50px-Shade-Slayer_Cloak_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 360,
+    "effects": "[Stealthy Critical](https://bg3.wiki/wiki/Stealthy_Critical)While  [Hiding](https://bg3.wiki/wiki/Hiding_(Condition)), the number you need to [roll](https://bg3.wiki/wiki/Attack_Roll) a [Critical Hit](https://bg3.wiki/wiki/Critical_Hit) while attacking is reduced by 1. This effect can stack."
+  }
+]

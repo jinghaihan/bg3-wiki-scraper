@@ -1,0 +1,927 @@
+[
+  {
+    "name": "[Destitute Clothes](https://bg3.wiki/wiki/Destitute_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Destitute_Clothes_Unfaded_Icon.png/30px-Destitute_Clothes_Unfaded_Icon.png",
+    "clothingType": "poor"
+  },
+  {
+    "name": "[Homely Clothes](https://bg3.wiki/wiki/Homely_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/9/92/Homely_Clothes_Unfaded_Icon.png/30px-Homely_Clothes_Unfaded_Icon.png",
+    "clothingType": "poor"
+  },
+  {
+    "name": "[Road-Dust Grey Clothes](https://bg3.wiki/wiki/Road-Dust_Grey_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Camp_Refugee_Gray_Unfaded_Icon.webp/30px-Camp_Refugee_Gray_Unfaded_Icon.webp.png",
+    "clothingType": "poor"
+  },
+  {
+    "name": "[Scruffy Vagabond Clothes](https://bg3.wiki/wiki/Scruffy_Vagabond_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Scruffy_Vagabond_Clothes_Unfaded_Icon.png/30px-Scruffy_Vagabond_Clothes_Unfaded_Icon.png",
+    "clothingType": "poor"
+  },
+  {
+    "name": "[Black Flare Leather Outfit](https://bg3.wiki/wiki/Black_Flare_Leather_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/Camp_Leather_A_Black_Unfaded_Icon.webp/30px-Camp_Leather_A_Black_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Blue Flare Leather Outfit](https://bg3.wiki/wiki/Blue_Flare_Leather_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/7/71/Camp_Leather_A_Blue_Unfaded_Icon.webp/30px-Camp_Leather_A_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Bright Flare Leather Outfit](https://bg3.wiki/wiki/Bright_Flare_Leather_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/Camp_Leather_A_Bright_Unfaded_Icon.webp/30px-Camp_Leather_A_Bright_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Comfortable Red Shirt](https://bg3.wiki/wiki/Comfortable_Red_Shirt)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Comfortable_Red_Shirt_Unfaded_Icon.png/30px-Comfortable_Red_Shirt_Unfaded_Icon.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Cosy Blue Shirt](https://bg3.wiki/wiki/Cosy_Blue_Shirt)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Cosy_Blue_Shirt_Item_Icon.png/30px-Cosy_Blue_Shirt_Item_Icon.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Green Flare Leather Outfit](https://bg3.wiki/wiki/Green_Flare_Leather_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/8/81/Camp_Leather_A_Green_Unfaded_Icon.webp/30px-Camp_Leather_A_Green_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Leathery Garb](https://bg3.wiki/wiki/Leathery_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Camp_Leather_A_Brown_Unfaded_Icon.webp/30px-Camp_Leather_A_Brown_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Mellow Black Shirt](https://bg3.wiki/wiki/Mellow_Black_Shirt)",
+    "image": "https://bg3.wiki/w/images/thumb/2/21/Mellow_Black_Shirt_Unfaded_Icon.png/30px-Mellow_Black_Shirt_Unfaded_Icon.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Rustic Dark Outfit](https://bg3.wiki/wiki/Rustic_Dark_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Camp_Refugee_Gray_Unfaded_Icon.webp/30px-Camp_Refugee_Gray_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Snug Purple Shirt](https://bg3.wiki/wiki/Snug_Purple_Shirt)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Snug_Purple_Shirt_Unfaded_Icon.png/30px-Snug_Purple_Shirt_Unfaded_Icon.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Snugglesome Green Shirt](https://bg3.wiki/wiki/Snugglesome_Green_Shirt)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Camp_Shirt_D_Green_Unfaded_Icon.webp/30px-Camp_Shirt_D_Green_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Strapped Choker Leather Ensemble](https://bg3.wiki/wiki/Strapped_Choker_Leather_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Strapped_Choker_Leather_Ensemble_Unfaded_Icon.png/30px-Strapped_Choker_Leather_Ensemble_Unfaded_Icon.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Umber Trousers](https://bg3.wiki/wiki/Umber_Trousers)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/Camp_Pants_A_Unfaded_Icon.webp/30px-Camp_Pants_A_Unfaded_Icon.webp.png",
+    "clothingType": "medium"
+  },
+  {
+    "name": "[Comfortable Ashmeadow Outfit](https://bg3.wiki/wiki/Comfortable_Ashmeadow_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Camp_Citizen_Black_Unfaded_Icon.webp/30px-Camp_Citizen_Black_Unfaded_Icon.webp.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Comfortable Autumnal Outfit](https://bg3.wiki/wiki/Comfortable_Autumnal_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d8/Camp_Citizen_Purple_Unfaded_Icon.webp/30px-Camp_Citizen_Purple_Unfaded_Icon.webp.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Comfortable Blue-Red Outfit](https://bg3.wiki/wiki/Comfortable_Blue-Red_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Camp_Citizen_Unfaded_Icon.webp/30px-Camp_Citizen_Unfaded_Icon.webp.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Spring Slimfit Outfit](https://bg3.wiki/wiki/Spring_Slimfit_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a9/Camp_Citizen_B_Green_Unfaded_Icon.webp/30px-Camp_Citizen_B_Green_Unfaded_Icon.webp.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Swarthy Wayfarer in Blue](https://bg3.wiki/wiki/Swarthy_Wayfarer_in_Blue)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/Camp_Citizen_C_Blue_Unfaded_Icon.webp/30px-Camp_Citizen_C_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Swarthy Wayfarer in Cream](https://bg3.wiki/wiki/Swarthy_Wayfarer_in_Cream)",
+    "image": "https://bg3.wiki/w/images/thumb/e/eb/Swarthy_Wayfarer_in_Cream_Unfaded_Icon.png/30px-Swarthy_Wayfarer_in_Cream_Unfaded_Icon.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Swarthy Wayfarer in Green](https://bg3.wiki/wiki/Swarthy_Wayfarer_in_Green)",
+    "image": "https://bg3.wiki/w/images/thumb/4/44/Swarthy_Wayfarer_in_Green_Unfaded_Icon.png/30px-Swarthy_Wayfarer_in_Green_Unfaded_Icon.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Swarthy Wayfarer in Red](https://bg3.wiki/wiki/Swarthy_Wayfarer_in_Red)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Swarthy_Wayfarer_in_Red_Unfaded_Icon.png/30px-Swarthy_Wayfarer_in_Red_Unfaded_Icon.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Teal Slimfit Outfit](https://bg3.wiki/wiki/Teal_Slimfit_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Teal_Slimfit_Outfit_Unfaded_Icon.png/30px-Teal_Slimfit_Outfit_Unfaded_Icon.png",
+    "clothingType": "citizen"
+  },
+  {
+    "name": "[Anarchic Blue Outfit](https://bg3.wiki/wiki/Anarchic_Blue_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Camp_Rich_D_Blue_Unfaded_Icon.webp/30px-Camp_Rich_D_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Anarchic Green Outfit](https://bg3.wiki/wiki/Anarchic_Green_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ea/Camp_Rich_D_Green_Unfaded_Icon.png/30px-Camp_Rich_D_Green_Unfaded_Icon.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Anarchic Purple Outfit](https://bg3.wiki/wiki/Anarchic_Purple_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/Camp_Rich_D_Purple_Unfaded_Icon.png/30px-Camp_Rich_D_Purple_Unfaded_Icon.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Anarchic White Outfit](https://bg3.wiki/wiki/Anarchic_White_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Camp_Rich_D_White_Unfaded_Icon.webp/30px-Camp_Rich_D_White_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Backless Extravaganza](https://bg3.wiki/wiki/Backless_Extravaganza)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b6/Camp_Rich_D_Red_Unfaded_Icon.webp/30px-Camp_Rich_D_Red_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Chandelier-Style Embroidered Ensemble](https://bg3.wiki/wiki/Chandelier-Style_Embroidered_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/7/77/Camp_Rich_C_Green_Unfaded_Icon.webp/30px-Camp_Rich_C_Green_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Delicately Constructed Outfit](https://bg3.wiki/wiki/Delicately_Constructed_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Camp_Rich_B_Blue_Unfaded_Icon.webp/30px-Camp_Rich_B_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Diamond Blue Doublet](https://bg3.wiki/wiki/Diamond_Blue_Doublet)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Camp_Rich_F_Blue_Unfaded_Icon.webp/30px-Camp_Rich_F_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Diamond Pattern Garb](https://bg3.wiki/wiki/Diamond_Pattern_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f5/Camp_Rich_F_Green_Unfaded_Icon.webp/30px-Camp_Rich_F_Green_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Fastidiously Perfect Outfit](https://bg3.wiki/wiki/Fastidiously_Perfect_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Camp_Rich_B_Red_Unfaded_Icon.webp/30px-Camp_Rich_B_Red_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Lionheart Green-Pink Outfit](https://bg3.wiki/wiki/Lionheart_Green-Pink_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b8/Camp_Rich_E_GreenPink_Unfaded_Icon.webp/30px-Camp_Rich_E_GreenPink_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Lionheart Outfit](https://bg3.wiki/wiki/Lionheart_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Camp_Rich_E_Orange_Unfaded_Icon.webp/30px-Camp_Rich_E_Orange_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Lionheart Teal Outfit](https://bg3.wiki/wiki/Lionheart_Teal_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Camp_Rich_E_Teal_Unfaded_Icon.webp/30px-Camp_Rich_E_Teal_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Raffish Bronze-Red Outfit](https://bg3.wiki/wiki/Raffish_Bronze-Red_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/Camp_Rich_G_Red_Unfaded_Icon.webp/30px-Camp_Rich_G_Red_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Raffish Chestnut Outfit](https://bg3.wiki/wiki/Raffish_Chestnut_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Camp_Rich_G_Bright_Unfaded_Icon.webp/30px-Camp_Rich_G_Bright_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Raffish Garb](https://bg3.wiki/wiki/Raffish_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Camp_Rich_G_Bright_Unfaded_Icon.webp/30px-Camp_Rich_G_Bright_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Raffish Metallic-Shaded Outfit](https://bg3.wiki/wiki/Raffish_Metallic-Shaded_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Camp_Rich_G_Bright_Unfaded_Icon.webp/30px-Camp_Rich_G_Bright_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Raffish Midnight Outfit](https://bg3.wiki/wiki/Raffish_Midnight_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/6/68/Camp_Rich_G_Black_Unfaded_Icon.webp/30px-Camp_Rich_G_Black_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Solemnity Outfit](https://bg3.wiki/wiki/Solemnity_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/Camp_Rich_H_Gold_Unfaded_Icon.webp/30px-Camp_Rich_H_Gold_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Solemnity Outfit in Blue](https://bg3.wiki/wiki/Solemnity_Outfit_in_Blue)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Camp_Rich_H_Blue_Unfaded_Icon.webp/30px-Camp_Rich_H_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Solemnity Outfit in Gold Medallions](https://bg3.wiki/wiki/Solemnity_Outfit_in_Gold_Medallions)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/Camp_Rich_H_White_Unfaded_Icon.webp/30px-Camp_Rich_H_White_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Solemnity Outfit in Green](https://bg3.wiki/wiki/Solemnity_Outfit_in_Green)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Camp_Rich_G_Green_Unfaded_Icon.png/30px-Camp_Rich_G_Green_Unfaded_Icon.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Solemnity Outfit in Purple](https://bg3.wiki/wiki/Solemnity_Outfit_in_Purple)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a9/Camp_Rich_H_Purple_Unfaded_Icon.webp/30px-Camp_Rich_H_Purple_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Beige Outfit](https://bg3.wiki/wiki/Splendid_Beige_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/3/31/Camp_Rich_B_Beige_Unfaded_Icon.webp/30px-Camp_Rich_B_Beige_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Blue Outfit](https://bg3.wiki/wiki/Splendid_Blue_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/Camp_Rich_C_Blue_Unfaded_Icon.webp/30px-Camp_Rich_C_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Gold Outfit](https://bg3.wiki/wiki/Splendid_Gold_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Camp_Rich_A_Gold_Unfaded_Icon.webp/30px-Camp_Rich_A_Gold_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Green Outfit](https://bg3.wiki/wiki/Splendid_Green_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Camp_Rich_A_Green_Unfaded_Icon.webp/30px-Camp_Rich_A_Green_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Outfit](https://bg3.wiki/wiki/Splendid_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Camp_Rich_A_Red_Unfaded_Icon.webp/30px-Camp_Rich_A_Red_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Purple Outfit](https://bg3.wiki/wiki/Splendid_Purple_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/3/38/Camp_Rich_B_Purple_Unfaded_Icon.webp/30px-Camp_Rich_B_Purple_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Red Outfit](https://bg3.wiki/wiki/Splendid_Red_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Camp_Rich_C_Red_Unfaded_Icon.webp/30px-Camp_Rich_C_Red_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[Splendid Teal Outfit](https://bg3.wiki/wiki/Splendid_Teal_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/Camp_Rich_A_Teal_Unfaded_Icon.webp/30px-Camp_Rich_A_Teal_Unfaded_Icon.webp.png",
+    "clothingType": "rich"
+  },
+  {
+    "name": "[City of Brass Outfit](https://bg3.wiki/wiki/City_of_Brass_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/6/65/Camp_Patriars_A_Red_Unfaded_Icon.webp/30px-Camp_Patriars_A_Red_Unfaded_Icon.webp.png",
+    "clothingType": "patriars"
+  },
+  {
+    "name": "[Eminent Emerald Outfit](https://bg3.wiki/wiki/Eminent_Emerald_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/5/53/Camp_Patriars_A_Green_Unfaded_Icon.webp/30px-Camp_Patriars_A_Green_Unfaded_Icon.webp.png",
+    "clothingType": "patriars"
+  },
+  {
+    "name": "[Eminent Obsidian Outfit](https://bg3.wiki/wiki/Eminent_Obsidian_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Camp_Patriars_A_Black_Unfaded_Icon.webp/30px-Camp_Patriars_A_Black_Unfaded_Icon.webp.png",
+    "clothingType": "patriars"
+  },
+  {
+    "name": "[Magnificently Realised Ensemble](https://bg3.wiki/wiki/Magnificently_Realised_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Camp_Patriars_A_White_Unfaded_Icon.webp/30px-Camp_Patriars_A_White_Unfaded_Icon.webp.png",
+    "clothingType": "patriars"
+  },
+  {
+    "name": "[Opalescent Outfit](https://bg3.wiki/wiki/Opalescent_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b3/Camp_Patriars_A_Blue_Unfaded_Icon.webp/30px-Camp_Patriars_A_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "patriars"
+  },
+  {
+    "name": "[Chocolatier Style Doublet](https://bg3.wiki/wiki/Chocolatier_Style_Doublet)",
+    "image": "https://bg3.wiki/w/images/thumb/a/aa/Camp_Aristocrat_Brown_Unfaded_Icon.webp/30px-Camp_Aristocrat_Brown_Unfaded_Icon.webp.png",
+    "clothingType": "aristocrat"
+  },
+  {
+    "name": "[Sweetly Tailored Outfit](https://bg3.wiki/wiki/Sweetly_Tailored_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/Camp_Aristocrat_Unfaded_Icon.webp/30px-Camp_Aristocrat_Unfaded_Icon.webp.png",
+    "clothingType": "aristocrat"
+  },
+  {
+    "name": "[Winter Gala Doublet](https://bg3.wiki/wiki/Winter_Gala_Doublet)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/Camp_Aristocrat_Unfaded_Icon.webp/30px-Camp_Aristocrat_Unfaded_Icon.webp.png",
+    "clothingType": "aristocrat"
+  },
+  {
+    "name": "[Absolute Outfit](https://bg3.wiki/wiki/Absolute_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/4/46/Camp_Cultist_Absolute_Unfaded_Icon.webp/30px-Camp_Cultist_Absolute_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Angelic Scion Outfit](https://bg3.wiki/wiki/Angelic_Scion_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b4/Angelic_Scion_Outfit_Unfaded_Icon.png/30px-Angelic_Scion_Outfit_Unfaded_Icon.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Circus Ensemble](https://bg3.wiki/wiki/Circus_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/Camp_Circus_A_Unfaded_Icon.webp/30px-Camp_Circus_A_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Debtor's Attire](https://bg3.wiki/wiki/Debtor%27s_Attire)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Debtors_Attire_A_Unfaded_Icon.png/30px-Debtors_Attire_A_Unfaded_Icon.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Drow Outfit](https://bg3.wiki/wiki/Drow_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b4/Camp_Drow_Unfaded_Icon.png/30px-Camp_Drow_Unfaded_Icon.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Elegant Robe](https://bg3.wiki/wiki/Elegant_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Camp_DaisyDress_White_Unfaded_Icon.webp/30px-Camp_DaisyDress_White_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Mesmerising Circus Outfit](https://bg3.wiki/wiki/Mesmerising_Circus_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/f/ff/Camp_Circus_B_Unfaded_Icon.webp/30px-Camp_Circus_B_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Breezy Sandals](https://bg3.wiki/wiki/Breezy_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/Camp_Sandals_B_Red_Unfaded_Icon.webp/30px-Camp_Sandals_B_Red_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Casual Sandals](https://bg3.wiki/wiki/Casual_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/Camp_Sandals_B_Green_Unfaded_Icon.webp/30px-Camp_Sandals_B_Green_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Celestial Sandals](https://bg3.wiki/wiki/Celestial_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Camp_Sandals_A_Brown_Unfaded_Icon.webp/30px-Camp_Sandals_A_Brown_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Cross-Crest Sandals](https://bg3.wiki/wiki/Cross-Crest_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Camp_Sandals_B_Brown_Unfaded_Icon.webp/30px-Camp_Sandals_B_Brown_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Delicate Shoes](https://bg3.wiki/wiki/Delicate_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Camp_Shoes_E_Unfaded_Icon.webp/30px-Camp_Shoes_E_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Diamond-Stitch Sandals](https://bg3.wiki/wiki/Diamond-Stitch_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Camp_Sandals_B_Blue_Unfaded_Icon.webp/30px-Camp_Sandals_B_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Meshtoe Sandals](https://bg3.wiki/wiki/Meshtoe_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Camp_Sandals_A_White_Unfaded_Icon.webp/30px-Camp_Sandals_A_White_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Elfin Woodsoles](https://bg3.wiki/wiki/Elfin_Woodsoles)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Camp_Shoes_B_Green_Unfaded_Icon.webp/30px-Camp_Shoes_B_Green_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Firm-Heeled Sandals](https://bg3.wiki/wiki/Firm-Heeled_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8f/Camp_Sandals_B_Black_Unfaded_Icon.webp/30px-Camp_Sandals_B_Black_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Gladitorial Sandals](https://bg3.wiki/wiki/Gladitorial_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Camp_Sandals_C_Brown_Unfaded_Icon.webp/30px-Camp_Sandals_C_Brown_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Pointed-Toe Shoes](https://bg3.wiki/wiki/Pointed-Toe_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/5/52/Camp_Shoes_F_Unfaded_Icon.webp/30px-Camp_Shoes_F_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Pristine Meshtoe Sandals](https://bg3.wiki/wiki/Pristine_Meshtoe_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Camp_Sandals_A_Blue_Unfaded_Icon.webp/30px-Camp_Sandals_A_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Reliably Built Boots](https://bg3.wiki/wiki/Reliably_Built_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c0/Vanity_Circus_Shoes_A_Unfaded_Icon.png/30px-Vanity_Circus_Shoes_A_Unfaded_Icon.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Slashstrip Sandals](https://bg3.wiki/wiki/Slashstrip_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Camp_Sandals_A_Brown_Unfaded_Icon.webp/30px-Camp_Sandals_A_Brown_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Tanner's Delight](https://bg3.wiki/wiki/Tanner%27s_Delight)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d7/Camp_Shoes_C_Unfaded_Icon.webp/30px-Camp_Shoes_C_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Camp_Shoes_A_Unfaded_Icon.webp/30px-Camp_Shoes_A_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Worn Slashstrip Sandals](https://bg3.wiki/wiki/Worn_Slashstrip_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/Camp_Sandals_A_Black_Unfaded_Icon.webp/30px-Camp_Sandals_A_Black_Unfaded_Icon.webp.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Klagga's Pants](https://bg3.wiki/wiki/Klagga%27s_Pants)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Underwear_Dwarves_B_Unfaded_Icon.png/30px-Underwear_Dwarves_B_Unfaded_Icon.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Underwear](https://bg3.wiki/wiki/Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/4/46/Underwear_Humans_C_Unfaded_Icon.png/30px-Underwear_Humans_C_Unfaded_Icon.png",
+    "clothingType": "unsorted"
+  },
+  {
+    "name": "[Astarion's Eccentric Clothing](https://bg3.wiki/wiki/Astarion%27s_Eccentric_Clothing)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Astarion%27s_Eccentric_Clothing_Unfaded_Icon.png/30px-Astarion%27s_Eccentric_Clothing_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "astarion"
+  },
+  {
+    "name": "[Astarion's Underwear](https://bg3.wiki/wiki/Astarion%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Underwear_Elves_B_Unfaded_Icon.png/30px-Underwear_Elves_B_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "astarion"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Generated_ARM_Camp_Shoes_Astarion_icon.webp/30px-Generated_ARM_Camp_Shoes_Astarion_icon.webp.png",
+    "clothingType": "starting",
+    "character": "astarion"
+  },
+  {
+    "name": "[Gale's Austere Clothes](https://bg3.wiki/wiki/Gale%27s_Austere_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/1/17/Gale%27s_Austere_Clothes_Unfaded_Icon.png/30px-Gale%27s_Austere_Clothes_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "gale"
+  },
+  {
+    "name": "[Netherese Briefs](https://bg3.wiki/wiki/Netherese_Briefs)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c4/Underwear_Humans_A_Unfaded_Icon.png/30px-Underwear_Humans_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "gale"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Generated_ARM_Camp_Shoes_Gale_icon.webp/30px-Generated_ARM_Camp_Shoes_Gale_icon.webp.png",
+    "clothingType": "starting",
+    "character": "gale"
+  },
+  {
+    "name": "[Halsin's Grove Garments](https://bg3.wiki/wiki/Halsin%27s_Grove_Garments)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Halsin%27s_Grove_Garments_Unfaded_Icon.png/30px-Halsin%27s_Grove_Garments_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "halsin"
+  },
+  {
+    "name": "[Halsin's Underwear](https://bg3.wiki/wiki/Halsin%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Underwear_Elves_A_Unfaded_Icon.png/30px-Underwear_Elves_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "halsin"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/Generated_ARM_Camp_Shoes_Halsin_icon.webp/30px-Generated_ARM_Camp_Shoes_Halsin_icon.webp.png",
+    "clothingType": "starting",
+    "character": "halsin"
+  },
+  {
+    "name": "[Jaheira's Respectable Clothes](https://bg3.wiki/wiki/Jaheira%27s_Respectable_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/Jaheira%27s_Respectable_Clothes_Unfaded_Icon.png/30px-Jaheira%27s_Respectable_Clothes_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "jaheira"
+  },
+  {
+    "name": "[Jaheira's Underwear](https://bg3.wiki/wiki/Jaheira%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Underwear_Elves_A_Unfaded_Icon.png/30px-Underwear_Elves_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "jaheira"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Generated_ARM_Camp_Shoes_Jaheira_icon.webp/30px-Generated_ARM_Camp_Shoes_Jaheira_icon.webp.png",
+    "clothingType": "starting",
+    "character": "jaheira"
+  },
+  {
+    "name": "[Lae'zel's Clothes](https://bg3.wiki/wiki/Lae%27zel%27s_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0c/Lae%27zel%27s_Clothes_Unfaded_Icon.png/30px-Lae%27zel%27s_Clothes_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "lae'zel"
+  },
+  {
+    "name": "[Lae'zel's Underwear](https://bg3.wiki/wiki/Lae%27zel%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/8/83/Underwear_Githyanki_A_Unfaded_Icon.png/30px-Underwear_Githyanki_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "lae'zel"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Generated_ARM_Camp_Shoes_Wyll_icon.webp/30px-Generated_ARM_Camp_Shoes_Wyll_icon.webp.png",
+    "clothingType": "starting",
+    "character": "lae'zel"
+  },
+  {
+    "name": "[Minsc's Fantastical Relaxation Garb](https://bg3.wiki/wiki/Minsc%27s_Fantastical_Relaxation_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Minsc%27s_Fantastical_Relaxation_Garb_Unfaded_Icon.png/30px-Minsc%27s_Fantastical_Relaxation_Garb_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "minsc"
+  },
+  {
+    "name": "[Minsc's Underwear](https://bg3.wiki/wiki/Minsc%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c4/Underwear_Humans_A_Unfaded_Icon.png/30px-Underwear_Humans_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "minsc"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c3/Generated_ARM_Camp_Shoes_Minsc_icon.webp/30px-Generated_ARM_Camp_Shoes_Minsc_icon.webp.png",
+    "clothingType": "starting",
+    "character": "minsc"
+  },
+  {
+    "name": "[Minthara's At-Ease Clothes](https://bg3.wiki/wiki/Minthara%27s_At-Ease_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/Minthara%27s_At-Ease_Clothes_Unfaded_Icon.webp/30px-Minthara%27s_At-Ease_Clothes_Unfaded_Icon.webp.png",
+    "clothingType": "starting",
+    "character": "minthara"
+  },
+  {
+    "name": "[Minthara's Underwear](https://bg3.wiki/wiki/Minthara%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Underwear_Elves_A_Unfaded_Icon.png/30px-Underwear_Elves_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "minthara"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Generated_ARM_Camp_Shoes_Minthara_icon.webp/30px-Generated_ARM_Camp_Shoes_Minthara_icon.webp.png",
+    "clothingType": "starting",
+    "character": "minthara"
+  },
+  {
+    "name": "[Karlach's Infernal Trousers](https://bg3.wiki/wiki/Karlach%27s_Infernal_Trousers)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Karlach%27s_Infernal_Trousers_Unfaded_Icon.png/30px-Karlach%27s_Infernal_Trousers_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "karlach"
+  },
+  {
+    "name": "[Karlach's Underwear](https://bg3.wiki/wiki/Karlach%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d3/Underwear_Tieflings_A_Unfaded_Icon.png/30px-Underwear_Tieflings_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "karlach"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Generated_ARM_Camp_Shoes_Karlach_icon.webp/30px-Generated_ARM_Camp_Shoes_Karlach_icon.webp.png",
+    "clothingType": "starting",
+    "character": "karlach"
+  },
+  {
+    "name": "[Shadowheart's Clothes](https://bg3.wiki/wiki/Shadowheart%27s_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/1/19/Shadowheart%27s_Clothes_Unfaded_Icon.png/30px-Shadowheart%27s_Clothes_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "shadowheart"
+  },
+  {
+    "name": "[Shadowheart's Underwear](https://bg3.wiki/wiki/Shadowheart%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Shadowheart%27s_Underwear_Unfaded_Icon.png/30px-Shadowheart%27s_Underwear_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "shadowheart"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/7/78/Generated_ARM_Camp_Shoes_Shadowheart_icon.webp/30px-Generated_ARM_Camp_Shoes_Shadowheart_icon.webp.png",
+    "clothingType": "starting",
+    "character": "shadowheart"
+  },
+  {
+    "name": "[Wyll's Earthy Garb](https://bg3.wiki/wiki/Wyll%27s_Earthy_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/9/92/Homely_Clothes_Unfaded_Icon.png/30px-Homely_Clothes_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "wyll"
+  },
+  {
+    "name": "[Wyll's Underwear](https://bg3.wiki/wiki/Wyll%27s_Underwear)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c4/Underwear_Humans_A_Unfaded_Icon.png/30px-Underwear_Humans_A_Unfaded_Icon.png",
+    "clothingType": "starting",
+    "character": "wyll"
+  },
+  {
+    "name": "[Tasteful Boots](https://bg3.wiki/wiki/Tasteful_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Generated_ARM_Camp_Shoes_Wyll_icon.webp/30px-Generated_ARM_Camp_Shoes_Wyll_icon.webp.png",
+    "clothingType": "starting",
+    "character": "wyll"
+  },
+  {
+    "name": "[Dandy's Dream Ensemble](https://bg3.wiki/wiki/Dandy%27s_Dream_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d4/Item_UNI_Astarion_StarterArmor_Unfaded.png/30px-Item_UNI_Astarion_StarterArmor_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "astarion"
+  },
+  {
+    "name": "[Decadent Ensemble](https://bg3.wiki/wiki/Decadent_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Camp_Patriars_A_Black_Unfaded_Icon.webp/30px-Camp_Patriars_A_Black_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "astarion"
+  },
+  {
+    "name": "[Decadent Slippers](https://bg3.wiki/wiki/Decadent_Slippers)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Generated_ARM_Camp_Shoes_Astarion_icon.webp/30px-Generated_ARM_Camp_Shoes_Astarion_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "astarion"
+  },
+  {
+    "name": "[Worn Shoes](https://bg3.wiki/wiki/Worn_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Generated_ARM_Camp_Shoes_C_Unfaded.png/30px-Generated_ARM_Camp_Shoes_C_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "astarion"
+  },
+  {
+    "name": "[Embroidered Ensemble](https://bg3.wiki/wiki/Embroidered_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/Camp_Rich_C_Blue_Unfaded_Icon.webp/30px-Camp_Rich_C_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "gale"
+  },
+  {
+    "name": "[Weave-Touched Robe](https://bg3.wiki/wiki/Weave-Touched_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Camp_DaisyDress_White_Unfaded_Icon.webp/30px-Camp_DaisyDress_White_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "gale"
+  },
+  {
+    "name": "[Elegant Slippers](https://bg3.wiki/wiki/Elegant_Slippers)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Generated_ARM_Camp_Shoes_Astarion_icon.webp/30px-Generated_ARM_Camp_Shoes_Astarion_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "gale"
+  },
+  {
+    "name": "[Finely Crafted Ensemble](https://bg3.wiki/wiki/Finely_Crafted_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Camp_Rich_G_Bright_Unfaded_Icon.webp/30px-Camp_Rich_G_Bright_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "halsin"
+  },
+  {
+    "name": "[Well-Worn Dress Shoes](https://bg3.wiki/wiki/Well-Worn_Dress_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Generated_ARM_Camp_Shoes_C_Unfaded.png/30px-Generated_ARM_Camp_Shoes_C_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "halsin"
+  },
+  {
+    "name": "[Harper Finery](https://bg3.wiki/wiki/Harper_Finery)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4a/Leather_Armour_Jaheria_Unfaded_Icon.webp/30px-Leather_Armour_Jaheria_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "jaheira"
+  },
+  {
+    "name": "[Lacey Garb](https://bg3.wiki/wiki/Lacey_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Camp_Rich_D_Blue_Unfaded_Icon.webp/30px-Camp_Rich_D_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "jaheira"
+  },
+  {
+    "name": "[Harper Boots](https://bg3.wiki/wiki/Harper_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c4/Boots_Leather_A_Unfaded_Icon.png/30px-Boots_Leather_A_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "jaheira"
+  },
+  {
+    "name": "[Thick Soled Shoes](https://bg3.wiki/wiki/Thick_Soled_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Generated_ARM_Camp_Shoes_C_Unfaded.png/30px-Generated_ARM_Camp_Shoes_C_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "jaheira"
+  },
+  {
+    "name": "[Hot Pants](https://bg3.wiki/wiki/Hot_Pants)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/Barbarian_Clothes_Karlach_Unfaded_Icon.png/30px-Barbarian_Clothes_Karlach_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "karlach"
+  },
+  {
+    "name": "[The Devil-Crushers](https://bg3.wiki/wiki/The_Devil-Crushers)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Item_ARM_Boots_Leather_B_Unfaded_Icon.png/30px-Item_ARM_Boots_Leather_B_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "karlach"
+  },
+  {
+    "name": "[Nomad's Garb](https://bg3.wiki/wiki/Nomad%27s_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/Camp_Leather_A_Black_Unfaded_Icon.webp/30px-Camp_Leather_A_Black_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "lae'zel"
+  },
+  {
+    "name": "[Senja'si Finery](https://bg3.wiki/wiki/Senja%27si_Finery)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/Jaheira%27s_Respectable_Clothes_Unfaded_Icon.png/30px-Jaheira%27s_Respectable_Clothes_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "lae'zel"
+  },
+  {
+    "name": "[Nomad's Sandals](https://bg3.wiki/wiki/Nomad%27s_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Generated_ARM_Camp_Shoes_Karlach_icon.webp/30px-Generated_ARM_Camp_Shoes_Karlach_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "lae'zel"
+  },
+  {
+    "name": "[Senja'si Boots](https://bg3.wiki/wiki/Senja%27si_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/Githyanki_Boots_Unfaded_Icon.png/30px-Githyanki_Boots_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "lae'zel"
+  },
+  {
+    "name": "[Prison Tatters](https://bg3.wiki/wiki/Prison_Tatters)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Destitute_Clothes_Unfaded_Icon.png/30px-Destitute_Clothes_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "minsc"
+  },
+  {
+    "name": "[Very Handsome Shirt](https://bg3.wiki/wiki/Very_Handsome_Shirt)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Teal_Slimfit_Outfit_Unfaded_Icon.png/30px-Teal_Slimfit_Outfit_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "minsc"
+  },
+  {
+    "name": "[Boots of Butt-Kicking](https://bg3.wiki/wiki/Boots_of_Butt-Kicking)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Camp_Shoes_B_Green_Unfaded_Icon.webp/30px-Camp_Shoes_B_Green_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "minsc"
+  },
+  {
+    "name": "[Cut-Throat Leather Ensemble](https://bg3.wiki/wiki/Cut-Throat_Leather_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/Minthara%27s_At-Ease_Clothes_Unfaded_Icon.webp/30px-Minthara%27s_At-Ease_Clothes_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "minthara"
+  },
+  {
+    "name": "[Moonlit Ensemble](https://bg3.wiki/wiki/Moonlit_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Camp_Rich_D_Blue_Unfaded_Icon.webp/30px-Camp_Rich_D_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "minthara"
+  },
+  {
+    "name": "[Moonlit Slippers](https://bg3.wiki/wiki/Moonlit_Slippers)",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Generated_ARM_Camp_Shoes_Minthara_icon.webp/30px-Generated_ARM_Camp_Shoes_Minthara_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "minthara"
+  },
+  {
+    "name": "[Deadly Dress Shoes](https://bg3.wiki/wiki/Deadly_Dress_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Generated_ARM_Camp_Shoes_Minthara_icon.webp/30px-Generated_ARM_Camp_Shoes_Minthara_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "minthara"
+  },
+  {
+    "name": "[Dusky Ensemble](https://bg3.wiki/wiki/Dusky_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Camp_Rich_G_Bright_Unfaded_Icon.webp/30px-Camp_Rich_G_Bright_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "shadowheart"
+  },
+  {
+    "name": "[Robes of the New Moon](https://bg3.wiki/wiki/Robes_of_the_New_Moon)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b8/Item_EPI_Camp_Shar_Unfaded.png/30px-Item_EPI_Camp_Shar_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "shadowheart"
+  },
+  {
+    "name": "[Metallic Boots (Epilogue)](https://bg3.wiki/wiki/Metallic_Boots_(Epilogue))",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/Item_ARM_Boots_Metal_E_Unfaded.png/30px-Item_ARM_Boots_Metal_E_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "shadowheart"
+  },
+  {
+    "name": "[Selûnite Slippers](https://bg3.wiki/wiki/Sel%C3%BBnite_Slippers)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Generated_ARM_Camp_Shoes_C_Unfaded.png/30px-Generated_ARM_Camp_Shoes_C_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "shadowheart"
+  },
+  {
+    "name": "[Duke's Magnificent Raiments](https://bg3.wiki/wiki/Duke%27s_Magnificent_Raiments)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b3/Camp_Patriars_A_Blue_Unfaded_Icon.webp/30px-Camp_Patriars_A_Blue_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "wyll"
+  },
+  {
+    "name": "[The Blade's Padded Armour](https://bg3.wiki/wiki/The_Blade%27s_Padded_Armour)",
+    "image": "https://bg3.wiki/w/images/thumb/9/97/Padded_Armour_BG_Watch_Unfaded.png/30px-Padded_Armour_BG_Watch_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "wyll"
+  },
+  {
+    "name": "[Duke's Formal Footwear](https://bg3.wiki/wiki/Duke%27s_Formal_Footwear)",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Generated_ARM_Camp_Shoes_Gale_icon.webp/30px-Generated_ARM_Camp_Shoes_Gale_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "wyll"
+  },
+  {
+    "name": "[Well-Cobbled Boots](https://bg3.wiki/wiki/Well-Cobbled_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9c/Shoes_E_Unfaded_Icon.png/30px-Shoes_E_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "wyll"
+  },
+  {
+    "name": "[Grubby Ochre Clothes (Dark Urge)](https://bg3.wiki/wiki/Grubby_Ochre_Clothes_(Dark_Urge))",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Destitute_Clothes_Unfaded_Icon.png/30px-Destitute_Clothes_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "durge"
+  },
+  {
+    "name": "[Brocade Ensemble](https://bg3.wiki/wiki/Brocade_Ensemble)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Camp_Patriars_A_White_Unfaded_Icon.webp/30px-Camp_Patriars_A_White_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Frilly Outfit](https://bg3.wiki/wiki/Frilly_Outfit)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Camp_Rich_A_Red_Unfaded_Icon.webp/30px-Camp_Rich_A_Red_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Glittering Garb](https://bg3.wiki/wiki/Glittering_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Camp_Rich_B_Red_Unfaded_Icon.webp/30px-Camp_Rich_B_Red_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Grubby Ochre Clothes](https://bg3.wiki/wiki/Grubby_Ochre_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/9/92/Homely_Clothes_Unfaded_Icon.png/30px-Homely_Clothes_Unfaded_Icon.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Tasteful Suit](https://bg3.wiki/wiki/Tasteful_Suit)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a9/Camp_Rich_H_Purple_Unfaded_Icon.webp/30px-Camp_Rich_H_Purple_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Basket Shoe](https://bg3.wiki/wiki/Basket_Shoe)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Generated_ARM_Camp_Shoes_C_Unfaded.png/30px-Generated_ARM_Camp_Shoes_C_Unfaded.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Brocade Booties](https://bg3.wiki/wiki/Brocade_Booties)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Generated_ARM_Camp_Shoes_Astarion_icon.webp/30px-Generated_ARM_Camp_Shoes_Astarion_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Glittering Slippers](https://bg3.wiki/wiki/Glittering_Slippers)",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Generated_ARM_Camp_Shoes_Gale_icon.webp/30px-Generated_ARM_Camp_Shoes_Gale_icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Simple Sandals](https://bg3.wiki/wiki/Simple_Sandals)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Camp_Shoes_A_Unfaded_Icon.webp/30px-Camp_Shoes_A_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Tasteful Boots (Epilogue)](https://bg3.wiki/wiki/Tasteful_Boots_(Epilogue))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Camp_Shoes_A_Unfaded_Icon.webp/30px-Camp_Shoes_A_Unfaded_Icon.webp.png",
+    "clothingType": "epilogue",
+    "character": "tav"
+  },
+  {
+    "name": "[Channeler's Trunks](https://bg3.wiki/wiki/Channeler%27s_Trunks)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Underwear_Twitch_B_Unfaded_Icon.png/30px-Underwear_Twitch_B_Unfaded_Icon.png",
+    "clothingType": "twitch"
+  },
+  {
+    "name": "[Chatterbox's Tabard](https://bg3.wiki/wiki/Chatterbox%27s_Tabard)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Chatterbox%27s_Tabard_Unfaded_Icon.png/30px-Chatterbox%27s_Tabard_Unfaded_Icon.png",
+    "clothingType": "twitch"
+  },
+  {
+    "name": "[Periwinkle Undergarments](https://bg3.wiki/wiki/Periwinkle_Undergarments)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Underwear_Twitch_A_Unfaded_Icon.png/30px-Underwear_Twitch_A_Unfaded_Icon.png",
+    "clothingType": "twitch"
+  },
+  {
+    "name": "[Streamhopper Loafers](https://bg3.wiki/wiki/Streamhopper_Loafers)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Streamhopper_Loafers_Unfaded_Icon.png/30px-Streamhopper_Loafers_Unfaded_Icon.png",
+    "clothingType": "twitch"
+  }
+]

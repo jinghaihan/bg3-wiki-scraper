@@ -1,0 +1,1594 @@
+{
+  "Acolyte": [
+    {
+      "location": "Anywhere",
+      "xp": 20,
+      "name": "Fate Must Wait",
+      "description": "Resurrect anyone in your party."
+    },
+    {
+      "location": "[Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)",
+      "xp": 20,
+      "name": "Divinity Undone",
+      "description": "Unlock and read the [Book of Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods).",
+      "chapter": 1
+    },
+    {
+      "location": "[Druids Grove](https://bg3.wiki/wiki/Druids_Grove)",
+      "xp": 25,
+      "name": "Silvanus' Solitude",
+      "description": "Witness the ritual that seals off the [grove](https://bg3.wiki/wiki/Secluded_Grove) from the world.",
+      "chapter": 1
+    },
+    {
+      "location": "[Owlbear Nest](https://bg3.wiki/wiki/Owlbear_Nest)",
+      "xp": 25,
+      "name": "Her Gift of Silver",
+      "description": "Recover [Selûne](https://bg3.wiki/wiki/Deities#Selûne)'s lost treasure through prayer.\nRead the [prayer note](https://bg3.wiki/wiki/Sel%C3%BBnite_Prayer_Sheet) while next to the locked chest.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shattered Sanctum](https://bg3.wiki/wiki/Shattered_Sanctum)",
+      "xp": 25,
+      "name": "A Kiss Without Mercy",
+      "description": "Endure the ritual of Loviatar until [Abdirak](https://bg3.wiki/wiki/Abdirak) is pleased.",
+      "chapter": 1
+    },
+    {
+      "location": "[Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest)",
+      "xp": 30,
+      "name": "A Unified Spirit",
+      "description": "Pray with the Flaming Fists at Waukeen's Rest.\nThe option to do this is only available to [Clerics](https://bg3.wiki/wiki/Cleric) of good-aligned deities and [Paladins](https://bg3.wiki/wiki/Paladin).",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 30,
+      "name": "Last Rites of the Dark Dancer",
+      "description": "Complete [Eilistraee](https://bg3.wiki/wiki/Deities#Eilistraee)'s ritual of sorrow and obtain her [blessed blade](https://bg3.wiki/wiki/Phalar_Aluve).",
+      "chapter": 1
+    },
+    {
+      "location": "[The Festering Cove](https://bg3.wiki/wiki/The_Festering_Cove)",
+      "xp": 30,
+      "name": "Tipping the Scales",
+      "description": "Earn the worship of the [Kuo-toa](https://bg3.wiki/wiki/Kuo-toa).\nAlso granted by convincing [BOOOAL](https://bg3.wiki/wiki/BOOOAL) to let you kill in his name.",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grymforge)",
+      "xp": 50,
+      "name": "Acolytes of the Demonweb Pits",
+      "description": "Persuade the spiders in Grymforge to remain faithful to Lolth.",
+      "chapter": 1
+    },
+    {
+      "location": "[Ruined Battlefield](https://bg3.wiki/wiki/Ruined_Battlefield)",
+      "xp": 50,
+      "name": "No Rest for the Wicked",
+      "description": "Assist [He Who Was](https://bg3.wiki/wiki/He_Who_Was) in his task.",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 50,
+      "name": "Moonweaver's Prayer",
+      "description": "Witness [Isobel](https://bg3.wiki/wiki/Isobel_Thorm)'s ritual to keep up the protection of Last Light.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "Blessed's Final Rest",
+      "description": "Find the [aasimar's journal](https://bg3.wiki/wiki/Olam%27s_Journal).",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "In Her Footsteps",
+      "description": "Solve each of Shar's trials in the Gauntlet of Shar.",
+      "chapter": 2
+    },
+    {
+      "location": "[Shadowfell](https://bg3.wiki/wiki/Shadowfell)",
+      "xp": 75,
+      "name": "Cerimonia Alārum",
+      "description": "Release the [Nightsong](https://bg3.wiki/wiki/Find_the_Nightsong).",
+      "chapter": 2
+    },
+    {
+      "location": "[Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony)",
+      "xp": 60,
+      "name": "A Piece of Three",
+      "description": "Piece together Ketheric's allegiances.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Needs of the Many",
+      "description": "Persuade the [merchant](https://bg3.wiki/wiki/Arfur_Gregorio) to let the refugee squatters stay in his home.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 135,
+      "name": "Carnal Rituals of Sharess",
+      "description": "Take part in the... erm... negotiable affection provided in [Sharess' Caress](https://bg3.wiki/wiki/Sharess%27_Caress).",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 170,
+      "name": "Shaking Bane's Hand",
+      "description": "Agree to an alliance with [Gortash](https://bg3.wiki/wiki/Gortash).",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 170,
+      "name": "Ordinary Practises in Extraordinary Times",
+      "description": "Offer appropriate offerings to a deity in the [Stormshore Tabernacle](https://bg3.wiki/wiki/Stormshore_Tabernacle).\nThe offering is the same amount as needed to get a merchant to 100 Attitude as seen [here](https://bg3.wiki/wiki/Trading_and_item_pricing#Trader_attitude).",
+      "chapter": 3
+    },
+    {
+      "location": "[Murder Tribunal](https://bg3.wiki/wiki/Murder_Tribunal)",
+      "xp": 220,
+      "name": "Liturgy of Blood",
+      "description": "Embrace Bhaal and complete the [Murder Tribunal](https://bg3.wiki/wiki/Impress_the_Murder_Tribunal).",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City Sewers](https://bg3.wiki/wiki/Lower_City_Sewers)",
+      "xp": 170,
+      "name": "Grinning with Bhaal",
+      "description": "Agree to an alliance with [Orin](https://bg3.wiki/wiki/Orin).",
+      "chapter": 3
+    }
+  ],
+  "Charlatan": [
+    {
+      "location": "[Overgrown Ruins](https://bg3.wiki/wiki/Overgrown_Ruins)",
+      "xp": 20,
+      "name": "Cheese Your Way Through",
+      "description": "Talk your way past the bandits and enter the [chapel](https://bg3.wiki/wiki/Chapel_Entrance).",
+      "chapter": 1
+    },
+    {
+      "location": "[Ravaged Beach](https://bg3.wiki/wiki/Ravaged_Beach)",
+      "xp": 20,
+      "name": "Flexible Diplomacy",
+      "description": "Betray the tieflings after convincing them to free [Lae'zel](https://bg3.wiki/wiki/Lae%27zel).",
+      "chapter": 1
+    },
+    {
+      "location": "[Blighted Village](https://bg3.wiki/wiki/Blighted_Village)",
+      "xp": 25,
+      "name": "Just Passing Through",
+      "description": "Trick the goblins in Moonhaven.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Very Important Parasite",
+      "description": "Deceive any of the guards in the goblin camp.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shattered Sanctum](https://bg3.wiki/wiki/Shattered_Sanctum)",
+      "xp": 25,
+      "name": "Devil's Advocate",
+      "description": "Interrogate the [dead mind flayer](https://bg3.wiki/wiki/Shattered_Sanctum#Ragzlin's_throne) without drawing suspicion.",
+      "chapter": 1
+    },
+    {
+      "location": "[Mountain Pass](https://bg3.wiki/wiki/Mountain_Pass)",
+      "xp": 30,
+      "name": "Silver Blades, Silver Tongue",
+      "description": "Convince [Kith'rak Voss](https://bg3.wiki/wiki/Kith%27rak_Voss) to leave without violence.",
+      "chapter": 1
+    },
+    {
+      "location": "[Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest)",
+      "xp": 30,
+      "name": "The Importance of Networking",
+      "description": "Talk your way into the [Zhentarim hideout](https://bg3.wiki/wiki/Zhentarim_Basement).",
+      "chapter": 1
+    },
+    {
+      "location": "[Riverside Teahouse](https://bg3.wiki/wiki/Riverside_Teahouse)",
+      "xp": 30,
+      "name": "One of Us",
+      "description": "Use the [hag's mask](https://bg3.wiki/wiki/Whispering_Mask) to peacefully bypass her thralls.",
+      "chapter": 1
+    },
+    {
+      "location": "[Ebonlake Grotto](https://bg3.wiki/wiki/Ebonlake_Grotto)",
+      "xp": 30,
+      "name": "Warmonger",
+      "description": "Cause [Glut](https://bg3.wiki/wiki/Glut) to stage a coup - then pick a side.",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grymforge)",
+      "xp": 50,
+      "name": "A Friend to All",
+      "description": "Gain access to Grymforge peacefully by lying to the [raft patrol](https://bg3.wiki/wiki/Greymon).",
+      "chapter": 1
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 50,
+      "name": "Not My First Time",
+      "description": "Resist the truth serum when talking to [Jaheira](https://bg3.wiki/wiki/Jaheira). (Suggestion: Inspiration isn't triggering anymore?)",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Clear Conscience",
+      "description": "Successfully lie to [Z'rell](https://bg3.wiki/wiki/Z%27rell) about the fate of the goblins.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers Prison](https://bg3.wiki/wiki/Moonrise_Towers_Prison)",
+      "xp": 50,
+      "name": "Not to Worry, I Have a Permit",
+      "description": "Evade repercussions when speaking to the Moonrise prisoners.\nCan be achieved by persuading the guards to let the party talk to the prisoners, by talking to the prisoners unobserved, or by killing all the guards and then talking to a prisoner.",
+      "chapter": 2
+    },
+    {
+      "location": "[Act Two Campsite](https://bg3.wiki/wiki/Campsite#Act_Two)",
+      "xp": 60,
+      "name": "Little White Lies",
+      "description": "Lie to [Arabella](https://bg3.wiki/wiki/Arabella) about the [fate of her parents](https://bg3.wiki/wiki/Find_Arabella%27s_Parents).",
+      "chapter": 2
+    },
+    {
+      "location": "[The Waning Moon](https://bg3.wiki/wiki/The_Waning_Moon)",
+      "xp": 60,
+      "name": "Tricks of the Trade",
+      "description": "Successfully pretend to drink from the steins of ale.\nDuring dialog with [Thisobald Thorm](https://bg3.wiki/wiki/Thisobald_Thorm), pass both [Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) checks to feign drinking.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Tollhouse](https://bg3.wiki/wiki/Reithwin_Tollhouse)",
+      "xp": 60,
+      "name": "Takes One to Know One",
+      "description": "Expose the true form of the [toll collector](https://bg3.wiki/wiki/Gerringothe_Thorm) by removing all her gold armour.\nThis requires killing all her Visages in combat.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "The Devil's in the Details",
+      "description": "Expose a half-truth in the [orthon's contract](https://bg3.wiki/wiki/Break_Yurgir%27s_Contract) with Raphael.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers) or [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 75,
+      "name": "Morally Grey",
+      "description": "Betray the trust of Moonrise or Lastlight.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Stuffed Bears in the Closet",
+      "description": "Blackmail the [merchant](https://bg3.wiki/wiki/Arfur_Gregorio).",
+      "chapter": 3
+    },
+    {
+      "location": "[Circus of the Last Days](https://bg3.wiki/wiki/Circus_of_the_Last_Days)",
+      "xp": 135,
+      "name": "Cheating the Cheater",
+      "description": "Find the source of the genie's trick and take it.\nPickpocket the [Djinni Ring](https://bg3.wiki/wiki/Djinni_Ring) from [Akabi](https://bg3.wiki/wiki/Akabi) and then win the jackpot.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 170,
+      "name": "Rock-Solid Alibi",
+      "description": "Manage to convince the Flaming Fist to let you into Wyrm's Rock.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 135,
+      "name": "Nothing's Not for Sale",
+      "description": "Convince the [Flaming Fist quartermaster](https://bg3.wiki/wiki/Arkleia_Oloril) to trade with you.",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 170,
+      "name": "Friends in Low Places",
+      "description": "Gain access to the [Undercellar](https://bg3.wiki/wiki/Guildhall) through [Tusgront](https://bg3.wiki/wiki/Tusgront).",
+      "chapter": 3
+    },
+    {
+      "location": "[Felogyr's Fireworks](https://bg3.wiki/wiki/Felogyr%27s_Fireworks)",
+      "xp": 170,
+      "name": "Silver-Tongue's Better Than Any Key",
+      "description": "Gain access to Avery's workshop.\nThe workshop is on the upper floors of Felogyr's Fireworks. You can either sneak in or gain access with the password obtained during [Investigate the Suspicious Toys](https://bg3.wiki/wiki/Investigate_the_Suspicious_Toys).",
+      "chapter": 3
+    },
+    {
+      "location": "[Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion)",
+      "xp": 220,
+      "name": "Always Trust a Dishonest Person",
+      "description": "Betray a recently forged alliance.\nMutually exclusive with Inspirations with the same name in Act 3. To unlock this Inspiration enter combat against [Mystic Carrion](https://bg3.wiki/wiki/Mystic_Carrion) after obtaining the quest [Find Mystic Carrion's Servant](https://bg3.wiki/wiki/Find_Mystic_Carrion%27s_Servant). The Inspiration is still be rewarded even after the aforementioned quest is completed in favor of Mystic Carrion. The only prerequisite is for the party to engage in hostilities by attacking Mystic Carrion directly, it does not work if the undead is already hostile (eg. by destroying its [heart](https://bg3.wiki/wiki/Jar_of_Mystic_Carrion%27s_Heart)).",
+      "chapter": 3
+    },
+    {
+      "location": "[Baldur's Mouth](https://bg3.wiki/wiki/Baldur%27s_Mouth)",
+      "xp": 170,
+      "name": "The News of My Deeds Was Greatly Exaggerated",
+      "description": "Rig the Baldur's Mouth printing press.\nComplete the quest [Stop the Presses](https://bg3.wiki/wiki/Stop_the_Presses).",
+      "chapter": 3
+    },
+    {
+      "location": "[Graveyard (Lower City)](https://bg3.wiki/wiki/Graveyard_(Lower_City))",
+      "xp": 170,
+      "name": "Grave Prospector",
+      "description": "Retrieve the grave's gold from [Bugthimble](https://bg3.wiki/wiki/Bugthimble).",
+      "chapter": 3
+    },
+    {
+      "location": "[Elfsong Tavern](https://bg3.wiki/wiki/Elfsong_Tavern)",
+      "xp": 170,
+      "name": "Perks of the Trade",
+      "description": "Obtain a rebate for your room at the Elfsong Tavern.",
+      "chapter": 3
+    },
+    {
+      "location": "[Guildhall](https://bg3.wiki/wiki/Guildhall)",
+      "xp": 220,
+      "name": "Woman of Her Word",
+      "description": "Side with the [Nine-Fingers](https://bg3.wiki/wiki/Nine-Fingers) against the [Zhentarim](https://bg3.wiki/wiki/Zhentarim).\nAt the conclusion of [Aid the Underduke](https://bg3.wiki/wiki/Aid_the_Underduke), support Nine-Fingers.",
+      "chapter": 3
+    },
+    {
+      "location": "[Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower)",
+      "xp": 220,
+      "name": "Always Trust a Dishonest Person",
+      "description": "Betray a recently forged alliance.\nMutually exclusive with Inspirations with the same name in Act 3. Betray [Nightsong](https://bg3.wiki/wiki/Aylin) to [Lorroakan](https://bg3.wiki/wiki/Lorroakan).",
+      "chapter": 3
+    },
+    {
+      "location": "[Bhaal Temple](https://bg3.wiki/wiki/Bhaal_Temple)",
+      "xp": 220,
+      "name": "Always Trust a Dishonest Person",
+      "description": "Betray a recently forged alliance.\nMutually exclusive with Inspirations with the same name in Act 3. Face [Orin](https://bg3.wiki/wiki/Orin) in the Bhaal Temple without killing Gortash after telling Orin that you would.",
+      "chapter": 3
+    },
+    {
+      "location": "[Astral Plane](https://bg3.wiki/wiki/Astral_Plane)",
+      "xp": 220,
+      "name": "Always Trust a Dishonest Person",
+      "description": "Betray a recently forged alliance.\nMutually exclusive with Inspirations with the same name in Act 3. Refuse [The Emperor](https://bg3.wiki/wiki/The_Emperor) and release [Orpheus](https://bg3.wiki/wiki/Orpheus).",
+      "chapter": 3
+    }
+  ],
+  "Criminal": [
+    {
+      "location": "Anywhere",
+      "xp": 25,
+      "name": "A Fine Fortune",
+      "description": "Steal an item worth at least 1000 gold."
+    },
+    {
+      "location": "[Druids Grove](https://bg3.wiki/wiki/Druids_Grove)",
+      "xp": 20,
+      "name": "Heretic",
+      "description": "Steal the [Idol of Silvanus](https://bg3.wiki/wiki/Idol_of_Silvanus).",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Culling the Crowd",
+      "description": "Use poison to kill the drunk goblins in camp.",
+      "chapter": 1
+    },
+    {
+      "location": "[The Risen Road](https://bg3.wiki/wiki/The_Risen_Road)",
+      "xp": 30,
+      "name": "Friend of the Family",
+      "description": "Become an ally of the [Zhentarim](https://bg3.wiki/wiki/Zhentarim).",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 30,
+      "name": "Swiftly Stolen",
+      "description": "Obtain [Thulla](https://bg3.wiki/wiki/Thulla)'s [magical boots](https://bg3.wiki/wiki/Boots_of_Speed) through underhanded means.",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grymforge)",
+      "xp": 25,
+      "name": "A Fine Fortune",
+      "description": "Steal Runepowder Barrel from [Philomeen](https://bg3.wiki/wiki/Philomeen) before conversation.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Shiny Trinkets and Baubles",
+      "description": "Take [the drider's](https://bg3.wiki/wiki/Kar%27niss) Moonlantern.\nMust be done via Deception checks during the convoy ambush, or by disarming him and picking it up mid-combat; not just killing him and looting the lantern.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "A Dark Edge",
+      "description": "Take Shar's [dagger](https://bg3.wiki/wiki/Ritual_Dagger_of_Shar) from the ritual pedestal.\nThe pedestal is found in the [Sharran Sanctuary](https://bg3.wiki/wiki/Sharran_Sanctuary), and taking the dagger will spawn several enemies.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 60,
+      "name": "An Absolute Douceur",
+      "description": "Accept the Absolute's promise of gifts.\nCan be triggered by cooperating with [Marcus](https://bg3.wiki/wiki/Marcus_Falgor) to abduct [Isobel](https://bg3.wiki/wiki/Isobel_Thorm) from [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn).",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers Prison](https://bg3.wiki/wiki/Moonrise_Towers_Prison)",
+      "xp": 60,
+      "name": "Always a Way Out",
+      "description": "Help the [Moonrise prisoners](https://bg3.wiki/wiki/Rescue_the_Tieflings) escape.",
+      "chapter": 2
+    },
+    {
+      "location": "[Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony)",
+      "xp": 95,
+      "name": "Body Heist",
+      "description": "Open and loot the [mind flayer colony's vault](https://bg3.wiki/wiki/Mind_Flayer_Colony#Necrotic_Laboratory).",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "Fickle Allegiances",
+      "description": "Betray [Balthazar](https://bg3.wiki/wiki/Balthazar) after learning that Nightsong is not a simple relic.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Supply and Demand",
+      "description": "Offer to kick the squatters out for a lower fee than the Rivington Rats.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 170,
+      "name": "Wrongly Convicted",
+      "description": "Break Counsellor Florrick out of Wyrm's Rock.",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 135,
+      "name": "Saving It From Collecting Dust",
+      "description": "Steal an offering to the gods.",
+      "chapter": 3
+    },
+    {
+      "location": "[House of Hope](https://bg3.wiki/wiki/House_of_Hope)",
+      "xp": 220,
+      "name": "Interplanar Cat Burglar",
+      "description": "Burgle and escape the [House of Hope](https://bg3.wiki/wiki/House_of_Hope).",
+      "chapter": 3
+    }
+  ],
+  "Entertainer": [
+    {
+      "location": "[Druids Grove](https://bg3.wiki/wiki/Druids_Grove)",
+      "xp": 20,
+      "name": "A Bard's Muse",
+      "description": "Inspire [Alfira](https://bg3.wiki/wiki/Alfira) the bard.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Chicken Chase Extraordinaire",
+      "description": "Win a match of chicken chase.\nCan be won fairly, using [Command: Approach](https://bg3.wiki/wiki/Command:_Approach), or with [Speak with Animals](https://bg3.wiki/wiki/Speak_with_Animals) using persuasion to guide the creature to the post.",
+      "chapter": 1
+    },
+    {
+      "location": "[Campsite](https://bg3.wiki/wiki/Campsite)",
+      "xp": 25,
+      "name": "Celebrant",
+      "description": "Enjoy a dance in camp with the [tieflings](https://bg3.wiki/wiki/Rescue_the_Druid_Halsin#Claiming_the_Rewards).\nDance with [Zae](https://bg3.wiki/wiki/Zae), a Tiefling who only appears if [Lakrissa](https://bg3.wiki/wiki/Lakrissa) has been killed or knocked out.",
+      "chapter": 1
+    },
+    {
+      "location": "[Zhentarim Basement](https://bg3.wiki/wiki/Zhentarim_Basement)",
+      "xp": 30,
+      "name": "The Price of Ink",
+      "description": "Free [Oskar](https://bg3.wiki/wiki/Oskar) the painter from the Zhentarim.",
+      "chapter": 1
+    },
+    {
+      "location": "[Arcane Tower](https://bg3.wiki/wiki/Arcane_Tower)",
+      "xp": 30,
+      "name": "Heart of the Creator",
+      "description": "Perform in a play with [Bernard](https://bg3.wiki/wiki/Bernard) the automaton.\nChoose any of the dialogue options granted by reading the various books throughout the [Arcane Tower](https://bg3.wiki/wiki/Arcane_Tower).",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Plucking the Lyre's Web",
+      "description": "Play the [Spider's Lyre](https://bg3.wiki/wiki/Spider%27s_Lyre) to attract the drider.",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 50,
+      "name": "Living Legend",
+      "description": "Accept [Jaheira](https://bg3.wiki/wiki/Jaheira)'s invitation to talk.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "A Story You Won't Believe",
+      "description": "Pass all [Performance](https://bg3.wiki/wiki/Performance) [checks](https://bg3.wiki/wiki/Ability_check) when telling a tall tale to [the brewer](https://bg3.wiki/wiki/Thisobald_Thorm).",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Danse Macabre",
+      "description": "Make the [gnolls](https://bg3.wiki/wiki/%27Barnabus%27) stay under the influence of [their master](https://bg3.wiki/wiki/Linsella).",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "Catchy Tune",
+      "description": "Hear the [orthon](https://bg3.wiki/wiki/Yurgir)'s contract.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Blabbermouth",
+      "description": "Complete [Lens](https://bg3.wiki/wiki/Lens)' interview.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 170,
+      "name": "Giving a Private Performance",
+      "description": "Receive a service at Sharess' Caress.\nAccept a free drink from [Hoots Hooligan](https://bg3.wiki/wiki/Hoots_Hooligan)\nExperience 'rapture' from [Naoise Nallinto](https://bg3.wiki/wiki/Naoise_Nallinto)\nHire either [Nym Orlith](https://bg3.wiki/wiki/Nym_Orlith) or [Sorn Orlith](https://bg3.wiki/wiki/Sorn_Orlith) or both",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 170,
+      "name": "Personal Invitation",
+      "description": "Witness [Gortash](https://bg3.wiki/wiki/Gortash)'s coronation.",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 135,
+      "name": "At Least They Didn't Throw Overripe Bananas...",
+      "description": "Lose the comedy contest in the [Elfsong Tavern](https://bg3.wiki/wiki/Elfsong_Tavern).",
+      "chapter": 3
+    }
+  ],
+  "Folk Hero": [
+    {
+      "location": "[Druid Grove](https://bg3.wiki/wiki/Druid_Grove)",
+      "xp": 20,
+      "name": "A Timely Rescue",
+      "description": "Save [Findal](https://bg3.wiki/wiki/Findal) from the goblins who kidnapped him.",
+      "chapter": 1
+    },
+    {
+      "location": "[Blighted Village](https://bg3.wiki/wiki/Blighted_Village)",
+      "xp": 25,
+      "name": "The Most Unfortunate Gnome",
+      "description": "Rescue [the gnome](https://bg3.wiki/wiki/Barcus_Wroot) from his fate at the windmill.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Fate Worse Than Death",
+      "description": "Save [Liam](https://bg3.wiki/wiki/Liam) from his goblin torturers.",
+      "chapter": 1
+    },
+    {
+      "location": "[Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest)",
+      "xp": 30,
+      "name": "Rescued from the Flames",
+      "description": "Save whoever you can from [Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest).\nDespite the description, saving either [Florrick](https://bg3.wiki/wiki/Florrick) or [Benryn](https://bg3.wiki/wiki/Benryn) grants it, even if the other one is still alive and blocked inside.",
+      "chapter": 1
+    },
+    {
+      "location": "[Riverside Teahouse](https://bg3.wiki/wiki/Riverside_Teahouse)",
+      "xp": 30,
+      "name": "Unmasking the Truth",
+      "description": "Free the [Mask of Regret](https://bg3.wiki/wiki/Mask_of_Regret_(Overgrown_Tunnel)), one of the Hag's masked thralls",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 30,
+      "name": "A Lethal Endeavour",
+      "description": "Escort [Baelen](https://bg3.wiki/wiki/Baelen) out of the field of bibberbangs.",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grimforge)",
+      "xp": 30,
+      "name": "Breaker of Chains",
+      "description": "Save the deep gnomes from [Nere](https://bg3.wiki/wiki/Nere) and the duergar.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Not Another Soul",
+      "description": "Keep all Harpers alive during the ambush with the Shadows.",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 50,
+      "name": "A Smile Better Suits...",
+      "description": "Offer a hopeful response to [Alfira](https://bg3.wiki/wiki/Alfira)'s inquiry.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 50,
+      "name": "Saving the Prodigious",
+      "description": "Save [Rolan](https://bg3.wiki/wiki/Rolan) from the Shadow-Cursed Lands.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "No Strings to Hold Them Back",
+      "description": "Release the [gnolls](https://bg3.wiki/wiki/Barnabus) from their enslavement.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers Prison](https://bg3.wiki/wiki/Moonrise_Towers_Prison)",
+      "xp": 60,
+      "name": "Breakout!",
+      "description": "Break out and save all of the [Moonrise](https://bg3.wiki/wiki/Moonrise_Towers) prisoners.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "Damsel No More",
+      "description": "Free [Nightsong](https://bg3.wiki/wiki/Aylin).",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Securing Hospitality",
+      "description": "Save the squatters from being kicked out.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Prison](https://bg3.wiki/wiki/Wyrm%27s_Rock_Prison)",
+      "xp": 170,
+      "name": "Diplomatic Rescue",
+      "description": "[Save Counsellor Florrick](https://bg3.wiki/wiki/Free_Counsellor_Florrick) from Wyrm's Rock.",
+      "chapter": 3
+    },
+    {
+      "location": "[The Wyrmway](https://bg3.wiki/wiki/The_Wyrmway)",
+      "xp": 170,
+      "name": "Wyrmslayers",
+      "description": "Challenge and defeat [Ansur](https://bg3.wiki/wiki/Ansur), the not-so-immortal sentinel of Wyrm's Crossing.",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 170,
+      "name": "Painted Hero",
+      "description": "Obtain your portrait from [Oskar](https://bg3.wiki/wiki/Free_the_Artist).",
+      "chapter": 3
+    },
+    {
+      "location": "[Iron Throne](https://bg3.wiki/wiki/Iron_Throne)",
+      "xp": 220,
+      "name": "Against All Odds",
+      "description": "Rescue all thirteen captured Gondians' family members before the turn limit expires.",
+      "chapter": 3
+    },
+    {
+      "location": "[House of Hope](https://bg3.wiki/wiki/House_of_Hope)",
+      "xp": 220,
+      "name": "Freeing the Preyed",
+      "description": "Free [Hope](https://bg3.wiki/wiki/Hope) from captivity.",
+      "chapter": 3
+    },
+    {
+      "location": "[Murder Tribunal](https://bg3.wiki/wiki/Murder_Tribunal)",
+      "xp": 220,
+      "name": "End of the Tribunal",
+      "description": "Save [Valeria](https://bg3.wiki/wiki/Valeria) and end the Murder Tribunal.",
+      "chapter": 3
+    }
+  ],
+  "Guild Artisan": [
+    {
+      "location": "Anywhere",
+      "xp": 20,
+      "name": "Valued Customer",
+      "description": "Trade with someone who has High approval of you."
+    },
+    {
+      "location": "[Forest](https://bg3.wiki/wiki/Forest)",
+      "xp": 25,
+      "name": "A New Vision",
+      "description": "Reforge the [broken spear](https://bg3.wiki/wiki/Vision_of_the_Absolute).",
+      "chapter": 1
+    },
+    {
+      "location": "[Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest)",
+      "xp": 30,
+      "name": "The Spider's Gift",
+      "description": "Identify the [drow armour](https://bg3.wiki/wiki/Faded_Drow_Leather_Armour) near [Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest).\nThis requires the armour to be picked up with a Drow, Duergar, Deep Gnome, or any character with +5 to [History](https://bg3.wiki/wiki/History) or higher in the party.",
+      "chapter": 1
+    },
+    {
+      "location": "[Zhentarim Basement](https://bg3.wiki/wiki/Zhentarim_Basement)",
+      "xp": 30,
+      "name": "An Artist in Need",
+      "description": "Rescue [Oskar](https://bg3.wiki/wiki/Oskar) the painter from the [Zhentarim](https://bg3.wiki/wiki/Zhentarim).",
+      "chapter": 1
+    },
+    {
+      "location": "[Riverside Teahouse](https://bg3.wiki/wiki/Riverside_Teahouse)",
+      "xp": 30,
+      "name": "An Acquired Taste",
+      "description": "Drink one of [Ethel's](https://bg3.wiki/wiki/Auntie_Ethel) unique potions.\n[Heart of Stone](https://bg3.wiki/wiki/Heart_of_Stone) or [A Mother's Loathing](https://bg3.wiki/wiki/A_Mother%27s_Loathing) are recommended, as the others have negative effects.",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 30,
+      "name": "Mind Over Mushrooms",
+      "description": "Gather ingredients for [Omeluum's](https://bg3.wiki/wiki/Omeluum) potion.",
+      "chapter": 1
+    },
+    {
+      "location": "[Arcane Tower](https://bg3.wiki/wiki/Arcane_Tower)",
+      "xp": 30,
+      "name": "Regeneration",
+      "description": "Restore power to the elevator in the [Arcane Tower](https://bg3.wiki/wiki/Arcane_Tower).",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grymforge)",
+      "xp": 30,
+      "name": "Art Endures",
+      "description": "Craft something in the Adamantine Forge.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Trust and a Little Pixie Dust",
+      "description": "Investigate the Moonlantern and find its power source.",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 60,
+      "name": "Hellish Armaments",
+      "description": "Obtain a piece of infernal equipment from [Dammon](https://bg3.wiki/wiki/Dammon).",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "Confiscated Works",
+      "description": "Acquire a [magical item](https://bg3.wiki/wiki/Fireheart) from the [toll collector's](https://bg3.wiki/wiki/Reithwin_Tollhouse) confiscation chest.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Blood, Sweat, and the Other Thing",
+      "description": "Give your blood to [Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra).",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers Prison](https://bg3.wiki/wiki/Moonrise_Towers_Prison)",
+      "xp": 50,
+      "name": "Simple Tools, Great Works",
+      "description": "Return [Wulbren's](https://bg3.wiki/wiki/Wulbren_Bongle) tools to him.\nThis doesn't need to be his hammer that was confiscated; any bludgeoning weapon, including the club that Wulbren can pick up on the docks, will award this Inspiration.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 60,
+      "name": "Mating Season",
+      "description": "Discover the source of the [displacer beast's](https://bg3.wiki/wiki/Nessa) infatuation.\nInvestigate the spider carcass near [Yurgir](https://bg3.wiki/wiki/Yurgir).",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Immoral Ingenuity",
+      "description": "Discover the booby-trapped toys.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 170,
+      "name": "Alternative Vocations",
+      "description": "Partake in a service from [Sharess' Caress](https://bg3.wiki/wiki/Sharess%27_Caress):\nAccept a free drink from [Hoots Hooligan](https://bg3.wiki/wiki/Hoots_Hooligan)\nExperience 'rapture' from [Naoise Nallinto](https://bg3.wiki/wiki/Naoise_Nallinto)\nHire either [Nym Orlith](https://bg3.wiki/wiki/Nym_Orlith) or [Sorn Orlith](https://bg3.wiki/wiki/Sorn_Orlith) or both",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 135,
+      "name": "Extravagance Required",
+      "description": "Acquire an exquisite new outfit from Figaro's.",
+      "chapter": 3
+    }
+  ],
+  "Haunted One": [
+    {
+      "location": "Anywhere",
+      "xp": 25,
+      "name": "Indulge Thine Appetites",
+      "description": "Follow your Dark Urge.\nThere are many different opportunities to get this one, generally by choosing dialogue options related to giving in to the urges, but only the first time you do this will actually grant inspiration.\nInteraction catalysts include: Rescuing Gale, Timber, Arabella, Wounded Bird, Okta, Remira, Pandirna, Zevlor, Lady Esther, Blood of Lathander, and the Strange Ox in Act 2, among others."
+    },
+    {
+      "location": "[Dank Crypt](https://bg3.wiki/wiki/Overgrown_Ruins#Dank_Crypt)",
+      "xp": 20,
+      "name": "Unfamiliar Familiarity",
+      "description": "Release [Withers](https://bg3.wiki/wiki/Withers) from his tomb.",
+      "chapter": 1
+    },
+    {
+      "location": "[Roadside Cliffs](https://bg3.wiki/wiki/Wilderness#Roadside_Cliffs)",
+      "xp": 20,
+      "name": "To Sleep, Perchance To Dream Tentacled Dreams",
+      "description": "Close the pinned mind flayer's eyes forever.",
+      "chapter": 1
+    },
+    {
+      "location": "[Druids Grove](https://bg3.wiki/wiki/Druids_Grove)",
+      "xp": 50,
+      "name": "Camaraderie in Bloodthirst",
+      "description": "[Spill the blood](https://bg3.wiki/wiki/Raid_the_Emerald_Grove) of the tieflings.",
+      "chapter": 1
+    },
+    {
+      "location": "[Blighted Village](https://bg3.wiki/wiki/Blighted_Village)",
+      "xp": 25,
+      "name": "Creatures of Bloodlust",
+      "description": "Recruit the [ogre mercenaries](https://bg3.wiki/wiki/Lump_the_Enlightened), using the corpses of your enemies as payment.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Good Ol' Long Pig",
+      "description": "Eat a chunk of the cooked dwarf.",
+      "chapter": 1
+    },
+    {
+      "location": "[Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest)",
+      "xp": 30,
+      "name": "Fresh Kindle for the Fire",
+      "description": "Leave the pinned [Benryn](https://bg3.wiki/wiki/Benryn) to burn.",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 50,
+      "name": "New Management",
+      "description": "Kill the [Myconid Sovereign](https://bg3.wiki/wiki/Spaw) for [Glut](https://bg3.wiki/wiki/Glut).",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grymforge)",
+      "xp": 50,
+      "name": "Head of the Snake",
+      "description": "Take [Nere's](https://bg3.wiki/wiki/Nere) [head](https://bg3.wiki/wiki/Nere%27s_Head).",
+      "chapter": 1
+    },
+    {
+      "location": "[Campsite](https://bg3.wiki/wiki/Campsite)",
+      "xp": 25,
+      "name": "Snipping the Chords",
+      "description": "Kill [Alfira](https://bg3.wiki/wiki/Alfira) in cold blood.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Fly-Swatter",
+      "description": "Kill the [trickster pixie](https://bg3.wiki/wiki/Dolly_Dolly_Dolly).\nThis can also be triggered by arriving to Moonrise Towers with Kar'niss' convoy.",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 75,
+      "name": "Forced Retirement",
+      "description": "End [Jaheira](https://bg3.wiki/wiki/Jaheira)'s career permanently.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "Lack of Moderation is Key",
+      "description": "Kill the [brewer](https://bg3.wiki/wiki/Thisobald_Thorm) with his own brew.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Too Easy",
+      "description": "Execute the useless goblins.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers Prison](https://bg3.wiki/wiki/Moonrise_Towers_Prison)",
+      "xp": 60,
+      "name": "Soulful Lobotomy",
+      "description": "[Torture Minthara](https://bg3.wiki/wiki/Decide_Minthara%27s_Fate), reducing her to a husk of her former self.\nRequires erasing Minthara's mind yourself; letting the Inquisitors do it does not grant Inspiration.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "Bleeding the Corpse Dry",
+      "description": "Kill the [necromancer](https://bg3.wiki/wiki/Balthazar).",
+      "chapter": 2
+    },
+    {
+      "location": "[Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony)",
+      "xp": 95,
+      "name": "Lesser of the Three",
+      "description": "Kill the envoy of Myrkul.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Personal Relations",
+      "description": "Meet one of [Orin](https://bg3.wiki/wiki/Orin)'s impersonations.",
+      "chapter": 3
+    },
+    {
+      "location": "[Western Beach](https://bg3.wiki/wiki/Western_Beach)",
+      "xp": 170,
+      "name": "Cleaning Up The Scum",
+      "description": "Kill both of the opposing smuggling factions.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 135,
+      "name": "Exsanguinated Ecstacy",
+      "description": "Accept [Naoise's](https://bg3.wiki/wiki/Naoise) lewd proposition.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 220,
+      "name": "Shattering the Black Hand",
+      "description": "Kill the [would-be Tyrant](https://bg3.wiki/wiki/Enver_Gortash).",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 170,
+      "name": "Weak Gifts for Weak Beings",
+      "description": "Take the [measly offerings](https://bg3.wiki/wiki/Stormshore_Tabernacle) to the gods for yourself.",
+      "chapter": 3
+    },
+    {
+      "location": "[Murder Tribunal](https://bg3.wiki/wiki/Murder_Tribunal)",
+      "xp": 220,
+      "name": "A Step Too Far",
+      "description": "Save [Valeria](https://bg3.wiki/wiki/Valeria), rejecting [Bhaal's gifts](https://bg3.wiki/wiki/Investigate_the_Murders#Infiltrate_the_Murder_Tribunal).",
+      "chapter": 3
+    },
+    {
+      "location": "[Bhaal Temple](https://bg3.wiki/wiki/Bhaal_Temple)",
+      "xp": 220,
+      "name": "Homecoming",
+      "description": "Discover the Temple of Bhaal beneath Baldur's Gate.",
+      "chapter": 3
+    }
+  ],
+  "Noble": [
+    {
+      "location": "Anywhere",
+      "xp": 25,
+      "name": "Dragon's Hoard",
+      "description": "Have at least 2000 gold among the party."
+    },
+    {
+      "location": "[Campsite](https://bg3.wiki/wiki/Campsite)",
+      "xp": 20,
+      "name": "Lest Ye Be Judged",
+      "description": "Learn [Astarion](https://bg3.wiki/wiki/Astarion)'s history as a magistrate. This only works if doing it as player character, and it does not work with mercenaries.",
+      "chapter": 1
+    },
+    {
+      "location": "[Blighted Village](https://bg3.wiki/wiki/Blighted_Village)",
+      "xp": 25,
+      "name": "Bodyguards for Hire",
+      "description": "Recruit the [ogres](https://bg3.wiki/wiki/Lump_the_Enlightened) to protect you.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "A Man of Many Talents",
+      "description": "Expand your retinue by bringing [Volo](https://bg3.wiki/wiki/Volo) to camp.",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 25,
+      "name": "Entitled",
+      "description": "Earn a title from your deeds.\nCan be awarded from completing:\n[Defeat the Duergar Intruders](https://bg3.wiki/wiki/Defeat_the_Duergar_Intruders) for [Sovereign Spaw](https://bg3.wiki/wiki/Spaw).\n[Investigate Kagha](https://bg3.wiki/wiki/Investigate_Kagha) while persuading Kagha to abandon the [Shadow Druids](https://bg3.wiki/wiki/Shadow_Druids).",
+      "chapter": 1
+    },
+    {
+      "location": "[Waukeen's Rest](https://bg3.wiki/wiki/Waukeen%27s_Rest)",
+      "xp": 30,
+      "name": "Protector of the Duke",
+      "description": "Rescue [Counsellor Florrick](https://bg3.wiki/wiki/Counsellor_Florrick) from the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest).",
+      "chapter": 1
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 50,
+      "name": "Noble Feline",
+      "description": "Speak with the [lordly cat](https://bg3.wiki/wiki/His_Majesty) at Last Light.",
+      "chapter": 2
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Odd Entourage",
+      "description": "Complete the drider escort to Moonrise",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 50,
+      "name": "Taxes? Never Heard of 'Em",
+      "description": "Don't give any gold to the [toll collector](https://bg3.wiki/wiki/Gerringothe_Thorm).",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "A Velvet Glove",
+      "description": "Spare the goblins.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 60,
+      "name": "Meat Shield",
+      "description": "Obtain Balthazar's bell and summon his flesh golem.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 125,
+      "name": "Alms for the Unfortunate",
+      "description": "[Donate something](https://bg3.wiki/wiki/Nestor) to the refugees.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 170,
+      "name": "Procedures be Damned",
+      "description": "Enter [Wyrm's Rock](https://bg3.wiki/wiki/Wyrm%27s_Rock) without a pass.",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 135,
+      "name": "Updating Your Wardrobe",
+      "description": "Obtain a sumptuous new garment from [Figaro's](https://bg3.wiki/wiki/Figaro_Pennygood).",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City Sewers](https://bg3.wiki/wiki/Lower_City_Sewers)",
+      "xp": 170,
+      "name": "An Apocalyptic Deal",
+      "description": "Convince someone to [aid you during the endgame](https://bg3.wiki/wiki/Gather_Your_Allies) or by making a deal with [Raphael](https://bg3.wiki/wiki/Raphael)\nCan be awarded by:\nConvincing [Mol](https://bg3.wiki/wiki/Mol) or [Nine-Fingers](https://bg3.wiki/wiki/Nine-Fingers) to aid you in the battle for Baldur's Gate.\nDefeat Raphael in the House of Hope, first convincing [Yurgir](https://bg3.wiki/wiki/Yurgir) to join you.\nSiding with [Wulbren Bongle](https://bg3.wiki/wiki/Wulbren_Bongle) during [Disable the Steel Watch](https://bg3.wiki/wiki/Disable_the_Steel_Watch).\nRecruit [Auntie Ethel](https://bg3.wiki/wiki/Auntie_Ethel) as an ally for [Gather Your Allies](https://bg3.wiki/wiki/Gather_Your_Allies).",
+      "chapter": 3
+    }
+  ],
+  "Outlander": [
+    {
+      "location": "[Wilderness](https://bg3.wiki/wiki/Wilderness)",
+      "xp": 20,
+      "name": "Sticky Fingers",
+      "description": "Secure the pouch from the [spider crevice](https://bg3.wiki/wiki/Harper_Outpost).",
+      "chapter": 1
+    },
+    {
+      "location": "[Owlbear Nest](https://bg3.wiki/wiki/Owlbear_Nest)",
+      "xp": 25,
+      "name": "A Mother's Fury",
+      "description": "Triumph over the mother [Owlbear](https://bg3.wiki/wiki/Owlbear).\nDoes not require actually fighting the Owlbear. Convincing her not to attack using [Speak with Animals](https://bg3.wiki/wiki/Speak_with_Animals) is sufficient.",
+      "chapter": 1
+    },
+    {
+      "location": "[The Risen Road](https://bg3.wiki/wiki/The_Risen_Road)",
+      "xp": 30,
+      "name": "Rock Steady",
+      "description": "Survive the bandit's rolling boulder trap.\nThe description is misleading; disarming the two tripwire traps awards the inspiration, while getting hit by the boulder and surviving does not. Getting around the traps (by e.g. jumping) awards the inspiration as well.",
+      "chapter": 1
+    },
+    {
+      "location": "[Sunlit Wetlands](https://bg3.wiki/wiki/Sunlit_Wetlands)",
+      "xp": 30,
+      "name": "Eyes of the Wild",
+      "description": "See past the illusion covering the swamp.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Cub Tamer",
+      "description": "Successfully tame the owlbear cub.",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 30,
+      "name": "A Noble Endeavour",
+      "description": "Effectively use a noblestalk mushroom.\nThis can be accomplished by giving the mushroom to Derryth, Shadowheart, or Baelen, or by [The Dark Urge](https://bg3.wiki/wiki/The_Dark_Urge) using it themselves.",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grymforge)",
+      "xp": 50,
+      "name": "The Floor Is Lava",
+      "description": "Defeat the [Lava Elemental](https://bg3.wiki/wiki/Lava_Elemental) in the lava lake.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Child's Play",
+      "description": "Beat [Oliver](https://bg3.wiki/wiki/Oliver) at hide and seek without alerting the shadow creatures.",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 60,
+      "name": "Grove Keeper's Keeper",
+      "description": "Protect [Halsin](https://bg3.wiki/wiki/Halsin)'s portal while he saves the spirit of the land.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "I've Had Worse",
+      "description": "Successfully drink and resist the negative effects of [the brewer](https://bg3.wiki/wiki/Thisobald_Thorm)'s concoction.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Mutual Respect",
+      "description": "Meet [Steelclaw](https://bg3.wiki/wiki/Steelclaw) the tadpole-hunting cat.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "Path Least Followed",
+      "description": "Complete the Gauntlet of Shar without going to Last Light or Moonrise.",
+      "chapter": 2
+    },
+    {
+      "location": "[Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony)",
+      "xp": 95,
+      "name": "From Head to Toe",
+      "description": "Explore all sections of the mind flayer colony.\nAwarded upon following Ketheric to the lower level.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Enlisted Avian",
+      "description": "Meet [Commander Lightfeather](https://bg3.wiki/wiki/Commander_Lightfeather).",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 170,
+      "name": "Beneath the Gate",
+      "description": "Enter the [Undercellar](https://bg3.wiki/wiki/Guildhall).",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City Sewers](https://bg3.wiki/wiki/Lower_City_Sewers)",
+      "xp": 220,
+      "name": "The Face of Evil",
+      "description": "Reach the [Temple of Bhaal](https://bg3.wiki/wiki/Temple_of_Bhaal).",
+      "chapter": 3
+    }
+  ],
+  "Sage": [
+    {
+      "location": "Anywhere",
+      "xp": 20,
+      "name": "Reanimator",
+      "description": "Correctly follow [Gale](https://bg3.wiki/wiki/Gale)'s instructions to resurrect him. (Only if Gale is your OC.[[Needs Verification](https://bg3.wiki/wiki/bg3wiki:Verification)])"
+    },
+    {
+      "location": "[Dank Crypt](https://bg3.wiki/wiki/Dank_Crypt)",
+      "xp": 20,
+      "name": "Secrets of the Sundering",
+      "description": "Unlock and read the [Book of Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods).",
+      "chapter": 1
+    },
+    {
+      "location": "[Druids Grove](https://bg3.wiki/wiki/Druids_Grove)",
+      "xp": 20,
+      "name": "Roots of the Grove",
+      "description": "Learn local history from the druidic frescos.\nRequires passing Skill checks ( DC 5 [History](https://bg3.wiki/wiki/History) [check](https://bg3.wiki/wiki/Ability_check),  DC 10 [Intelligence](https://bg3.wiki/wiki/Intelligence) [check](https://bg3.wiki/wiki/Ability_check) and  DC 10 [Religion](https://bg3.wiki/wiki/Religion) [check](https://bg3.wiki/wiki/Ability_check) x2) on all four tablets describing frescos in the Inner Sanctum of the Emerald Grove\nGranted, too, if the checks are passed by different party members",
+      "chapter": 1
+    },
+    {
+      "location": "[Blighted Village](https://bg3.wiki/wiki/Blighted_Village)",
+      "xp": 30,
+      "name": "A Natural Alliance",
+      "description": "Recognise the druid and Harper armour.\nLocated underneath the broken bridge to the north of the blighted village.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Secrets of the High Chieftain",
+      "description": "Read [Volo's Guide To Goblins](https://bg3.wiki/wiki/On_Goblins:_My_Life_Among_the_Conquering_Host)",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 30,
+      "name": "If I Can't Have It...",
+      "description": "Discover the secrets of the the [Adamantine Forge](https://bg3.wiki/wiki/Adamantine_Forge_(quest)) from all three drow wizards.\nPass the ability checks on the following 3 items:\n\n[Memory Shard](https://bg3.wiki/wiki/Memory_Shard)\n[Scribbled Notes](https://bg3.wiki/wiki/Scribbled_Notes)\n[The Great Furnace of Grymforge](https://bg3.wiki/wiki/The_Great_Furnace_of_Grymforge)",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Corrupted Beyond Recognition",
+      "description": "Find and read the [dead druid's journal](https://bg3.wiki/wiki/Dead_Druid%27s_Journal) about how the shadow curse came to be.\nLocated in the top north-eastern part of the map",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 60,
+      "name": "Waking the Sleeper",
+      "description": "Wake [Art](https://bg3.wiki/wiki/Art_Cullagh) from his catatonic slumber.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "Hippocratic No More",
+      "description": "Find the surgeon's [research notes](https://bg3.wiki/wiki/Surgeon%27s_Research_Notes).",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Secrets of the Necromancer",
+      "description": "Solve [Balthazar's](https://bg3.wiki/wiki/Balthazar) secret study puzzle.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 60,
+      "name": "History Never Forgets",
+      "description": "Open the way into the [Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar).",
+      "chapter": 2
+    },
+    {
+      "location": "[Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony)",
+      "xp": 95,
+      "name": "Brain Blast!",
+      "description": "Successfully complete the mind puzzle in the mind flayer colony.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Assistant to the Extra-Planar Agent",
+      "description": "Take up [Valeria](https://bg3.wiki/wiki/Valeria)'s serial killer investigation.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 135,
+      "name": "New Normal",
+      "description": "Let yourself be scanned by a [Steel Watcher](https://bg3.wiki/wiki/Steel_Watcher).",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 170,
+      "name": "Coronation of the Dreadmaster",
+      "description": "Meet [Gortash](https://bg3.wiki/wiki/Enver_Gortash) in Wyrm's Rock and witness his coronation.",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 170,
+      "name": "An Exotic Charter",
+      "description": "Obtain access to the [House of Hope](https://bg3.wiki/wiki/House_of_Hope) portal.\nGranted after actually entering the House of Hope through the portal",
+      "chapter": 3
+    },
+    {
+      "location": "[Ramazith's Tower](https://bg3.wiki/wiki/Ramazith%27s_Tower)",
+      "xp": 220,
+      "name": "Stopping the Repetition of History",
+      "description": "Defeat [Lorroakan](https://bg3.wiki/wiki/Lorroakan).",
+      "chapter": 3
+    }
+  ],
+  "Soldier": [
+    {
+      "location": "Anywhere",
+      "xp": 25,
+      "name": "One For The Ages",
+      "description": "Survive a fight in which you kill ten or more enemies.\nSummoned creatures that disappear when their summoner dies count toward this."
+    },
+    {
+      "location": "[Druids Grove](https://bg3.wiki/wiki/Druids_Grove)",
+      "xp": 20,
+      "name": "No One Left Behind",
+      "description": "Ensure all of the [Grove's](https://bg3.wiki/wiki/Secluded_Grove) defenders survive the first goblin assault.\n[Kanon](https://bg3.wiki/wiki/Kanon) dying in the prior cutscene does not prevent getting this.",
+      "chapter": 1
+    },
+    {
+      "location": "[The Risen Road](https://bg3.wiki/wiki/The_Risen_Road)",
+      "xp": 30,
+      "name": "Chain of Command",
+      "description": "Follow [Flaming Fist](https://bg3.wiki/wiki/Flaming_Fist) orders at the [burning inn](https://bg3.wiki/wiki/Waukeen%27s_Rest).",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "A Headless Horde",
+      "description": "Kill every leader in the goblin camp.\n[Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin), [Gut](https://bg3.wiki/wiki/Gut), and [Minthara](https://bg3.wiki/wiki/Minthara) are the relevant leaders.",
+      "chapter": 1
+    },
+    {
+      "location": "[Mountain Pass](https://bg3.wiki/wiki/Mountain_Pass)",
+      "xp": 30,
+      "name": "Conquer the Conquerors",
+      "description": "Defeat the Githyanki raiding squad.\nRequires actually fighting them; a peaceful resolution will not grant inspiration.",
+      "chapter": 1
+    },
+    {
+      "location": "[Underdark](https://bg3.wiki/wiki/Underdark)",
+      "xp": 30,
+      "name": "Drowned in the Dark",
+      "description": "Defeat the [duergar](https://bg3.wiki/wiki/Duergar) patrolling on the Ebonlake.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Centennial Rivalries",
+      "description": "Complete the Harper ambush.",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 50,
+      "name": "Shield of the Moon",
+      "description": "Obtain Selûne's blessing from Isobel.",
+      "chapter": 2
+    },
+    {
+      "location": "[Reithwin Town](https://bg3.wiki/wiki/Reithwin_Town)",
+      "xp": 60,
+      "name": "An Apple a Day Keeps the Scalpel Away",
+      "description": "Defeat the [Surgeon](https://bg3.wiki/wiki/Malus_Thorm) without being operated upon.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Notched Armour",
+      "description": "Show off your prowess to the [bugbear merchant](https://bg3.wiki/wiki/Lann_Tarv).",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "Know Thine Enemy",
+      "description": "Defeat yourself in the [Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)'s mirror trial.",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Sharing the Spoils",
+      "description": "[Donate](https://bg3.wiki/wiki/Nestor) to the refugees.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 170,
+      "name": "Court Marshall",
+      "description": "Expose the [Flaming Fist deserter](https://bg3.wiki/wiki/Fist_Reynash).",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 135,
+      "name": "Love That Smell",
+      "description": "Aid the deep gnomes and use the Runepowder Bomb to blow up the [Steel Watch Foundry](https://bg3.wiki/wiki/Steel_Watch_Foundry).",
+      "chapter": 3
+    },
+    {
+      "location": "[House of Hope](https://bg3.wiki/wiki/House_of_Hope)",
+      "xp": 220,
+      "name": "Hot Exit",
+      "description": "Escape the [House of Hope](https://bg3.wiki/wiki/House_of_Hope).",
+      "chapter": 3
+    },
+    {
+      "location": "[Bhaal Temple](https://bg3.wiki/wiki/Bhaal_Temple)",
+      "xp": 220,
+      "name": "Putting the Past to Rest",
+      "description": "Execute [Orin](https://bg3.wiki/wiki/Orin).",
+      "chapter": 3
+    }
+  ],
+  "Urchin": [
+    {
+      "location": "[Wilderness](https://bg3.wiki/wiki/Wilderness)",
+      "xp": 20,
+      "name": "Hunger Never Fades",
+      "description": "Fill your plate at [Raphael](https://bg3.wiki/wiki/Raphael)'s [House of Hope](https://bg3.wiki/wiki/House_of_Hope).\nOn the first introduction cutscene, choose the option Ignore him and fill your plate.",
+      "chapter": 1
+    },
+    {
+      "location": "[Druids Grove](https://bg3.wiki/wiki/Druids_Grove)",
+      "xp": 20,
+      "name": "Artful Dodger",
+      "description": "Earn [Mattis](https://bg3.wiki/wiki/Mattis)' respect by taking his ring.\nThe description is misleading; you must perform a DC 15 [Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) [check](https://bg3.wiki/wiki/Ability_check) and then return the ring.",
+      "chapter": 1
+    },
+    {
+      "location": "[Blighted Village](https://bg3.wiki/wiki/Blighted_Village)",
+      "xp": 20,
+      "name": "Pyramid Scheme",
+      "description": "Convince [the ogres](https://bg3.wiki/wiki/Lump_the_Enlightened) to work for you without giving them gold.",
+      "chapter": 1
+    },
+    {
+      "location": "[Goblin Camp](https://bg3.wiki/wiki/Goblin_Camp)",
+      "xp": 25,
+      "name": "Born Innocent",
+      "description": "Save the [owlbear cub](https://bg3.wiki/wiki/Owlbear_Cub) from the goblins.",
+      "chapter": 1
+    },
+    {
+      "location": "[The Risen Road](https://bg3.wiki/wiki/The_Risen_Road)",
+      "xp": 30,
+      "name": "Hero for Hire",
+      "description": "Get some coin out of the [Zhentarim](https://bg3.wiki/wiki/Zhentarim) survivors.",
+      "chapter": 1
+    },
+    {
+      "location": "[Grymforge](https://bg3.wiki/wiki/Grymforge)",
+      "xp": 50,
+      "name": "You Can't Take It with You",
+      "description": "Loot the dead gnomes in [Grymforge](https://bg3.wiki/wiki/Grymforge) before their corpses are thrown into the river.\nYou must specifically acquire the [Fetish of Callarduran Smoothhands](https://bg3.wiki/wiki/Fetish_of_Callarduran_Smoothhands) in order to get this.",
+      "chapter": 1
+    },
+    {
+      "location": "[Shadow-Cursed Lands](https://bg3.wiki/wiki/Shadow-Cursed_Lands)",
+      "xp": 50,
+      "name": "Child at Heart",
+      "description": "Play both games of hide and seek with [Oliver](https://bg3.wiki/wiki/Oliver).",
+      "chapter": 2
+    },
+    {
+      "location": "[Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn)",
+      "xp": 50,
+      "name": "Orphan Camaraderie",
+      "description": "Help [Mol](https://bg3.wiki/wiki/Mol) win the game of lanceboard.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)",
+      "xp": 50,
+      "name": "Gone Feral",
+      "description": "Free the mind-controlled gnolls from [their master](https://bg3.wiki/wiki/Linsella).\nIf you fail the skill check in the conversation, the inspiration can still be obtained through straight up combat.",
+      "chapter": 2
+    },
+    {
+      "location": "[Moonrise Towers Prison](https://bg3.wiki/wiki/Moonrise_Towers_Prison)",
+      "xp": 60,
+      "name": "Bugging Out",
+      "description": "Help [Wulbren](https://bg3.wiki/wiki/Wulbren) escape Moonrise.",
+      "chapter": 2
+    },
+    {
+      "location": "[Oubliette](https://bg3.wiki/wiki/Oubliette)",
+      "xp": 60,
+      "name": "Will Not Be Forgotten",
+      "description": "Escape the [Oubliette](https://bg3.wiki/wiki/Oubliette).\nAs the description hints, this inspiration is awarded when you leave, not when you enter.",
+      "chapter": 2
+    },
+    {
+      "location": "[Gauntlet of Shar](https://bg3.wiki/wiki/Gauntlet_of_Shar)",
+      "xp": 75,
+      "name": "Strength in Cowardice",
+      "description": "Convince [the orthon](https://bg3.wiki/wiki/Yurgir) to spare you, for now...",
+      "chapter": 2
+    },
+    {
+      "location": "[Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony)",
+      "xp": 95,
+      "name": "Amateur Optician",
+      "description": "Find [Mol's eyepatch](https://bg3.wiki/wiki/Mol%27s_Eyepatch).\nLocated in Balthazar's Necrotic Laboratory",
+      "chapter": 2
+    },
+    {
+      "location": "[Rivington](https://bg3.wiki/wiki/Rivington)",
+      "xp": 135,
+      "name": "Finders Keepers",
+      "description": "Help the squatters keep their [temporary abode](https://bg3.wiki/wiki/Arfur%27s_Mansion).",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Crossing](https://bg3.wiki/wiki/Wyrm%27s_Crossing)",
+      "xp": 135,
+      "name": "Child Safety",
+      "description": "Expose [Arfur](https://bg3.wiki/wiki/Arfur_Gregorio) for his booby-trapped toys.",
+      "chapter": 3
+    },
+    {
+      "location": "[Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress)",
+      "xp": 170,
+      "name": "Never Trust Those Above You",
+      "description": "Defeat [Gortash](https://bg3.wiki/wiki/Enver_Gortash) without making a deal with him.",
+      "chapter": 3
+    },
+    {
+      "location": "[Lower City](https://bg3.wiki/wiki/Lower_City)",
+      "xp": 170,
+      "name": "A Dish Served Cold",
+      "description": "Destroy the [Steel Watch Foundry](https://bg3.wiki/wiki/Steel_Watch_Foundry).",
+      "chapter": 3
+    }
+  ]
+}

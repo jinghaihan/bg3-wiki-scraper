@@ -1,0 +1,1018 @@
+[
+  {
+    "name": "['Magic' Ring](https://bg3.wiki/wiki/%27Magic%27_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 3,
+    "effects": ""
+  },
+  {
+    "name": "[Amethyst Ring](https://bg3.wiki/wiki/Amethyst_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Ring_D_Silver_A_Unfaded_Icon.png/50px-Ring_D_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Amethyst Ring](https://bg3.wiki/wiki/Amethyst_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/Ring_D_Silver_A_1_Unfaded_Icon.png/50px-Ring_D_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Amethyst Ring](https://bg3.wiki/wiki/Amethyst_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1f/Ring_D_Gold_A_Unfaded_Icon.png/50px-Ring_D_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Amethyst Ring](https://bg3.wiki/wiki/Amethyst_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Ring_D_Gold_A_1_Unfaded_Icon.png/50px-Ring_D_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Bloody Signet Ring](https://bg3.wiki/wiki/Bloody_Signet_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2e/Ring_B_Gem_A_Gold_Unfaded_Icon.png/50px-Ring_B_Gem_A_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Bronze Ring](https://bg3.wiki/wiki/Bronze_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/Ring_D_Unfaded_Icon.png/50px-Ring_D_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Bronze Ring](https://bg3.wiki/wiki/Bronze_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/4/47/Ring_F_Unfaded_Icon.png/50px-Ring_F_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Carnelian Ring](https://bg3.wiki/wiki/Carnelian_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Ring_C_Unfaded_Icon.png/50px-Ring_C_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Carnelian Ring](https://bg3.wiki/wiki/Carnelian_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Ring_C_1_Unfaded_Icon.png/50px-Ring_C_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Copper Band](https://bg3.wiki/wiki/Copper_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Ring_G_Unfaded_Icon.png/50px-Ring_G_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Copper Band](https://bg3.wiki/wiki/Copper_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Ring_G_1_Unfaded_Icon.png/50px-Ring_G_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Copper Ring](https://bg3.wiki/wiki/Copper_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Ring_E_Unfaded_Icon.png/50px-Ring_E_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Copper Ring](https://bg3.wiki/wiki/Copper_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/Ring_E_1_Unfaded_Icon.png/50px-Ring_E_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Dark Ring](https://bg3.wiki/wiki/Dark_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/Ring_I_Unfaded_Icon.png/50px-Ring_I_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Dowry Ring](https://bg3.wiki/wiki/Dowry_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Emerald Ring](https://bg3.wiki/wiki/Emerald_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6b/Ring_B_Unfaded_Icon.png/50px-Ring_B_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Emerald Ring](https://bg3.wiki/wiki/Emerald_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Ring_B_1_Unfaded_Icon.png/50px-Ring_B_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Garnet Ring](https://bg3.wiki/wiki/Garnet_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Ring_H_Unfaded_Icon.png/50px-Ring_H_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Garnet Ring](https://bg3.wiki/wiki/Garnet_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/Ring_H_1_Unfaded_Icon.png/50px-Ring_H_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Garnet Ring](https://bg3.wiki/wiki/Garnet_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Ring_H_Gold_A_Unfaded_Icon.png/50px-Ring_H_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Garnet Ring](https://bg3.wiki/wiki/Garnet_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Ring_H_Gold_A_1_Unfaded_Icon.png/50px-Ring_H_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Garnet Ring](https://bg3.wiki/wiki/Garnet_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2e/Ring_B_Gem_A_Gold_Unfaded_Icon.png/50px-Ring_B_Gem_A_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Garnet Ring](https://bg3.wiki/wiki/Garnet_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/Ring_B_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_B_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Band](https://bg3.wiki/wiki/Gold_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/3/38/Ring_G_Gold_A_Unfaded_Icon.png/50px-Ring_G_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Band](https://bg3.wiki/wiki/Gold_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/9/96/Ring_G_Gold_A_1_Unfaded_Icon.png/50px-Ring_G_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Ring_A_Gem_A_Gold_Unfaded_Icon.png/50px-Ring_A_Gem_A_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Ring_A_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_A_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Ring_B_Gem_B_Gold_Unfaded_Icon.png/50px-Ring_B_Gem_B_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Ring_B_Gem_B_Gold_1_Unfaded_Icon.png/50px-Ring_B_Gem_B_Gold_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2e/Ring_B_Gem_A_Gold_Unfaded_Icon.png/50px-Ring_B_Gem_A_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/Ring_B_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_B_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Ring_C_Gold_A_Unfaded_Icon.png/50px-Ring_C_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Ring_C_Gold_A_Unfaded_Icon.png/50px-Ring_C_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Ring_C_Gold_A_1_Unfaded_Icon.png/50px-Ring_C_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/Ring_E_Gold_A_Unfaded_Icon.png/50px-Ring_E_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Ring](https://bg3.wiki/wiki/Gold_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Ring_E_Gold_A_1_Unfaded_Icon.png/50px-Ring_E_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Onyx Ring](https://bg3.wiki/wiki/Onyx_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b8/Ring_I_Silver_A_Unfaded_Icon.png/50px-Ring_I_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Onyx Ring](https://bg3.wiki/wiki/Onyx_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Ring_I_Silver_A_1_Unfaded_Icon.png/50px-Ring_I_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Peridot Ring](https://bg3.wiki/wiki/Peridot_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Ring_B_Silver_A_Unfaded_Icon.png/50px-Ring_B_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Peridot Ring](https://bg3.wiki/wiki/Peridot_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Ring_B_Silver_A_1_Unfaded_Icon.png/50px-Ring_B_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Ring](https://bg3.wiki/wiki/Polished_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/0/06/Ring_E_Silver_A_Unfaded_Icon.png/50px-Ring_E_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Ring](https://bg3.wiki/wiki/Polished_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/Ring_E_Silver_A_1_Unfaded_Icon.png/50px-Ring_E_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Ring of Being Really Invisible](https://bg3.wiki/wiki/Ring_of_Being_Really_Invisible)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 2,
+    "effects": ""
+  },
+  {
+    "name": "[Ring of Infinite Wishes](https://bg3.wiki/wiki/Ring_of_Infinite_Wishes)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 4,
+    "effects": ""
+  },
+  {
+    "name": "[Ring of Murderous Opportunity](https://bg3.wiki/wiki/Ring_of_Murderous_Opportunity)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Ring_H_Silver_A_Unfaded_Icon.png/50px-Ring_H_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Ring of Resistance to Ants](https://bg3.wiki/wiki/Ring_of_Resistance_to_Ants)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 3,
+    "effects": ""
+  },
+  {
+    "name": "[Ring of the Lekinesus](https://bg3.wiki/wiki/Ring_of_the_Lekinesus)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 3,
+    "effects": ""
+  },
+  {
+    "name": "[Ruby Ring](https://bg3.wiki/wiki/Ruby_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Ring_C_Silver_A_Unfaded_Icon.png/50px-Ring_C_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Ruby Ring](https://bg3.wiki/wiki/Ruby_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/Ring_C_Silver_A_1_Unfaded_Icon.png/50px-Ring_C_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Ruby Ring](https://bg3.wiki/wiki/Ruby_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Ring_H_Silver_A_Unfaded_Icon.png/50px-Ring_H_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Ruby Ring](https://bg3.wiki/wiki/Ruby_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Ring_H_Silver_A_1_Unfaded_Icon.png/50px-Ring_H_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Silver Band](https://bg3.wiki/wiki/Silver_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1f/Ring_G_Silver_A_Unfaded_Icon.png/50px-Ring_G_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Silver Band](https://bg3.wiki/wiki/Silver_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Ring_G_Silver_A_1_Unfaded_Icon.png/50px-Ring_G_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Tarnished Ring](https://bg3.wiki/wiki/Tarnished_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": ""
+  },
+  {
+    "name": "[Tarnished Ring](https://bg3.wiki/wiki/Tarnished_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": ""
+  },
+  {
+    "name": "[Tarnished Wedding Ring](https://bg3.wiki/wiki/Tarnished_Wedding_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6b/Ring_B_Unfaded_Icon.png/50px-Ring_B_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 14,
+    "effects": ""
+  },
+  {
+    "name": "[Tourmaline Ring](https://bg3.wiki/wiki/Tourmaline_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/Ring_F_Silver_A_Unfaded_Icon.png/50px-Ring_F_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Tourmaline Ring](https://bg3.wiki/wiki/Tourmaline_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Ring_F_Silver_A_1_Unfaded_Icon.png/50px-Ring_F_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Tourmaline Ring](https://bg3.wiki/wiki/Tourmaline_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8f/Ring_F_Gold_A_Unfaded_Icon.png/50px-Ring_F_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Tourmaline Ring](https://bg3.wiki/wiki/Tourmaline_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/Ring_F_Gold_A_1_Unfaded_Icon.png/50px-Ring_F_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 18,
+    "effects": ""
+  },
+  {
+    "name": "[Verdelite Ring](https://bg3.wiki/wiki/Verdelite_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2c/Ring_B_Gold_A_Unfaded_Icon.png/50px-Ring_B_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Verdelite Ring](https://bg3.wiki/wiki/Verdelite_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8c/Ring_B_Gold_A_1_Unfaded_Icon.png/50px-Ring_B_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Bracing Band](https://bg3.wiki/wiki/Bracing_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/Ring_E_Silver_A_1_Unfaded_Icon.png/50px-Ring_E_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Personal Space](https://bg3.wiki/wiki/Personal_Space)After shoving an enemy[[See Notes](https://bg3.wiki/wiki/Personal_Space#Notes)], the wearer gains a +1 to their  [Armour Class](https://bg3.wiki/wiki/Armour_Class) until their next turn."
+  },
+  {
+    "name": "[Callous Glow Ring](https://bg3.wiki/wiki/Callous_Glow_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Ring_E_Gold_A_1_Unfaded_Icon.png/50px-Ring_E_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Callous Glow](https://bg3.wiki/wiki/Callous_Glow)The wearer deals an additional 2 points of [Radiant](https://bg3.wiki/wiki/Radiant)[[See: Bugs](https://bg3.wiki/wiki/Callous_Glow#Bugs)] damage against creatures that are illuminated."
+  },
+  {
+    "name": "[Caustic Band](https://bg3.wiki/wiki/Caustic_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Ring_F_Silver_A_1_Unfaded_Icon.png/50px-Ring_F_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Malefic Excretion](https://bg3.wiki/wiki/Malefic_Excretion)Your weapon attacks also deal 2Acid damage."
+  },
+  {
+    "name": "[Coruscation Ring](https://bg3.wiki/wiki/Coruscation_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Ring_A_Simple_Gold_1_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Arcane Radiance](https://bg3.wiki/wiki/Arcane_Radiance)When the wearer deals spell damage while illuminated by a light source, they also inflict  [Radiating Orb](https://bg3.wiki/wiki/Radiating_Orb_(Condition)) upon the target for 2 turns."
+  },
+  {
+    "name": "[Crusher's Ring](https://bg3.wiki/wiki/Crusher%27s_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1f/Crushers_Ring_Unfaded_Icon.png/50px-Crushers_Ring_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Movement Speed](https://bg3.wiki/wiki/Movement_Speed) increased by 3m / 10ft."
+  },
+  {
+    "name": "[Djinni Ring](https://bg3.wiki/wiki/Djinni_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Ring_D_1_Unfaded_Icon.png/50px-Ring_D_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Mage Hand](https://bg3.wiki/wiki/Mage_Hand) \nCast as a cantrip ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Eversight Ring](https://bg3.wiki/wiki/Eversight_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Ring_I_Silver_A_1_Unfaded_Icon.png/50px-Ring_I_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.11 lb",
+    "price": 40,
+    "effects": "[Blind Immunity](https://bg3.wiki/wiki/Blind_Immunity)The wearer cannot be  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition))."
+  },
+  {
+    "name": "[Explorer's Ring](https://bg3.wiki/wiki/Explorer%27s_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/81/Explorers_Ring_Unfaded_Icon.png/50px-Explorers_Ring_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Nature](https://bg3.wiki/wiki/Nature) +1\n [Survival](https://bg3.wiki/wiki/Survival) +1"
+  },
+  {
+    "name": "[Family Ring](https://bg3.wiki/wiki/Family_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Ring_A_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_A_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Death Saving Throws](https://bg3.wiki/wiki/Death_Saving_Throw) +2"
+  },
+  {
+    "name": "[Firzu's Ring of Trading](https://bg3.wiki/wiki/Firzu%27s_Ring_of_Trading)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/Ring_I_Unfaded_Icon.png/50px-Ring_I_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Deception](https://bg3.wiki/wiki/Deception) +1"
+  },
+  {
+    "name": "[Guild Ring](https://bg3.wiki/wiki/Guild_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Guild_Ring_Unfaded_Icon.png/50px-Guild_Ring_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": ""
+  },
+  {
+    "name": "[Mage's Friend](https://bg3.wiki/wiki/Mage%27s_Friend)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Ring_C_Silver_A_Unfaded_Icon.png/50px-Ring_C_Silver_A_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Arcana](https://bg3.wiki/wiki/Arcana) +1\n [Religion](https://bg3.wiki/wiki/Religion) +1"
+  },
+  {
+    "name": "[Poisoner's Ring](https://bg3.wiki/wiki/Poisoner%27s_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/9/96/Ring_G_Gold_A_1_Unfaded_Icon.png/50px-Ring_G_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Virulent Venom](https://bg3.wiki/wiki/Virulent_Venom) \nPoint your ringed finger at a target to make it [vulnerable](https://bg3.wiki/wiki/Vulnerable) to [Poison](https://bg3.wiki/wiki/Poison) damage, unless it is immune to [Poison](https://bg3.wiki/wiki/Poison) damage. ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Ring of Absolute Force](https://bg3.wiki/wiki/Ring_of_Absolute_Force)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Ring_of_Absolute_Force_Unfaded_Icon.png/50px-Ring_of_Absolute_Force_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Thunderwave](https://bg3.wiki/wiki/Thunderwave) \nCast as a level 1 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Absolute's Tempest](https://bg3.wiki/wiki/Absolute%27s_Tempest)If the wearer bears the [Absolute's Brand](https://bg3.wiki/wiki/Brand_of_the_Absolute), they deal 1 additional Thunder damage with Thunder damage spells and attacks."
+  },
+  {
+    "name": "[Ring of Colour Spray](https://bg3.wiki/wiki/Ring_of_Colour_Spray)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/Ring_D_Unfaded_Icon.png/50px-Ring_D_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Colour Spray](https://bg3.wiki/wiki/Colour_Spray) \nCast as a level 1 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Ring of Elemental Infusion](https://bg3.wiki/wiki/Ring_of_Elemental_Infusion)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Ring_H_Gold_A_1_Unfaded_Icon.png/50px-Ring_H_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Elemental Infusion](https://bg3.wiki/wiki/Elemental_Infusion)When you deal [Acid](https://bg3.wiki/wiki/Acid), [Cold](https://bg3.wiki/wiki/Cold), [Fire](https://bg3.wiki/wiki/Fire), [Lightning](https://bg3.wiki/wiki/Lightning), or [Thunder](https://bg3.wiki/wiki/Thunder) damage using a [Spell](https://bg3.wiki/wiki/Spell) or a [Cantrip](https://bg3.wiki/wiki/Cantrip), that element infuses your weapon.\n\nUntil the end of your next turn, you deal an additional   1d4 damage of that element on your first successful weapon attack."
+  },
+  {
+    "name": "[Ring of Flinging](https://bg3.wiki/wiki/Ring_of_Flinging)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Ring_C_Silver_A_Unfaded_Icon.png/50px-Ring_C_Silver_A_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Throwing Boost](https://bg3.wiki/wiki/Throwing_Boost)The wearer gains a   1d4 bonus to  [Throw](https://bg3.wiki/wiki/Throw) damage."
+  },
+  {
+    "name": "[Ring of Geniality](https://bg3.wiki/wiki/Ring_of_Geniality)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Ring_H_Silver_A_1_Unfaded_Icon.png/50px-Ring_H_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Persuasion](https://bg3.wiki/wiki/Persuasion) +1\n [Deception](https://bg3.wiki/wiki/Deception) +1"
+  },
+  {
+    "name": "[Ring of Jumping](https://bg3.wiki/wiki/Ring_of_Jumping)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Ring_of_Jumping_Unfaded_Icon.png/50px-Ring_of_Jumping_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 55,
+    "effects": "[Enhance Leap](https://bg3.wiki/wiki/Enhance_Leap) \nCast as a level 1 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Ring of Mental Inhibition](https://bg3.wiki/wiki/Ring_of_Mental_Inhibition)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Ring_B_1_Unfaded_Icon.png/50px-Ring_B_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Mental Inhibition](https://bg3.wiki/wiki/Mental_Inhibition)When a foe fails a  [Saving throw](https://bg3.wiki/wiki/Saving_throw) against one of your spells or actions, they gain  [Mental Fatigue](https://bg3.wiki/wiki/Mental_Fatigue_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Ring of Salving](https://bg3.wiki/wiki/Ring_of_Salving)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/Ring_D_Silver_A_1_Unfaded_Icon.png/50px-Ring_D_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Saviour's Allure](https://bg3.wiki/wiki/Saviour%27s_Allure)You restore an additional 2hit points every time you heal another creature."
+  },
+  {
+    "name": "[Ring of Self Immolation](https://bg3.wiki/wiki/Ring_of_Self_Immolation)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Ring_C_Silver_A_Unfaded_Icon.png/50px-Ring_C_Silver_A_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Self Immolation](https://bg3.wiki/wiki/Self_Immolation) \nSet yourself on fire to gain  [Heat](https://bg3.wiki/wiki/Heat_(Condition)). ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Ring of Shadows](https://bg3.wiki/wiki/Ring_of_Shadows)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Ring_I_Gold_A_1_Unfaded_Icon.png/50px-Ring_I_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Pass Without Trace](https://bg3.wiki/wiki/Pass_Without_Trace) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Ring of Spiteful Thunder](https://bg3.wiki/wiki/Ring_of_Spiteful_Thunder)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Ring_D_Gold_A_1_Unfaded_Icon.png/50px-Ring_D_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Spiteful Thunder](https://bg3.wiki/wiki/Spiteful_Thunder)When the wearer deals [Thunder](https://bg3.wiki/wiki/Thunder) damage to a  [Reverberating](https://bg3.wiki/wiki/Reverberation_(Condition)) creature, it becomes  [Dazed](https://bg3.wiki/wiki/Dazed_(Condition)) unless it succeeds a  [Constitution](https://bg3.wiki/wiki/Constitution) [saving throw](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Seemingly Gleaming Ring](https://bg3.wiki/wiki/Seemingly_Gleaming_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/Ring_H_1_Unfaded_Icon.png/50px-Ring_H_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 45,
+    "effects": "[Charisma](https://bg3.wiki/wiki/Charisma)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Wisdom](https://bg3.wiki/wiki/Wisdom)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) -1"
+  },
+  {
+    "name": "[Shadow Blade Ring](https://bg3.wiki/wiki/Shadow_Blade_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Ring_D_1_Unfaded_Icon.png/50px-Ring_D_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 105,
+    "effects": "[Shadow Blade](https://bg3.wiki/wiki/Shadow_Blade) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Shadow-Cloaked Ring](https://bg3.wiki/wiki/Shadow-Cloaked_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Ring_B_Gem_B_Gold_1_Unfaded_Icon.png/50px-Ring_B_Gem_B_Gold_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Shadowthief](https://bg3.wiki/wiki/Shadowthief)The wearer's weapon and unarmed attacks deal an additional   1d4 damage against  [Lightly](https://bg3.wiki/wiki/Lightly_Obscured_(Condition)) or  [Heavily Obscured](https://bg3.wiki/wiki/Heavily_Obscured_(Condition)) creatures, and creatures made of shadow."
+  },
+  {
+    "name": "[Shapeshifter's Boon Ring](https://bg3.wiki/wiki/Shapeshifter%27s_Boon_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8c/Ring_B_Gold_A_1_Unfaded_Icon.png/50px-Ring_B_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Shapeshifter's Boon](https://bg3.wiki/wiki/Shapeshifter%27s_Boon)While shapeshifting or disguising yourself, gain a +1d4 bonus to all   [Ability checks](https://bg3.wiki/wiki/Ability_check)."
+  },
+  {
+    "name": "[Smuggler's Ring](https://bg3.wiki/wiki/Smuggler%27s_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ce/Ring_I_1_Unfaded_Icon.png/50px-Ring_I_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Stealth](https://bg3.wiki/wiki/Stealth) +2\n [Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) +2\n [Charisma](https://bg3.wiki/wiki/Charisma) -1"
+  },
+  {
+    "name": "[Snowburst Ring](https://bg3.wiki/wiki/Snowburst_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Ring_A_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_A_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Snowburst](https://bg3.wiki/wiki/Snowburst)When the wearer deals [Cold](https://bg3.wiki/wiki/Cold) damage, they also create a  4.5 m / 15 ft circle of  [Ice](https://bg3.wiki/wiki/Ice_(surface)) around the target(s)."
+  },
+  {
+    "name": "[Spurred Band](https://bg3.wiki/wiki/Spurred_Band)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/Spurred_Band_Unfaded_Icon.png/50px-Spurred_Band_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Frantic Urgency](https://bg3.wiki/wiki/Frantic_Urgency)During combat, when the wearer starts their turn with 50% [Hit Points](https://bg3.wiki/wiki/Hit_Points) or less, they gain  [Momentum](https://bg3.wiki/wiki/Momentum_(Condition)) for 1 turn."
+  },
+  {
+    "name": "[Strange Conduit Ring](https://bg3.wiki/wiki/Strange_Conduit_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Ring_F_Silver_A_1_Unfaded_Icon.png/50px-Ring_F_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Strange Conduit](https://bg3.wiki/wiki/Strange_Conduit)When [Concentrating](https://bg3.wiki/wiki/Concentration) on a spell, the wearer's weapon attacks deal an additional 1d4Psychic damage."
+  },
+  {
+    "name": "[Sunwalker's Gift](https://bg3.wiki/wiki/Sunwalker%27s_Gift)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Ring_H_Silver_A_1_Unfaded_Icon.png/50px-Ring_H_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Sunwalker's Gift](https://bg3.wiki/wiki/Sunwalker%27s_Gift_(passive_feature))The wearer can see in the dark up to  12 m / 40 ft."
+  },
+  {
+    "name": "[Tarnished Ring](https://bg3.wiki/wiki/Tarnished_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Ring_A_Simple_Gold_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": ""
+  },
+  {
+    "name": "[The Sparkswall](https://bg3.wiki/wiki/The_Sparkswall)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/The_Sparkswall_Unfaded_Icon.png/50px-The_Sparkswall_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Resistance](https://bg3.wiki/wiki/Resistance) to [Lightning](https://bg3.wiki/wiki/Lightning) damage.\n[Spark Blocker](https://bg3.wiki/wiki/Spark_Blocker)The wearer can't be  [Electrocuted](https://bg3.wiki/wiki/Electrocuted_(Condition))."
+  },
+  {
+    "name": "[The Whispering Promise](https://bg3.wiki/wiki/The_Whispering_Promise)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Ring_F_1_Unfaded_Icon.png/50px-Ring_F_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Blessed Mercy](https://bg3.wiki/wiki/Blessed_Mercy)When you heal a creature, it gains a   +1d4 bonus to [Attack rolls](https://bg3.wiki/wiki/Attack_roll) and  [Saving throws](https://bg3.wiki/wiki/Saving_throw) for 2 turns."
+  },
+  {
+    "name": "[After Death Do Us Part](https://bg3.wiki/wiki/After_Death_Do_Us_Part)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/Partner_Ring_B_Unfaded_Icon.png/50px-Partner_Ring_B_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[After Death Do Us Part](https://bg3.wiki/wiki/After_Death_Do_Us_Part_(passive_feature))When the wearer is  [Downed](https://bg3.wiki/wiki/Downed_(Condition)), they rise once more with half their [Hit Points](https://bg3.wiki/wiki/Hit_Points) restored, but are gripped by  [Shadow Possession](https://bg3.wiki/wiki/Shadow_Possession_(Condition))."
+  },
+  {
+    "name": "[Band of the Mystic Scoundrel](https://bg3.wiki/wiki/Band_of_the_Mystic_Scoundrel)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Ring_E_Gold_A_1_Unfaded_Icon.png/50px-Ring_E_Gold_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 190,
+    "effects": "[Illusion Quickening](https://bg3.wiki/wiki/Illusion_Quickening)After hitting a creature with a weapon attack, you can cast [illusion](https://bg3.wiki/wiki/Illusion) or [enchantment](https://bg3.wiki/wiki/Enchantment_(school)) spells as a  [Bonus Action](https://bg3.wiki/wiki/Actions#Resources)."
+  },
+  {
+    "name": "[Fetish of Callarduran Smoothhands](https://bg3.wiki/wiki/Fetish_of_Callarduran_Smoothhands)",
+    "image": "https://bg3.wiki/w/images/thumb/8/83/Fetish_of_Callarduran_Smoothhands_Unfaded_Icon.png/50px-Fetish_of_Callarduran_Smoothhands_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Invisibility](https://bg3.wiki/wiki/Invisibility_(spell)) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Keepsake Ring](https://bg3.wiki/wiki/Keepsake_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Ring_A_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_A_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 190,
+    "effects": "[Dominate Beast](https://bg3.wiki/wiki/Dominate_Beast) \nCast as a level 5 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Ring of Arcane Synergy](https://bg3.wiki/wiki/Ring_of_Arcane_Synergy)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Ring_B_Silver_A_1_Unfaded_Icon.png/50px-Ring_B_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Synergetic Cantrips](https://bg3.wiki/wiki/Synergetic_Cantrips)When you deal damage with a [Cantrip](https://bg3.wiki/wiki/Cantrip), you gain  [Arcane Synergy](https://bg3.wiki/wiki/Arcane_Synergy_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Ring of Blink](https://bg3.wiki/wiki/Ring_of_Blink)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Ring_A_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_A_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 190,
+    "effects": "[Blink](https://bg3.wiki/wiki/Blink) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Ring of Exalted Marrow](https://bg3.wiki/wiki/Ring_of_Exalted_Marrow)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Ring_of_Exalted_Marrow_Unfaded_Icon.png/50px-Ring_of_Exalted_Marrow_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Exhort the Risen](https://bg3.wiki/wiki/Exhort_the_Risen) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n\n [Ghoulish Touch](https://bg3.wiki/wiki/Ghoulish_Touch) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Ring of Free Action](https://bg3.wiki/wiki/Ring_of_Free_Action)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Ring_of_Free_Action_Unfaded_Icon.png/50px-Ring_of_Free_Action_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.10 lb",
+    "price": 160,
+    "effects": "[Unwavering](https://bg3.wiki/wiki/Unwavering)You ignore the effects of  [Difficult Terrain](https://bg3.wiki/wiki/Difficult_Terrain_(Condition)), and cannot be  [Paralysed](https://bg3.wiki/wiki/Paralysed_(Condition)) or  [Restrained](https://bg3.wiki/wiki/Restrained_(Condition))."
+  },
+  {
+    "name": "[Ring of Mind-Shielding](https://bg3.wiki/wiki/Ring_of_Mind-Shielding)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Ring_G_Silver_A_1_Unfaded_Icon.png/50px-Ring_G_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Shelter](https://bg3.wiki/wiki/Shelter)You have  [Advantage](https://bg3.wiki/wiki/Advantage) on  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against  [Charmed](https://bg3.wiki/wiki/Charmed_(Condition))."
+  },
+  {
+    "name": "[Ring of Poison Resistance](https://bg3.wiki/wiki/Ring_of_Poison_Resistance)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Ring_G_1_Unfaded_Icon.png/50px-Ring_G_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Resistance](https://bg3.wiki/wiki/Resistance) to [Poison](https://bg3.wiki/wiki/Poison) damage."
+  },
+  {
+    "name": "[Ring of Protection](https://bg3.wiki/wiki/Ring_of_Protection)",
+    "image": "https://bg3.wiki/w/images/thumb/1/10/Ring_of_Protection_Unfaded_Icon.png/50px-Ring_of_Protection_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n [Saving throw](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Ring of Truthfulness](https://bg3.wiki/wiki/Ring_of_Truthfulness)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Ring_C_Gold_A_1_Unfaded_Icon.png/50px-Ring_C_Gold_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Ring of Veracity](https://bg3.wiki/wiki/Ring_of_Veracity)You gain an  [Advantage](https://bg3.wiki/wiki/Advantage) on [Insight Checks](https://bg3.wiki/wiki/Insight)."
+  },
+  {
+    "name": "[Ring of Twilight](https://bg3.wiki/wiki/Ring_of_Twilight)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Ring_I_Silver_A_1_Unfaded_Icon.png/50px-Ring_I_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Treader by Twilight](https://bg3.wiki/wiki/Treader_by_Twilight)You gain a +1 bonus to  [Armour Class](https://bg3.wiki/wiki/Armour_Class) while [obscured](https://bg3.wiki/wiki/Obscured)."
+  },
+  {
+    "name": "[Risky Ring](https://bg3.wiki/wiki/Risky_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Ring_E_Gold_A_1_Unfaded_Icon.png/50px-Ring_E_Gold_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 190,
+    "effects": "[Risky Attack](https://bg3.wiki/wiki/Risky_Attack)You gain  [Advantage](https://bg3.wiki/wiki/Advantage) on [Attack rolls](https://bg3.wiki/wiki/Attack_roll) and receive  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Shifting Corpus Ring](https://bg3.wiki/wiki/Shifting_Corpus_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Ring_A_Simple_Gold_1_Unfaded_Icon.png/50px-Ring_A_Simple_Gold_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Invisibility](https://bg3.wiki/wiki/Invisibility_(spell)) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n\n [Blur](https://bg3.wiki/wiki/Blur) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Till Death Do Us Part](https://bg3.wiki/wiki/Till_Death_Do_Us_Part)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Partner_Ring_A_Unfaded_Icon.png/50px-Partner_Ring_A_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Beacon of Hope](https://bg3.wiki/wiki/Beacon_of_Hope) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[True Love's Caress](https://bg3.wiki/wiki/True_Love%27s_Caress)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Ring_B_1_Unfaded_Icon.png/50px-Ring_B_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Fond Caress](https://bg3.wiki/wiki/Fond_Caress)One of a magical pair of rings, this allows the wearer to receive  [Warding Bond](https://bg3.wiki/wiki/Warding_Bond) from a creature wearing the [matching ring](https://bg3.wiki/wiki/True_Love%27s_Embrace)."
+  },
+  {
+    "name": "[True Love's Embrace](https://bg3.wiki/wiki/True_Love%27s_Embrace)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Ring_B_1_Unfaded_Icon.png/50px-Ring_B_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 70,
+    "effects": "[Intimate Embrace](https://bg3.wiki/wiki/Intimate_Embrace)One of a magical pair of rings, this allows the wearer to cast  [Warding Bond](https://bg3.wiki/wiki/Warding_Bond) once per [Long Rest](https://bg3.wiki/wiki/Long_Rest) on a creature wearing the [matching ring](https://bg3.wiki/wiki/True_Love%27s_Caress)."
+  },
+  {
+    "name": "[Burnished Ring](https://bg3.wiki/wiki/Burnished_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Ring_A_Gem_A_Gold_1_Unfaded_Icon.png/50px-Ring_A_Gem_A_Gold_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 360,
+    "effects": "[Paralyzing Ray](https://bg3.wiki/wiki/Paralyzing_Ray) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Crypt Lord Ring](https://bg3.wiki/wiki/Crypt_Lord_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Ring_I_Gold_A_1_Unfaded_Icon.png/50px-Ring_I_Gold_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 1000,
+    "effects": "[Create Undead](https://bg3.wiki/wiki/Create_Undead) \nCast as a level 6 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Killer's Sweetheart](https://bg3.wiki/wiki/Killer%27s_Sweetheart)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Ring_I_Gold_A_1_Unfaded_Icon.png/50px-Ring_I_Gold_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 140,
+    "effects": "[Executioner](https://bg3.wiki/wiki/Executioner)When you kill a creature, your next [Attack roll](https://bg3.wiki/wiki/Attack_roll) will be a [Critical Hit](https://bg3.wiki/wiki/Critical_Hit). Once spent, this effect refreshes after a [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[Orphic Ring](https://bg3.wiki/wiki/Orphic_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Ring_B_Gem_B_Gold_1_Unfaded_Icon.png/50px-Ring_B_Gem_B_Gold_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 360,
+    "effects": "[Confusion](https://bg3.wiki/wiki/Confusion) \nCast as a level 5 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Ring of Evasion](https://bg3.wiki/wiki/Ring_of_Evasion)",
+    "image": "https://bg3.wiki/w/images/thumb/0/03/Ring_of_Evasion_Unfaded_Icon.png/50px-Ring_of_Evasion_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 140,
+    "effects": "[Dextrous Evasion](https://bg3.wiki/wiki/Dextrous_Evasion)When you fail a  [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw), you can use your  [Reaction](https://bg3.wiki/wiki/Actions#Reactions) to succeed instead."
+  },
+  {
+    "name": "[Ring of Feywild Sparks](https://bg3.wiki/wiki/Ring_of_Feywild_Sparks)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Ring_H_Gold_A_1_Unfaded_Icon.png/50px-Ring_H_Gold_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 140,
+    "effects": "You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC).\n[Feywild Sparks](https://bg3.wiki/wiki/Feywild_Sparks)While your sorcerous  [Tides of Chaos](https://bg3.wiki/wiki/Tides_of_Chaos) feature is active, you will always trigger  [Wild Magic](https://bg3.wiki/wiki/Wild_Magic_(passive_feature)) when casting spells."
+  },
+  {
+    "name": "[Ring of Regeneration](https://bg3.wiki/wiki/Ring_of_Regeneration)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Ring_of_Regeneration_Unfaded_Icon.png/50px-Ring_of_Regeneration_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 360,
+    "effects": "[Combat Regeneration](https://bg3.wiki/wiki/Combat_Regeneration)At the beginning of your turn, the ring activates and heals you 1d4hit points."
+  },
+  {
+    "name": "[Guiding Light](https://bg3.wiki/wiki/Guiding_Light)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Ring_D_Gold_A_1_Unfaded_Icon.png/50px-Ring_D_Gold_A_1_Unfaded_Icon.png",
+    "rare": "story item",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": "[Light](https://bg3.wiki/wiki/Light) \nCast as a cantrip at will."
+  },
+  {
+    "name": "[Guild Ring](https://bg3.wiki/wiki/Guild_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Guild_Ring_Unfaded_Icon.png/50px-Guild_Ring_Unfaded_Icon.png",
+    "rare": "story item",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": ""
+  },
+  {
+    "name": "[Szarr Family Ring](https://bg3.wiki/wiki/Szarr_Family_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/Szarr_Family_Ring_Unfaded_Icon.png/50px-Szarr_Family_Ring_Unfaded_Icon.png",
+    "rare": "story item",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "[Dror Ragzlin](https://bg3.wiki/wiki/Dror_Ragzlin)"
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "[Edowin](https://bg3.wiki/wiki/Edowin)"
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "[Flind](https://bg3.wiki/wiki/Flind)"
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "[Gut](https://bg3.wiki/wiki/Gut)"
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "[Minthara](https://bg3.wiki/wiki/Minthara)"
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "[Nere](https://bg3.wiki/wiki/Nere)"
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "is found in the [Enclave Library](https://bg3.wiki/wiki/Enclave_Library) of the [Druid Grove](https://bg3.wiki/wiki/Druid_Grove) on a table X: -445 Y: 17.",
+    "position": {
+      "x": -445,
+      "y": 17
+    }
+  },
+  {
+    "chapter": 1,
+    "count": 3,
+    "description": "are found in the [Infirmary](https://bg3.wiki/wiki/Cr%C3%A8che_Y%27llek#Infirmary) of Crèche Y'llek, next to the Zaith'isk. Two are around one table X: 1285 Y: -818 and one is on another table X: 1285 Y: -802.",
+    "position": {
+      "x": 1285,
+      "y": -818
+    }
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "Received from Minthara for completing quest [Raid the Emerald Grove](https://bg3.wiki/wiki/Raid_the_Emerald_Grove)."
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "Received from Nere for siding with him after the quest [Free True Soul Nere](https://bg3.wiki/wiki/Free_True_Soul_Nere)."
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "[Krizt](https://bg3.wiki/wiki/Krizt)"
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "[Linsella](https://bg3.wiki/wiki/Linsella)"
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "[Malik](https://bg3.wiki/wiki/Malik_(zealot))"
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "[Marcus](https://bg3.wiki/wiki/Marcus_Falgor)"
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "[Merim](https://bg3.wiki/wiki/Merim)"
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "[Z'rell](https://bg3.wiki/wiki/Z%27rell)"
+  },
+  {
+    "chapter": 2,
+    "count": 2,
+    "description": "are found by taking the [Zhentarim Shipping Crate](https://bg3.wiki/wiki/Zhentarim_Shipping_Crate) X: -71 Y: -187 at the docks of [Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers).",
+    "position": {
+      "x": -71,
+      "y": -187
+    }
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "can be found in Zealot Krizt, who will be guarding the broken bridge X: -100 Y: -149 to Moonrise Towers when first approaching it. If she is not attacked, her corpse X: 625 Y: -87 can be later found in the [Oubliette](https://bg3.wiki/wiki/Oubliette) under Moonrise Towers.",
+    "position": {
+      "x": -100,
+      "y": -149
+    }
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "can be found in a Brine Pool X: 678 Y: 45, after passing a  DC 16 [Perception](https://bg3.wiki/wiki/Perception) [check](https://bg3.wiki/wiki/Ability_check), in the [Mind Flayer Colony](https://bg3.wiki/wiki/Mind_Flayer_Colony) under Moonrise Towers.",
+    "position": {
+      "x": 678,
+      "y": 45
+    }
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "If [Isobel](https://bg3.wiki/wiki/Isobel_Thorm) was abducted from [Last Light Inn](https://bg3.wiki/wiki/Last_Light_Inn) (either dead or alive), she has a parasite on her body when fighting her alongside Ketheric."
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "Completing [Capture Isobel the Selûnite Cleric](https://bg3.wiki/wiki/Capture_Isobel_the_Sel%C3%BBnite_Cleric)."
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "Completing [Find Ketheric Thorm's Relic](https://bg3.wiki/wiki/Find_Ketheric_Thorm%27s_Relic) by allowing [Balthazar](https://bg3.wiki/wiki/Balthazar) to transport the Nightsong to Moonrise Towers."
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "[Avery Sonshal](https://bg3.wiki/wiki/Avery_Sonshal) in [Felogyr's Fireworks](https://bg3.wiki/wiki/Felogyr%27s_Fireworks)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "[Churg Elvek](https://bg3.wiki/wiki/Churg_Elvek) around the [Grey Harbour Docks](https://bg3.wiki/wiki/Grey_Harbour_Docks)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "[Darbonna](https://bg3.wiki/wiki/Darbonna) guarding the entrance to the Upper City near the Baldur's Gate [Waypoint](https://bg3.wiki/wiki/Waypoint)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "[Dravo Flymm](https://bg3.wiki/wiki/Dravo_Flymm) in [Flymm's Cobblers](https://bg3.wiki/wiki/Flymm%27s_Cobblers)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "[Edenosa](https://bg3.wiki/wiki/Edenosa) around [Bloomridge Park](https://bg3.wiki/wiki/Bloomridge_Park)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "[Mibbs](https://bg3.wiki/wiki/Mibbs) guarding the entrance to the Upper City near the Baldur's Gate [Waypoint](https://bg3.wiki/wiki/Waypoint)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "[Sally Flymm](https://bg3.wiki/wiki/Sally_Flymm) in [Flymm's Cobblers](https://bg3.wiki/wiki/Flymm%27s_Cobblers)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found on a barrel X: -225 Y: 108 at the docks in Rivington.",
+    "position": {
+      "x": -225,
+      "y": 108
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found in a locked Gilded Chest X: -32 Y: 219 on the top floor of [Wyrm's Rock Fortress](https://bg3.wiki/wiki/Wyrm%27s_Rock_Fortress), near a bed, where Gortash goes after his coronation. This can be found along with the [Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots).",
+    "position": {
+      "x": -32,
+      "y": 219
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 2,
+    "description": "are found in Storage X: -212 Y: 129 on the ship at the [Western Beach](https://bg3.wiki/wiki/Western_Beach) in Rivington.",
+    "position": {
+      "x": -212,
+      "y": 129
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found on a table X: -9 Y: -92 at [Sorcerous Sundries](https://bg3.wiki/wiki/Sorcerous_Sundries).",
+    "position": {
+      "x": -9,
+      "y": -92
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found next to the Gnarly Cauldron X: -2336 Y: -120 in [The Blushing Mermaid - Basement](https://bg3.wiki/wiki/The_Blushing_Mermaid_-_Basement).",
+    "position": {
+      "x": -2336,
+      "y": -120
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found on a table X: -45 Y: 18 inside a flooded room in the [Iron Throne](https://bg3.wiki/wiki/Iron_Throne).",
+    "position": {
+      "x": -45,
+      "y": 18
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found on a desk X: -208 Y: -86 on the second floor of [The Lodge](https://bg3.wiki/wiki/The_Lodge).",
+    "position": {
+      "x": -208,
+      "y": -86
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found on a table X: -1856 Y: -428 in the Sanguine Laboratory in the cellar of [Crimson Draughts](https://bg3.wiki/wiki/Crimson_Draughts), accessed through a wooden hatchX: -91 Y: -90.",
+    "position": {
+      "x": -1856,
+      "y": -428
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found in High Security Vault n.6 X: -713 Y: 881 in [The Counting House](https://bg3.wiki/wiki/The_Counting_House).",
+    "position": {
+      "x": -713,
+      "y": 881
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "can be found on a table X: -1937 Y: 447 in the Steel Watch Foundry - Lab Level.",
+    "position": {
+      "x": -1937,
+      "y": 447
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 6,
+    "description": "are found in Cargo Shipment X: -202 Y: -125, disguised as Wooden Trunks, on a ship just east of the [Steel Watch Foundry](https://bg3.wiki/wiki/Steel_Watch_Foundry).",
+    "position": {
+      "x": -202,
+      "y": -125
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "A special variant, [Astral-Touched Tadpole](https://bg3.wiki/wiki/Astral-Touched_Tadpole), is given by  [The Emperor](https://bg3.wiki/wiki/The_Emperor) during a story sequence."
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "A special variant, [Mind Flayer Brain](https://bg3.wiki/wiki/Mind_Flayer_Brain), can be found on a [Mind Flayer](https://bg3.wiki/wiki/Mind_Flayer) hiding in the [Windmill Basement](https://bg3.wiki/wiki/Windmill_Basement) of the Abandoned Windmill X: 44 Y: -38 in [Rivington](https://bg3.wiki/wiki/Rivington).",
+    "position": {
+      "x": 44,
+      "y": -38
+    }
+  }
+]

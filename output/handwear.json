@@ -1,0 +1,758 @@
+[
+  {
+    "name": "[Drow Leather Gloves](https://bg3.wiki/wiki/Drow_Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Gloves_Leather_Drow_Unfaded_Icon.png/50px-Gloves_Leather_Drow_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Druidic Bracers](https://bg3.wiki/wiki/Druidic_Bracers)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/Gloves_Leather_Druid_B_Unfaded_Icon.png/50px-Gloves_Leather_Druid_B_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gloves (Equipment)](https://bg3.wiki/wiki/Gloves_(Equipment))",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Gloves_Monk_Unfaded_Icon.png/50px-Gloves_Monk_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gloves (Equipment)](https://bg3.wiki/wiki/Gloves_(Equipment))",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Gloves_Hide_Unfaded_Icon.png/50px-Gloves_Hide_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Bracers](https://bg3.wiki/wiki/Leather_Bracers)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1a/Bracers_Barbarian_Unfaded_Icon.png/50px-Bracers_Barbarian_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Gloves_Leather_3_Unfaded_Icon.png/50px-Gloves_Leather_3_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Gloves_Leather_3_Unfaded_Icon.png/50px-Gloves_Leather_3_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1a/Bracers_Barbarian_Unfaded_Icon.png/50px-Bracers_Barbarian_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Gloves_Leather_3_Unfaded_Icon.png/50px-Gloves_Leather_3_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Gloves_Leather_F_Unfaded_Icon.png/50px-Gloves_Leather_F_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Gloves_Leather_G_Unfaded_Icon.png/50px-Gloves_Leather_G_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Gloves_Leather_D_Unfaded_Icon.png/50px-Gloves_Leather_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Gloves](https://bg3.wiki/wiki/Leather_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/Gloves_Leather_I_Unfaded_Icon.png/50px-Gloves_Leather_I_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Nettie's Gloves](https://bg3.wiki/wiki/Nettie%27s_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Gloves_Leather_3_Unfaded_Icon.png/50px-Gloves_Leather_3_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Braindrain Gloves](https://bg3.wiki/wiki/Braindrain_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Gloves_Leather_H_Unfaded_Icon.png/50px-Gloves_Leather_H_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Mental Interference](https://bg3.wiki/wiki/Mental_Interference)When you deal [Psychic](https://bg3.wiki/wiki/Psychic) damage, you also inflict  [Mental Fatigue](https://bg3.wiki/wiki/Mental_Fatigue_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Dark Justiciar Gauntlets (Uncommon)](https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets_(Uncommon))",
+    "image": "https://bg3.wiki/w/images/thumb/f/ff/Dark_Justiciar_Gauntlets_Unfaded_Icon.png/50px-Dark_Justiciar_Gauntlets_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 110,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Umbral Attack](https://bg3.wiki/wiki/Umbral_Attack)Your weapon attacks deal an additional 1d4Necrotic damage."
+  },
+  {
+    "name": "[Fleetfingers](https://bg3.wiki/wiki/Fleetfingers)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b0/Fleetfingers_Unfaded_Icon.png/50px-Fleetfingers_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Running Jump](https://bg3.wiki/wiki/Running_Jump)Once per turn, after the wearer  [Dashes](https://bg3.wiki/wiki/Dash) or takes a similar action, they can  [Jump](https://bg3.wiki/wiki/Jump_(Running)) without using a  [Bonus Action](https://bg3.wiki/wiki/Actions#Resources)."
+  },
+  {
+    "name": "[Gloves of Archery](https://bg3.wiki/wiki/Gloves_of_Archery)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Gloves_of_Archery_Unfaded_Icon.png/50px-Gloves_of_Archery_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 60,
+    "effects": "[Corellon's Guiding Hand](https://bg3.wiki/wiki/Corellon%27s_Guiding_Hand)You gain [Proficiency](https://bg3.wiki/wiki/Proficiency) with  [Longbows](https://bg3.wiki/wiki/Longbows) and  [Shortbows](https://bg3.wiki/wiki/Shortbows). In addition, your ranged weapon attacks deal an additional 2 damage."
+  },
+  {
+    "name": "[Gloves of Baneful Striking](https://bg3.wiki/wiki/Gloves_of_Baneful_Striking)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Gloves_Leather_B_Unfaded_Icon.png/50px-Gloves_Leather_B_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Baneful Strike](https://bg3.wiki/wiki/Baneful_Strike)Whenever you deal damage with a weapon attack, the target receives a   -1d4 penalty to its  [Saving throw](https://bg3.wiki/wiki/Saving_throw) against your next spell."
+  },
+  {
+    "name": "[Gloves of Belligerent Skies](https://bg3.wiki/wiki/Gloves_of_Belligerent_Skies)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Gloves_of_Belligerent_Skies_Unfaded_Icon.png/50px-Gloves_of_Belligerent_Skies_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Thunderous Conversion](https://bg3.wiki/wiki/Thunderous_Conversion)When the wearer deals [Thunder](https://bg3.wiki/wiki/Thunder), [Lightning](https://bg3.wiki/wiki/Lightning), or [Radiant](https://bg3.wiki/wiki/Radiant) damage, inflict 2 turns of  [Reverberation](https://bg3.wiki/wiki/Reverberation_(Condition)) upon the target(s)."
+  },
+  {
+    "name": "[Gloves of Hail of Thorns](https://bg3.wiki/wiki/Gloves_of_Hail_of_Thorns)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cb/Gloves_Leather_1_Unfaded_Icon.png/50px-Gloves_Leather_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Hail of Thorns](https://bg3.wiki/wiki/Hail_of_Thorns) \nCast as a level 1 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Gloves of Heroism](https://bg3.wiki/wiki/Gloves_of_Heroism)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Gloves_Metal_1_Unfaded_Icon.png/50px-Gloves_Metal_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 110,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Warding Hands](https://bg3.wiki/wiki/Warding_Hands)When you use your [Channel Oath Charge](https://bg3.wiki/wiki/Channel_Oath_Charge) spells, you gain  [Heroism](https://bg3.wiki/wiki/Heroism_(Condition))."
+  },
+  {
+    "name": "[Gloves of Power](https://bg3.wiki/wiki/Gloves_of_Power)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cb/Gloves_Leather_1_Unfaded_Icon.png/50px-Gloves_Leather_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) +1\n[Absolute's Bane](https://bg3.wiki/wiki/Absolute%27s_Bane)On a hit with a weapon attack, possibly inflict a   -1d4 penalty to the target's [Attack rolls](https://bg3.wiki/wiki/Attack_roll) and  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Gloves of the Growling Underdog](https://bg3.wiki/wiki/Gloves_of_the_Growling_Underdog)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f1/Gloves_of_Metal_E_Unfaded_Icon.png/50px-Gloves_of_Metal_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 110,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Underdog's Bravery](https://bg3.wiki/wiki/Underdog%27s_Bravery)The wearer gains  [Advantage](https://bg3.wiki/wiki/Advantage) on melee [Attack rolls](https://bg3.wiki/wiki/Attack_roll) while surrounded by 2 or more foes."
+  },
+  {
+    "name": "[Gloves of Thievery](https://bg3.wiki/wiki/Gloves_of_Thievery)",
+    "image": "https://bg3.wiki/w/images/thumb/4/41/Gloves_of_Thievery_Unfaded_Icon.png/50px-Gloves_of_Thievery_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 60,
+    "effects": "[Advantage](https://bg3.wiki/wiki/Advantage) on [Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) Checks."
+  },
+  {
+    "name": "[Hellrider's Pride](https://bg3.wiki/wiki/Hellrider%27s_Pride)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Gloves_Metal_1_Unfaded_Icon.png/50px-Gloves_Metal_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 110,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Helm's Protection](https://bg3.wiki/wiki/Helm%27s_Protection)When you heal another creature, it gains [Resistance](https://bg3.wiki/wiki/Resistance) to [Bludgeoning](https://bg3.wiki/wiki/Bludgeoning), [Piercing](https://bg3.wiki/wiki/Piercing), and [Slashing](https://bg3.wiki/wiki/Slashing) damage dealt by weapon attacks."
+  },
+  {
+    "name": "[Herbalist's Gloves](https://bg3.wiki/wiki/Herbalist%27s_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cb/Gloves_Leather_1_Unfaded_Icon.png/50px-Gloves_Leather_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Cleansing Touch](https://bg3.wiki/wiki/Cleansing_Touch)If the wearer heals a  [Poisoned](https://bg3.wiki/wiki/Poisoned_(Condition)) creature, it is no longer poisoned."
+  },
+  {
+    "name": "[Ichorous Gloves](https://bg3.wiki/wiki/Ichorous_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Gloves_Leather_2_Unfaded_Icon.png/50px-Gloves_Leather_2_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n0.1 lb",
+    "price": 90,
+    "effects": "[Ichorous Corrosion](https://bg3.wiki/wiki/Ichorous_Corrosion)When the wearer deals [Acid](https://bg3.wiki/wiki/Acid) damage, they also inflict  [Noxious Fumes](https://bg3.wiki/wiki/Noxious_Fumes_(Condition)) on the target(s)."
+  },
+  {
+    "name": "[Knock Knuckle Gloves](https://bg3.wiki/wiki/Knock_Knuckle_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Gloves_Leather_2_Unfaded_Icon.png/50px-Gloves_Leather_2_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) +1\n\n [Knock](https://bg3.wiki/wiki/Knock) ( + )\nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Luminous Gloves](https://bg3.wiki/wiki/Luminous_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Gloves_Metal_D_Unfaded_Icon.png/50px-Gloves_Metal_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 110,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Radiating Orb Gloves](https://bg3.wiki/wiki/Radiating_Orb_Gloves)When the wearer deals [Radiant](https://bg3.wiki/wiki/Radiant) damage, the target receives 2 turn of  [Radiating Orb](https://bg3.wiki/wiki/Radiating_Orb_(Condition))."
+  },
+  {
+    "name": "[Reason's Grasp](https://bg3.wiki/wiki/Reason%27s_Grasp)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0f/Reasons_Grasp_Unfaded_Icon.png/50px-Reasons_Grasp_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Ever Vigilant](https://bg3.wiki/wiki/Ever_Vigilant)When the wearer chooses to  [End their Rage](https://bg3.wiki/wiki/End_Rage), they gain  15 [temporary hit points](https://bg3.wiki/wiki/Temporary_Hit_Points)."
+  },
+  {
+    "name": "[Thermoarcanic Gloves](https://bg3.wiki/wiki/Thermoarcanic_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Gloves_Leather_G_Unfaded_Icon.png/50px-Gloves_Leather_G_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Arcane Ashes](https://bg3.wiki/wiki/Arcane_Ashes)Whenever you deal [Fire](https://bg3.wiki/wiki/Fire) damage, you gain 2 turns of  [Heat](https://bg3.wiki/wiki/Heat_(Condition))."
+  },
+  {
+    "name": "[Unlucky Thief's Gloves](https://bg3.wiki/wiki/Unlucky_Thief%27s_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Gloves_Monk_Unfaded_Icon.png/50px-Gloves_Monk_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1,
+    "effects": "[Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) +2\nAdds a piece of [Charcoal](https://bg3.wiki/wiki/Charcoal) to the wearer's inventory for each item they steal.\nAfter stealing 20 times, the next steal will add a [Coal Bucket](https://bg3.wiki/wiki/Coal_Bucket) instead, which inflicts the  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) condition to the player for  Duration: 1 turn."
+  },
+  {
+    "name": "[Winter's Clutches](https://bg3.wiki/wiki/Winter%27s_Clutches)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Gloves_Leather_F_Unfaded_Icon.png/50px-Gloves_Leather_F_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Winter's Clutches](https://bg3.wiki/wiki/Winter%27s_Clutches_(passive_feature))When the wearer deals [Cold](https://bg3.wiki/wiki/Cold) damage, inflict 2 turns of  [Encrusted with Frost](https://bg3.wiki/wiki/Encrusted_with_Frost_(Condition)) upon the target(s)."
+  },
+  {
+    "name": "[Bracers of Defence](https://bg3.wiki/wiki/Bracers_of_Defence)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a2/Bracers_of_Defence_Unfaded_Icon.png/50px-Bracers_of_Defence_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Become the Bulwark](https://bg3.wiki/wiki/Become_the_Bulwark)You gain a +2 bonus to  [Armour Class](https://bg3.wiki/wiki/Armour_Class) as long as you are not wearing [armour](https://bg3.wiki/wiki/Armour) or holding a [shield](https://bg3.wiki/wiki/Shields)."
+  },
+  {
+    "name": "[Cerebral Citadel Gloves](https://bg3.wiki/wiki/Cerebral_Citadel_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Gloves_Metal_H_Unfaded_Icon.png/50px-Gloves_Metal_H_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 290,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Illithid Euphoria](https://bg3.wiki/wiki/Illithid_Euphoria) [Charm](https://bg3.wiki/wiki/Charmed_(Condition)) or  [Frighten](https://bg3.wiki/wiki/Frightened_(Condition)) a creature to gain a   1d4 bonus to [Attack rolls](https://bg3.wiki/wiki/Attack_roll) and  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Cindersnap Gloves](https://bg3.wiki/wiki/Cindersnap_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Gloves_Leather_E_Unfaded_Icon.png/50px-Gloves_Leather_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Protection from Missiles](https://bg3.wiki/wiki/Protection_from_Missiles) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Craterflesh Gloves](https://bg3.wiki/wiki/Craterflesh_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Gloves_Metal_C_Unfaded_Icon.png/50px-Gloves_Metal_C_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 290,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Craterous Wounds](https://bg3.wiki/wiki/Craterous_Wounds)Whenever you score a [Critical Hit](https://bg3.wiki/wiki/Critical_Hit), deal an additional 1d6Force[DRS](https://bg3.wiki/wiki/Damage_rider_as_source) damage."
+  },
+  {
+    "name": "[Daredevil Gloves](https://bg3.wiki/wiki/Daredevil_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Gloves_Leather_D_Unfaded_Icon.png/50px-Gloves_Leather_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Doom Lobber](https://bg3.wiki/wiki/Doom_Lobber)The wearer gains a +1 bonus to [Spell Attack Rolls](https://bg3.wiki/wiki/Spell_Attack_Roll). [Daredevil Proximity](https://bg3.wiki/wiki/Daredevil_Proximity)Your Ranged [Spell Attacks](https://bg3.wiki/wiki/Spell_Attack) are made as melee spell attacks when you are adjacent to a hostile creature. This effect can be toggled off."
+  },
+  {
+    "name": "[Dark Displacement Gloves](https://bg3.wiki/wiki/Dark_Displacement_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Gloves_Leather_H_Unfaded_Icon.png/50px-Gloves_Leather_H_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) +1\n[Subtle Swap](https://bg3.wiki/wiki/Subtle_Swap)You gain a +1 bonus to [Attack rolls](https://bg3.wiki/wiki/Attack_roll) when throwing, and may swap positions with the target if they fail a  [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Dark Justiciar Gauntlets (Rare)](https://bg3.wiki/wiki/Dark_Justiciar_Gauntlets_(Rare))",
+    "image": "https://bg3.wiki/w/images/thumb/f/ff/Dark_Justiciar_Gauntlets_Unfaded_Icon.png/50px-Dark_Justiciar_Gauntlets_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 290,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n\n [Beckoning Darkness](https://bg3.wiki/wiki/Beckoning_Darkness) \nCast as a level 4 spell at will.\n\n[Umbral Attack](https://bg3.wiki/wiki/Umbral_Attack)Your weapon attacks deal an additional 1d4Necrotic damage."
+  },
+  {
+    "name": "[Flawed Helldusk Gloves](https://bg3.wiki/wiki/Flawed_Helldusk_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/7/72/Flawed_Helldusk_Gloves_Unfaded_Icon.png/50px-Flawed_Helldusk_Gloves_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 290,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Lesser Infernal Touch](https://bg3.wiki/wiki/Lesser_Infernal_Touch)Your weapon attacks deal an additional 1d4Fire damage. Your unarmed attacks deal an additional 1d4Necrotic damage, and can possibly inflict  [Bleeding](https://bg3.wiki/wiki/Bleeding_(Condition))."
+  },
+  {
+    "name": "[Gloves of Battlemage's Power](https://bg3.wiki/wiki/Gloves_of_Battlemage%27s_Power)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8f/Gloves_Metal_I_Unfaded_Icon.png/50px-Gloves_Metal_I_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 290,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Battlemage's Power](https://bg3.wiki/wiki/Battlemage%27s_Power)When you hit a target with a spell or cantrip that uses a weapon, you gain  [Arcane Acuity](https://bg3.wiki/wiki/Arcane_Acuity_(Condition))."
+  },
+  {
+    "name": "[Gloves of Cinder and Sizzle](https://bg3.wiki/wiki/Gloves_of_Cinder_and_Sizzle)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png/50px-Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Scorching Ray](https://bg3.wiki/wiki/Scorching_Ray) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Dragonfire Fists](https://bg3.wiki/wiki/Dragonfire_Fists)Your unarmed attacks deal an additional 1d4Fire."
+  },
+  {
+    "name": "[Gloves of Crushing](https://bg3.wiki/wiki/Gloves_of_Crushing)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Gloves_Monk_Unfaded_Icon.png/50px-Gloves_Monk_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Crushing Blows](https://bg3.wiki/wiki/Crushing_Blows)The wearer gains a +1 bonus to unarmed [Attack rolls](https://bg3.wiki/wiki/Attack_roll) and their unarmed attacks deal an additional 2Bludgeoning damage."
+  },
+  {
+    "name": "[Gloves of Missile Snaring](https://bg3.wiki/wiki/Gloves_of_Missile_Snaring)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0e/Gloves_of_Missile_Snaring_Unfaded_Icon.png/50px-Gloves_of_Missile_Snaring_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Missile Snaring](https://bg3.wiki/wiki/Missile_Snaring) \nYou can intercept missiles from ranged weapon attacks with a  [Reaction](https://bg3.wiki/wiki/Actions#Reactions), reducing their damage by  1d10 + your [Dexterity modifier](https://bg3.wiki/wiki/Ability_Score_Modifier)."
+  },
+  {
+    "name": "[Gloves of the Automaton](https://bg3.wiki/wiki/Gloves_of_the_Automaton)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Gloves_Metal_1_Unfaded_Icon.png/50px-Gloves_Metal_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 290,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength) [saving throws](https://bg3.wiki/wiki/Saving_throw) +1.\n\n [Circuitry Interface](https://bg3.wiki/wiki/Circuitry_Interface) \nYou are considered a [construct](https://bg3.wiki/wiki/Construct). Your weapon [Attack rolls](https://bg3.wiki/wiki/Attack_roll) have  [Advantage](https://bg3.wiki/wiki/Advantage), and you have [resistance](https://bg3.wiki/wiki/Resistance) to [Lightning](https://bg3.wiki/wiki/Lightning) damage. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Gloves of the Balanced Hands](https://bg3.wiki/wiki/Gloves_of_the_Balanced_Hands)",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Gloves_Leather_H_Unfaded_Icon.png/50px-Gloves_Leather_H_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Two-Weapon Fighting](https://bg3.wiki/wiki/Two-Weapon_Fighting)When you make an offhand attack, you can add your [Ability Score Modifier](https://bg3.wiki/wiki/Ability_Score_Modifier) to the damage of the attack."
+  },
+  {
+    "name": "[Gloves of The Duellist](https://bg3.wiki/wiki/Gloves_of_The_Duellist)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Gloves_Leather_F_Unfaded_Icon.png/50px-Gloves_Leather_F_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Duelling Gloves](https://bg3.wiki/wiki/Duelling_Gloves)While only holding one weapon in your main hand and nothing in your free hand, gain a +2 bonus to melee weapon [Attack rolls](https://bg3.wiki/wiki/Attack_roll)."
+  },
+  {
+    "name": "[Gloves of Uninhibited Kushigo](https://bg3.wiki/wiki/Gloves_of_Uninhibited_Kushigo)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png/50px-Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Kushigo's Might](https://bg3.wiki/wiki/Kushigo%27s_Might)The wearer deals an additional   1d4 damage with  [Throw](https://bg3.wiki/wiki/Throw) Attacks and attacks made with  [Improvised Weapons](https://bg3.wiki/wiki/Improvised_Melee_Weapon)."
+  },
+  {
+    "name": "[Jhannyl's Gloves](https://bg3.wiki/wiki/Jhannyl%27s_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Gloves_Leather_3_Unfaded_Icon.png/50px-Gloves_Leather_3_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Defy Villainy](https://bg3.wiki/wiki/Defy_Villainy)When the wearer becomes  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition)),  [Paralysed](https://bg3.wiki/wiki/Paralysed_(Condition)) or  [Poisoned](https://bg3.wiki/wiki/Poisoned_(Condition)), they automatically cast  [Lesser Restoration](https://bg3.wiki/wiki/Lesser_Restoration) on themselves."
+  },
+  {
+    "name": "[Martial Exertion Gloves](https://bg3.wiki/wiki/Martial_Exertion_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Gloves_Leather_F_Unfaded_Icon.png/50px-Gloves_Leather_F_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Martial Exertion](https://bg3.wiki/wiki/Martial_Exertion) \nPush past your physical limits, taking 6d6Piercing damage to gain an additional attack per turn and to double your [movement speed](https://bg3.wiki/wiki/Movement_Speed). ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Nimblefinger Gloves](https://bg3.wiki/wiki/Nimblefinger_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Gloves_Leather_G_Unfaded_Icon.png/50px-Gloves_Leather_G_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) +1\n[Nimblefinger](https://bg3.wiki/wiki/Nimblefinger)[Gnomes](https://bg3.wiki/wiki/Gnome) are granted +2 to [Dexterity](https://bg3.wiki/wiki/Dexterity). [Halflings](https://bg3.wiki/wiki/Halfling) and [Dwarves](https://bg3.wiki/wiki/Dwarf) gain +1 Dexterity."
+  },
+  {
+    "name": "[Poisoner's Gloves](https://bg3.wiki/wiki/Poisoner%27s_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Gloves_Leather_E_Unfaded_Icon.png/50px-Gloves_Leather_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Envenom](https://bg3.wiki/wiki/Envenom)Whenever you deal [Poison](https://bg3.wiki/wiki/Poison) damage, the target needs to succeed a  [Constitution](https://bg3.wiki/wiki/Constitution) [saving throw](https://bg3.wiki/wiki/Saving_throw) or become  [Poisoned](https://bg3.wiki/wiki/Poisoned_(Condition))."
+  },
+  {
+    "name": "[Raven Gloves](https://bg3.wiki/wiki/Raven_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Gloves_Leather_E_Unfaded_Icon.png/50px-Gloves_Leather_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Summon Quothe the Raven](https://bg3.wiki/wiki/Summon_Quothe_the_Raven) \nCast as a level 3 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Seraphic Pugilist Gloves](https://bg3.wiki/wiki/Seraphic_Pugilist_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/Seraphic_Pugilist_Gloves_Unfaded_Icon.png/50px-Seraphic_Pugilist_Gloves_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Guiding Bolt](https://bg3.wiki/wiki/Guiding_Bolt) \nCast as a level 4 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Angelclocker Knuckles](https://bg3.wiki/wiki/Angelclocker_Knuckles)Your unarmed attacks deal an additional 1d4Radiant damage."
+  },
+  {
+    "name": "[Servitor of the Black Hand Gloves](https://bg3.wiki/wiki/Servitor_of_the_Black_Hand_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png/50px-Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Fear](https://bg3.wiki/wiki/Fear) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Enervating Suffusion](https://bg3.wiki/wiki/Enervating_Suffusion)Your unarmed attacks deal an additional 1d4Force damage."
+  },
+  {
+    "name": "[Snow-Dusted Monastery Gloves](https://bg3.wiki/wiki/Snow-Dusted_Monastery_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png/50px-Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 450,
+    "effects": "[Ice Knife](https://bg3.wiki/wiki/Ice_Knife) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Chilling Strike](https://bg3.wiki/wiki/Chilling_Strike)Your unarmed attacks deal an additional 1d4Cold damage."
+  },
+  {
+    "name": "[Spellseeking Gloves](https://bg3.wiki/wiki/Spellseeking_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Spellseeking_Gloves_Unfaded_Icon.png/50px-Spellseeking_Gloves_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Seeking Spell](https://bg3.wiki/wiki/Seeking_Spell)When you make a [Spell Attack Roll](https://bg3.wiki/wiki/Spell_Attack_Roll), you can spend a  [Sorcery Point](https://bg3.wiki/wiki/Sorcerer#Level_2) to gain  [Advantage](https://bg3.wiki/wiki/Advantage). This costs 1 Sorcery Point per spell slot Level. [Cantrips](https://bg3.wiki/wiki/Cantrip) cost 1 Sorcery Point."
+  },
+  {
+    "name": "[Stalker Gloves](https://bg3.wiki/wiki/Stalker_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Gloves_Leather_F_Unfaded_Icon.png/50px-Gloves_Leather_F_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 400,
+    "effects": "[Seldom Caught Unawares](https://bg3.wiki/wiki/Seldom_Caught_Unawares_(%2B1))You gain a +1 bonus to  [Initiative rolls](https://bg3.wiki/wiki/Initiative).[Skullduggery Attack](https://bg3.wiki/wiki/Skullduggery_Attack)Your  [Sneak Attack](https://bg3.wiki/wiki/Sneak_Attack) deals an additional 1d4Force[DRS](https://bg3.wiki/wiki/Damage_rider_as_source) damage."
+  },
+  {
+    "name": "[Swordmaster Gloves](https://bg3.wiki/wiki/Swordmaster_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Gloves_Leather_G_Unfaded_Icon.png/50px-Gloves_Leather_G_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Sword Mastery](https://bg3.wiki/wiki/Sword_Mastery)You gain [Proficiency](https://bg3.wiki/wiki/Proficiency) with  [shortswords](https://bg3.wiki/wiki/Shortswords),  [longswords](https://bg3.wiki/wiki/Longswords), and  [greatswords](https://bg3.wiki/wiki/Greatswords). In addition, you gain a +1 bonus to melee [Attack rolls](https://bg3.wiki/wiki/Attack_roll)."
+  },
+  {
+    "name": "[The Sparkle Hands](https://bg3.wiki/wiki/The_Sparkle_Hands)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/The_Sparkle_Hands_Unfaded_Icon.png/50px-The_Sparkle_Hands_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 110,
+    "effects": "[Conductive Strikes](https://bg3.wiki/wiki/Conductive_Strikes)On a hit with an unarmed attack, the wearer gains 2  [Lightning Charges](https://bg3.wiki/wiki/Lightning_Charges_(Condition)).[Effective Transmitter](https://bg3.wiki/wiki/Effective_Transmitter)While imbued with  [Lightning Charges](https://bg3.wiki/wiki/Lightning_Charges_(Condition)), attacks against metal [constructs](https://bg3.wiki/wiki/Construct) and foes wearing metal armour gain  [Advantage](https://bg3.wiki/wiki/Advantage)."
+  },
+  {
+    "name": "[Thunderpalm Strikers](https://bg3.wiki/wiki/Thunderpalm_Strikers)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b7/Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png/50px-Gloves_of_Cinder_and_Sizzle_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 450,
+    "effects": "[Thunderwave](https://bg3.wiki/wiki/Thunderwave) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Booming Blows](https://bg3.wiki/wiki/Booming_Blows)Your unarmed attacks deal an additional 1d4Thunder damage."
+  },
+  {
+    "name": "[Winkling Gloves](https://bg3.wiki/wiki/Winkling_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Gloves_Leather_2_Unfaded_Icon.png/50px-Gloves_Leather_2_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Sleight of Hand](https://bg3.wiki/wiki/Sleight_of_Hand) +1\n[Attack rolls](https://bg3.wiki/wiki/Attacks#Attack_rolls) +1"
+  },
+  {
+    "name": "[Wondrous Gloves](https://bg3.wiki/wiki/Wondrous_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Gloves_Leather_E_Unfaded_Icon.png/50px-Gloves_Leather_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Troubadour's Wonder](https://bg3.wiki/wiki/Troubadour%27s_Wonder)Your  [Armour Class](https://bg3.wiki/wiki/Armour_Class) increases by 1. In addition, if you have  [Bardic Inspiration](https://bg3.wiki/wiki/Bardic_Inspiration_(class_action)), you gain 1 more use of it."
+  },
+  {
+    "name": "[Abyss Beckoners](https://bg3.wiki/wiki/Abyss_Beckoners)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Gloves_Leather_F_Unfaded_Icon.png/50px-Gloves_Leather_F_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 450,
+    "effects": "[Demonspirit Aura](https://bg3.wiki/wiki/Demonspirit_Aura)The wearer's summoned creatures have [resistance](https://bg3.wiki/wiki/Resistance) to all damage except [Psychic](https://bg3.wiki/wiki/Psychic) damage.\n\nAt the start of the summoned creatures turn, it must succeed a  [Wisdom](https://bg3.wiki/wiki/Wisdom) [saving throw](https://bg3.wiki/wiki/Saving_throw) or be driven  [Mad](https://bg3.wiki/wiki/Demonspirit_Madness_(Condition))."
+  },
+  {
+    "name": "[Bhaalist Gloves](https://bg3.wiki/wiki/Bhaalist_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Gloves_Leather_G_Unfaded_Icon.png/50px-Gloves_Leather_G_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 540,
+    "effects": "[Attack rolls](https://bg3.wiki/wiki/Attack_roll) +1\n\n\n [Garrotte](https://bg3.wiki/wiki/Garrotte) \nWraps a shadow rope around a [Humanoid](https://bg3.wiki/wiki/Humanoid) creature's throat to start  [Garrotting](https://bg3.wiki/wiki/Garrotted_(Condition)) it. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Bonespike Gloves](https://bg3.wiki/wiki/Bonespike_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/1/11/Gloves_Barbarian_Magic_B_Unfaded_Icon.png/50px-Gloves_Barbarian_Magic_B_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Exoskeletal Reinforcement](https://bg3.wiki/wiki/Exoskeletal_Reinforcement)Your attacks ignore [Resistance](https://bg3.wiki/wiki/Resistance) to [Slashing](https://bg3.wiki/wiki/Slashing), [Piercing](https://bg3.wiki/wiki/Piercing), and [Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) damage."
+  },
+  {
+    "name": "[Gauntlet of the Tyrant](https://bg3.wiki/wiki/Gauntlet_of_the_Tyrant)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e7/Gauntlet_of_the_Tyrant_Unfaded_Icon.png/50px-Gauntlet_of_the_Tyrant_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Command](https://bg3.wiki/wiki/Command) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Enervating Suffusion](https://bg3.wiki/wiki/Enervating_Suffusion)Your unarmed attacks deal an additional 1d4Force damage.[High Spellcasting](https://bg3.wiki/wiki/High_Spellcasting_(%2B1))You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC)."
+  },
+  {
+    "name": "[Gauntlets of Hill Giant Strength](https://bg3.wiki/wiki/Gauntlets_of_Hill_Giant_Strength)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/Gauntlets_of_Hill_Giant_Strength_Unfaded_Icon.png/50px-Gauntlets_of_Hill_Giant_Strength_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 540,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\nSet the wearer's  [Strength](https://bg3.wiki/wiki/Strength) to 23. The enchantment has no effect if their Strength score is higher without it."
+  },
+  {
+    "name": "[Gemini Gloves](https://bg3.wiki/wiki/Gemini_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/9/96/Gemini_Gloves_Unfaded_Icon.png/50px-Gemini_Gloves_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 460,
+    "effects": "[Adroit Caster](https://bg3.wiki/wiki/Adroit_Caster)[Cantrips](https://bg3.wiki/wiki/Cantrip) targeting foes and allies can target an additional creature. The same target can be chosen twice. Usable once per short rest."
+  },
+  {
+    "name": "[Gloves of Dexterity](https://bg3.wiki/wiki/Gloves_of_Dexterity)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Gloves_Leather_2_Unfaded_Icon.png/50px-Gloves_Leather_2_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "Set the wearer's  [Dexterity](https://bg3.wiki/wiki/Dexterity) score to 18. The enchantment has no effect if their Dexterity score is higher without it.\n[Attack rolls](https://bg3.wiki/wiki/Attacks#Attack_rolls) +1"
+  },
+  {
+    "name": "[Helldusk Gloves](https://bg3.wiki/wiki/Helldusk_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Helldusk_Gloves_Unfaded_Icon.png/50px-Helldusk_Gloves_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 540,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength) [saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n\n [Rays of Fire](https://bg3.wiki/wiki/Rays_of_Fire_(Cantrip)) \nCast as a cantrip ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Infernal Acuity](https://bg3.wiki/wiki/Infernal_Acuity)You gain +1 bonus to [Spell Attack Rolls](https://bg3.wiki/wiki/Spell_Attack_Roll) and [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC).[Infernal Touch](https://bg3.wiki/wiki/Infernal_Touch)Your weapon attacks deal an additional 1d6Fire damage. Your unarmed attacks deal an additional 1d6Necrotic damage, and can possibly inflict  [Bleeding](https://bg3.wiki/wiki/Bleeding_(Condition))."
+  },
+  {
+    "name": "[Hr'a'cknir Bracers](https://bg3.wiki/wiki/Hr%27a%27cknir_Bracers)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Hr%27a%27cknir_Bracers_Unfaded_Icon.png/50px-Hr%27a%27cknir_Bracers_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 540,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n\n [Telekinesis](https://bg3.wiki/wiki/Telekinesis) \nCast as a level 5 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Quickened Mage Hand](https://bg3.wiki/wiki/Quickened_Mage_Hand)You can cast  [Mage Hand](https://bg3.wiki/wiki/Mage_Hand) as a  [Bonus Action](https://bg3.wiki/wiki/Actions#Resources)."
+  },
+  {
+    "name": "[Quickspell Gloves](https://bg3.wiki/wiki/Quickspell_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Gloves_Leather_D_Unfaded_Icon.png/50px-Gloves_Leather_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Quickspell Flinger](https://bg3.wiki/wiki/Quickspell_Flinger)[Cantrips](https://bg3.wiki/wiki/Cantrip) that cost an  [Action](https://bg3.wiki/wiki/Actions#Resources) cost a  [Bonus Action](https://bg3.wiki/wiki/Actions#Resources) instead. This effect can be used once per [Short Rest](https://bg3.wiki/wiki/Short_Rest)."
+  },
+  {
+    "name": "[Spellmight Gloves](https://bg3.wiki/wiki/Spellmight_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Gloves_Leather_D_Unfaded_Icon.png/50px-Gloves_Leather_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Spellmight](https://bg3.wiki/wiki/Spellmight)When casting a spell that requires an [Attack roll](https://bg3.wiki/wiki/Attack_roll), you can take a -5 penalty to the roll to deal an additional   1d8 damage."
+  },
+  {
+    "name": "[Gloves of Soul Catching](https://bg3.wiki/wiki/Gloves_of_Soul_Catching)",
+    "image": "https://bg3.wiki/w/images/thumb/1/11/Gloves_of_Soul_Catching_Unfaded_Icon.png/50px-Gloves_of_Soul_Catching_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "legendary",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 960,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution) +2, up to 20.\n[Soul Fist](https://bg3.wiki/wiki/Soul_Fist)Your unarmed attacks deal an additional 1d10Force damage.[Soul Catching](https://bg3.wiki/wiki/Soul_Catching)Once per turn, on an unarmed hit, you regain 10hit points. Alternatively, you may forego healing to gain a +5 bonus on an [Attack roll](https://bg3.wiki/wiki/Attack_roll) or  [Saving throw](https://bg3.wiki/wiki/Saving_throw) until the end of your next turn."
+  },
+  {
+    "name": "[Metallic Gloves](https://bg3.wiki/wiki/Metallic_Gloves)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/Gloves_Metal_Unfaded_Icon.png/50px-Gloves_Metal_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 40,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Blackguard's Gauntlets](https://bg3.wiki/wiki/Blackguard%27s_Gauntlets)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f1/Gloves_of_Metal_E_Unfaded_Icon.png/50px-Gloves_of_Metal_E_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 800,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Attack rolls](https://bg3.wiki/wiki/Attacks#Attack_rolls) +1\n\n [Inflict Wounds](https://bg3.wiki/wiki/Inflict_Wounds) \nCast as a level 4 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Gauntlets of Surging Accuracy](https://bg3.wiki/wiki/Gauntlets_of_Surging_Accuracy)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Gloves_Scalemail_A_Unfaded_Icon.png/50px-Gloves_Scalemail_A_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Surge Accuracy](https://bg3.wiki/wiki/Surge_Accuracy)When you use  [Action Surge](https://bg3.wiki/wiki/Action_Surge_(Condition)), gain a   +1d4 bonus to [Attack rolls](https://bg3.wiki/wiki/Attack_roll) for the rest of your turn."
+  },
+  {
+    "name": "[Unwanted Masterwork Gauntlets](https://bg3.wiki/wiki/Unwanted_Masterwork_Gauntlets)",
+    "image": "https://bg3.wiki/w/images/thumb/2/23/Unwanted_Masterwork_Gauntlets_Unfaded_Icon.png/50px-Unwanted_Masterwork_Gauntlets_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Attack rolls](https://bg3.wiki/wiki/Attacks#Attack_rolls) +1\n[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Gauntlets of the Warmaster](https://bg3.wiki/wiki/Gauntlets_of_the_Warmaster)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f1/Gloves_of_Metal_E_Unfaded_Icon.png/50px-Gloves_of_Metal_E_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1600,
+    "effects": "[Attack rolls](https://bg3.wiki/wiki/Attacks#Attack_rolls) +1\n[Heightened Manoeuvre](https://bg3.wiki/wiki/Heightened_Manoeuvre)Targets have  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against your [Manoeuvre](https://bg3.wiki/wiki/Battle_Master#Level_3) and [Weapon Actions](https://bg3.wiki/wiki/Weapon_Actions)."
+  },
+  {
+    "name": "[Legacy of the Masters](https://bg3.wiki/wiki/Legacy_of_the_Masters)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Gloves_Metal_C_Unfaded_Icon.png/50px-Gloves_Metal_C_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 570,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Arming Enhancement](https://bg3.wiki/wiki/Arming_Enhancement)Gain a +2 Bonus to [Attack roll](https://bg3.wiki/wiki/Attack_roll) and [damage rolls](https://bg3.wiki/wiki/Damage_Roll) with weapons."
+  },
+  {
+    "name": "[The Reviving Hands](https://bg3.wiki/wiki/The_Reviving_Hands)",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Gloves_Metal_D_Unfaded_Icon.png/50px-Gloves_Metal_D_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 570,
+    "effects": "[Strength](https://bg3.wiki/wiki/Strength)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n\n [Revivify](https://bg3.wiki/wiki/Revivify) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Aegis Palms](https://bg3.wiki/wiki/Aegis_Palms)When you heal a creature, it gains the effect of  [Blade Ward](https://bg3.wiki/wiki/Blade_Ward). When you  [Revive](https://bg3.wiki/wiki/Revivify) a creature it gains the effect of  [Death Ward](https://bg3.wiki/wiki/Death_Ward)."
+  }
+]

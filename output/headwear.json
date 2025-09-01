@@ -1,0 +1,884 @@
+[
+  {
+    "name": "[Bicorne of the Sea Beast](https://bg3.wiki/wiki/Bicorne_of_the_Sea_Beast)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Bicorne_of_the_Sea_Beast_Unfaded_Icon.png/50px-Bicorne_of_the_Sea_Beast_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1,
+    "effects": ""
+  },
+  {
+    "name": "[Brimmed Hat](https://bg3.wiki/wiki/Brimmed_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/Brimmed_Hat_Unfaded_Icon.png/50px-Brimmed_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Bycocket](https://bg3.wiki/wiki/Bycocket)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Generated_ARM_Hat_Wizard_C_Unfaded_Icon.png/50px-Generated_ARM_Hat_Wizard_C_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Cap and Bells](https://bg3.wiki/wiki/Cap_and_Bells)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f1/Cap_and_Bells_Unfaded_Icon.png/50px-Cap_and_Bells_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Circlet](https://bg3.wiki/wiki/Circlet)",
+    "image": "https://bg3.wiki/w/images/thumb/2/21/Circlet_Unfaded_Icon.png/50px-Circlet_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Devilfoil Mask](https://bg3.wiki/wiki/Devilfoil_Mask)",
+    "image": "https://bg3.wiki/w/images/thumb/0/03/Devilfoil_Mask_Unfaded_Icon.png/50px-Devilfoil_Mask_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 50,
+    "effects": "[Infernal Legion](https://bg3.wiki/wiki/Infernal_Legion)Grants the  [Infernal Legion](https://bg3.wiki/wiki/Infernal_Legion_(Condition)) condition while worn."
+  },
+  {
+    "name": "[Embroidered Bycocket](https://bg3.wiki/wiki/Embroidered_Bycocket)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Embroidered_Bycocket_Unfaded_Icon.png/50px-Embroidered_Bycocket_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Embroidered Hat](https://bg3.wiki/wiki/Embroidered_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5d/Generated_ARM_Hat_Wizard_E_Unfaded_Icon.png/50px-Generated_ARM_Hat_Wizard_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Frumpy Hat](https://bg3.wiki/wiki/Frumpy_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Frumpy_Hat_Unfaded_Icon.png/50px-Frumpy_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Hat of Eminent Giggles](https://bg3.wiki/wiki/Hat_of_Eminent_Giggles)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/Item_ARM_Hat_Circushat_Unfaded_Icon.png/50px-Item_ARM_Hat_Circushat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Ignoble Hat](https://bg3.wiki/wiki/Ignoble_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3b/Ignoble_Hat_Unfaded_Icon.png/50px-Ignoble_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Old Floppy Hat](https://bg3.wiki/wiki/Old_Floppy_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3b/Old_Floppy_Hat_Unfaded_Icon.png/50px-Old_Floppy_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Rufflesome Blaggart Hat](https://bg3.wiki/wiki/Rufflesome_Blaggart_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/Rufflesome_Blaggart_Hat_Unfaded_Icon.png/50px-Rufflesome_Blaggart_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Snakeskin Hat](https://bg3.wiki/wiki/Snakeskin_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1c/Generated_ARM_Hat_Wizard_H_Unfaded_Icon.png/50px-Generated_ARM_Hat_Wizard_H_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Whispering Mask](https://bg3.wiki/wiki/Whispering_Mask)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d5/Whispering_Mask_Unfaded_Icon.png/50px-Whispering_Mask_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1,
+    "effects": "If Ethel is dead:  [Uncanny Sight](https://bg3.wiki/wiki/Uncanny_Sight_(Condition))\n\nCan see objects hidden to the unaided eye.\n\n \n[Part of the Flock](https://bg3.wiki/wiki/Part_of_the_Flock)Auntie Ethel welcomes you, dearie."
+  },
+  {
+    "name": "[Wide-Brimmed Hat](https://bg3.wiki/wiki/Wide-Brimmed_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Wide-Brimmed_Hat_Unfaded_Icon.png/50px-Wide-Brimmed_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Wizard Hat](https://bg3.wiki/wiki/Wizard_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Generated_ARM_Hat_Wizard_A_Unfaded_Icon.png/50px-Generated_ARM_Hat_Wizard_A_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Browbeaten Circlet](https://bg3.wiki/wiki/Browbeaten_Circlet)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Browbeaten_Circlet_Unfaded_Icon.png/50px-Browbeaten_Circlet_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1.0 lb",
+    "price": 90,
+    "effects": "[Browbeaten](https://bg3.wiki/wiki/Browbeaten)The wearer gains a +1 bonus to [spell save DC](https://bg3.wiki/wiki/Spell_Save_DC) while  [Threatened](https://bg3.wiki/wiki/Threatened_(Condition))."
+  },
+  {
+    "name": "[Cap of Curing](https://bg3.wiki/wiki/Cap_of_Curing)",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/Cap_of_Curing_Unfaded_Icon.png/50px-Cap_of_Curing_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Soothing Songs](https://bg3.wiki/wiki/Soothing_Songs)When you inspire an ally using  [Bardic Inspiration](https://bg3.wiki/wiki/Bardic_Inspiration_(class_action)), they also regain 1d6hit points."
+  },
+  {
+    "name": "[Coldbrim Hat](https://bg3.wiki/wiki/Coldbrim_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Wizard_Hat_Unfaded_Icon.png/50px-Wizard_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Coldbrim Chill](https://bg3.wiki/wiki/Coldbrim_Chill)Once per turn, any condition inflicted on a target, also applies 2 turns of  [Encrusted with Frost](https://bg3.wiki/wiki/Encrusted_with_Frost_(Condition)).[[See: Bugs](https://bg3.wiki/wiki/Coldbrim_Chill#Bugs)]"
+  },
+  {
+    "name": "[Hat of Fire Acuity](https://bg3.wiki/wiki/Hat_of_Fire_Acuity)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Wizard_Hat_Unfaded_Icon.png/50px-Wizard_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Fire Acuity](https://bg3.wiki/wiki/Fire_Acuity)Whenever you deal [Fire](https://bg3.wiki/wiki/Fire) damage, you gain  [Arcane Acuity](https://bg3.wiki/wiki/Arcane_Acuity_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Hat of Storm Scion's Power](https://bg3.wiki/wiki/Hat_of_Storm_Scion%27s_Power)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Wizard_Hat_Unfaded_Icon.png/50px-Wizard_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Thunderous Acuity](https://bg3.wiki/wiki/Thunderous_Acuity)Whenever the wearer deals [Thunder](https://bg3.wiki/wiki/Thunder) damage, they gain  [Arcane Acuity](https://bg3.wiki/wiki/Arcane_Acuity_(Condition))."
+  },
+  {
+    "name": "[Infernal Mask](https://bg3.wiki/wiki/Infernal_Mask)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Item_ARM_Helmet_Metal_B_Unfaded_Icon.png/50px-Item_ARM_Helmet_Metal_B_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": ""
+  },
+  {
+    "name": "[Key of the Ancients](https://bg3.wiki/wiki/Key_of_the_Ancients)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Key_of_the_Ancients_Unfaded_Icon.png/50px-Key_of_the_Ancients_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 90,
+    "effects": "[Nature](https://bg3.wiki/wiki/Nature) +1\nWhile standing in front of the stone door in  [Nettie's](https://bg3.wiki/wiki/Nettie) room in the [Druid Grove](https://bg3.wiki/wiki/Druid_Grove), you can open a shortcut to the [Underground Passage](https://bg3.wiki/wiki/Underground_Passage)."
+  },
+  {
+    "name": "[Marksmanship Hat](https://bg3.wiki/wiki/Marksmanship_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/a/aa/Marksmanship_Hat_Unfaded_Icon.png/50px-Marksmanship_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 24,
+    "effects": "[Marksmanship](https://bg3.wiki/wiki/Marksmanship)You gain a +1 bonus to Ranged [Attack rolls](https://bg3.wiki/wiki/Attack_roll) and [Thrown](https://bg3.wiki/wiki/Throw) Attack Rolls."
+  },
+  {
+    "name": "[The Lifebringer](https://bg3.wiki/wiki/The_Lifebringer)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/The_Lifebringer_Unfaded_Icon.png/50px-The_Lifebringer_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Lifecharger](https://bg3.wiki/wiki/Lifecharger)When the wearer gains  [Lightning Charges](https://bg3.wiki/wiki/Lightning_Charges_(Condition)), they also gain 3 [Temporary Hit Points](https://bg3.wiki/wiki/Temporary_Hit_Points). The temporary hit points disappear if the wearer runs out of Lightning Charges."
+  },
+  {
+    "name": "[The Shadespell Circlet](https://bg3.wiki/wiki/The_Shadespell_Circlet)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a2/The_Shadespell_Circlet_Unfaded_Icon.png/50px-The_Shadespell_Circlet_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 90,
+    "effects": "[Shadespell](https://bg3.wiki/wiki/Shadespell)While the wearer is [obscured](https://bg3.wiki/wiki/Obscured) in shadow, their spells gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC), making them more likely to succeed."
+  },
+  {
+    "name": "[Wapira's Crown](https://bg3.wiki/wiki/Wapira%27s_Crown)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f3/Wapiras_Crown_Unfaded_Icon.png/50px-Wapiras_Crown_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 90,
+    "effects": "[Crowning Glory](https://bg3.wiki/wiki/Crowning_Glory)When healing another, the wearer regains 1d6hit points."
+  },
+  {
+    "name": "[Warped Headband of Intellect](https://bg3.wiki/wiki/Warped_Headband_of_Intellect)",
+    "image": "https://bg3.wiki/w/images/thumb/0/09/Warped_Headband_of_Intellect_Unfaded_Icon.png/50px-Warped_Headband_of_Intellect_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 250,
+    "effects": "Set the wearer's  [Intelligence](https://bg3.wiki/wiki/Intelligence) score to 17. The enchantment has no effect if their Intelligence score is higher without it."
+  },
+  {
+    "name": "[Cap of Wrath](https://bg3.wiki/wiki/Cap_of_Wrath)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Cap_of_Wrath_Unfaded_Icon.png/50px-Cap_of_Wrath_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 640,
+    "effects": "[Last Stand](https://bg3.wiki/wiki/Last_Stand)During combat, when the wearer starts their turn with 50% [Hit Points](https://bg3.wiki/wiki/Hit_Points) or less, they gain  [Wrath](https://bg3.wiki/wiki/Wrath_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Circle of Bones](https://bg3.wiki/wiki/Circle_of_Bones)",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Circle_of_Bones_Unfaded_Icon.png/50px-Circle_of_Bones_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Animate Dead](https://bg3.wiki/wiki/Animate_Dead) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Undead Ward](https://bg3.wiki/wiki/Undead_Ward)Allied [undead](https://bg3.wiki/wiki/Undead) within  6 m / 20 ft are [Resistant](https://bg3.wiki/wiki/Resistant) to [Bludgeoning](https://bg3.wiki/wiki/Bludgeoning), [Slashing](https://bg3.wiki/wiki/Slashing), and [Piercing](https://bg3.wiki/wiki/Piercing) damage.[[See: Bugs](https://bg3.wiki/wiki/Undead_Ward#Bugs)]"
+  },
+  {
+    "name": "[Circlet of Blasting](https://bg3.wiki/wiki/Circlet_of_Blasting)",
+    "image": "https://bg3.wiki/w/images/thumb/9/92/Circlet_of_Blasting_Unfaded_Icon.png/50px-Circlet_of_Blasting_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 300,
+    "effects": "[Scorching Ray](https://bg3.wiki/wiki/Scorching_Ray) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Circlet of Mental Anguish](https://bg3.wiki/wiki/Circlet_of_Mental_Anguish)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Circlet_of_Mental_Anguish_Unfaded_Icon.png/50px-Circlet_of_Mental_Anguish_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Psychic Leech](https://bg3.wiki/wiki/Psychic_Leech)When an enemy fails a  [Charisma](https://bg3.wiki/wiki/Charisma),  [Intelligence](https://bg3.wiki/wiki/Intelligence), or  [Wisdom](https://bg3.wiki/wiki/Wisdom)  [Saving throw](https://bg3.wiki/wiki/Saving_throw) against one of your spells or cantrips, you regain 1d4hit points."
+  },
+  {
+    "name": "[Circlet of Psionic Revenge](https://bg3.wiki/wiki/Circlet_of_Psionic_Revenge)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Circlet_of_Psionic_Revenge_Unfaded_Icon.png/50px-Circlet_of_Psionic_Revenge_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Psionic Revenge](https://bg3.wiki/wiki/Psionic_Revenge)When you succeed a  [Saving throw](https://bg3.wiki/wiki/Saving_throw), the foe that caused the throw takes 1d4Psychic. [Githyanki](https://bg3.wiki/wiki/Githyanki) also gain a +1 bonus to [Intelligence](https://bg3.wiki/wiki/Intelligence), [Wisdom](https://bg3.wiki/wiki/Wisdom), and [Charisma](https://bg3.wiki/wiki/Charisma)  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Diadem of Arcane Synergy](https://bg3.wiki/wiki/Diadem_of_Arcane_Synergy)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Diadem_of_Arcane_Synergy_Unfaded_Icon.png/50px-Diadem_of_Arcane_Synergy_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Synergetic Moments](https://bg3.wiki/wiki/Synergetic_Moments)When you inflict a condition, gain  [Arcane Synergy](https://bg3.wiki/wiki/Arcane_Synergy_(Condition)) for 2 turns.[[See: Bugs](https://bg3.wiki/wiki/Synergetic_Moments#Bugs)]"
+  },
+  {
+    "name": "[Fistbreaker Helm](https://bg3.wiki/wiki/Fistbreaker_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5e/Fistbreaker_Helm_Unfaded_Icon.png/50px-Fistbreaker_Helm_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 60,
+    "effects": "[High Spellcasting](https://bg3.wiki/wiki/High_Spellcasting_(%2B1))You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC).[Seldom Caught Unawares](https://bg3.wiki/wiki/Seldom_Caught_Unawares_(%2B1))You gain a +1 bonus to  [Initiative rolls](https://bg3.wiki/wiki/Initiative)."
+  },
+  {
+    "name": "[Gibus of the Worshipful Servant](https://bg3.wiki/wiki/Gibus_of_the_Worshipful_Servant)",
+    "image": "https://bg3.wiki/w/images/thumb/1/19/Gibus_of_the_Worshipful_Servant_Unfaded_Icon.png/50px-Gibus_of_the_Worshipful_Servant_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 35,
+    "effects": "[Lickspittle's Alertness](https://bg3.wiki/wiki/Lickspittle%27s_Alertness)At the start of combat, the wearer gains  [Momentum](https://bg3.wiki/wiki/Momentum_(Condition)) equal to their  [Charisma](https://bg3.wiki/wiki/Charisma) Modifier.[Multitasking](https://bg3.wiki/wiki/Multitasking)You gain  [Advantage](https://bg3.wiki/wiki/Advantage) on  [Concentration](https://bg3.wiki/wiki/Concentration)  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Haste Helm](https://bg3.wiki/wiki/Haste_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8c/Haste_Helm_Unfaded_Icon.png/50px-Haste_Helm_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Smooth Start](https://bg3.wiki/wiki/Smooth_Start)At the start of combat, the wearer gains  [Momentum](https://bg3.wiki/wiki/Momentum_(Condition)) for 3 turns."
+  },
+  {
+    "name": "[Hat of the Sharp Caster](https://bg3.wiki/wiki/Hat_of_the_Sharp_Caster)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8b/Hat_of_the_Sharp_Caster_Unfaded_Icon.png/50px-Hat_of_the_Sharp_Caster_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 50,
+    "effects": "[Sharp Caster](https://bg3.wiki/wiki/Sharp_Caster)When you roll a 1 or 2 on a damage die(s) for a [Spell Attack](https://bg3.wiki/wiki/Spell_Attack), that die(s) is rerolled once."
+  },
+  {
+    "name": "[Hat of Uninhibited Kushigo](https://bg3.wiki/wiki/Hat_of_Uninhibited_Kushigo)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Hat_of_Uninhibited_Kushigo_Unfaded_Icon.png/50px-Hat_of_Uninhibited_Kushigo_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 240,
+    "effects": "[Lay Bare Their Weakness](https://bg3.wiki/wiki/Lay_Bare_Their_Weakness)After dealing damage with an unarmed attack, the wearer gains a +1 bonus to their [spell save DC](https://bg3.wiki/wiki/Spell_Save_DC) until the end of their turn."
+  },
+  {
+    "name": "[Scabby Pugilist Circlet](https://bg3.wiki/wiki/Scabby_Pugilist_Circlet)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c9/Scabby_Pugilist_Circlet_Unfaded_Icon.png/50px-Scabby_Pugilist_Circlet_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 120,
+    "effects": "[Martial Bravery](https://bg3.wiki/wiki/Martial_Bravery)Your weapon and unarmed attacks deal an additional 2 damage while surrounded by 2 or more foes."
+  },
+  {
+    "name": "[The Pointy Hat](https://bg3.wiki/wiki/The_Pointy_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/The_Pointy_Hat_Unfaded_Icon.png/50px-The_Pointy_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 35,
+    "effects": "[Glorious Pointy Hat](https://bg3.wiki/wiki/Glorious_Pointy_Hat)You gain a bonus to your   [Persuasion](https://bg3.wiki/wiki/Persuasion) [checks](https://bg3.wiki/wiki/Ability_check) equal to your  [Intelligence](https://bg3.wiki/wiki/Intelligence) Modifier."
+  },
+  {
+    "name": "[Assassin of Bhaal Cowl](https://bg3.wiki/wiki/Assassin_of_Bhaal_Cowl)",
+    "image": "https://bg3.wiki/w/images/thumb/8/81/Assassin_of_Bhaal_Cowl_Unfaded_Icon.png/50px-Assassin_of_Bhaal_Cowl_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 450,
+    "effects": "[See Invisibility](https://bg3.wiki/wiki/See_Invisibility_(spell)) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Murderous Sight](https://bg3.wiki/wiki/Murderous_Sight)You can see in the dark up to  3 m / 10 ft. In addition, you gain a +2 bonus to  [Initiative](https://bg3.wiki/wiki/Initiative)."
+  },
+  {
+    "name": "[Birthright](https://bg3.wiki/wiki/Birthright)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/Birthright_Unfaded_Icon.png/50px-Birthright_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 410,
+    "effects": "[Charisma](https://bg3.wiki/wiki/Charisma) +2 (up to 22)"
+  },
+  {
+    "name": "[Bonespike Helmet](https://bg3.wiki/wiki/Bonespike_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/Bonespike_Helmet_Unfaded_Icon.png/50px-Bonespike_Helmet_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 450,
+    "effects": "[Intimidation](https://bg3.wiki/wiki/Intimidation) +2\n\n [Menacing Attack (Melee)](https://bg3.wiki/wiki/Menacing_Attack_(Bonespike_Helmet)) \nPossibly  [Frighten](https://bg3.wiki/wiki/Frightened_(Condition)) your target. They'll have  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on [ability checks](https://bg3.wiki/wiki/Ability_checks) and [Attack rolls](https://bg3.wiki/wiki/Attack_roll) and be unable to move. ( Recharge: Per turn.)\n\n[Fury In The Marrow](https://bg3.wiki/wiki/Fury_In_The_Marrow)When you  [Rage](https://bg3.wiki/wiki/Rage), hostile creatures in a  3 m / 10 ft radius must succeed a  [Wisdom](https://bg3.wiki/wiki/Wisdom) [saving throw](https://bg3.wiki/wiki/Saving_throw) or take 2d4Psychic damage. The targets receive half damage on a save."
+  },
+  {
+    "name": "[Circlet of Hunting](https://bg3.wiki/wiki/Circlet_of_Hunting)",
+    "image": "https://bg3.wiki/w/images/thumb/9/92/Circlet_of_Blasting_Unfaded_Icon.png/50px-Circlet_of_Blasting_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 230,
+    "effects": "[Hunter's Eye](https://bg3.wiki/wiki/Hunter%27s_Eye)You gain a   +1d4 bonus to [Attack rolls](https://bg3.wiki/wiki/Attack_roll) against creatures marked by  [Hunter's Mark](https://bg3.wiki/wiki/Hunter%27s_Mark_Quarry_(Condition)),  [True Strike](https://bg3.wiki/wiki/True_Strike_(Condition)),  [Faerie Fire](https://bg3.wiki/wiki/Faerie_Fire_(Condition)), or  [Guiding Bolt](https://bg3.wiki/wiki/Guiding_Bolt_(Condition))."
+  },
+  {
+    "name": "[Helldusk Helmet](https://bg3.wiki/wiki/Helldusk_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Helldusk_Helmet_Unfaded_Icon.png/50px-Helldusk_Helmet_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "1 kg\n\n2 lb",
+    "price": 570,
+    "effects": "Attackers can't land [Critical Hits](https://bg3.wiki/wiki/Critical_Hit) on the wearer.\n\n [Immolating Gaze](https://bg3.wiki/wiki/Immolating_Gaze) \nSear and  [Frighten](https://bg3.wiki/wiki/Frightened_(Condition)) a target with nothing but your glower. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Infernal Sight](https://bg3.wiki/wiki/Infernal_Sight)You can see in magical and ordinary darkness up to a range of  12 m / 40 ft. You cannot be  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition)).[Magical Durability](https://bg3.wiki/wiki/Magical_Durability_(%2B2))The wielder has a +2 bonus to  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against spells."
+  },
+  {
+    "name": "[Hood of the Weave](https://bg3.wiki/wiki/Hood_of_the_Weave)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8b/Hood_of_the_Weave_Unfaded_Icon.png/50px-Hood_of_the_Weave_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1450,
+    "effects": "[Arcane Enchantment](https://bg3.wiki/wiki/Arcane_Enchantment_(%2B2))You gain a +2 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC) and [Spell Attack](https://bg3.wiki/wiki/Spell_Attack) rolls."
+  },
+  {
+    "name": "[Horns of the Berserker](https://bg3.wiki/wiki/Horns_of_the_Berserker)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bb/Horns_of_the_Berserker_Unfaded_Icon.png/50px-Horns_of_the_Berserker_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 230,
+    "effects": "[Seeking Blood](https://bg3.wiki/wiki/Seeking_Blood)You gain a +2 bonus to [Attack rolls](https://bg3.wiki/wiki/Attack_roll) when attacking creatures that have already taken damage.[Blood Thirst](https://bg3.wiki/wiki/Blood_Thirst)Unarmed and melee attacks will deal an extra 2Necrotic damage as long as you don't have your full health. If you don't deal any damage this turn, you will take 1d4Necrotic damage at the end of your turn."
+  },
+  {
+    "name": "[Jannath's Hat](https://bg3.wiki/wiki/Jannath%27s_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/0/00/Jannath%27s_Hat_Unfaded_Icon.png/50px-Jannath%27s_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 450,
+    "effects": "[Advantage](https://bg3.wiki/wiki/Advantage) on  [Persuasion](https://bg3.wiki/wiki/Persuasion) Checks.\n [Advantage](https://bg3.wiki/wiki/Advantage) on  [Deception](https://bg3.wiki/wiki/Deception) Checks."
+  },
+  {
+    "name": "[Mask of Soul Perception](https://bg3.wiki/wiki/Mask_of_Soul_Perception)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Mask_of_Soul_Perception_Unfaded_Icon.png/50px-Mask_of_Soul_Perception_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1300,
+    "effects": "[Detect Thoughts](https://bg3.wiki/wiki/Detect_Thoughts) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Soul Perception](https://bg3.wiki/wiki/Soul_Perception)Gain a +2 bonus to [Attack rolls](https://bg3.wiki/wiki/Attack_roll),  [Initiative Rolls](https://bg3.wiki/wiki/Initiative), and [Perception Checks](https://bg3.wiki/wiki/Perception)."
+  },
+  {
+    "name": "[Pyroquickness Hat](https://bg3.wiki/wiki/Pyroquickness_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/Pyroquickness_Hat_Unfaded_Icon.png/50px-Pyroquickness_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 160,
+    "effects": "[Fiery Return](https://bg3.wiki/wiki/Fiery_Return)When you deal [Fire](https://bg3.wiki/wiki/Fire) damage with a levelled spell, you  [Burn](https://bg3.wiki/wiki/Burning_(Condition)) yourself and gain an additional  [Bonus Action](https://bg3.wiki/wiki/Actions#Resources) this round."
+  },
+  {
+    "name": "[Shapeshifter Hat](https://bg3.wiki/wiki/Shapeshifter_Hat)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Shapeshifter_Hat_Unfaded_Icon.png/50px-Shapeshifter_Hat_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Nature](https://bg3.wiki/wiki/Nature) +1\n[Nature's Embrace](https://bg3.wiki/wiki/Nature%27s_Embrace)Increase your  [Wild Shape](https://bg3.wiki/wiki/Wild_Shape) Charge by 1. This additional charge is restored upon taking a [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[Mask of the Shapeshifter](https://bg3.wiki/wiki/Mask_of_the_Shapeshifter)",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Mask_of_the_Shapeshifter_Unfaded_Icon.png/50px-Mask_of_the_Shapeshifter_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "legendary",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 1,
+    "effects": "[Disguise Self](https://bg3.wiki/wiki/Disguise_Self) \nCast as a level 1 spell at will."
+  },
+  {
+    "name": "[Key of the Ancients](https://bg3.wiki/wiki/Key_of_the_Ancients)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Key_of_the_Ancients_Unfaded_Icon.png/50px-Key_of_the_Ancients_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "story item",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 90,
+    "effects": "[Nature](https://bg3.wiki/wiki/Nature) +1\nWhile standing in front of the stone door in  [Nettie's](https://bg3.wiki/wiki/Nettie) room in the [Druid Grove](https://bg3.wiki/wiki/Druid_Grove), you can open a shortcut to the [Underground Passage](https://bg3.wiki/wiki/Underground_Passage)."
+  },
+  {
+    "name": "[Angelic Plume Helmet](https://bg3.wiki/wiki/Angelic_Plume_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Item_ARM_Helmet_Leather_E_Icon.png/50px-Item_ARM_Helmet_Leather_E_Icon.png",
+    "armourType": "light armour",
+    "rare": "common",
+    "weight": ".5 kg\n\n1 lb",
+    "price": 25,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Frayed Drow Hood](https://bg3.wiki/wiki/Frayed_Drow_Hood)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b4/Frayed_Drow_Hood_Unfaded_Icon.png/50px-Frayed_Drow_Hood_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 25,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Leather Helmet](https://bg3.wiki/wiki/Leather_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Leather_Helmet_Unfaded_Icon.png/50px-Leather_Helmet_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 25,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Leatherstring Helmet](https://bg3.wiki/wiki/Leatherstring_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Leather_Helmet_Unfaded_Icon.png/50px-Leather_Helmet_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 25,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Red Carmine Mask](https://bg3.wiki/wiki/Red_Carmine_Mask)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bb/Item_ARM_Helmet_Leather_B_Unfaded_Icon.png/50px-Item_ARM_Helmet_Leather_B_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 25,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Rich Arcanist Helmet](https://bg3.wiki/wiki/Rich_Arcanist_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Helmet_of_Arcane_Acuity_Unfaded_Icon.png/50px-Helmet_of_Arcane_Acuity_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 25,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Scorpion Helmet](https://bg3.wiki/wiki/Scorpion_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Leather_Helmet_Unfaded_Icon.png/50px-Leather_Helmet_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "common",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 25,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Covert Cowl](https://bg3.wiki/wiki/Covert_Cowl)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b4/Frayed_Drow_Hood_Unfaded_Icon.png/50px-Frayed_Drow_Hood_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Covert Critical](https://bg3.wiki/wiki/Covert_Critical)While [obscured](https://bg3.wiki/wiki/Obscured), the number you need to roll a [Critical Hit](https://bg3.wiki/wiki/Critical_Hit) while attacking is reduced by 1. This effect can stack."
+  },
+  {
+    "name": "[Dark Justiciar Mask](https://bg3.wiki/wiki/Dark_Justiciar_Mask)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Dark_Justiciar_Mask_Unfaded_Icon.png/50px-Dark_Justiciar_Mask_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "uncommon",
+    "weight": "0.3 kg\n\n0.66 lb",
+    "price": 210,
+    "effects": "[Intimidation](https://bg3.wiki/wiki/Intimidation) +1"
+  },
+  {
+    "name": "[Helmet of Arcane Acuity](https://bg3.wiki/wiki/Helmet_of_Arcane_Acuity)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Helmet_of_Arcane_Acuity_Unfaded_Icon.png/50px-Helmet_of_Arcane_Acuity_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Battle Acuity](https://bg3.wiki/wiki/Battle_Acuity)Whenever you deal damage with a weapon attack, you gain  [Arcane Acuity](https://bg3.wiki/wiki/Arcane_Acuity_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Helmet of Autonomy](https://bg3.wiki/wiki/Helmet_of_Autonomy)",
+    "image": "https://bg3.wiki/w/images/thumb/1/10/Helmet_of_Autonomy_Unfaded_Icon.png/50px-Helmet_of_Autonomy_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "uncommon",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 70,
+    "effects": "[Proficiency](https://bg3.wiki/wiki/Proficiency) in [Wisdom](https://bg3.wiki/wiki/Wisdom)  [Saving throws](https://bg3.wiki/wiki/Saving_throw)"
+  },
+  {
+    "name": "[Shadow of Menzoberranzan](https://bg3.wiki/wiki/Shadow_of_Menzoberranzan)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b4/Frayed_Drow_Hood_Unfaded_Icon.png/50px-Frayed_Drow_Hood_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "rare",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 190,
+    "effects": "[Shrouded in Shadow](https://bg3.wiki/wiki/Shrouded_in_Shadow) \nBecome  [Invisible](https://bg3.wiki/wiki/Invisible_(Condition)). ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Helmet of Grit](https://bg3.wiki/wiki/Helmet_of_Grit)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8d/Helmet_of_Grit_Unfaded_Icon.png/50px-Helmet_of_Grit_Unfaded_Icon.png",
+    "armourType": "light armour",
+    "rare": "very rare",
+    "weight": "0.5 kg\n\n1.1 lb",
+    "price": 360,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Grit](https://bg3.wiki/wiki/Grit)When the wearer has 50% [Hit Points](https://bg3.wiki/wiki/Hit_Points) or less, they have an additional  [Bonus Action](https://bg3.wiki/wiki/Actions#Resources)."
+  },
+  {
+    "name": "[Adjustable Steel Helm](https://bg3.wiki/wiki/Adjustable_Steel_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b1/Metal_Helmet_B_2_Unfaded_Icon.png/50px-Metal_Helmet_B_2_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Blackplume Helm](https://bg3.wiki/wiki/Blackplume_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/5/57/Blackplume_Helm_Unfaded_Icon.png/50px-Blackplume_Helm_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Blaze Portyr's Ceremonial Flaming Fist Helm](https://bg3.wiki/wiki/Blaze_Portyr%27s_Ceremonial_Flaming_Fist_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Flaming_Fist_Helmet_Unfaded_Icon.png/50px-Flaming_Fist_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Cracked Helm of Shar](https://bg3.wiki/wiki/Cracked_Helm_of_Shar)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/Cracked_Helm_of_Shar_Unfaded_Icon.png/50px-Cracked_Helm_of_Shar_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Fierce Golden Helm](https://bg3.wiki/wiki/Fierce_Golden_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Metal_Helmet_Unfaded_Icon.png/50px-Metal_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Flaming Fist Helmet](https://bg3.wiki/wiki/Flaming_Fist_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/Flaming_Fist_Helmet_A_Unfaded_Icon.png/50px-Flaming_Fist_Helmet_A_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Flaming Fist Helmet](https://bg3.wiki/wiki/Flaming_Fist_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/Flaming_Fist_Helmet_B_Unfaded_Icon.png/50px-Flaming_Fist_Helmet_B_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Flaming Fist Helmet](https://bg3.wiki/wiki/Flaming_Fist_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Flaming_Fist_Helmet_Unfaded_Icon.png/50px-Flaming_Fist_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Formidable Helmet](https://bg3.wiki/wiki/Formidable_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/7/71/Item_ARM_Helmet_Metal_J_Unfaded_Icon.png/50px-Item_ARM_Helmet_Metal_J_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Goldgloss Heraldic Helm](https://bg3.wiki/wiki/Goldgloss_Heraldic_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Metal_Helmet_1_Unfaded_Icon.png/50px-Metal_Helmet_1_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Helmet](https://bg3.wiki/wiki/Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Metal_Helmet_Unfaded_Icon.png/50px-Metal_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Helmet](https://bg3.wiki/wiki/Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/Item_ARM_Shar_Crown_B_Broken_Unfaded_Icon.png/50px-Item_ARM_Shar_Crown_B_Broken_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Justiciar Helmet](https://bg3.wiki/wiki/Justiciar_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d9/Justiciar_Helmet_Unfaded_Icon.png/50px-Justiciar_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Opulent Helmet](https://bg3.wiki/wiki/Opulent_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/0/03/Item_ARM_Helmet_Metal_H_Unfaded.webp/50px-Item_ARM_Helmet_Metal_H_Unfaded.webp.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Regal Helm](https://bg3.wiki/wiki/Regal_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/Metal_Helmet_F_Unfaded_Icon.png/50px-Metal_Helmet_F_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Reinforced Helmet](https://bg3.wiki/wiki/Reinforced_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/7/71/Item_ARM_Helmet_Metal_J_Unfaded_Icon.png/50px-Item_ARM_Helmet_Metal_J_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Scalpspike Helm](https://bg3.wiki/wiki/Scalpspike_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Item_ARM_Helmet_Metal_A_Unfaded_Icon.png/50px-Item_ARM_Helmet_Metal_A_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2.2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Shar Headwear](https://bg3.wiki/wiki/Shar_Headwear)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/Item_ARM_Shar_Crown_A_Unfaded_Icon.png/50px-Item_ARM_Shar_Crown_A_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Triumphal Helm](https://bg3.wiki/wiki/Triumphal_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Metal_Helmet_Unfaded_Icon.png/50px-Metal_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Watch's Helmet](https://bg3.wiki/wiki/Watch%27s_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Item_ARM_Helmet_BG_Watch_Metal_B_Unfaded_Icon.png/50px-Item_ARM_Helmet_BG_Watch_Metal_B_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2.2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Well Crated Helm](https://bg3.wiki/wiki/Well_Crated_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Item_ARM_Helmet_Metal_B_Unfaded_Icon.png/50px-Item_ARM_Helmet_Metal_B_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "1 kg\n\n2 lb",
+    "price": 40,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1"
+  },
+  {
+    "name": "[Dark Justiciar Helm](https://bg3.wiki/wiki/Dark_Justiciar_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2a/Dark_Justiciar_Helm_Unfaded_Icon.png/50px-Dark_Justiciar_Helm_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "uncommon",
+    "weight": "1 kg\n\n2 lb",
+    "price": 115,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Swathed in Shadow](https://bg3.wiki/wiki/Swathed_in_Shadow)While [Obscured](https://bg3.wiki/wiki/Obscured) by shadow, the wearer gains +1 to  [Saving throws](https://bg3.wiki/wiki/Saving_throw) when attacked.[[See: Bugs](https://bg3.wiki/wiki/Swathed_in_Shadow#Bugs)]"
+  },
+  {
+    "name": "[Helmet of Smiting](https://bg3.wiki/wiki/Helmet_of_Smiting)",
+    "image": "https://bg3.wiki/w/images/thumb/9/93/Metal_Helmet_Magical_Unfaded_Icon.png/50px-Metal_Helmet_Magical_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "uncommon",
+    "weight": "1 kg\n\n2 lb",
+    "price": 115,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Bolstering Smite](https://bg3.wiki/wiki/Bolstering_Smite)When you apply a condition with one of your Smite spells, you gain [Temporary Hit Points](https://bg3.wiki/wiki/Temporary_Hit_Points) equal to your [Charisma modifier](https://bg3.wiki/wiki/Charisma)."
+  },
+  {
+    "name": "[Holy Lance Helm](https://bg3.wiki/wiki/Holy_Lance_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Holy_Lance_Helm_Unfaded_Icon.png/50px-Holy_Lance_Helm_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "uncommon",
+    "weight": "1 kg\n\n2 lb",
+    "price": 115,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Smite the Graceless](https://bg3.wiki/wiki/Smite_the_Graceless)Creatures who miss their [Attack rolls](https://bg3.wiki/wiki/Attack_roll) against the wearer must make a [DC](https://bg3.wiki/wiki/Dice_rolls#Save_DCs) 14  [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) or take 1d4Radiant damage."
+  },
+  {
+    "name": "[Flawed Helldusk Helmet](https://bg3.wiki/wiki/Flawed_Helldusk_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/4/45/Flawed_Helldusk_Helmet_Unfaded_Icon.png/50px-Flawed_Helldusk_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "1 kg\n\n2 lb",
+    "price": 300,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Magical Durability](https://bg3.wiki/wiki/Magical_Durability_(%2B2))The wielder has a +2 bonus to  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against spells."
+  },
+  {
+    "name": "[Steelwatcher Helmet](https://bg3.wiki/wiki/Steelwatcher_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/8/88/Steelwatcher_Helmet_Unfaded_Icon.png/50px-Steelwatcher_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "1 kg\n\n2 lb",
+    "price": 300,
+    "effects": "[Advantage](https://bg3.wiki/wiki/Advantage) on [Constitution](https://bg3.wiki/wiki/Constitution) [saving throws](https://bg3.wiki/wiki/Saving_throws)\n[Artificial Sight](https://bg3.wiki/wiki/Artificial_Sight)The wearer can see in the dark up to  12 m / 40 ft and cannot be  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition))."
+  },
+  {
+    "name": "[Dark Justiciar Helmet](https://bg3.wiki/wiki/Dark_Justiciar_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8c/Dark_Justiciar_Helmet_Unfaded_Icon.png/50px-Dark_Justiciar_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "very rare",
+    "weight": "1 kg\n\n2 lb",
+    "price": 1600,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Magical Durability](https://bg3.wiki/wiki/Magical_Durability_(%2B1))The wielder has a +1 bonus to  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against spells.[Covert Critical](https://bg3.wiki/wiki/Covert_Critical)While [obscured](https://bg3.wiki/wiki/Obscured), the number you need to roll a [Critical Hit](https://bg3.wiki/wiki/Critical_Hit) while attacking is reduced by 1. This effect can stack."
+  },
+  {
+    "name": "[Sarevok's Horned Helmet](https://bg3.wiki/wiki/Sarevok%27s_Horned_Helmet)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/Sarevok%27s_Horned_Helmet_Unfaded_Icon.png/50px-Sarevok%27s_Horned_Helmet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "very rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 1600,
+    "effects": "[Deathbringer's Sight](https://bg3.wiki/wiki/Deathbringer%27s_Sight)You gain  [Darkvision](https://bg3.wiki/wiki/Darkvision_(Passive_Feature)) up to a range of  3 m / 10 ft, or  15 m / 50 ft if you already have it. The number you need to roll a [Critical Hit](https://bg3.wiki/wiki/Critical_Hit) while attacking is reduced by 1. This effect can stack.[Dauntless](https://bg3.wiki/wiki/Dauntless)You can't be  [Frightened](https://bg3.wiki/wiki/Frightened_(Condition)), and cannot be afflicted with other emotion-altering conditions."
+  },
+  {
+    "name": "[Helm of Balduran](https://bg3.wiki/wiki/Helm_of_Balduran)",
+    "image": "https://bg3.wiki/w/images/thumb/9/94/Helm_of_Balduran_Unfaded_Icon.png/50px-Helm_of_Balduran_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "legendary",
+    "weight": "2 kg\n\n4 lb",
+    "price": 760,
+    "effects": "Attackers can't land [Critical Hits](https://bg3.wiki/wiki/Critical_Hit) on the wearer.\n[Balduran's Vitality](https://bg3.wiki/wiki/Balduran%27s_Vitality)The helmet heals you 2hit points at the beginning of every turn.[Balduran's Favour](https://bg3.wiki/wiki/Balduran%27s_Favour)You have a +1 bonus to  [Armour Class](https://bg3.wiki/wiki/Armour_Class) and  [Saving throws](https://bg3.wiki/wiki/Saving_throw).[Stun Immunity](https://bg3.wiki/wiki/Stun_Immunity)You can't be  [Stunned](https://bg3.wiki/wiki/Stunned_(Condition))."
+  },
+  {
+    "name": "[Grymskull Helm](https://bg3.wiki/wiki/Grymskull_Helm)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Grymskull_Helm_Unfaded_Icon.png/50px-Grymskull_Helm_Unfaded_Icon.png",
+    "armourType": "heavy armour",
+    "rare": "very rare",
+    "weight": "1 kg\n\n2 lb",
+    "price": 570,
+    "effects": "Attackers can't land [Critical Hits](https://bg3.wiki/wiki/Critical_Hit) on the wearer.\nGrants [Resistance](https://bg3.wiki/wiki/Resistance) to [Fire](https://bg3.wiki/wiki/Fire) damage.\n\n [Hunter's Mark](https://bg3.wiki/wiki/Hunter%27s_Mark) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  }
+]

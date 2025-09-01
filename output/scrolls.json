@@ -1,0 +1,524 @@
+[
+  {
+    "name": "[Scroll of Animal Friendship](https://bg3.wiki/wiki/Scroll_of_Animal_Friendship)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a2/Scroll_of_Animal_Friendship_Unfaded_Icon.png/40px-Scroll_of_Animal_Friendship_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Burning Hands](https://bg3.wiki/wiki/Scroll_of_Burning_Hands)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ce/Scroll_of_Burning_Hands_Unfaded_Icon.png/40px-Scroll_of_Burning_Hands_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Charm Person](https://bg3.wiki/wiki/Scroll_of_Charm_Person)",
+    "image": "https://bg3.wiki/w/images/thumb/e/eb/Scroll_of_Charm_Person_Unfaded_Icon.png/40px-Scroll_of_Charm_Person_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Chromatic Orb](https://bg3.wiki/wiki/Scroll_of_Chromatic_Orb)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ab/Scroll_of_Chromatic_Orb_Unfaded_Icon.png/40px-Scroll_of_Chromatic_Orb_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Colour Spray](https://bg3.wiki/wiki/Scroll_of_Colour_Spray)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d8/Scroll_of_Colour_Spray_Unfaded_Icon.png/40px-Scroll_of_Colour_Spray_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Disguise Self](https://bg3.wiki/wiki/Scroll_of_Disguise_Self)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/Scroll_of_Disguise_Self_Unfaded_Icon.png/40px-Scroll_of_Disguise_Self_Unfaded_Icon.png",
+    "level": 1,
+    "limitType": "trader"
+  },
+  {
+    "name": "[Scroll of Expeditious Retreat](https://bg3.wiki/wiki/Scroll_of_Expeditious_Retreat)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Scroll_of_Expeditious_Retreat_Unfaded_Icon.png/40px-Scroll_of_Expeditious_Retreat_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of False Life](https://bg3.wiki/wiki/Scroll_of_False_Life)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8e/Scroll_of_False_Life_Unfaded_Icon.png/40px-Scroll_of_False_Life_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Feather Fall](https://bg3.wiki/wiki/Scroll_of_Feather_Fall)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Scroll_of_Feather_Fall_Unfaded_Icon.png/40px-Scroll_of_Feather_Fall_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Fog Cloud](https://bg3.wiki/wiki/Scroll_of_Fog_Cloud)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Scroll_of_Fog_Cloud_Unfaded_Icon.png/40px-Scroll_of_Fog_Cloud_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Goodberry](https://bg3.wiki/wiki/Scroll_of_Goodberry)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Scroll_of_Goodberry_Unfaded_Icon.png/40px-Scroll_of_Goodberry_Unfaded_Icon.png",
+    "level": 1,
+    "limitType": "unique"
+  },
+  {
+    "name": "[Scroll of Grease](https://bg3.wiki/wiki/Scroll_of_Grease)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f1/Scroll_of_Grease_Unfaded_Icon.png/40px-Scroll_of_Grease_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Ice Knife](https://bg3.wiki/wiki/Scroll_of_Ice_Knife)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a2/Scroll_of_Ice_Knife_Unfaded_Icon.png/40px-Scroll_of_Ice_Knife_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Mage Armour](https://bg3.wiki/wiki/Scroll_of_Mage_Armour)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c9/Scroll_of_Mage_Armour_Unfaded_Icon.png/40px-Scroll_of_Mage_Armour_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Magic Missile](https://bg3.wiki/wiki/Scroll_of_Magic_Missile)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/Scroll_of_Magic_Missile_Unfaded_Icon.png/40px-Scroll_of_Magic_Missile_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Protection from Evil and Good](https://bg3.wiki/wiki/Scroll_of_Protection_from_Evil_and_Good)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/Scroll_of_Protection_from_Evil_and_Good_Unfaded_Icon.png/40px-Scroll_of_Protection_from_Evil_and_Good_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Ray of Sickness](https://bg3.wiki/wiki/Scroll_of_Ray_of_Sickness)",
+    "image": "https://bg3.wiki/w/images/thumb/9/93/Scroll_of_Ray_of_Sickness_Unfaded_Icon.png/40px-Scroll_of_Ray_of_Sickness_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Sleep](https://bg3.wiki/wiki/Scroll_of_Sleep)",
+    "image": "https://bg3.wiki/w/images/thumb/2/28/Scroll_of_Sleep_Unfaded_Icon.png/40px-Scroll_of_Sleep_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Summon Quasit](https://bg3.wiki/wiki/Scroll_of_Summon_Quasit)",
+    "image": "https://bg3.wiki/w/images/thumb/9/95/Scroll_of_Summon_Quasit_Unfaded_Icon.png/40px-Scroll_of_Summon_Quasit_Unfaded_Icon.png",
+    "level": 1,
+    "limitType": "unique"
+  },
+  {
+    "name": "[Scroll of Tasha's Hideous Laughter](https://bg3.wiki/wiki/Scroll_of_Tasha%27s_Hideous_Laughter)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Scroll_of_Tasha%27s_Hideous_Laughter_Unfaded_Icon.png/40px-Scroll_of_Tasha%27s_Hideous_Laughter_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Thunderwave](https://bg3.wiki/wiki/Scroll_of_Thunderwave)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Scroll_of_Thunderwave_Unfaded_Icon.png/40px-Scroll_of_Thunderwave_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Witch Bolt](https://bg3.wiki/wiki/Scroll_of_Witch_Bolt)",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/Scroll_of_Witch_Bolt_Unfaded_Icon.png/40px-Scroll_of_Witch_Bolt_Unfaded_Icon.png",
+    "level": 1
+  },
+  {
+    "name": "[Scroll of Aid](https://bg3.wiki/wiki/Scroll_of_Aid)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Scroll_of_Aid_Unfaded_Icon.png/40px-Scroll_of_Aid_Unfaded_Icon.png",
+    "level": 2,
+    "limitType": "limited"
+  },
+  {
+    "name": "[Scroll of Arcane Lock](https://bg3.wiki/wiki/Scroll_of_Arcane_Lock)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Scroll_of_Arcane_Lock_Unfaded_Icon.png/40px-Scroll_of_Arcane_Lock_Unfaded_Icon.png",
+    "level": 2,
+    "limitType": "unique"
+  },
+  {
+    "name": "[Scroll of Blindness](https://bg3.wiki/wiki/Scroll_of_Blindness)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Scroll_of_Blindness_Unfaded_Icon.png/40px-Scroll_of_Blindness_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Blur](https://bg3.wiki/wiki/Scroll_of_Blur)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Scroll_of_Blur_Unfaded_Icon.png/40px-Scroll_of_Blur_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Cloud of Daggers](https://bg3.wiki/wiki/Scroll_of_Cloud_of_Daggers)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1b/Scroll_of_Cloud_of_Daggers_Unfaded_Icon.png/40px-Scroll_of_Cloud_of_Daggers_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Crown of Madness](https://bg3.wiki/wiki/Scroll_of_Crown_of_Madness)",
+    "image": "https://bg3.wiki/w/images/thumb/6/69/Scroll_of_Crown_of_Madness_Unfaded_Icon.png/40px-Scroll_of_Crown_of_Madness_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Darkness](https://bg3.wiki/wiki/Scroll_of_Darkness)",
+    "image": "https://bg3.wiki/w/images/thumb/5/56/Scroll_of_Darkness_Unfaded_Icon.png/40px-Scroll_of_Darkness_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Darkvision](https://bg3.wiki/wiki/Scroll_of_Darkvision)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8b/Scroll_of_Darkvision_Unfaded_Icon.png/40px-Scroll_of_Darkvision_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Detect Thoughts](https://bg3.wiki/wiki/Scroll_of_Detect_Thoughts)",
+    "image": "https://bg3.wiki/w/images/thumb/5/50/Scroll_of_Detect_Thoughts_Unfaded_Icon.png/40px-Scroll_of_Detect_Thoughts_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Enlarge](https://bg3.wiki/wiki/Scroll_of_Enlarge)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Scroll_of_Enlarge_Unfaded_Icon.png/40px-Scroll_of_Enlarge_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Flame Blade](https://bg3.wiki/wiki/Scroll_of_Flame_Blade)",
+    "image": "https://bg3.wiki/w/images/thumb/5/52/Scroll_of_Flame_Blade_Unfaded_Icon.png/40px-Scroll_of_Flame_Blade_Unfaded_Icon.png",
+    "level": 2,
+    "limitType": "unique"
+  },
+  {
+    "name": "[Scroll of Flaming Sphere](https://bg3.wiki/wiki/Scroll_of_Flaming_Sphere)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Scroll_of_Flaming_Sphere_Unfaded_Icon.png/40px-Scroll_of_Flaming_Sphere_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Gust of Wind](https://bg3.wiki/wiki/Scroll_of_Gust_of_Wind)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Scroll_of_Gust_of_Wind_Unfaded_Icon.png/40px-Scroll_of_Gust_of_Wind_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Hold Person](https://bg3.wiki/wiki/Scroll_of_Hold_Person)",
+    "image": "https://bg3.wiki/w/images/thumb/3/32/Scroll_of_Hold_Person_Unfaded_Icon.png/40px-Scroll_of_Hold_Person_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Invisibility](https://bg3.wiki/wiki/Scroll_of_Invisibility)",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Scroll_of_Invisibility_Unfaded_Icon.png/40px-Scroll_of_Invisibility_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Knock](https://bg3.wiki/wiki/Scroll_of_Knock)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1a/Scroll_of_Knock_Unfaded_Icon.png/40px-Scroll_of_Knock_Unfaded_Icon.png",
+    "level": 2,
+    "limitType": "trader"
+  },
+  {
+    "name": "[Scroll of Magic Weapon](https://bg3.wiki/wiki/Scroll_of_Magic_Weapon)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Scroll_of_Magic_Weapon_Unfaded_Icon.png/40px-Scroll_of_Magic_Weapon_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Melf's Acid Arrow](https://bg3.wiki/wiki/Scroll_of_Melf%27s_Acid_Arrow)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Scroll_of_Melf%27s_Acid_Arrow_Unfaded_Icon.png/40px-Scroll_of_Melf%27s_Acid_Arrow_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Mirror Image](https://bg3.wiki/wiki/Scroll_of_Mirror_Image)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a0/Scroll_of_Mirror_Image_Unfaded_Icon.png/40px-Scroll_of_Mirror_Image_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Misty Step](https://bg3.wiki/wiki/Scroll_of_Misty_Step)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7b/Scroll_of_Misty_Step_Unfaded_Icon.png/40px-Scroll_of_Misty_Step_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Ray of Enfeeblement](https://bg3.wiki/wiki/Scroll_of_Ray_of_Enfeeblement)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e6/Scroll_of_Ray_of_Enfeeblement_Unfaded_Icon.png/40px-Scroll_of_Ray_of_Enfeeblement_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Scorching Ray](https://bg3.wiki/wiki/Scroll_of_Scorching_Ray)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Scroll_of_Scorching_Ray_Unfaded_Icon.png/40px-Scroll_of_Scorching_Ray_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of See Invisibility](https://bg3.wiki/wiki/Scroll_of_See_Invisibility)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Scroll_of_See_Invisibility_Unfaded_Icon.png/40px-Scroll_of_See_Invisibility_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Shatter](https://bg3.wiki/wiki/Scroll_of_Shatter)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Scroll_of_Shatter_Unfaded_Icon.png/40px-Scroll_of_Shatter_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Web](https://bg3.wiki/wiki/Scroll_of_Web)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9e/Scroll_of_Web_Unfaded_Icon.png/40px-Scroll_of_Web_Unfaded_Icon.png",
+    "level": 2
+  },
+  {
+    "name": "[Scroll of Animate Dead](https://bg3.wiki/wiki/Scroll_of_Animate_Dead)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/Scroll_of_Animate_Dead_Unfaded_Icon.png/40px-Scroll_of_Animate_Dead_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Bestow Curse](https://bg3.wiki/wiki/Scroll_of_Bestow_Curse)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Bestow_Curse_Unfaded_Icon.png/40px-Scroll_of_Bestow_Curse_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Blink](https://bg3.wiki/wiki/Scroll_of_Blink)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Scroll_of_Blink_Unfaded_Icon.png/40px-Scroll_of_Blink_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Fear](https://bg3.wiki/wiki/Scroll_of_Fear)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Scroll_of_Fear_Unfaded_Icon.png/40px-Scroll_of_Fear_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Feign Death](https://bg3.wiki/wiki/Scroll_of_Feign_Death)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Scroll_of_Feign_Death_Unfaded_Icon.png/40px-Scroll_of_Feign_Death_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Fireball](https://bg3.wiki/wiki/Scroll_of_Fireball)",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/Scroll_of_Fireball_Unfaded_Icon.png/40px-Scroll_of_Fireball_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Fly](https://bg3.wiki/wiki/Scroll_of_Fly)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1c/Scroll_of_Fly_Unfaded_Icon.png/40px-Scroll_of_Fly_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Gaseous Form](https://bg3.wiki/wiki/Scroll_of_Gaseous_Form)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/Scroll_of_Gaseous_Form_Unfaded_Icon.png/40px-Scroll_of_Gaseous_Form_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Glyph of Warding](https://bg3.wiki/wiki/Scroll_of_Glyph_of_Warding)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Scroll_of_Glyph_of_Warding_Unfaded_Icon.png/40px-Scroll_of_Glyph_of_Warding_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Haste](https://bg3.wiki/wiki/Scroll_of_Haste)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Scroll_of_Haste_Unfaded_Icon.png/40px-Scroll_of_Haste_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Hypnotic Pattern](https://bg3.wiki/wiki/Scroll_of_Hypnotic_Pattern)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Scroll_of_Hypnotic_Pattern_Unfaded_Icon.png/40px-Scroll_of_Hypnotic_Pattern_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Lightning Bolt](https://bg3.wiki/wiki/Scroll_of_Lightning_Bolt)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/Scroll_of_Lightning_Bolt_Unfaded_Icon.png/40px-Scroll_of_Lightning_Bolt_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Protection from Energy](https://bg3.wiki/wiki/Scroll_of_Protection_from_Energy)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Scroll_of_Protection_from_Energy_Unfaded_Icon.png/40px-Scroll_of_Protection_from_Energy_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Remove Curse](https://bg3.wiki/wiki/Scroll_of_Remove_Curse)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Scroll_of_Remove_Curse_Unfaded_Icon.png/40px-Scroll_of_Remove_Curse_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Revivify](https://bg3.wiki/wiki/Scroll_of_Revivify)",
+    "image": "https://bg3.wiki/w/images/thumb/6/62/Scroll_of_Revivify_Unfaded_Icon.png/40px-Scroll_of_Revivify_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Sleet Storm](https://bg3.wiki/wiki/Scroll_of_Sleet_Storm)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Scroll_of_Sleet_Storm_Unfaded_Icon.png/40px-Scroll_of_Sleet_Storm_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Slow](https://bg3.wiki/wiki/Scroll_of_Slow)",
+    "image": "https://bg3.wiki/w/images/thumb/1/11/Scroll_of_Slow_Unfaded_Icon.png/40px-Scroll_of_Slow_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Speak with Dead](https://bg3.wiki/wiki/Scroll_of_Speak_with_Dead)",
+    "image": "https://bg3.wiki/w/images/thumb/a/aa/Scroll_of_Speak_With_Dead_Unfaded_Icon.png/40px-Scroll_of_Speak_With_Dead_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Stinking Cloud](https://bg3.wiki/wiki/Scroll_of_Stinking_Cloud)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Scroll_of_Stinking_Cloud_Unfaded_Icon.png/40px-Scroll_of_Stinking_Cloud_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Vampiric Touch](https://bg3.wiki/wiki/Scroll_of_Vampiric_Touch)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dc/Scroll_of_Vampiric_Touch_Unfaded_Icon.png/40px-Scroll_of_Vampiric_Touch_Unfaded_Icon.png",
+    "level": 3
+  },
+  {
+    "name": "[Scroll of Banishment](https://bg3.wiki/wiki/Scroll_of_Banishment)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Scroll_of_Banishment_Unfaded_Icon.png/40px-Scroll_of_Banishment_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Blight](https://bg3.wiki/wiki/Scroll_of_Blight)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Blight_Unfaded_Icon.png/40px-Scroll_of_Blight_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Confusion](https://bg3.wiki/wiki/Scroll_of_Confusion)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d8/Scroll_of_Confusion_Unfaded_Icon.png/40px-Scroll_of_Confusion_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Conjure Minor Elemental](https://bg3.wiki/wiki/Scroll_of_Conjure_Minor_Elemental)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d4/Scroll_of_Conjure_Minor_Elemental_Unfaded_Icon.png/40px-Scroll_of_Conjure_Minor_Elemental_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Dimension Door](https://bg3.wiki/wiki/Scroll_of_Dimension_Door)",
+    "image": "https://bg3.wiki/w/images/thumb/3/30/Scroll_of_Dimension_Door_Unfaded_Icon.png/40px-Scroll_of_Dimension_Door_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Evard's Black Tentacles](https://bg3.wiki/wiki/Scroll_of_Evard%27s_Black_Tentacles)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/Scroll_of_Evard%27s_Black_Tentacles_Unfaded_Icon.png/40px-Scroll_of_Evard%27s_Black_Tentacles_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Fire Shield](https://bg3.wiki/wiki/Scroll_of_Fire_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Scroll_of_Fire_Shield_Unfaded_Icon.png/40px-Scroll_of_Fire_Shield_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Greater Invisibility](https://bg3.wiki/wiki/Scroll_of_Greater_Invisibility)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Scroll_of_Greater_Invisibility_Unfaded_Icon.png/40px-Scroll_of_Greater_Invisibility_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Ice Storm](https://bg3.wiki/wiki/Scroll_of_Ice_Storm)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6b/Scroll_of_Ice_Storm_Unfaded_Icon.png/40px-Scroll_of_Ice_Storm_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Phantasmal Killer](https://bg3.wiki/wiki/Scroll_of_Phantasmal_Killer)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Scroll_of_Phantasmal_Killer_Unfaded_Icon.png/40px-Scroll_of_Phantasmal_Killer_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Polymorph](https://bg3.wiki/wiki/Scroll_of_Polymorph)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Scroll_of_Polymorph_Unfaded_Icon.png/40px-Scroll_of_Polymorph_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Stoneskin](https://bg3.wiki/wiki/Scroll_of_Stoneskin)",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Scroll_of_Stoneskin_Unfaded_Icon.png/40px-Scroll_of_Stoneskin_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Wall of Fire](https://bg3.wiki/wiki/Scroll_of_Wall_of_Fire)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c0/Scroll_of_Wall_of_Fire_Unfaded_Icon.png/40px-Scroll_of_Wall_of_Fire_Unfaded_Icon.png",
+    "level": 4
+  },
+  {
+    "name": "[Scroll of Artistry of War](https://bg3.wiki/wiki/Scroll_of_Artistry_of_War)",
+    "image": "https://bg3.wiki/w/images/thumb/5/52/Scroll_of_Artistry_of_War_Unfaded_Icon.png/40px-Scroll_of_Artistry_of_War_Unfaded_Icon.png",
+    "level": 5,
+    "limitType": "unique"
+  },
+  {
+    "name": "[Scroll of Cloudkill](https://bg3.wiki/wiki/Scroll_of_Cloudkill)",
+    "image": "https://bg3.wiki/w/images/thumb/0/09/Scroll_of_Cloudkill_Unfaded_Icon.png/40px-Scroll_of_Cloudkill_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Cone of Cold](https://bg3.wiki/wiki/Scroll_of_Cone_of_Cold)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c5/Scroll_of_Cone_of_Cold_Unfaded_Icon.png/40px-Scroll_of_Cone_of_Cold_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Conjure Elemental](https://bg3.wiki/wiki/Scroll_of_Conjure_Elemental)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e6/Scroll_of_Conjure_Elemental_Unfaded_Icon.png/40px-Scroll_of_Conjure_Elemental_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Dethrone](https://bg3.wiki/wiki/Scroll_of_Dethrone)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d9/Scroll_of_Dethrone_Unfaded_Icon.png/40px-Scroll_of_Dethrone_Unfaded_Icon.png",
+    "level": 5,
+    "limitType": "limited"
+  },
+  {
+    "name": "[Scroll of Dominate Person](https://bg3.wiki/wiki/Scroll_of_Dominate_Person)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Scroll_of_Dominate_Person_Unfaded_Icon.png/40px-Scroll_of_Dominate_Person_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Hold Monster](https://bg3.wiki/wiki/Scroll_of_Hold_Monster)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Scroll_of_Hold_Monster_Unfaded_Icon.png/40px-Scroll_of_Hold_Monster_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Planar Binding](https://bg3.wiki/wiki/Scroll_of_Planar_Binding)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/Scroll_of_Planar_Binding_Unfaded_Icon.png/40px-Scroll_of_Planar_Binding_Unfaded_Icon.png",
+    "level": 5,
+    "limitType": "trader"
+  },
+  {
+    "name": "[Scroll of Seeming](https://bg3.wiki/wiki/Scroll_of_Seeming)",
+    "image": "https://bg3.wiki/w/images/thumb/1/17/Scroll_of_Seeming_Unfaded_Icon.png/40px-Scroll_of_Seeming_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Telekinesis](https://bg3.wiki/wiki/Scroll_of_Telekinesis)",
+    "image": "https://bg3.wiki/w/images/thumb/0/09/Scroll_of_Telekinesis_Unfaded_Icon.png/40px-Scroll_of_Telekinesis_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Wall of Stone](https://bg3.wiki/wiki/Scroll_of_Wall_of_Stone)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Scroll_of_Wall_of_Stone_Unfaded_Icon.png/40px-Scroll_of_Wall_of_Stone_Unfaded_Icon.png",
+    "level": 5
+  },
+  {
+    "name": "[Scroll of Bestial Communion](https://bg3.wiki/wiki/Scroll_of_Bestial_Communion)",
+    "image": "https://bg3.wiki/w/images/thumb/9/99/Scroll_of_Bestial_Communion_Unfaded_Icon.png/40px-Scroll_of_Bestial_Communion_Unfaded_Icon.png",
+    "level": 6,
+    "limitType": "unique"
+  },
+  {
+    "name": "[Scroll of Chain Lightning](https://bg3.wiki/wiki/Scroll_of_Chain_Lightning)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/Scroll_of_Chain_Lightning_Unfaded_Icon.png/40px-Scroll_of_Chain_Lightning_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Circle of Death](https://bg3.wiki/wiki/Scroll_of_Circle_of_Death)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f5/Scroll_of_Circle_of_Death_Unfaded_Icon.png/40px-Scroll_of_Circle_of_Death_Unfaded_Icon.png",
+    "level": 6,
+    "limitType": "limited"
+  },
+  {
+    "name": "[Scroll of Disintegrate](https://bg3.wiki/wiki/Scroll_of_Disintegrate)",
+    "image": "https://bg3.wiki/w/images/thumb/3/39/Scroll_of_Disintegrate_Unfaded_Icon.png/40px-Scroll_of_Disintegrate_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Eyebite](https://bg3.wiki/wiki/Scroll_of_Eyebite)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Scroll_of_Eyebite_Unfaded_Icon.png/40px-Scroll_of_Eyebite_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Flesh to Stone](https://bg3.wiki/wiki/Scroll_of_Flesh_to_Stone)",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Scroll_of_Flesh_to_Stone_Unfaded_Icon.png/40px-Scroll_of_Flesh_to_Stone_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Globe of Invulnerability](https://bg3.wiki/wiki/Scroll_of_Globe_of_Invulnerability)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0d/Scroll_of_Globe_of_Invulnerability_Unfaded_Icon.png/40px-Scroll_of_Globe_of_Invulnerability_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Otiluke's Freezing Sphere](https://bg3.wiki/wiki/Scroll_of_Otiluke%27s_Freezing_Sphere)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Scroll_of_Otiluke%27s_Freezing_Sphere_Unfaded_Icon.png/40px-Scroll_of_Otiluke%27s_Freezing_Sphere_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Otto's Irresistible Dance](https://bg3.wiki/wiki/Scroll_of_Otto%27s_Irresistible_Dance)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8d/Scroll_of_Otto%27s_Irresistible_Dance_Unfaded_Icon.png/40px-Scroll_of_Otto%27s_Irresistible_Dance_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Sunbeam](https://bg3.wiki/wiki/Scroll_of_Sunbeam)",
+    "image": "https://bg3.wiki/w/images/thumb/3/31/Scroll_of_Sunbeam_Unfaded_Icon.png/40px-Scroll_of_Sunbeam_Unfaded_Icon.png",
+    "level": 6
+  },
+  {
+    "name": "[Scroll of Wall of Ice](https://bg3.wiki/wiki/Scroll_of_Wall_of_Ice)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Scroll_of_Wall_of_Ice_Unfaded_Icon.png/40px-Scroll_of_Wall_of_Ice_Unfaded_Icon.png",
+    "level": 6
+  }
+]

@@ -1,0 +1,1087 @@
+[
+  {
+    "name": "[Butchered Mind](https://bg3.wiki/wiki/Butchered_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Candle](https://bg3.wiki/wiki/Candle)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Candle_Unfaded_Icon.png/40px-Candle_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Carafe of Water](https://bg3.wiki/wiki/Carafe_of_Water)",
+    "image": "https://bg3.wiki/w/images/thumb/3/34/Decanter_of_Nearly_Endless_Water_Unfaded_Icon.png/40px-Decanter_of_Nearly_Endless_Water_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Closed Mind](https://bg3.wiki/wiki/Closed_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Dark Mind](https://bg3.wiki/wiki/Dark_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Dawnmaster's Crest](https://bg3.wiki/wiki/Dawnmaster%27s_Crest)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Dawnmaster%27s_Crest_Unfaded_Icon.png/40px-Dawnmaster%27s_Crest_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Dead Pixie](https://bg3.wiki/wiki/Dead_Pixie)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Dead_Pixie_Unfaded_Icon.png/40px-Dead_Pixie_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Discarded Wine Bottle](https://bg3.wiki/wiki/Discarded_Wine_Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6d/Conical_Flask_Unfaded_Icon.png/40px-Conical_Flask_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Filigreed Feywild Bell](https://bg3.wiki/wiki/Filigreed_Feywild_Bell)",
+    "image": "https://bg3.wiki/w/images/thumb/a/af/Filigreed_Feywild_Bell_Unfaded_Icon.png/40px-Filigreed_Feywild_Bell_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Fresh Mind](https://bg3.wiki/wiki/Fresh_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Head of a Broken Spear](https://bg3.wiki/wiki/Head_of_a_Broken_Spear)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b1/Head_of_a_Broken_Spear_Unfaded_Icon.png/40px-Head_of_a_Broken_Spear_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Heavy Stone](https://bg3.wiki/wiki/Heavy_Stone)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Heavy_Stone_Unfaded_Icon.png/40px-Heavy_Stone_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Icy Crystal](https://bg3.wiki/wiki/Icy_Crystal)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d3/Icy_Crystal_Unfaded_Icon.png/40px-Icy_Crystal_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Icy Helve](https://bg3.wiki/wiki/Icy_Helve)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Icy_Helve_Unfaded_Icon.png/40px-Icy_Helve_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Icy Metal](https://bg3.wiki/wiki/Icy_Metal)",
+    "image": "https://bg3.wiki/w/images/thumb/2/23/Icy_Metal_Unfaded_Icon.png/40px-Icy_Metal_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Idol of Selûne](https://bg3.wiki/wiki/Idol_of_Sel%C3%BBne)",
+    "image": "https://bg3.wiki/w/images/thumb/d/db/Idol_of_Selune_Unfaded_Icon.png/40px-Idol_of_Selune_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Idol of Shar](https://bg3.wiki/wiki/Idol_of_Shar)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/Idol_of_Shar_Unfaded_Icon.png/40px-Idol_of_Shar_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Idol of Silvanus](https://bg3.wiki/wiki/Idol_of_Silvanus)",
+    "image": "https://bg3.wiki/w/images/thumb/9/91/Idol_of_Silvanus_Unfaded_Icon.png/40px-Idol_of_Silvanus_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Lever Handle](https://bg3.wiki/wiki/Lever_Handle)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a6/Lever_Handle_Unfaded_Icon.png/40px-Lever_Handle_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Mithral Ore](https://bg3.wiki/wiki/Mithral_Ore)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Mithral_Ore_Item_Icon.png/40px-Mithral_Ore_Item_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Mol's Eyepatch](https://bg3.wiki/wiki/Mol%27s_Eyepatch)",
+    "image": "https://bg3.wiki/w/images/thumb/3/36/Eyepatch_Unfaded_Icon.png/40px-Eyepatch_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Mother Dearest](https://bg3.wiki/wiki/Mother_Dearest)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Clutter_Bottle_Small_Eye_Unfaded_Icon.webp/40px-Clutter_Bottle_Small_Eye_Unfaded_Icon.webp.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Music Box](https://bg3.wiki/wiki/Music_Box)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/Music_Box_Unfaded_Icon.png/40px-Music_Box_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Resonance Stone](https://bg3.wiki/wiki/Resonance_Stone)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b1/Resonance_Stone_Unfaded_Icon.png/40px-Resonance_Stone_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Shaft of a Broken Spear](https://bg3.wiki/wiki/Shaft_of_a_Broken_Spear)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/Shaft_of_a_Broken_Spear_Unfaded_Icon.png/40px-Shaft_of_a_Broken_Spear_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Shovel (item)](https://bg3.wiki/wiki/Shovel_(item))",
+    "image": "https://bg3.wiki/w/images/thumb/7/73/Shovel_Unfaded_Icon.png/40px-Shovel_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Slave Mind](https://bg3.wiki/wiki/Slave_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Sponge](https://bg3.wiki/wiki/Sponge)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Sponge_Unfaded_Icon.png/40px-Sponge_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Soap Bar](https://bg3.wiki/wiki/Soap_Bar)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Soap_Bar_Unfaded_Icon.png/40px-Soap_Bar_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Sponge Tray](https://bg3.wiki/wiki/Sponge_Tray)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4c/Sponge_Tray_Unfaded_Icon.png/40px-Sponge_Tray_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[True Mind](https://bg3.wiki/wiki/True_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Waking Mind](https://bg3.wiki/wiki/Waking_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Water](https://bg3.wiki/wiki/Water)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Water_A_Unfaded_Icon.png/40px-Water_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Willing Mind](https://bg3.wiki/wiki/Willing_Mind)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Brain_Jar_Memory_A_Unfaded_Icon.png/40px-Brain_Jar_Memory_A_Unfaded_Icon.png",
+    "miscellaneousType": "interactive"
+  },
+  {
+    "name": "[Cup of Oil](https://bg3.wiki/wiki/Cup_of_Oil)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7d/Cup_of_Oil_Item_Icon.png/40px-Cup_of_Oil_Item_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Juicy Apple](https://bg3.wiki/wiki/Juicy_Apple)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/FOOD_Apple_Unfaded_Icon.png/40px-FOOD_Apple_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Poisoned Apple](https://bg3.wiki/wiki/Poisoned_Apple)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/FOOD_Apple_Unfaded_Icon.png/40px-FOOD_Apple_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Banana](https://bg3.wiki/wiki/Rotten_Banana)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Rotten_Banana_Unfaded_Icon.png/40px-Rotten_Banana_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Beregost Blue Wedge](https://bg3.wiki/wiki/Rotten_Beregost_Blue_Wedge)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f3/Rotten_Beregost_Blue_Wedge_Unfaded_Icon.png/40px-Rotten_Beregost_Blue_Wedge_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Beregost Blue Wheel](https://bg3.wiki/wiki/Rotten_Beregost_Blue_Wheel)",
+    "image": "https://bg3.wiki/w/images/thumb/2/26/Rotten_Beregost_Blue_Wheel_Unfaded_Icon.png/40px-Rotten_Beregost_Blue_Wheel_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Carrot](https://bg3.wiki/wiki/Rotten_Carrot)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Rotten_Carrot_Unfaded_Icon.png/40px-Rotten_Carrot_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Chicken Eggs](https://bg3.wiki/wiki/Rotten_Chicken_Eggs)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2e/Rotten_Chicken_Eggs_Unfaded_Icon.png/40px-Rotten_Chicken_Eggs_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Durinbold Cheese Wedge](https://bg3.wiki/wiki/Rotten_Durinbold_Cheese_Wedge)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Rotten_Durinbold_Cheese_Wedge_Unfaded_Icon.png/40px-Rotten_Durinbold_Cheese_Wedge_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Fish](https://bg3.wiki/wiki/Rotten_Fish)",
+    "image": "https://bg3.wiki/w/images/thumb/8/88/Rotten_Fish_A_Unfaded_Icon.png/40px-Rotten_Fish_A_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Lemon](https://bg3.wiki/wiki/Rotten_Lemon)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/Rotten_Lemon_Unfaded_Icon.png/40px-Rotten_Lemon_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Mushroom](https://bg3.wiki/wiki/Rotten_Mushroom)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Rotten_Mushroom_A_Unfaded_Icon.png/40px-Rotten_Mushroom_A_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Tomato](https://bg3.wiki/wiki/Rotten_Tomato)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Rotten_Tomato_Unfaded_Icon.png/40px-Rotten_Tomato_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Waterdhavian Cheese Wedge](https://bg3.wiki/wiki/Rotten_Waterdhavian_Cheese_Wedge)",
+    "image": "https://bg3.wiki/w/images/thumb/5/52/Rotten_Waterdhavian_Cheese_Wedge_A_Unfaded_Icon.png/40px-Rotten_Waterdhavian_Cheese_Wedge_A_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Rotten Waterdhavian Cheese Wheel](https://bg3.wiki/wiki/Rotten_Waterdhavian_Cheese_Wheel)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/Rotten_Waterdhavian_Cheese_Wheel_Unfaded_Icon.png/40px-Rotten_Waterdhavian_Cheese_Wheel_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Suspicious Poison](https://bg3.wiki/wiki/Suspicious_Poison)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/POT_Potion_of_Healing_Unfaded_Icon.png/40px-POT_Potion_of_Healing_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Wine Goblet](https://bg3.wiki/wiki/Wine_Goblet)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/Wine_Goblet_Unfaded_Icon.png/40px-Wine_Goblet_Unfaded_Icon.png",
+    "miscellaneousType": "consumables"
+  },
+  {
+    "name": "[Adamantine Slag](https://bg3.wiki/wiki/Adamantine_Slag)",
+    "image": "https://bg3.wiki/w/images/thumb/9/92/Clutter_AdamantineScrap_Unfaded_Icon.webp/40px-Clutter_AdamantineScrap_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Akabi's Old Lamp](https://bg3.wiki/wiki/Akabi%27s_Old_Lamp)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Djinn_Lamp_Unfaded_Icon.png/40px-Djinn_Lamp_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Aloe Oil](https://bg3.wiki/wiki/Aloe_Oil)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6c/POT_Potion_of_Sleep_Unfaded_Icon.png/40px-POT_Potion_of_Sleep_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Anomalous Coral](https://bg3.wiki/wiki/Anomalous_Coral)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/Anomalous_Coral_Unfaded_Icon.png/40px-Anomalous_Coral_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ball](https://bg3.wiki/wiki/Ball)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Ball_Unfaded_Icon.png/40px-Ball_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ballista Arrow](https://bg3.wiki/wiki/Ballista_Arrow)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9e/MISC_Arrow_Unfaded_Icon.png/40px-MISC_Arrow_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Barbed Device](https://bg3.wiki/wiki/Barbed_Device)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Barbed_Device_Unfaded_Icon.png/40px-Barbed_Device_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Barber kit](https://bg3.wiki/wiki/Barber_kit)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cb/Barber_kit_Unfaded_Icon.png/40px-Barber_kit_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Barber Shears](https://bg3.wiki/wiki/Barber_Shears)",
+    "image": "https://bg3.wiki/w/images/thumb/d/db/Shears_Unfaded_Icon.png/40px-Shears_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bear Claw](https://bg3.wiki/wiki/Bear_Claw)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Bear_Claw_Unfaded_Icon.png/40px-Bear_Claw_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bed Linen](https://bg3.wiki/wiki/Bed_Linen)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0f/Bed_Linen_Unfaded_Icon.png/40px-Bed_Linen_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bedroll](https://bg3.wiki/wiki/Bedroll)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4a/Clutter_Bedroll_Unfaded_Icon.webp/40px-Clutter_Bedroll_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bellows](https://bg3.wiki/wiki/Bellows)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Bellows_Unfaded_Icon.png/40px-Bellows_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Blacksmith's Tongs](https://bg3.wiki/wiki/Blacksmith%27s_Tongs)",
+    "image": "https://bg3.wiki/w/images/thumb/1/14/Blacksmith%27s_Tongs_Unfaded_Icon.png/40px-Blacksmith%27s_Tongs_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Blood-Filled Bowl](https://bg3.wiki/wiki/Blood-Filled_Bowl)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Clutter_Wooden_Bowl_Unfaded_Icon.webp/40px-Clutter_Wooden_Bowl_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bone](https://bg3.wiki/wiki/Bone)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Bone_A_Unfaded_Icon.png/40px-Bone_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bones](https://bg3.wiki/wiki/Bones)",
+    "image": "https://bg3.wiki/w/images/thumb/9/96/Bones_Unfaded_Icon.png/40px-Bones_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bottle](https://bg3.wiki/wiki/Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Bottle_A_Unfaded_Icon.png/40px-Bottle_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bottled Blooms](https://bg3.wiki/wiki/Bottled_Blooms)",
+    "image": "https://bg3.wiki/w/images/thumb/3/31/Clutter_Bottle_Small_Flowers_Unfaded_Icon.webp/40px-Clutter_Bottle_Small_Flowers_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bottled Eye](https://bg3.wiki/wiki/Bottled_Eye)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Clutter_Bottle_Small_Eye_Unfaded_Icon.webp/40px-Clutter_Bottle_Small_Eye_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bottled Solvent](https://bg3.wiki/wiki/Bottled_Solvent)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/Clutter_Bottle_Long_Liquid_Unfaded_Icon.webp/40px-Clutter_Bottle_Long_Liquid_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bottled Tentacles](https://bg3.wiki/wiki/Bottled_Tentacles)",
+    "image": "https://bg3.wiki/w/images/thumb/4/46/Clutter_Bottle_Long_Tentacles_Unfaded_Icon.webp/40px-Clutter_Bottle_Long_Tentacles_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bowl (Clutter)](https://bg3.wiki/wiki/Bowl_(Clutter))",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Clutter_Wooden_Bowl_Unfaded_Icon.webp/40px-Clutter_Wooden_Bowl_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Brain](https://bg3.wiki/wiki/Brain)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d4/Intellect_Devourer_Cerebellum_Item_Icon.png/40px-Intellect_Devourer_Cerebellum_Item_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Broken Cane](https://bg3.wiki/wiki/Broken_Cane)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Broken_Cane_Unfaded_Icon.png/40px-Broken_Cane_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Broken Cogwheel](https://bg3.wiki/wiki/Broken_Cogwheel)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Item_LOOT_Foundry_Misc_Gear_B_Unfaded_Icon.png/40px-Item_LOOT_Foundry_Misc_Gear_B_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bronze Keg](https://bg3.wiki/wiki/Bronze_Keg)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Item_DEC_GEN_Kitchen_Pot_Drum_Covered_A_Unfaded_Icon.png/40px-Item_DEC_GEN_Kitchen_Pot_Drum_Covered_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Broom](https://bg3.wiki/wiki/Broom)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1c/Broom_A_Unfaded_Icon.png/40px-Broom_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bucket](https://bg3.wiki/wiki/Bucket)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Clutter_Bucket_Wooden_Unfaded_Icon.webp/40px-Clutter_Bucket_Wooden_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bucket of Water](https://bg3.wiki/wiki/Bucket_of_Water)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Bucket_of_Water_Unfaded_Icon.png/40px-Bucket_of_Water_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Bulbous Fungus](https://bg3.wiki/wiki/Bulbous_Fungus)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/Bulbous_Fungus_Unfaded_Icon.png/40px-Bulbous_Fungus_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Canteen](https://bg3.wiki/wiki/Canteen)",
+    "image": "https://bg3.wiki/w/images/thumb/4/41/Drinks_Canteen_A_Unfaded_Icon.png/40px-Drinks_Canteen_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Cauldron](https://bg3.wiki/wiki/Cauldron)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Cauldron_A_Unfaded_Icon.png/40px-Cauldron_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Charcoal](https://bg3.wiki/wiki/Charcoal)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Charcoal_Unfaded_Icon.png/40px-Charcoal_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Clamshell](https://bg3.wiki/wiki/Clamshell)",
+    "image": "https://bg3.wiki/w/images/thumb/9/94/Clamshell_Unfaded_Icon.png/40px-Clamshell_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Coal Bucket](https://bg3.wiki/wiki/Coal_Bucket)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2f/Coal_Bucket_Unfaded_Icon.png/40px-Coal_Bucket_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Cogwheel](https://bg3.wiki/wiki/Cogwheel)",
+    "image": "https://bg3.wiki/w/images/thumb/4/45/Item_LOOT_Foundry_Misc_Gear_A_Unfaded_Icon.png/40px-Item_LOOT_Foundry_Misc_Gear_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Conch Shell](https://bg3.wiki/wiki/Conch_Shell)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Clutter_Conch_A_Unfaded_Icon.webp/40px-Clutter_Conch_A_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Cooking Pot](https://bg3.wiki/wiki/Cooking_Pot)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ce/Cooking_Pot_B_Unfaded_Icon.png/40px-Cooking_Pot_B_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Copper Brazier](https://bg3.wiki/wiki/Copper_Brazier)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Item_LOOT_GEN_Bowl_Metal_A_Unfaded_Icon.png/40px-Item_LOOT_GEN_Bowl_Metal_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Copper Coin Pile](https://bg3.wiki/wiki/Copper_Coin_Pile)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Copper_Coin_Pile_Unfaded_Icon.png/40px-Copper_Coin_Pile_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Copper Plate](https://bg3.wiki/wiki/Copper_Plate)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b8/Copper_Plate_Unfaded_Icon.png/40px-Copper_Plate_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Crate](https://bg3.wiki/wiki/Crate)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/Wooden_Crate_A_Unfaded_Icon.webp/40px-Wooden_Crate_A_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Crowbar](https://bg3.wiki/wiki/Crowbar)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Item_LOOT_Foundry_Misc_Crowbar_A_Unfaded_Icon.png/40px-Item_LOOT_Foundry_Misc_Crowbar_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Crystal](https://bg3.wiki/wiki/Crystal)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5d/Fire_Amber_Item_Icon.png/40px-Fire_Amber_Item_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Crystal Ball](https://bg3.wiki/wiki/Crystal_Ball)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Crystal_Ball_Unfaded_Icon.png/40px-Crystal_Ball_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Cup](https://bg3.wiki/wiki/Cup)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/Metal_Cup_Empty_Unfaded_Icon.png/40px-Metal_Cup_Empty_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Cutting Board](https://bg3.wiki/wiki/Cutting_Board)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5e/Cutting_Board_Unfaded_Icon.png/40px-Cutting_Board_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Daggerroot Bundle](https://bg3.wiki/wiki/Daggerroot_Bundle)",
+    "image": "https://bg3.wiki/w/images/thumb/3/32/Daggerroot_Unfaded_Icon.png/40px-Daggerroot_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Definitely a Broom of Flying](https://bg3.wiki/wiki/Definitely_a_Broom_of_Flying)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Broom_B_Unfaded_Icon.png/40px-Broom_B_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Doo](https://bg3.wiki/wiki/Doo)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Doo_Unfaded_Icon.webp/40px-Doo_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Drinking Horn](https://bg3.wiki/wiki/Drinking_Horn)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Drinking_Horn_Unfaded_Icon.png/40px-Drinking_Horn_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Earthen Bottle](https://bg3.wiki/wiki/Earthen_Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/POT_Wilted_Dreams_Unfaded_Icon.png/40px-POT_Wilted_Dreams_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Earth Grenade](https://bg3.wiki/wiki/Earth_Grenade)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Earth_Grenade_Unfaded_Icon.png/40px-Earth_Grenade_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Empty Bloodbank Jar](https://bg3.wiki/wiki/Empty_Bloodbank_Jar)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/Wine_Bottle_A_Empty_Unfaded_Icon.png/40px-Wine_Bottle_A_Empty_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Empty Brain Jar](https://bg3.wiki/wiki/Empty_Brain_Jar)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Clutter_Bottle_Small_Eye_Unfaded_Icon.webp/40px-Clutter_Bottle_Small_Eye_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Empty Potion Bottle](https://bg3.wiki/wiki/Empty_Potion_Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/Empty_Potion_Bottle_Unfaded_Icon.png/40px-Empty_Potion_Bottle_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Empty Potion of Sleep](https://bg3.wiki/wiki/Empty_Potion_of_Sleep)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/Empty_Potion_Bottle_Unfaded_Icon.png/40px-Empty_Potion_Bottle_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ettvard Needle's Silver Presentation Inkwell](https://bg3.wiki/wiki/Ettvard_Needle%27s_Silver_Presentation_Inkwell)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4b/Ink_Pot_Unfaded_Icon.png/40px-Ink_Pot_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Fire Explosive](https://bg3.wiki/wiki/Fire_Explosive)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Item_LOOT_Alchemy_Myconid_Grenade_Fire_Unfaded_Icon.png/40px-Item_LOOT_Alchemy_Myconid_Grenade_Fire_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Fishing Rod](https://bg3.wiki/wiki/Fishing_Rod)",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Fishing_Rod_Unfaded_Icon.png/40px-Fishing_Rod_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Fish Skeleton](https://bg3.wiki/wiki/Fish_Skeleton)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Fish_Skeleton_Unfaded_Icon.png/40px-Fish_Skeleton_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Fork](https://bg3.wiki/wiki/Fork)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Fork_A_Unfaded_Icon.png/40px-Fork_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Friend](https://bg3.wiki/wiki/Friend)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Skull_A_Unfaded_Icon.webp/40px-Skull_A_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ghastly Bottle](https://bg3.wiki/wiki/Ghastly_Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/4/46/Clutter_Bottle_Long_Tentacles_Unfaded_Icon.webp/40px-Clutter_Bottle_Long_Tentacles_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Gilded Mortar and Pestle](https://bg3.wiki/wiki/Gilded_Mortar_and_Pestle)",
+    "image": "https://bg3.wiki/w/images/thumb/a/af/Gilded_Mortar_And_Pestle_Unfaded_Icon.png/40px-Gilded_Mortar_And_Pestle_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Glass Chalice](https://bg3.wiki/wiki/Glass_Chalice)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7d/Glass_Chalice_Unfaded_Icon.png/40px-Glass_Chalice_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Glass Cup](https://bg3.wiki/wiki/Glass_Cup)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Glass_Cup_Unfaded_Icon.png/40px-Glass_Cup_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Goblet](https://bg3.wiki/wiki/Goblet)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Goblet_Unfaded_Icon.png/40px-Goblet_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Goblet With Dead Tadpoles](https://bg3.wiki/wiki/Goblet_With_Dead_Tadpoles)",
+    "image": "https://bg3.wiki/w/images/thumb/5/56/Bowl_With_Dead_Tadpoles_Unfaded_Icon.png/40px-Bowl_With_Dead_Tadpoles_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Fuzzy](https://bg3.wiki/wiki/Fuzzy)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Stuffed_Bear_Worn_Faded.png/40px-Stuffed_Bear_Worn_Faded.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Halsin's Pipe](https://bg3.wiki/wiki/Halsin%27s_Pipe)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7b/Item_LOOT_GEN_Pipe_A_Unfaded_Icon.png/40px-Item_LOOT_GEN_Pipe_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Hammer](https://bg3.wiki/wiki/Hammer)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/Repair_Hammer_Unfaded_Icon.png/40px-Repair_Hammer_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Handsaw](https://bg3.wiki/wiki/Handsaw)",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/Item_LOOT_Foundry_Misc_Saw_A_Unfaded_Icon.png/40px-Item_LOOT_Foundry_Misc_Saw_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Hollow Shell](https://bg3.wiki/wiki/Hollow_Shell)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/MISC_Hollow_Shell_Unfaded_Icon.png/40px-MISC_Hollow_Shell_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Hookah](https://bg3.wiki/wiki/Hookah)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Item_LOOT_Laboratory_Flask_Glass_E_Empty_A_1_Unfaded_Icon.png/40px-Item_LOOT_Laboratory_Flask_Glass_E_Empty_A_1_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Horn Shell](https://bg3.wiki/wiki/Horn_Shell)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/Clutter_Conch_B_Unfaded_Icon.webp/40px-Clutter_Conch_B_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Hourglass](https://bg3.wiki/wiki/Hourglass)",
+    "image": "https://bg3.wiki/w/images/thumb/d/de/Hourglass_Unfaded_Icon.png/40px-Hourglass_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Incense Bowl](https://bg3.wiki/wiki/Incense_Bowl)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6a/Incense_Bowl_B_Unfaded_Icon.png/40px-Incense_Bowl_B_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ink Pot](https://bg3.wiki/wiki/Ink_Pot)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4b/Ink_Pot_Unfaded_Icon.png/40px-Ink_Pot_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ink Pot and Quill](https://bg3.wiki/wiki/Ink_Pot_and_Quill)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Ink_Pot_Quill_Unfaded_Icon.png/40px-Ink_Pot_Quill_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Intestines](https://bg3.wiki/wiki/Intestines)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Intestines_Unfaded_Icon.png/40px-Intestines_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Iridescent Shell](https://bg3.wiki/wiki/Iridescent_Shell)",
+    "image": "https://bg3.wiki/w/images/thumb/3/38/Iridescent_Shell_Unfaded_Icon.png/40px-Iridescent_Shell_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Iron Bowl](https://bg3.wiki/wiki/Iron_Bowl)",
+    "image": "https://bg3.wiki/w/images/thumb/9/95/Iron_Bowl_Unfaded_Icon.png/40px-Iron_Bowl_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Iron Pan](https://bg3.wiki/wiki/Iron_Pan)",
+    "image": "https://bg3.wiki/w/images/thumb/9/94/Iron_Pan_Unfaded_Icon.png/40px-Iron_Pan_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Jar of Coagulated Blood](https://bg3.wiki/wiki/Jar_of_Coagulated_Blood)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Jar_of_Coagulated_Blood_Unfaded_Icon.png/40px-Jar_of_Coagulated_Blood_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Jug](https://bg3.wiki/wiki/Jug)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d3/Ceramic_Jug_A_Unfaded_Icon.png/40px-Ceramic_Jug_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Kanon's Handkerchief](https://bg3.wiki/wiki/Kanon%27s_Handkerchief)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e8/Kanons_Handkerchief_Unfaded_Icon.png/40px-Kanons_Handkerchief_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Knife (Clutter)](https://bg3.wiki/wiki/Knife_(Clutter))",
+    "image": "https://bg3.wiki/w/images/thumb/f/fe/Knife_Clutter_Unfaded_Icon.png/40px-Knife_Clutter_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ladle](https://bg3.wiki/wiki/Ladle)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cc/Ladle_Unfaded_Icon.png/40px-Ladle_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Lanceboard](https://bg3.wiki/wiki/Lanceboard)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/Lanceboard_Unfaded_Icon.png/40px-Lanceboard_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Large Bottle](https://bg3.wiki/wiki/Large_Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d7/Large_Bottle_Unfaded_Icon.png/40px-Large_Bottle_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Lid](https://bg3.wiki/wiki/Lid)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8e/Milk_Can_Lid_A_Unfaded_Icon.png/40px-Milk_Can_Lid_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Lukasz](https://bg3.wiki/wiki/Lukasz)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Stuffed_Bear_Worn_Faded.png/40px-Stuffed_Bear_Worn_Faded.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Lump Hammer](https://bg3.wiki/wiki/Lump_Hammer)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Masonry_Hammer_Unfaded_Icon.png/40px-Masonry_Hammer_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Makeshift Ladle](https://bg3.wiki/wiki/Makeshift_Ladle)",
+    "image": "https://bg3.wiki/w/images/thumb/9/95/Makeshift_Ladle_Unfaded_Icon.png/40px-Makeshift_Ladle_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Mamzell Amira's Gilded Hand Mirror](https://bg3.wiki/wiki/Mamzell_Amira%27s_Gilded_Hand_Mirror)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/Mirror_Unfaded_Icon.png/40px-Mirror_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Master Metzil's Karabasan's Gift](https://bg3.wiki/wiki/Master_Metzil%27s_Karabasan%27s_Gift)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6d/Conical_Flask_Unfaded_Icon.png/40px-Conical_Flask_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Metal Fork](https://bg3.wiki/wiki/Metal_Fork)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5f/Metal_Fork_Unfaded_Icon.png/40px-Metal_Fork_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Metal Pipe](https://bg3.wiki/wiki/Metal_Pipe)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Metal_Pipe_A_Unfaded_Icon.png/40px-Metal_Pipe_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Milk Can](https://bg3.wiki/wiki/Milk_Can)",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Milk_Can_A_Unfaded_Icon.png/40px-Milk_Can_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Mirror (Clutter)](https://bg3.wiki/wiki/Mirror_(Clutter))",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/Mirror_Unfaded_Icon.png/40px-Mirror_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Mortar and Pestle](https://bg3.wiki/wiki/Mortar_and_Pestle)",
+    "image": "https://bg3.wiki/w/images/thumb/6/69/Mortar_And_Pestle_Unfaded_Icon.png/40px-Mortar_And_Pestle_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Moon Brooch](https://bg3.wiki/wiki/Moon_Brooch)",
+    "image": "https://bg3.wiki/w/images/thumb/2/21/Sel%C3%BBnite_Brooch_Unfaded_Icon.png/40px-Sel%C3%BBnite_Brooch_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Mug](https://bg3.wiki/wiki/Mug)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Mug1_Unfaded_Icon.png/40px-Mug1_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Oil Lamp](https://bg3.wiki/wiki/Oil_Lamp)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Djinn_Lamp_Unfaded_Icon.png/40px-Djinn_Lamp_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Pan](https://bg3.wiki/wiki/Pan)",
+    "image": "https://bg3.wiki/w/images/thumb/4/44/Pan_Unfaded_Icon.png/40px-Pan_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Pile of Stained Towels](https://bg3.wiki/wiki/Pile_of_Stained_Towels)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Item_LOOT_Bathroom_Towel_A_Unfaded_Icon.png/40px-Item_LOOT_Bathroom_Towel_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Plate (Clutter)](https://bg3.wiki/wiki/Plate_(Clutter))",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Plate_A_Unfaded_Icon.png/40px-Plate_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Potion Bottle](https://bg3.wiki/wiki/Potion_Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/ELX_Greater_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Greater_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Potion of Misty Step](https://bg3.wiki/wiki/Potion_of_Misty_Step)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/POT_Potion_of_Mind_Reading_Unfaded_Icon.png/40px-POT_Potion_of_Mind_Reading_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Pot Lid](https://bg3.wiki/wiki/Pot_Lid)",
+    "image": "https://bg3.wiki/w/images/thumb/4/40/Pot_Lid_A_Unfaded_Icon.png/40px-Pot_Lid_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Quill](https://bg3.wiki/wiki/Quill)",
+    "image": "https://bg3.wiki/w/images/thumb/6/65/Quill_Unfaded_Icon.png/40px-Quill_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Rags](https://bg3.wiki/wiki/Rags)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/Rags_A_Unfaded_Icon.png/40px-Rags_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Ribcage (Clutter)](https://bg3.wiki/wiki/Ribcage_(Clutter))",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Ribcage_Unfaded_Icon.png/40px-Ribcage_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Rich Clock](https://bg3.wiki/wiki/Rich_Clock)",
+    "image": "https://bg3.wiki/w/images/thumb/3/30/Rich_Clock_Unfaded_Icon.png/40px-Rich_Clock_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Rothé Femur](https://bg3.wiki/wiki/Roth%C3%A9_Femur)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d8/Roth%C3%A9_Femur_Unfaded_Icon.png/40px-Roth%C3%A9_Femur_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Rope](https://bg3.wiki/wiki/Rope)",
+    "image": "https://bg3.wiki/w/images/thumb/1/15/Rope_Unfaded_Icon.png/40px-Rope_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Rotting Basket](https://bg3.wiki/wiki/Rotting_Basket)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Rotting_Basket_Unfaded_Icon.png/40px-Rotting_Basket_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Round Flask](https://bg3.wiki/wiki/Round_Flask)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/VAL_MISC_Round_Glass_A_Unfaded_Icon.png/40px-VAL_MISC_Round_Glass_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Scale](https://bg3.wiki/wiki/Scale)",
+    "image": "https://bg3.wiki/w/images/thumb/4/46/Item_DEC_GEN_KitchenInstrument_Scale_A_Copper_A_Unfaded_Icon.png/40px-Item_DEC_GEN_KitchenInstrument_Scale_A_Copper_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Serving Spoon](https://bg3.wiki/wiki/Serving_Spoon)",
+    "image": "https://bg3.wiki/w/images/thumb/9/97/Serving_Spoon_Unfaded_Icon.png/40px-Serving_Spoon_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Arm](https://bg3.wiki/wiki/Severed_Arm)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Severed_Arm_B_Unfaded_Icon.png/40px-Severed_Arm_B_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Eye](https://bg3.wiki/wiki/Severed_Eye)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e0/Beholder_Iris_Item_Icon.png/40px-Beholder_Iris_Item_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Foot](https://bg3.wiki/wiki/Severed_Foot)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a2/Severed_Foot_Unfaded_Icon.png/40px-Severed_Foot_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Hand](https://bg3.wiki/wiki/Severed_Hand)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/Body_Part_Hand_Unfaded_Icon.png/40px-Body_Part_Hand_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Head](https://bg3.wiki/wiki/Severed_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Severed_Head_Female_Unfaded_Icon.png/40px-Severed_Head_Female_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Leg](https://bg3.wiki/wiki/Severed_Leg)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c0/Severed_Leg_A_Unfaded_Icon.png/40px-Severed_Leg_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Legs](https://bg3.wiki/wiki/Severed_Legs)",
+    "image": "https://bg3.wiki/w/images/thumb/b/ba/Severed_Legs_Unfaded_Icon.png/40px-Severed_Legs_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Pelvis](https://bg3.wiki/wiki/Severed_Pelvis)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Severed_Pelvis_Unfaded_Icon.png/40px-Severed_Pelvis_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Severed Torso](https://bg3.wiki/wiki/Severed_Torso)",
+    "image": "https://bg3.wiki/w/images/thumb/1/18/Severed_Torso_Unfaded_Icon.png/40px-Severed_Torso_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Shears](https://bg3.wiki/wiki/Shears)",
+    "image": "https://bg3.wiki/w/images/thumb/d/db/Shears_Unfaded_Icon.png/40px-Shears_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Skull](https://bg3.wiki/wiki/Skull)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Skull_A_Unfaded_Icon.webp/40px-Skull_A_Unfaded_Icon.webp.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Skull (No Jaw)](https://bg3.wiki/wiki/Skull_(No_Jaw))",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Skull_B_Unfaded_Icon.png/40px-Skull_B_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Small Shovel](https://bg3.wiki/wiki/Small_Shovel)",
+    "image": "https://bg3.wiki/w/images/thumb/7/73/Shovel_Unfaded_Icon.png/40px-Shovel_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Smoking Pipe](https://bg3.wiki/wiki/Smoking_Pipe)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7b/Item_LOOT_GEN_Pipe_A_Unfaded_Icon.png/40px-Item_LOOT_GEN_Pipe_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Sodalite Shell](https://bg3.wiki/wiki/Sodalite_Shell)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1e/Sodalite_Shell_Unfaded_Icon.png/40px-Sodalite_Shell_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Spatula](https://bg3.wiki/wiki/Spatula)",
+    "image": "https://bg3.wiki/w/images/thumb/3/39/Spatula_Unfaded_Icon.png/40px-Spatula_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Stained Towel](https://bg3.wiki/wiki/Stained_Towel)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Item_LOOT_Bathroom_Towel_A_Unfaded_Icon.png/40px-Item_LOOT_Bathroom_Towel_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Stained Towels Pile](https://bg3.wiki/wiki/Stained_Towels_Pile)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Item_LOOT_Bathroom_Towel_A_Unfaded_Icon.png/40px-Item_LOOT_Bathroom_Towel_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Starfish](https://bg3.wiki/wiki/Starfish)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f0/Starfish_Unfaded_Icon.png/40px-Starfish_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Stuffed Bear](https://bg3.wiki/wiki/Stuffed_Bear)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/MISC_Stuffed_Bear_Clean_Unfaded_Icon.png/40px-MISC_Stuffed_Bear_Clean_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Stuffed Bear (Faded)](https://bg3.wiki/wiki/Stuffed_Bear_(Faded))",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Stuffed_Bear_Worn_Faded.png/40px-Stuffed_Bear_Worn_Faded.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Stuffed Owlbear Toy](https://bg3.wiki/wiki/Stuffed_Owlbear_Toy)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4c/Stuffed_Owlbear_Toy_Unfaded_Icon.png/40px-Stuffed_Owlbear_Toy_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Surgery kit](https://bg3.wiki/wiki/Surgery_kit)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cb/Barber_kit_Unfaded_Icon.png/40px-Barber_kit_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Tin cup](https://bg3.wiki/wiki/Tin_cup)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/Tin_Cup_Unfaded_Icon.png/40px-Tin_Cup_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Tin Plate](https://bg3.wiki/wiki/Tin_Plate)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/Tin_Plate_Unfaded_Icon.png/40px-Tin_Plate_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Toad Teapot](https://bg3.wiki/wiki/Toad_Teapot)",
+    "image": "https://bg3.wiki/w/images/thumb/b/ba/Toad_Teapot_Unfaded_Icon.png/40px-Toad_Teapot_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Tongs](https://bg3.wiki/wiki/Tongs)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6b/Tongs_Unfaded_Icon.png/40px-Tongs_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Towel](https://bg3.wiki/wiki/Towel)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/Rags_A_Unfaded_Icon.png/40px-Rags_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Toy Block](https://bg3.wiki/wiki/Toy_Block)",
+    "image": "https://bg3.wiki/w/images/thumb/7/72/Toy_Block_A_Unfaded_Icon.png/40px-Toy_Block_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Unfinished Stuffed Bear](https://bg3.wiki/wiki/Unfinished_Stuffed_Bear)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/MISC_Stuffed_Bear_Clean_Unfaded_Icon.png/40px-MISC_Stuffed_Bear_Clean_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Unfinished Toy](https://bg3.wiki/wiki/Unfinished_Toy)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0e/Unfinished_Toy_Unfaded_Icon.png/40px-Unfinished_Toy_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Valeria's Hookah](https://bg3.wiki/wiki/Valeria%27s_Hookah)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Item_LOOT_Laboratory_Flask_Glass_E_Empty_A_1_Unfaded_Icon.png/40px-Item_LOOT_Laboratory_Flask_Glass_E_Empty_A_1_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Valeria's Snuff](https://bg3.wiki/wiki/Valeria%27s_Snuff)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d8/Items_CONS_Drink_Bottle_Small_C_Unfaded_Icon.png/40px-Items_CONS_Drink_Bottle_Small_C_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Valeria's Spare Pipe](https://bg3.wiki/wiki/Valeria%27s_Spare_Pipe)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7b/Item_LOOT_GEN_Pipe_A_Unfaded_Icon.png/40px-Item_LOOT_GEN_Pipe_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Valeria's Trunk Balm](https://bg3.wiki/wiki/Valeria%27s_Trunk_Balm)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Bottle_A_Unfaded_Icon.png/40px-Bottle_A_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Vase (Clutter)](https://bg3.wiki/wiki/Vase_(Clutter))",
+    "image": "https://bg3.wiki/w/images/thumb/8/8e/Vase_Generic_Unfaded_Icon.png/40px-Vase_Generic_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Vial of Blood](https://bg3.wiki/wiki/Vial_of_Blood)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Vial_of_Blood_Unfaded_Icon.png/40px-Vial_of_Blood_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Weathered Chisel Set](https://bg3.wiki/wiki/Weathered_Chisel_Set)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d8/MISC_Weathered_Chisel_Set_Unfaded_Icon.png/40px-MISC_Weathered_Chisel_Set_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Wooden Bowl](https://bg3.wiki/wiki/Wooden_Bowl)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Wooden_Bowl_Blood_Unfaded_Icon.png/40px-Wooden_Bowl_Blood_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Wooden Spoon](https://bg3.wiki/wiki/Wooden_Spoon)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d7/Wooden_Spoon_Unfaded_Icon.png/40px-Wooden_Spoon_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Worg Dung](https://bg3.wiki/wiki/Worg_Dung)",
+    "image": "https://bg3.wiki/w/images/thumb/e/eb/Worg_Dung_Unfaded_Icon.png/40px-Worg_Dung_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Whittled Duck](https://bg3.wiki/wiki/Whittled_Duck)",
+    "image": "https://bg3.wiki/w/images/thumb/6/69/MISC_Whittled_Duck_Unfaded_Icon.png/40px-MISC_Whittled_Duck_Unfaded_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Withered Blue Petal](https://bg3.wiki/wiki/Withered_Blue_Petal)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Withered_Blue_Petal_Item_Icon.png/40px-Withered_Blue_Petal_Item_Icon.png",
+    "miscellaneousType": "clutter"
+  },
+  {
+    "name": "[Withered Sussur Petal](https://bg3.wiki/wiki/Withered_Sussur_Petal)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Withered_Blue_Petal_Item_Icon.png/40px-Withered_Blue_Petal_Item_Icon.png",
+    "miscellaneousType": "clutter"
+  }
+]

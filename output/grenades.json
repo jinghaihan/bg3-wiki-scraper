@@ -1,0 +1,366 @@
+[
+  {
+    "name": "[Acid Vial](https://bg3.wiki/wiki/Acid_Vial)",
+    "image": "https://bg3.wiki/w/images/thumb/7/73/GRN_Acid_Vial_Unfaded_Icon.png/40px-GRN_Acid_Vial_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 2 m / 7 ft (Radius)",
+    "craftable": false,
+    "soldBy": "Various traders",
+    "price": 16,
+    "effect": "Deals 2d6[Acid](https://bg3.wiki/wiki/Acid)( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate). Creates a permanent  [Acid](https://bg3.wiki/wiki/Acid_(surface)) surface.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Alchemist's Fire](https://bg3.wiki/wiki/Alchemist%27s_Fire)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/GRN_Alchemist%27s_Fire_Unfaded_Icon.png/40px-GRN_Alchemist%27s_Fire_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 3 m / 10 ft (Radius)",
+    "craftable": true,
+    "soldBy": "Various traders",
+    "price": 13,
+    "effect": "Inflicts  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) for  Duration: 1 turn. Creates a  [Fire](https://bg3.wiki/wiki/Fire_(surface)) for  Duration: 3 turns.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Caustic Bulb](https://bg3.wiki/wiki/Caustic_Bulb)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/GRN_Caustic_Bulb_Unfaded_Icon.png/40px-GRN_Caustic_Bulb_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 3 m / 10 ft (Radius)",
+    "craftable": false,
+    "soldBy": "[Omeluum](https://bg3.wiki/wiki/Omeluum)",
+    "price": 2,
+    "effect": "Creates a permanent  [Caustic Brine](https://bg3.wiki/wiki/Caustic_Brine) surface.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Flashblinder](https://bg3.wiki/wiki/Flashblinder)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/GRN_Flashblinder_Unfaded_Icon.png/40px-GRN_Flashblinder_Unfaded_Icon.png",
+    "rare": "very rare",
+    "aoe": "AoE: 6 m / 20 ft (Radius)",
+    "craftable": true,
+    "soldBy": "[Bumpnagel](https://bg3.wiki/wiki/Bumpnagel)",
+    "price": 160,
+    "effect": "Inflicts  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition))( [Constitution](https://bg3.wiki/wiki/Constitution) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate) for  Duration: 10 turns. If a [Steel Watcher](https://bg3.wiki/wiki/Steel_Watcher_(creature)) or [Scrying Eye](https://bg3.wiki/wiki/Scrying_Eye) is hit it inflicts 1d6 penalty to [Attack Rolls](https://bg3.wiki/wiki/Attack_Roll) and  [Stunned](https://bg3.wiki/wiki/Stunned_(Condition))( [Constitution](https://bg3.wiki/wiki/Constitution) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate) for  Duration: 2 turns.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Fungal Bamboozler](https://bg3.wiki/wiki/Fungal_Bamboozler)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/GRN_Noxious_Spore_Grenade_Unfaded_Icon.png/40px-GRN_Noxious_Spore_Grenade_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "aoe": "AoE: 2 m / 7 ft (Radius)",
+    "craftable": true,
+    "soldBy": "–",
+    "price": 20,
+    "effect": "Creates area:  [Timmask Spores](https://bg3.wiki/wiki/Timmask_Spores_(cloud)) for  Duration: 3 turns. It inflicts  [Befuddled](https://bg3.wiki/wiki/Befuddled_(Condition)) for  Duration: 2 turns. The blast deals 2d4+1[Poison](https://bg3.wiki/wiki/Poison) with a succesfull attack roll.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Grease Bottle](https://bg3.wiki/wiki/Grease_Bottle)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c2/GRN_Grease_Bottle_Unfaded_Icon.png/40px-GRN_Grease_Bottle_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 3 m / 10 ft (Radius)",
+    "craftable": false,
+    "soldBy": "Various traders",
+    "price": 7,
+    "effect": "Creates a  [Grease](https://bg3.wiki/wiki/Grease_(surface)) surface that inflicts  [Difficult Terrain](https://bg3.wiki/wiki/Difficult_Terrain_(Condition)) and can inflict  [Prone](https://bg3.wiki/wiki/Prone_(Condition))( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate).  Duration: Until [Long rest](https://bg3.wiki/wiki/Long_rest).",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Haste Spore Grenade](https://bg3.wiki/wiki/Haste_Spore_Grenade)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/GRN_Haste_Spore_Grenade_Unfaded_Icon.png/40px-GRN_Haste_Spore_Grenade_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "aoe": "AoE: 2 m / 7 ft (Radius)",
+    "craftable": true,
+    "soldBy": "–",
+    "price": 25,
+    "effect": "Creates area:  [Haste Spores](https://bg3.wiki/wiki/Haste_Spores_(cloud)) for  Duration: 3 turns which inflicts  [Haste Spores](https://bg3.wiki/wiki/Haste_Spores_(Condition)) for  Duration: 1 turn.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Hearthlight Bomb](https://bg3.wiki/wiki/Hearthlight_Bomb)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5e/GRN_Hearthlight_Bomb_Unfaded_Icon.png/40px-GRN_Hearthlight_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 9 m / 30 ft (Radius)",
+    "craftable": true,
+    "soldBy": "[Avery Sonshal](https://bg3.wiki/wiki/Avery_Sonshal)",
+    "price": 13,
+    "effect": "[Dancing Lights](https://bg3.wiki/wiki/Dancing_Lights_(area)) for  Duration: 10 turns.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Holy Water](https://bg3.wiki/wiki/Holy_Water)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/GRN_Holy_Water_Unfaded_Icon.png/40px-GRN_Holy_Water_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 2 m / 7 ft (Radius)",
+    "craftable": false,
+    "soldBy": "Various traders",
+    "price": 20,
+    "effect": "Deals 3d6[Radiant](https://bg3.wiki/wiki/Radiant)( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve) damage to [Fiends](https://bg3.wiki/wiki/List_of_Creature_Types) and [Undead](https://bg3.wiki/wiki/List_of_Creature_Types). Creates a permanent  [Water](https://bg3.wiki/wiki/Water_(surface)) Surface.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Noxious Spore Grenade](https://bg3.wiki/wiki/Noxious_Spore_Grenade)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/GRN_Noxious_Spore_Grenade_Unfaded_Icon.png/40px-GRN_Noxious_Spore_Grenade_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "aoe": "AoE: 2 m / 7 ft (Radius)",
+    "craftable": true,
+    "soldBy": "[Tamara](https://bg3.wiki/wiki/Tamara)",
+    "price": 16,
+    "effect": "Creates area:  [Noxious Fumes](https://bg3.wiki/wiki/Noxious_Fumes) which inflicts  [Noxious Fumes](https://bg3.wiki/wiki/Noxious_Fumes_(Condition)) for  Duration: 3 turns. The blast deals 2d4+1[Poison](https://bg3.wiki/wiki/Poison) with a succesfull attack roll.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Ochre Jelly Slime](https://bg3.wiki/wiki/Ochre_Jelly_Slime)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/GRN_Flammable_Slime_Bomb_Unfaded_Icon.png/40px-GRN_Flammable_Slime_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 1 m / 3 ft (Radius)",
+    "craftable": false,
+    "soldBy": "Various traders",
+    "price": 11,
+    "effect": "Deals 1d4+2[Fire](https://bg3.wiki/wiki/Fire). Inflicts  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) for  Duration: 5 turns.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Oil Flask](https://bg3.wiki/wiki/Oil_Flask)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c2/GRN_Oil_Flask_Unfaded_Icon.png/40px-GRN_Oil_Flask_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 3 m / 10 ft (Radius)",
+    "craftable": false,
+    "soldBy": "[Skittle](https://bg3.wiki/wiki/Skittle)",
+    "price": 7,
+    "effect": "Creates area:  [Oil](https://bg3.wiki/wiki/Oil), when ignited turns to a fire surface.  Duration: Until [Long rest](https://bg3.wiki/wiki/Long_rest)",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Sanguine Explosive](https://bg3.wiki/wiki/Sanguine_Explosive)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/Item_WPN_Grenade_BloodSurface_Unfaded_Icon.png/40px-Item_WPN_Grenade_BloodSurface_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 2 m / 7 ft (Radius)",
+    "craftable": false,
+    "soldBy": "[Araj Oblodra](https://bg3.wiki/wiki/Araj_Oblodra)",
+    "price": 16,
+    "effect": "Deals 4d8[Force](https://bg3.wiki/wiki/Force) + 4d8[Fire](https://bg3.wiki/wiki/Fire) ( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve) and inflicts  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) for  Duration: 2 turns ( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate).",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Smokepowder Bomb](https://bg3.wiki/wiki/Smokepowder_Bomb)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/GRN_Smokepowder_Bomb_Unfaded_Icon.png/40px-GRN_Smokepowder_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 4 m / 13 ft (Radius)",
+    "craftable": false,
+    "soldBy": "Various traders",
+    "price": 16,
+    "effect": "Deals 3d4+9[Force](https://bg3.wiki/wiki/Force)( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve).",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Spiked Bulb](https://bg3.wiki/wiki/Spiked_Bulb)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/GRN_Spiked_Bulb_Unfaded_Icon.png/40px-GRN_Spiked_Bulb_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 4 m / 13 ft (Radius)",
+    "craftable": false,
+    "soldBy": "[Omeluum](https://bg3.wiki/wiki/Omeluum)",
+    "price": 1,
+    "effect": "Deals 1[Piercing](https://bg3.wiki/wiki/Piercing) and inflicts  [Bleeding](https://bg3.wiki/wiki/Bleeding_(Condition)) for  Duration: 1 turn.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Void Bulb](https://bg3.wiki/wiki/Void_Bulb)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/GRN_Void_Bulb_Unfaded_Icon.png/40px-GRN_Void_Bulb_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 6 m / 20 ft (Radius)",
+    "craftable": false,
+    "soldBy": "[Omeluum](https://bg3.wiki/wiki/Omeluum)",
+    "price": 3,
+    "effect": "Deals 1[Force](https://bg3.wiki/wiki/Force) damage and pulls creatures caught towards the point of impact ( [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate).",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Web Grenade](https://bg3.wiki/wiki/Web_Grenade)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/GRN_Web_Grenade_Unfaded_Icon.png/40px-GRN_Web_Grenade_Unfaded_Icon.png",
+    "rare": "common",
+    "aoe": "AoE: 3 m / 10 ft (Radius)",
+    "craftable": true,
+    "soldBy": "[Helsik](https://bg3.wiki/wiki/Helsik)",
+    "price": 16,
+    "effect": "Creates area:  [Web](https://bg3.wiki/wiki/Web_(surface)) for  Duration: 10 turns.",
+    "grenadeType": "regular"
+  },
+  {
+    "name": "[Runepowder Vial](https://bg3.wiki/wiki/Runepowder_Vial)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b1/GRN_Runepowder_Vial_Unfaded_Icon.png/40px-GRN_Runepowder_Vial_Unfaded_Icon.png",
+    "rare": "rare",
+    "price": 50,
+    "type": "Damage",
+    "effect": "Deals 5d4+18[Force](https://bg3.wiki/wiki/Force)( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve). Automatically Critically Hits objects and environments.",
+    "grenadeType": "explosive satchels",
+    "craftable": false
+  },
+  {
+    "name": "[Smokepowder Satchel](https://bg3.wiki/wiki/Smokepowder_Satchel)",
+    "image": "https://bg3.wiki/w/images/thumb/a/af/GRN_Smokepowder_Satchel_Unfaded_Icon.png/40px-GRN_Smokepowder_Satchel_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 90,
+    "type": "Damage",
+    "effect": "Deals 3d4+9[Force](https://bg3.wiki/wiki/Force)( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve). Automatically Critically Hits objects and environments.",
+    "grenadeType": "explosive satchels",
+    "craftable": false
+  },
+  {
+    "name": "[Surprise-Based Teddy Bear](https://bg3.wiki/wiki/Surprise-Based_Teddy_Bear)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/MISC_Stuffed_Bear_Clean_Unfaded_Icon.png/40px-MISC_Stuffed_Bear_Clean_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 25,
+    "type": "Damage",
+    "effect": "Deals 6d6[Fire](https://bg3.wiki/wiki/Fire)( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve).",
+    "grenadeType": "explosive satchels",
+    "craftable": false
+  },
+  {
+    "name": "[Brilliant Retort](https://bg3.wiki/wiki/Brilliant_Retort)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/GRN_Smokepowder_Bomb_Unfaded_Icon.png/40px-GRN_Smokepowder_Bomb_Unfaded_Icon.png",
+    "rare": "rare",
+    "price": 120,
+    "type": "Damage",
+    "effect": "Deals 3d4+9[Force](https://bg3.wiki/wiki/Force)([Dexterity Save](https://bg3.wiki/wiki/Saving_Throw) to halve) twice and inflicts  [Silenced](https://bg3.wiki/wiki/Silenced_(Condition)).",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Concussion Grenade](https://bg3.wiki/wiki/Concussion_Grenade)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/GRN_Smokepowder_Bomb_Unfaded_Icon.png/40px-GRN_Smokepowder_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "type": "Damage",
+    "effect": "Deals 5d10+18[Thunder](https://bg3.wiki/wiki/Thunder).",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Flammable Slime Bomb](https://bg3.wiki/wiki/Flammable_Slime_Bomb)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/GRN_Flammable_Slime_Bomb_Unfaded_Icon.png/40px-GRN_Flammable_Slime_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "type": "Damage",
+    "effect": "Deals 1d4+2[Fire](https://bg3.wiki/wiki/Fire). Creates area:  [Fire](https://bg3.wiki/wiki/Fire_(surface)) that inflicts  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) in  AoE: 3 m / 10 ft (Radius) for approx  Duration: 6 turns.",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Hag's Bane](https://bg3.wiki/wiki/Hag%27s_Bane)",
+    "image": "https://bg3.wiki/w/images/thumb/5/53/GRN_Hag%27s_Bane_Unfaded_Icon.png/40px-GRN_Hag%27s_Bane_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "type": "Utility",
+    "effect": "Forces a hag that has consumed a child to disgorge it instantly.",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Haste Spore Flask](https://bg3.wiki/wiki/Haste_Spore_Flask)",
+    "image": "https://bg3.wiki/w/images/thumb/6/67/GRN_Haste_Spore_Flask_Unfaded_Icon.png/40px-GRN_Haste_Spore_Flask_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 50,
+    "type": "Utility",
+    "effect": "Creates a permanent  [Haste Spores](https://bg3.wiki/wiki/Haste_Spores_(cloud)) that Inflicts  [Haste Spores](https://bg3.wiki/wiki/Haste_Spores_(Condition)) for  Duration: 1 turn",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Iron Flask](https://bg3.wiki/wiki/Iron_Flask)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Iron_Flask_Unfaded_Icon.png/40px-Iron_Flask_Unfaded_Icon.png",
+    "rare": "story item",
+    "price": 480,
+    "type": "Utility",
+    "effect": "Releases a [Spectator](https://bg3.wiki/wiki/Spectator) that is hostile to all nearby creatures (including the party).",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Merregon Potion](https://bg3.wiki/wiki/Merregon_Potion)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/GRN_Noxious_Spore_Grenade_Unfaded_Icon.png/40px-GRN_Noxious_Spore_Grenade_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "price": 20,
+    "type": "Damage/Utility",
+    "effect": "Creates area:  [Timmask Spores](https://bg3.wiki/wiki/Timmask_Spores_(cloud)) for  Duration: 3 turns. It inflicts  [Befuddled](https://bg3.wiki/wiki/Befuddled_(Condition)) for  Duration: 1 turn. The blast deals 2d4+1[Poison](https://bg3.wiki/wiki/Poison) with a succesfull attack roll.",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Orthon Explosive](https://bg3.wiki/wiki/Orthon_Explosive)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/GRN_Orthonic_Handbomb_Unfaded_Icon.png/40px-GRN_Orthonic_Handbomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 16,
+    "type": "Damage/Utility",
+    "effect": "Deals 3d6[Fire](https://bg3.wiki/wiki/Fire) ( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve) and inflicts  [Infernal Burning](https://bg3.wiki/wiki/Infernal_Burning_(Condition)) for  Duration: 4 turns ( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate).",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Orthonic Handbomb](https://bg3.wiki/wiki/Orthonic_Handbomb)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/GRN_Orthonic_Handbomb_Unfaded_Icon.png/40px-GRN_Orthonic_Handbomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 16,
+    "type": "Damage",
+    "effect": "Deals 4d8[Force](https://bg3.wiki/wiki/Force) + 4d8[Fire](https://bg3.wiki/wiki/Fire) ( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to halve) and inflicts  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) for  Duration: 2 turns ( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate).",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Phase Optimizer](https://bg3.wiki/wiki/Phase_Optimizer)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/GRN_Smokepowder_Bomb_Unfaded_Icon.png/40px-GRN_Smokepowder_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "type": "Utility",
+    "effect": "Grants  [Phase Optimizer Active](https://bg3.wiki/wiki/Phase_Optimizer_Active_(Condition)) to [Steel Watchers](https://bg3.wiki/wiki/Steel_Watcher_(creature)) hit for  Duration: 2 turns.",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Poisonous Slime Bomb](https://bg3.wiki/wiki/Poisonous_Slime_Bomb)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/GRN_Poisonous_Slime_Bomb_Unfaded_Icon.png/40px-GRN_Poisonous_Slime_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "type": "Damage/Utility",
+    "effect": "Deals 1d4+1[Poison](https://bg3.wiki/wiki/Poison) in  AoE: 3 m / 10 ft (Radius). Creates area:  [Poison Cloud](https://bg3.wiki/wiki/Poison_Cloud) that inflicts  [Poisoned](https://bg3.wiki/wiki/Poisoned_(Condition)) in  AoE: 3 m / 10 ft (Radius) for approx  Duration: 10 turns(Variable).",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Reflectoguard](https://bg3.wiki/wiki/Reflectoguard)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/GRN_Smokepowder_Bomb_Unfaded_Icon.png/40px-GRN_Smokepowder_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "type": "Utility",
+    "effect": "Grants  [Reflectoguard Active](https://bg3.wiki/wiki/Reflectoguard_Active_(Condition)) to targets in  AoE: 4 m / 13 ft (Radius) for  Duration: 2 turns.",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Scrap and Shrapnel Grenade](https://bg3.wiki/wiki/Scrap_and_Shrapnel_Grenade)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/GRN_Smokepowder_Bomb_Unfaded_Icon.png/40px-GRN_Smokepowder_Bomb_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 1,
+    "type": "Damage/Utility",
+    "effect": "Deals 1[Piercing](https://bg3.wiki/wiki/Piercing), and inflicts  [Bleeding](https://bg3.wiki/wiki/Bleeding_(Condition)) for  Duration: 1 turn.",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Volo's Jar of Moustache Wax](https://bg3.wiki/wiki/Volo%27s_Jar_of_Moustache_Wax)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c2/GRN_Grease_Bottle_Unfaded_Icon.png/40px-GRN_Grease_Bottle_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 7,
+    "type": "Utility",
+    "effect": "Creates area:  [Grease](https://bg3.wiki/wiki/Grease_(surface)) that inflicts  [Difficult Terrain](https://bg3.wiki/wiki/Difficult_Terrain_(Condition)) and can inflict  [Prone](https://bg3.wiki/wiki/Prone_(Condition))( [Dexterity](https://bg3.wiki/wiki/Dexterity) [saving throw](https://bg3.wiki/wiki/Saving_throw) to negate).  Duration: Until [Long rest](https://bg3.wiki/wiki/Long_rest).",
+    "grenadeType": "special",
+    "craftable": false
+  },
+  {
+    "name": "[Suspicious Poison](https://bg3.wiki/wiki/Suspicious_Poison)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/POT_Potion_of_Healing_Unfaded_Icon.png/40px-POT_Potion_of_Healing_Unfaded_Icon.png",
+    "rare": "common",
+    "grenadeType": "special",
+    "craftable": false
+  }
+]

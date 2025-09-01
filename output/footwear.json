@@ -1,0 +1,614 @@
+[
+  {
+    "name": "[Appreciably-Cared-For Boots](https://bg3.wiki/wiki/Appreciably-Cared-For_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c4/Boots_Leather_A_Unfaded_Icon.png/50px-Boots_Leather_A_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Cleverly Cobbled Boots](https://bg3.wiki/wiki/Cleverly_Cobbled_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a9/Shoes_D_Unfaded_Icon.png/50px-Shoes_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Drow Leather Boots](https://bg3.wiki/wiki/Drow_Leather_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/9/95/Drow_Leather_Boots_Unfaded_Icon.png/50px-Drow_Leather_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Firm-Soled Boots](https://bg3.wiki/wiki/Firm-Soled_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Item_ARM_Boots_Leather_D_Unfaded_Icon.png/50px-Item_ARM_Boots_Leather_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Grovetender Boots](https://bg3.wiki/wiki/Grovetender_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7a/Grovetender_Boots_Unfaded_Icon.png/50px-Grovetender_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Hardily Constructed Boots](https://bg3.wiki/wiki/Hardily_Constructed_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Shoes_A_Unfaded_Icon.png/50px-Shoes_A_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Heavy Boots](https://bg3.wiki/wiki/Heavy_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e5/Heavy_Boots_Unfaded_Icon.png/50px-Heavy_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Humbly Cobbled Shoes](https://bg3.wiki/wiki/Humbly_Cobbled_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Shoes_G_Unfaded_Icon.png/50px-Shoes_G_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Jaheira’s Boots](https://bg3.wiki/wiki/Jaheira%E2%80%99s_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Item_ARM_Boots_Leather_D_Unfaded_Icon.png/50px-Item_ARM_Boots_Leather_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Karlach's Boots](https://bg3.wiki/wiki/Karlach%27s_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4c/Boots_Leather_2_Unfaded_Icon.png/50px-Boots_Leather_2_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Boots](https://bg3.wiki/wiki/Leather_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8d/Boots_Leather_Unfaded_Icon.png/50px-Boots_Leather_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Leather Boots (Barbarian)](https://bg3.wiki/wiki/Leather_Boots_(Barbarian))",
+    "image": "https://bg3.wiki/w/images/thumb/5/5d/Shoes_Barbarian_Unfaded_Icon.png/50px-Shoes_Barbarian_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Lonely Left Boot of Elvenkind](https://bg3.wiki/wiki/Lonely_Left_Boot_of_Elvenkind)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9c/Shoes_E_Unfaded_Icon.png/50px-Shoes_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Monastic Boots](https://bg3.wiki/wiki/Monastic_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6c/Boots_Monk_Unfaded_Icon.png/50px-Boots_Monk_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Plain Boots](https://bg3.wiki/wiki/Plain_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4c/Boots_Leather_2_Unfaded_Icon.png/50px-Boots_Leather_2_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Quite Fashionable Boots](https://bg3.wiki/wiki/Quite_Fashionable_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7d/Shoes_H_Unfaded_Icon.png/50px-Shoes_H_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Simple Boots](https://bg3.wiki/wiki/Simple_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/Shoes_Unfaded_Icon.png/50px-Shoes_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Smarmy Swaggerer Boots](https://bg3.wiki/wiki/Smarmy_Swaggerer_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Item_ARM_Boots_Leather_B_Unfaded_Icon.png/50px-Item_ARM_Boots_Leather_B_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Soft and Comfortable Shoes](https://bg3.wiki/wiki/Soft_and_Comfortable_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9c/Shoes_E_Unfaded_Icon.png/50px-Shoes_E_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Stiffly-Shod Boots](https://bg3.wiki/wiki/Stiffly-Shod_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b8/Hide_Boots_Unfaded_Icon.png/50px-Hide_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Thin-Soled Shoes](https://bg3.wiki/wiki/Thin-Soled_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Shoes_C_Unfaded_Icon.png/50px-Shoes_C_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Tidy Slender Boots](https://bg3.wiki/wiki/Tidy_Slender_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/7/72/Tidy_Slender_Boots_Unfaded_Icon.png/50px-Tidy_Slender_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 15,
+    "effects": ""
+  },
+  {
+    "name": "[Tough Shoes](https://bg3.wiki/wiki/Tough_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/Shoes_Unfaded_Icon.png/50px-Shoes_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Tough-Soled Shoes](https://bg3.wiki/wiki/Tough-Soled_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/7/73/Shoes_F_Unfaded_Icon.png/50px-Shoes_F_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "common",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 5,
+    "effects": ""
+  },
+  {
+    "name": "[Boots of Aid and Comfort](https://bg3.wiki/wiki/Boots_of_Aid_and_Comfort)",
+    "image": "https://bg3.wiki/w/images/thumb/3/30/Boots_of_Aid_and_Comfort_Unfaded_Icon.png/50px-Boots_of_Aid_and_Comfort_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[The Comeback](https://bg3.wiki/wiki/The_Comeback)When the wearer heals a target, it gains an additional  3 [temporary hit points](https://bg3.wiki/wiki/Temporary_Hit_Points)."
+  },
+  {
+    "name": "[Boots of Stormy Clamour](https://bg3.wiki/wiki/Boots_of_Stormy_Clamour)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fe/Boots_of_Stormy_Clamour_Unfaded_Icon.png/50px-Boots_of_Stormy_Clamour_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[Arcane Echomalefaction](https://bg3.wiki/wiki/Arcane_Echomalefaction)When the wearer inflicts a condition upon a hostile creature, they also inflict 2 turns of  [Reverberation](https://bg3.wiki/wiki/Reverberation_(Condition)).[[See: Bugs](https://bg3.wiki/wiki/Arcane_Echomalefaction#Bugs)]"
+  },
+  {
+    "name": "[Boots of Very Fast Blinking](https://bg3.wiki/wiki/Boots_of_Very_Fast_Blinking)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e4/Shoes_Bard_Unfaded_Icon.png/50px-Shoes_Bard_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 1,
+    "effects": "[Disrobing Blinkstep](https://bg3.wiki/wiki/Disrobing_Blinkstep) \nCast as a level 2 spell ( Recharge: Per turn.)"
+  },
+  {
+    "name": "[Cinder Shoes](https://bg3.wiki/wiki/Cinder_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4a/Boots_Leather_1_Unfaded_Icon.png/50px-Boots_Leather_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[Cinders](https://bg3.wiki/wiki/Cinders)Whenever you  [Burn](https://bg3.wiki/wiki/Burning_(Condition)) an enemy, you gain 2 turns of  [Heat](https://bg3.wiki/wiki/Heat_(Condition))."
+  },
+  {
+    "name": "[Hoarfrost Boots](https://bg3.wiki/wiki/Hoarfrost_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Hoarfrost_Boots_Unfaded_Icon.png/50px-Hoarfrost_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[Hoarfrost Balance](https://bg3.wiki/wiki/Hoarfrost_Balance)You cannot fall  [Prone](https://bg3.wiki/wiki/Prone_(Condition)) while traversing  [Icy](https://bg3.wiki/wiki/Ice_(surface)) terrain."
+  },
+  {
+    "name": "[Mystra's Grace](https://bg3.wiki/wiki/Mystra%27s_Grace)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4a/Boots_Leather_1_Unfaded_Icon.png/50px-Boots_Leather_1_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[Feather Fall](https://bg3.wiki/wiki/Feather_Fall) \nCast as a level 1 spell at will."
+  },
+  {
+    "name": "[Spiderstep Boots](https://bg3.wiki/wiki/Spiderstep_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Spiderstep_Boots_Unfaded_Icon.png/50px-Spiderstep_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[Spider Step](https://bg3.wiki/wiki/Spider_Step)Immune to being  [Enwebbed](https://bg3.wiki/wiki/Enwebbed_(Condition)). Your [Movement Speed](https://bg3.wiki/wiki/Movement_Speed) is not affected by  [Web](https://bg3.wiki/wiki/Web_(surface)) surfaces."
+  },
+  {
+    "name": "[Tyrannical Jackboots](https://bg3.wiki/wiki/Tyrannical_Jackboots)",
+    "image": "https://bg3.wiki/w/images/thumb/1/11/Tyrannical_Jackboots_Unfaded_Icon.png/50px-Tyrannical_Jackboots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 100,
+    "effects": "[Scintillating](https://bg3.wiki/wiki/Scintillating)You gain a +1 bonus to [Charisma](https://bg3.wiki/wiki/Charisma)   [Ability checks](https://bg3.wiki/wiki/Ability_check) and  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Varsh Ko'kuu's Boots](https://bg3.wiki/wiki/Varsh_Ko%27kuu%27s_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Shoes_A_Unfaded_Icon.png/50px-Shoes_A_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "uncommon",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[Caretaker's Care](https://bg3.wiki/wiki/Caretaker%27s_Care) [Acidic](https://bg3.wiki/wiki/Acid_(surface)) surfaces don't affect you, and you are [Resistant](https://bg3.wiki/wiki/Resistant) to [Acid](https://bg3.wiki/wiki/Acid) damage."
+  },
+  {
+    "name": "[Acrobat Shoes](https://bg3.wiki/wiki/Acrobat_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/5/56/Acrobat_Shoes_Unfaded_Icon.png/50px-Acrobat_Shoes_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 35,
+    "effects": "[Acrobatics](https://bg3.wiki/wiki/Acrobatics) +1\n [Advantage](https://bg3.wiki/wiki/Advantage) on [Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Boots of Apparent Death](https://bg3.wiki/wiki/Boots_of_Apparent_Death)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Shoes_A_Unfaded_Icon.png/50px-Shoes_A_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Feign Death](https://bg3.wiki/wiki/Feign_Death) ( + )\nCast as a level 3 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Boots of Arcane Bolstering](https://bg3.wiki/wiki/Boots_of_Arcane_Bolstering)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5e/Boots_of_Arcane_Bolstering_Unfaded_Icon.png/50px-Boots_of_Arcane_Bolstering_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Rapid Caster](https://bg3.wiki/wiki/Rapid_Caster)Each time they  [Dash](https://bg3.wiki/wiki/Dash), the wearer gains  [Arcane Charge](https://bg3.wiki/wiki/Arcane_Charge_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Boots of Brilliance](https://bg3.wiki/wiki/Boots_of_Brilliance)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/Boots_of_Brilliance_Unfaded_Icon.png/50px-Boots_of_Brilliance_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Restore Bardic Inspiration](https://bg3.wiki/wiki/Restore_Bardic_Inspiration) \nPlay your instrument to restore one of your Bardic Inspiration slots. ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Boots of Genial Striding](https://bg3.wiki/wiki/Boots_of_Genial_Striding)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f3/Boots_of_Genial_Striding_Unfaded_Icon.png/50px-Boots_of_Genial_Striding_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Genial Strider](https://bg3.wiki/wiki/Genial_Strider)The wearer's [Movement Speed](https://bg3.wiki/wiki/Movement_Speed) is unimpeded by  [Difficult Terrain](https://bg3.wiki/wiki/Difficult_Terrain_(Condition))."
+  },
+  {
+    "name": "[Boots of Speed](https://bg3.wiki/wiki/Boots_of_Speed)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Boots_of_Speed_Unfaded_Icon.png/50px-Boots_of_Speed_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Click Heels](https://bg3.wiki/wiki/Click_Heels) \nClick the heels of your boots to gain speed and freedom of movement."
+  },
+  {
+    "name": "[Boots of Uninhibited Kushigo](https://bg3.wiki/wiki/Boots_of_Uninhibited_Kushigo)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1e/Boots_of_Uninhibited_Kushigo_Unfaded_Icon.png/50px-Boots_of_Uninhibited_Kushigo_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Experienced And Deadly](https://bg3.wiki/wiki/Experienced_And_Deadly)The wearer deals additional damage equal to their  [Wisdom](https://bg3.wiki/wiki/Wisdom) Modifier with unarmed strikes."
+  },
+  {
+    "name": "[Evasive Shoes](https://bg3.wiki/wiki/Evasive_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Shoes_G_Magic_Unfaded_Icon.png/50px-Shoes_G_Magic_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 95,
+    "effects": "[Acrobatics](https://bg3.wiki/wiki/Acrobatics) +1\n [Armour Class](https://bg3.wiki/wiki/Armour_Class) +1"
+  },
+  {
+    "name": "[Linebreaker Boots](https://bg3.wiki/wiki/Linebreaker_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/Linebreaker_Boots_Unfaded_Icon.png/50px-Linebreaker_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Adrenaline Rush](https://bg3.wiki/wiki/Adrenaline_Rush)When the wearer  [Dashes](https://bg3.wiki/wiki/Dash) or takes a similar action during combat, they gain  [Wrath](https://bg3.wiki/wiki/Wrath_(Condition)) for 3 turns."
+  },
+  {
+    "name": "[Slinging Shoes](https://bg3.wiki/wiki/Slinging_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/3/34/Slinging_Shoes_Unfaded_Icon.png/50px-Slinging_Shoes_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 35,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Shoe Slinger](https://bg3.wiki/wiki/Shoe_Slinger)Returns to its owner when thrown. On a hit deal an additional 2d4Psychic damage."
+  },
+  {
+    "name": "[Spaceshunt Boots](https://bg3.wiki/wiki/Spaceshunt_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Spaceshunt_Boots_Unfaded_Icon.png/50px-Spaceshunt_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Dimension Door](https://bg3.wiki/wiki/Dimension_Door) ( + )\nCast as a level 4 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Springstep Boots](https://bg3.wiki/wiki/Springstep_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a6/Springstep_Boots_Unfaded_Icon.png/50px-Springstep_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Swift Strides](https://bg3.wiki/wiki/Swift_Strides)When the wearer  [Dashes](https://bg3.wiki/wiki/Dash) or takes a similar action during combat, they gain  [Momentum](https://bg3.wiki/wiki/Momentum_(Condition)) for 3 turns."
+  },
+  {
+    "name": "[Swiresy Shoes](https://bg3.wiki/wiki/Swiresy_Shoes)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a9/Shoes_D_Unfaded_Icon.png/50px-Shoes_D_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 35,
+    "effects": "[Acrobatics](https://bg3.wiki/wiki/Acrobatics) +1\n[Refined Vaulting](https://bg3.wiki/wiki/Refined_Vaulting) [Jump](https://bg3.wiki/wiki/Jump) distance is increased by  1.5 m / 5 ft."
+  },
+  {
+    "name": "[The Watersparkers](https://bg3.wiki/wiki/The_Watersparkers)",
+    "image": "https://bg3.wiki/w/images/thumb/1/10/The_Watersparkers_Unfaded_Icon.png/50px-The_Watersparkers_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 190,
+    "effects": "[Electrify Water](https://bg3.wiki/wiki/Electrify_Water)When the wearer stands in  [Water](https://bg3.wiki/wiki/Water_(surface)) during combat, it becomes  [Electrified Water](https://bg3.wiki/wiki/Electrified_Water).[Watersparks](https://bg3.wiki/wiki/Watersparks)If the wearer starts their turn on an  [Electrified Water](https://bg3.wiki/wiki/Electrified_Water) surface, they gain 3  [Lightning Charges](https://bg3.wiki/wiki/Lightning_Charges_(Condition))."
+  },
+  {
+    "name": "[Bonespike Boots](https://bg3.wiki/wiki/Bonespike_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0b/Bonespike_Boots_Unfaded_Icon.png/50px-Bonespike_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 70,
+    "effects": "[Brutal Leap](https://bg3.wiki/wiki/Brutal_Leap) ( + )\nLeap at a target and possibly knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)). ( Recharge: Per turn.)\n\n[Evasive Instinct](https://bg3.wiki/wiki/Evasive_Instinct)You have a +1 bonus to  [Armour Class](https://bg3.wiki/wiki/Armour_Class) and  [Saving throws](https://bg3.wiki/wiki/Saving_throw) as long as you are not wearing [armour](https://bg3.wiki/wiki/Armour) or holding a [shield](https://bg3.wiki/wiki/Shields).[Refined Vaulting](https://bg3.wiki/wiki/Refined_Vaulting) [Jump](https://bg3.wiki/wiki/Jump) distance is increased by  1.5 m / 5 ft."
+  },
+  {
+    "name": "[Helldusk Boots](https://bg3.wiki/wiki/Helldusk_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Helldusk_Boots_Unfaded_Icon.png/50px-Helldusk_Boots_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "very rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 450,
+    "effects": "[Hellcrawler](https://bg3.wiki/wiki/Hellcrawler) \nTeleport to an area and deal 2d8Fire damage where you land. The impact blast spreads in a 3 m / 10 ft zone. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Steadfast](https://bg3.wiki/wiki/Steadfast)You cannot be forcibly moved by a foe's spells or actions, and you ignore the effects of  [Difficult Terrain](https://bg3.wiki/wiki/Difficult_Terrain_(Condition)).[Infernal Evasion](https://bg3.wiki/wiki/Infernal_Evasion)When you fail a  [Saving throw](https://bg3.wiki/wiki/Saving_throw), you may use your  [Reaction](https://bg3.wiki/wiki/Actions#Reactions) to succeed instead."
+  },
+  {
+    "name": "[Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Disintegrating_Nightwalkers_Unfaded_Icon.png/50px-Disintegrating_Nightwalkers_Unfaded_Icon.png",
+    "armourType": "non armour",
+    "rare": "story item",
+    "weight": "0.55 kg\n\n1.1 lb",
+    "price": 360,
+    "effects": "[Misty Step](https://bg3.wiki/wiki/Misty_Step) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Night Walker](https://bg3.wiki/wiki/Night_Walker)The affected creature cannot be  [Enwebbed](https://bg3.wiki/wiki/Enwebbed_(Condition)),  [Entangled](https://bg3.wiki/wiki/Entangled_(Condition)), or  [Ensnared](https://bg3.wiki/wiki/Ensnared_(Condition)) and cannot slip on  [Grease](https://bg3.wiki/wiki/Grease_(surface)) or  [Ice](https://bg3.wiki/wiki/Ice_(surface))."
+  },
+  {
+    "name": "[Dreamsome Boots](https://bg3.wiki/wiki/Dreamsome_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Boots_Metal_Unfaded_Icon.png/50px-Boots_Metal_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Githyanki Boots](https://bg3.wiki/wiki/Githyanki_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/Githyanki_Boots_Unfaded_Icon.png/50px-Githyanki_Boots_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Metallic Boots](https://bg3.wiki/wiki/Metallic_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Boots_Metal_Unfaded_Icon.png/50px-Boots_Metal_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Metallic Boots](https://bg3.wiki/wiki/Metallic_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/Boots_Metal_B_Unfaded_Icon.png/50px-Boots_Metal_B_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Metallic Boots](https://bg3.wiki/wiki/Metallic_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Boots_Metal_C_Unfaded_Icon.png/50px-Boots_Metal_C_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Metallic Boots](https://bg3.wiki/wiki/Metallic_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Boots_Metal_D_Unfaded_Icon.png/50px-Boots_Metal_D_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Metallic Boots](https://bg3.wiki/wiki/Metallic_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/9/94/Boots_Metal_E_Unfaded_Icon.png/50px-Boots_Metal_E_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Metallic Boots](https://bg3.wiki/wiki/Metallic_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Boots_Metal_F_Unfaded_Icon.png/50px-Boots_Metal_F_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Oathbreaker Knight Boots](https://bg3.wiki/wiki/Oathbreaker_Knight_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Boots_Metal_F_Unfaded_Icon.png/50px-Boots_Metal_F_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "common",
+    "weight": "2 kg\n\n4 lb",
+    "price": 30,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Boots of Elemental Momentum](https://bg3.wiki/wiki/Boots_of_Elemental_Momentum)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Boots_of_Elemental_Momentum_Unfaded_Icon.png/50px-Boots_of_Elemental_Momentum_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "uncommon",
+    "weight": "2 kg\n\n4 lb",
+    "price": 90,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1\n[Elemental Momentum](https://bg3.wiki/wiki/Elemental_Momentum)Whenever the wearer deals [Acid](https://bg3.wiki/wiki/Acid), [Cold](https://bg3.wiki/wiki/Cold), [Fire](https://bg3.wiki/wiki/Fire), [Lightning](https://bg3.wiki/wiki/Lightning) or [Thunder](https://bg3.wiki/wiki/Thunder) damage with [Spells](https://bg3.wiki/wiki/Spell) or [Cantrip](https://bg3.wiki/wiki/Cantrip), they gain  [Momentum](https://bg3.wiki/wiki/Momentum_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Boots of Striding](https://bg3.wiki/wiki/Boots_of_Striding)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/Boots_Metal_F_Unfaded_Icon.png/50px-Boots_Metal_F_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "uncommon",
+    "weight": "2 kg\n\n4 lb",
+    "price": 90,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1\n[Focused Stride](https://bg3.wiki/wiki/Focused_Stride)When you cast a spell that requires  [Concentration](https://bg3.wiki/wiki/Concentration), you gain  [Momentum](https://bg3.wiki/wiki/Momentum_(Condition)) for 1 turn. While you are concentrating, you cannot be knocked  [Prone](https://bg3.wiki/wiki/Prone_(Condition)) or moved against your will."
+  },
+  {
+    "name": "[Blackguard's Greaves](https://bg3.wiki/wiki/Blackguard%27s_Greaves)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Boots_Metal_1_Unfaded_Icon.png/50px-Boots_Metal_1_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 640,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1\n[Strider Movement](https://bg3.wiki/wiki/Strider_Movement)You gain  [Longstrider](https://bg3.wiki/wiki/Longstrider_(Condition))."
+  },
+  {
+    "name": "[Dark Justiciar Boots](https://bg3.wiki/wiki/Dark_Justiciar_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Boots_Metal_1_Unfaded_Icon.png/50px-Boots_Metal_1_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 240,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n\n [Shadow Teleportation](https://bg3.wiki/wiki/Shadow_Teleportation) \nTeleport to an unoccupied, obscured spot. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[The Speedy Lightfeet](https://bg3.wiki/wiki/The_Speedy_Lightfeet)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1a/The_Speedy_Lightfeet_Unfaded_Icon.png/50px-The_Speedy_Lightfeet_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 240,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1\n[Speedy Sparks](https://bg3.wiki/wiki/Speedy_Sparks)When the wearer  [Dashes](https://bg3.wiki/wiki/Dash) or takes a similar action in combat, they gain 3  [Lightning Charges](https://bg3.wiki/wiki/Lightning_Charges_(Condition))"
+  },
+  {
+    "name": "[Unwanted Masterwork Greaves](https://bg3.wiki/wiki/Unwanted_Masterwork_Greaves)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Boots_Metal_1_Unfaded_Icon.png/50px-Boots_Metal_1_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 240,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1"
+  },
+  {
+    "name": "[Vital Conduit Boots](https://bg3.wiki/wiki/Vital_Conduit_Boots)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1f/Boots_Metal_Githyanki_Magic_Unfaded_Icon.png/50px-Boots_Metal_Githyanki_Magic_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 240,
+    "effects": "[Athletics](https://bg3.wiki/wiki/Athletics) +1\n[Vital Conduit](https://bg3.wiki/wiki/Vital_Conduit)Grants the wearer  8 [temporary hit points](https://bg3.wiki/wiki/Temporary_Hit_Points) when they cast a [Spell](https://bg3.wiki/wiki/Spell) that requires  [Concentration](https://bg3.wiki/wiki/Concentration)."
+  },
+  {
+    "name": "[Boots of Persistence](https://bg3.wiki/wiki/Boots_of_Persistence)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/Boots_of_Persistence_Unfaded_Icon.png/50px-Boots_of_Persistence_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "very rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 1300,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n[Legendary Mobility](https://bg3.wiki/wiki/Legendary_Mobility)You gain  [Freedom of Movement](https://bg3.wiki/wiki/Freedom_of_Movement_(Condition)) and  [Longstrider](https://bg3.wiki/wiki/Longstrider_(Condition))."
+  },
+  {
+    "name": "[Boots of Psionic Movement](https://bg3.wiki/wiki/Boots_of_Psionic_Movement)",
+    "image": "https://bg3.wiki/w/images/thumb/3/36/Boots_Metal_Githyanki_B_Magic_Unfaded_Icon.png/50px-Boots_Metal_Githyanki_B_Magic_Unfaded_Icon.png",
+    "armourType": "medium armour",
+    "rare": "very rare",
+    "weight": "2 kg\n\n4 lb",
+    "price": 450,
+    "effects": "[Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n \n [Githborn: Flying Boots](https://bg3.wiki/wiki/Githborn:_Flying_Boots) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Flying Strike](https://bg3.wiki/wiki/Flying_Strike)When a [githyanki](https://bg3.wiki/wiki/Githyanki) casts  [Fly](https://bg3.wiki/wiki/Fly), their next melee weapon attack deals an additional 1d4Psychic damage."
+  }
+]

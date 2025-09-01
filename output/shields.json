@@ -1,0 +1,380 @@
+[
+  {
+    "name": "[Broken Shield](https://bg3.wiki/wiki/Broken_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/Broken_Shield_Unfaded_Icon.png/50px-Broken_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+1",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Fossilised Shell](https://bg3.wiki/wiki/Fossilised_Shell)",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/Fossilised_Shell_Unfaded_Icon.png/50px-Fossilised_Shell_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Iron-Banded Shield](https://bg3.wiki/wiki/Iron-Banded_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Iron-Banded_Shield_PlusOne_Unfaded_Icon.png/50px-Iron-Banded_Shield_PlusOne_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Metal Shield](https://bg3.wiki/wiki/Metal_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Metal_Shield_Flaming_Fist_Unfaded_Icon.png/50px-Metal_Shield_Flaming_Fist_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Organic Shield](https://bg3.wiki/wiki/Organic_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Wood_Woad_Shield_Unfaded_Icon.png/50px-Wood_Woad_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Rusty Studded Shield](https://bg3.wiki/wiki/Rusty_Studded_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6d/Rusty_Studded_Shield_Unfaded_Icon.png/50px-Rusty_Studded_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Scrapwood Shield](https://bg3.wiki/wiki/Scrapwood_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Scrapwood_Shield_Unfaded_Icon.png/50px-Scrapwood_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 4,
+    "special": ""
+  },
+  {
+    "name": "[Scrapwood Shield](https://bg3.wiki/wiki/Scrapwood_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/Scrapwood_Shield_A_Unfaded_Icon.png/50px-Scrapwood_Shield_A_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Scrapwood Shield](https://bg3.wiki/wiki/Scrapwood_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Scrapwood_Shield_E_Unfaded_Icon.png/50px-Scrapwood_Shield_E_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 4,
+    "special": ""
+  },
+  {
+    "name": "[Shield](https://bg3.wiki/wiki/Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/Item_WPN_HUM_Shield_D_0_Unfaded_Icon.png/50px-Item_WPN_HUM_Shield_D_0_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Shield](https://bg3.wiki/wiki/Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c9/Item_WPN_HUM_Shield_E_2_Unfaded_Icon.png/50px-Item_WPN_HUM_Shield_E_2_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Shield](https://bg3.wiki/wiki/Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Item_WPN_HUM_Shield_Deathknight_Unfaded_Icon.webp/50px-Item_WPN_HUM_Shield_Deathknight_Unfaded_Icon.webp.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Spiked Shield](https://bg3.wiki/wiki/Spiked_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Spiked_Shield_Unfaded_Icon.png/50px-Spiked_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 4,
+    "special": ""
+  },
+  {
+    "name": "[Studded Shield](https://bg3.wiki/wiki/Studded_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d3/Studded_Shield_Unfaded_Icon.png/50px-Studded_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Training Shield](https://bg3.wiki/wiki/Training_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b2/Training_Shield_Unfaded_Icon.png/50px-Training_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+1",
+    "weight": "0.5 kg\n\n1 lb",
+    "price": 3,
+    "special": ""
+  },
+  {
+    "name": "[Wooden Shield](https://bg3.wiki/wiki/Wooden_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Wooden_Shield_Unfaded_Icon.png/50px-Wooden_Shield_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Wooden Shield](https://bg3.wiki/wiki/Wooden_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d3/Wooden_Shield_B_Unfaded_Icon.png/50px-Wooden_Shield_B_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Wooden Shield](https://bg3.wiki/wiki/Wooden_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Swires_sledboard_Unfaded_Icon.png/50px-Swires_sledboard_Unfaded_Icon.png",
+    "rare": "common",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 15,
+    "special": ""
+  },
+  {
+    "name": "[Absolute's Warboard](https://bg3.wiki/wiki/Absolute%27s_Warboard)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Absolute%27s_Warboard_Unfaded_Icon.png/50px-Absolute%27s_Warboard_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 70,
+    "special": "[Heroism](https://bg3.wiki/wiki/Heroism) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Absolute's Ward](https://bg3.wiki/wiki/Absolute%27s_Ward)If the wielder bears the [Absolute's Brand](https://bg3.wiki/wiki/Brand_of_the_Absolute), they gain a +1 bonus to  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Gloomstrand Shield](https://bg3.wiki/wiki/Gloomstrand_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/Safeguard_Shield_Unfaded_Icon.png/50px-Safeguard_Shield_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 70,
+    "special": "[Stealth](https://bg3.wiki/wiki/Stealth) +1"
+  },
+  {
+    "name": "[Glowing Shield](https://bg3.wiki/wiki/Glowing_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/7/78/Glowing_Shield_Unfaded_Icon.png/50px-Glowing_Shield_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 70,
+    "special": "[Loving Protection](https://bg3.wiki/wiki/Loving_Protection)Once per [Short Rest](https://bg3.wiki/wiki/Short_Rest), if you are below 50% [Hit Points](https://bg3.wiki/wiki/Hit_Points) and take damage, you gain  8 [temporary hit points](https://bg3.wiki/wiki/Temporary_Hit_Points)."
+  },
+  {
+    "name": "[Ironvine Shield](https://bg3.wiki/wiki/Ironvine_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Wood_Woad_Shield_Unfaded_Icon.png/50px-Wood_Woad_Shield_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 45,
+    "special": "[Ironvine](https://bg3.wiki/wiki/Ironvine)While the wielder is holding a weapon empowered with  [Shillelagh](https://bg3.wiki/wiki/Shillelagh_(Condition)), and when they are hit by a melee attack, the attacker takes [Piercing](https://bg3.wiki/wiki/Piercing) Damage equal to the wielder's [Wisdom](https://bg3.wiki/wiki/Wisdom) modifier."
+  },
+  {
+    "name": "[Safeguard Shield](https://bg3.wiki/wiki/Safeguard_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/Safeguard_Shield_Unfaded_Icon.png/50px-Safeguard_Shield_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 55,
+    "special": "[Saving Throws](https://bg3.wiki/wiki/Saving_Throws) +1"
+  },
+  {
+    "name": "[The Real Sparky Sparkswall](https://bg3.wiki/wiki/The_Real_Sparky_Sparkswall)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/The_Real_Sparky_Sparkswall_Unfaded_Icon.png/50px-The_Real_Sparky_Sparkswall_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 70,
+    "special": "[Lightning Aura](https://bg3.wiki/wiki/Lightning_Aura) \nConsume 3  [Lightning Charges](https://bg3.wiki/wiki/Lightning_Charges_(Condition)) and release a blast of electricity that damages and  [Jolts](https://bg3.wiki/wiki/Jolted_(Condition)) nearby enemies. ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Watcher's Shield](https://bg3.wiki/wiki/Watcher%27s_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Iron-Banded_Shield_PlusOne_Unfaded_Icon.png/50px-Iron-Banded_Shield_PlusOne_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 70,
+    "special": "[Advantage](https://bg3.wiki/wiki/Advantage) on [Perception](https://bg3.wiki/wiki/Perception) Checks"
+  },
+  {
+    "name": "[Wood Woad Shield](https://bg3.wiki/wiki/Wood_Woad_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Wood_Woad_Shield_Unfaded_Icon.png/50px-Wood_Woad_Shield_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 115,
+    "special": "[Woad's Ensnaring Strike](https://bg3.wiki/wiki/Woad%27s_Ensnaring_Strike) \nCast as a level 1 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Absolute's Protector](https://bg3.wiki/wiki/Absolute%27s_Protector)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/Safeguard_Shield_Unfaded_Icon.png/50px-Safeguard_Shield_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 300,
+    "special": "[Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n\n [Fire Shield: Chill](https://bg3.wiki/wiki/Fire_Shield:_Chill) \nCast as a level 4 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Absolute's Aegis](https://bg3.wiki/wiki/Absolute%27s_Aegis)If the wielder bears the [Absolute's Brand](https://bg3.wiki/wiki/Absolute%27s_Brand), all damage received from spells is reduced by 1."
+  },
+  {
+    "name": "[Adamantine Shield](https://bg3.wiki/wiki/Adamantine_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f1/Adamantine_Shield_Unfaded_Icon.png/50px-Adamantine_Shield_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 190,
+    "special": "Attackers can't land [critical hits](https://bg3.wiki/wiki/Critical_hit) on the wearer.\n\n [Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n[Adamantine Shield](https://bg3.wiki/wiki/Adamantine_Shield_(passive_feature))When a melee attack misses you, the attacker is sent  [Reeling](https://bg3.wiki/wiki/Reeling_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Iron-Banded Shield +1](https://bg3.wiki/wiki/Iron-Banded_Shield_%2B1)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Iron-Banded_Shield_PlusOne_Unfaded_Icon.png/50px-Iron-Banded_Shield_PlusOne_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+3",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 300,
+    "special": "No special properties, beyond the  [Armour Class](https://bg3.wiki/wiki/Armour_Class) enchantment."
+  },
+  {
+    "name": "[Iron-Banded Shield +1](https://bg3.wiki/wiki/Iron-Banded_Shield_%2B1)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Abdel%27s_Trusted_Shield_Unfaded_Icon.png/50px-Abdel%27s_Trusted_Shield_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+3",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 300,
+    "special": "No special properties, beyond the  [Armour Class](https://bg3.wiki/wiki/Armour_Class) enchantment."
+  },
+  {
+    "name": "[Justiciar's Greatshield](https://bg3.wiki/wiki/Justiciar%27s_Greatshield)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Iron-Banded_Shield_PlusOne_Unfaded_Icon.png/50px-Iron-Banded_Shield_PlusOne_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 300,
+    "special": "[Advantage](https://bg3.wiki/wiki/Advantage) on [Perception](https://bg3.wiki/wiki/Perception)   [Ability checks](https://bg3.wiki/wiki/Ability_check).\n\n [Darkness Cloak](https://bg3.wiki/wiki/Darkness_Cloak) \nCreate a cloud of magical darkness and immediately attempt to  [Hide](https://bg3.wiki/wiki/Hiding_(Condition)). ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n\n [Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Ketheric's Shield](https://bg3.wiki/wiki/Ketheric%27s_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Ketheric%27s_Shield_Unfaded_Icon.png/50px-Ketheric%27s_Shield_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 300,
+    "special": "[Advantage](https://bg3.wiki/wiki/Advantage) on [Dexterity](https://bg3.wiki/wiki/Dexterity) [Saving Throws](https://bg3.wiki/wiki/Saving_Throws)\n\n [Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n[Arcane Enchantment](https://bg3.wiki/wiki/Arcane_Enchantment_(%2B1))You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC) and [Spell Attack](https://bg3.wiki/wiki/Spell_Attack) rolls."
+  },
+  {
+    "name": "[Sentinel Shield](https://bg3.wiki/wiki/Sentinel_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Abdel%27s_Trusted_Shield_Unfaded_Icon.png/50px-Abdel%27s_Trusted_Shield_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 580,
+    "special": "[Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n[Heightened Awareness](https://bg3.wiki/wiki/Heightened_Awareness)Gain a +3 bonus to [Initiative](https://bg3.wiki/wiki/Initiative) rolls and  [Advantage](https://bg3.wiki/wiki/Advantage) on   [Perception](https://bg3.wiki/wiki/Perception) [checks](https://bg3.wiki/wiki/Ability_check)."
+  },
+  {
+    "name": "[Shield +1](https://bg3.wiki/wiki/Shield_%2B1)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/Safeguard_Shield_Unfaded_Icon.png/50px-Safeguard_Shield_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+3",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 300,
+    "special": "No special properties, beyond the  [Armour Class](https://bg3.wiki/wiki/Armour_Class) enchantment."
+  },
+  {
+    "name": "[Shield of Scorching Reprisal](https://bg3.wiki/wiki/Shield_of_Scorching_Reprisal)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Metal_Shield_Flaming_Fist_Unfaded_Icon.png/50px-Metal_Shield_Flaming_Fist_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 190,
+    "special": "Grants [Resistance](https://bg3.wiki/wiki/Resistance) to [Fire](https://bg3.wiki/wiki/Fire) damage.\n\n [Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n\n [Blazing Retaliation](https://bg3.wiki/wiki/Blazing_Retaliation) \nHuddle behind your shield to increase your  [Armour Class](https://bg3.wiki/wiki/Armour_Class) by 1 and reap scorching retaliation upon attacks who miss you. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Shield of Shielding](https://bg3.wiki/wiki/Shield_of_Shielding)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Shield_of_Shielding_Unfaded_Icon.png/50px-Shield_of_Shielding_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 190,
+    "special": "[Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n\n [Shield](https://bg3.wiki/wiki/Shield_(spell)) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Studded Shield +1](https://bg3.wiki/wiki/Studded_Shield_%2B1)",
+    "image": "https://bg3.wiki/w/images/thumb/a/aa/Item_WPN_HUM_Shield_C_1_Unfaded_Icon.png/50px-Item_WPN_HUM_Shield_C_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "armourClassBonus": "+3",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 300,
+    "special": "No special properties, beyond the  [Armour Class](https://bg3.wiki/wiki/Armour_Class) enhancement."
+  },
+  {
+    "name": "[Abdel's Trusted Shield](https://bg3.wiki/wiki/Abdel%27s_Trusted_Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Abdel%27s_Trusted_Shield_Unfaded_Icon.png/50px-Abdel%27s_Trusted_Shield_Unfaded_Icon.png",
+    "rare": "very rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 570,
+    "special": "[Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n\n [Protection from Missiles](https://bg3.wiki/wiki/Protection_from_Missiles) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Shield of Devotion](https://bg3.wiki/wiki/Shield_of_Devotion)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8d/Shield_of_Devotion_Unfaded_Icon.png/50px-Shield_of_Devotion_Unfaded_Icon.png",
+    "rare": "very rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 570,
+    "special": "[Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n\n [Shield of Devotion: Aid](https://bg3.wiki/wiki/Shield_of_Devotion:_Aid) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Additional Spell Slot](https://bg3.wiki/wiki/Additional_Spell_Slot)You gain 1  [Level 1 Spell Slot](https://bg3.wiki/wiki/Spells#Spell_slots)."
+  },
+  {
+    "name": "[Shield of the Undevout](https://bg3.wiki/wiki/Shield_of_the_Undevout)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Shield_of_the_Undevout_Unfaded_Icon.png/50px-Shield_of_the_Undevout_Unfaded_Icon.png",
+    "rare": "very rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 570,
+    "special": "[Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n[Dreadful Hewer](https://bg3.wiki/wiki/Dreadful_Hewer)Your foes have  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on [Saving Throws](https://bg3.wiki/wiki/Saving_Throws) to resist your spells or actions that inflict  [Fear](https://bg3.wiki/wiki/Frightened_(Condition)).[Additional Spell Slot](https://bg3.wiki/wiki/Additional_Spell_Slot)You gain 1  [Level 1 Spell Slot](https://bg3.wiki/wiki/Spells#Spell_slots)."
+  },
+  {
+    "name": "[Swires' Sledboard](https://bg3.wiki/wiki/Swires%27_Sledboard)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Swires_sledboard_Unfaded_Icon.png/50px-Swires_sledboard_Unfaded_Icon.png",
+    "rare": "very rare",
+    "armourClassBonus": "+2",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 360,
+    "special": "[Shield Blow](https://bg3.wiki/wiki/Shield_Blow) \nWhen a foe hits you with a melee attack, you can use your reaction to knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)), unless they succeed a  [Strength](https://bg3.wiki/wiki/Strength) [saving throw](https://bg3.wiki/wiki/Saving_throw). \n\n[Shield Conduit](https://bg3.wiki/wiki/Shield_Conduit)The shield shrouds the wearer with  [Force Conduit](https://bg3.wiki/wiki/Force_Conduit_(Condition)) at the start of its turn in combat."
+  },
+  {
+    "name": "[Viconia's Walking Fortress](https://bg3.wiki/wiki/Viconia%27s_Walking_Fortress)",
+    "image": "https://bg3.wiki/w/images/thumb/1/19/Viconia%27s_Walking_Fortress_Unfaded_Icon.png/50px-Viconia%27s_Walking_Fortress_Unfaded_Icon.png",
+    "rare": "legendary",
+    "armourClassBonus": "+3",
+    "weight": "2.7 kg\n\n5.4 lb",
+    "price": 760,
+    "special": "[Bulwark Rebuke](https://bg3.wiki/wiki/Bulwark_Rebuke) \nWhen a foe hits you with a melee attack, deal it 2d4Force and possibly knock it  [Prone](https://bg3.wiki/wiki/Prone_(Condition)). \n\n\n [Reflective Shell](https://bg3.wiki/wiki/Reflective_Shell) \nA protective shell envelops you. It reflects any projectiles targeted at you back to their point of origin. ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n\n [Warding Bond](https://bg3.wiki/wiki/Warding_Bond) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Spellguard](https://bg3.wiki/wiki/Spellguard)You gain  [Advantage](https://bg3.wiki/wiki/Advantage) on  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against spells. [Spell Attack Rolls](https://bg3.wiki/wiki/Spell_Attack_Roll) against you have  [Disadvantage](https://bg3.wiki/wiki/Disadvantage)."
+  }
+]

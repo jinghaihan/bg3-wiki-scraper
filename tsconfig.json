@@ -1,0 +1,3 @@
+{
+  "extends": "@octohash/tsconfig/node.json"
+}

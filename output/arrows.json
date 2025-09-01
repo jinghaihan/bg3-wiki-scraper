@@ -1,0 +1,286 @@
+[
+  {
+    "name": "[Arrow of Aberration Slaying](https://bg3.wiki/wiki/Arrow_of_Aberration_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "very rare",
+    "price": 80,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Aberrations](https://bg3.wiki/wiki/Aberration)."
+  },
+  {
+    "name": "[Arrow of Acid](https://bg3.wiki/wiki/Arrow_of_Acid)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Arrow_of_Acid_Unfaded_Icon.png/40px-Arrow_of_Acid_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "common",
+    "price": 10,
+    "tradeLevel": 1,
+    "type": "Damage/Utility",
+    "effect": "Deals Weapon Damage + 2d4[Acid](https://bg3.wiki/wiki/Acid)[DRS](https://bg3.wiki/wiki/Damage_rider_as_source) ([Dexterity Save](https://bg3.wiki/wiki/Saving_Throw) to negate).Creates a permanent  [Acid](https://bg3.wiki/wiki/Acid_(surface)) surface  AoE: 2 m / 7 ft (Radius)."
+  },
+  {
+    "name": "[Arrow of Arcane Interference](https://bg3.wiki/wiki/Arrow_of_Arcane_Interference)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Arrow_of_Arcane_Interference_Unfaded_Icon.png/40px-Arrow_of_Arcane_Interference_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "rare",
+    "price": 50,
+    "tradeLevel": 6,
+    "type": "Damage/Utility",
+    "effect": "Deals weapon damage. Breaks the targets  [Concentration](https://bg3.wiki/wiki/Concentration) and inflicts  [Silenced](https://bg3.wiki/wiki/Silenced_(Condition))."
+  },
+  {
+    "name": "[Arrow of Beast Slaying](https://bg3.wiki/wiki/Arrow_of_Beast_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Beasts](https://bg3.wiki/wiki/Beast)."
+  },
+  {
+    "name": "[Arrow of Construct Slaying](https://bg3.wiki/wiki/Arrow_of_Construct_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 10,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Constructs](https://bg3.wiki/wiki/Construct)."
+  },
+  {
+    "name": "[Arrow of Darkness](https://bg3.wiki/wiki/Arrow_of_Darkness)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Arrow_of_Darkness_Unfaded_Icon.png/40px-Arrow_of_Darkness_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 1,
+    "type": "Damage/Utility",
+    "effect": "Deals weapon damage. Creates Area:  [Darkness](https://bg3.wiki/wiki/Darkness_(cloud)) that inflicts  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition)) in  AoE: 3 m / 10 ft (Radius) for 3 turns."
+  },
+  {
+    "name": "[Arrow of Dragon Slaying](https://bg3.wiki/wiki/Arrow_of_Dragon_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "very rare",
+    "price": 80,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Dragons](https://bg3.wiki/wiki/Dragon)."
+  },
+  {
+    "name": "[Arrow of Elemental Slaying](https://bg3.wiki/wiki/Arrow_of_Elemental_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Elementals](https://bg3.wiki/wiki/Elemental)."
+  },
+  {
+    "name": "[Arrow of Fiend Slaying](https://bg3.wiki/wiki/Arrow_of_Fiend_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Fiends](https://bg3.wiki/wiki/Fiend)."
+  },
+  {
+    "name": "[Arrow of Fire](https://bg3.wiki/wiki/Arrow_of_Fire)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bb/Arrow_of_Fire_Unfaded_Icon.png/40px-Arrow_of_Fire_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "common",
+    "price": 10,
+    "tradeLevel": 1,
+    "type": "Damage/Utility",
+    "effect": "Deals weapon damage + 2d4[Fire](https://bg3.wiki/wiki/Fire)[DRS](https://bg3.wiki/wiki/Damage_rider_as_source) ([Dexterity Save](https://bg3.wiki/wiki/Saving_Throw) to negate).Creates a  [Fire](https://bg3.wiki/wiki/Fire_(surface)) surface for 2 turns  AoE: 2 m / 7 ft (Radius)."
+  },
+  {
+    "name": "[Arrow of Humanoid Slaying](https://bg3.wiki/wiki/Arrow_of_Humanoid_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "very rare",
+    "price": 80,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Humanoids](https://bg3.wiki/wiki/Humanoid)."
+  },
+  {
+    "name": "[Arrow of Ice](https://bg3.wiki/wiki/Arrow_of_Ice)",
+    "image": "https://bg3.wiki/w/images/thumb/4/45/Arrow_of_Ice_Unfaded_Icon.png/40px-Arrow_of_Ice_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "common",
+    "price": 10,
+    "tradeLevel": 1,
+    "type": "Damage/Utility",
+    "effect": "Deals weapon damage + 2d4[Cold](https://bg3.wiki/wiki/Cold)[DRS](https://bg3.wiki/wiki/Damage_rider_as_source) ([Dexterity Save](https://bg3.wiki/wiki/Saving_Throw) to negate).Creates an  [Ice](https://bg3.wiki/wiki/Ice_(surface)) for 2 turns  AoE: 2 m / 7 ft (Radius)."
+  },
+  {
+    "name": "[Arrow of Ilmater](https://bg3.wiki/wiki/Arrow_of_Ilmater)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Arrow_of_Ilmater_Unfaded_Icon.png/40px-Arrow_of_Ilmater_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 1,
+    "type": "Damage/Utility",
+    "effect": "Deals Weapon Damage + 1d4[Necrotic](https://bg3.wiki/wiki/Necrotic). Target cannot regain [Hit Points](https://bg3.wiki/wiki/Hit_Points) for 1 turn."
+  },
+  {
+    "name": "[Arrow of Lightning](https://bg3.wiki/wiki/Arrow_of_Lightning)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/Arrow_of_Lightning_Unfaded_Icon.png/40px-Arrow_of_Lightning_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "common",
+    "price": 10,
+    "tradeLevel": 1,
+    "type": "Damage",
+    "effect": "Deals weapon damage + 2d4[Lightning](https://bg3.wiki/wiki/Lightning)[DRS](https://bg3.wiki/wiki/Damage_rider_as_source) ([Dexterity Save](https://bg3.wiki/wiki/Saving_Throw) to negate) in  AoE: 2 m / 7 ft (Radius)."
+  },
+  {
+    "name": "[Arrow of Many Targets](https://bg3.wiki/wiki/Arrow_of_Many_Targets)",
+    "image": "https://bg3.wiki/w/images/thumb/5/52/Arrow_of_Many_Targets_Unfaded_Icon.png/40px-Arrow_of_Many_Targets_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "rare",
+    "price": 50,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage and an additional half of that damage to three other targets in range."
+  },
+  {
+    "name": "[Arrow of Monstrosity Slaying](https://bg3.wiki/wiki/Arrow_of_Monstrosity_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Monstrosities](https://bg3.wiki/wiki/Monstrosity)."
+  },
+  {
+    "name": "[Arrow of Roaring Thunder](https://bg3.wiki/wiki/Arrow_of_Roaring_Thunder)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/Arrow_of_Roaring_Thunder_Unfaded_Icon.png/40px-Arrow_of_Roaring_Thunder_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 1,
+    "type": "Damage/Utility",
+    "effect": "Deals Weapon Damage. Knocks back  Range: 5 m / 17 ft([Strength Save](https://bg3.wiki/wiki/Saving_Throw) to negate) that caught in the blast  AoE: 2 m / 7 ft (Radius)."
+  },
+  {
+    "name": "[Arrow of Salving](https://bg3.wiki/wiki/Arrow_of_Salving)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Arrow_of_Salving_Unfaded_Icon.png/40px-Arrow_of_Salving_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "rare",
+    "price": 50,
+    "tradeLevel": 6,
+    "type": "Utility",
+    "effect": "Cures a target of [Poisoned](https://bg3.wiki/wiki/Poisoned_(status_group)), [Paralysed](https://bg3.wiki/wiki/SG_Paralyzed) and  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition)) conditions."
+  },
+  {
+    "name": "[Arrow of Transposition](https://bg3.wiki/wiki/Arrow_of_Transposition)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Arrow_of_Transposition_Unfaded_Icon.png/40px-Arrow_of_Transposition_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "rare",
+    "price": 50,
+    "tradeLevel": 6,
+    "type": "Utility",
+    "effect": "Teleports the shooter wherever this arrow is fired."
+  },
+  {
+    "name": "[Arrow of Undead Slaying](https://bg3.wiki/wiki/Arrow_of_Undead_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "uncommon",
+    "price": 20,
+    "tradeLevel": 6,
+    "type": "Damage",
+    "effect": "Deals weapon damage, damage is doubled against [Undead](https://bg3.wiki/wiki/Undead)."
+  },
+  {
+    "name": "[Smokepowder Arrow](https://bg3.wiki/wiki/Smokepowder_Arrow)",
+    "image": "https://bg3.wiki/w/images/thumb/7/70/Smokepowder_Arrow_Unfaded_Icon.png/40px-Smokepowder_Arrow_Unfaded_Icon.png",
+    "arrowType": "regular",
+    "rare": "rare",
+    "price": 80,
+    "tradeLevel": 9,
+    "type": "Damage/Utility",
+    "effect": "Deals 4d6[Fire](https://bg3.wiki/wiki/Fire) + 4d6[Force](https://bg3.wiki/wiki/Force) and knocks back targets  Range: 3 m / 10 ft that are caught in the blast  AoE: 5 m / 17 ft (Radius)."
+  },
+  {
+    "name": "[Arrow of Piercing](https://bg3.wiki/wiki/Arrow_of_Piercing)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Arrow_of_Piercing_Unfaded_Icon.png/40px-Arrow_of_Piercing_Unfaded_Icon.png",
+    "arrowType": "special",
+    "rare": "common",
+    "price": 10,
+    "tradeLevel": null,
+    "type": "Deals weapon damage + half of that to creatures directly behind the target.",
+    "effect": ""
+  },
+  {
+    "name": "[Barbed Arrow](https://bg3.wiki/wiki/Barbed_Arrow)",
+    "image": "https://bg3.wiki/w/images/thumb/5/52/Arrow_of_Many_Targets_Unfaded_Icon.png/40px-Arrow_of_Many_Targets_Unfaded_Icon.png",
+    "arrowType": "special",
+    "rare": "common",
+    "price": 10,
+    "tradeLevel": null,
+    "type": "Deals Weapon Damage and  ruptures the target.",
+    "effect": ""
+  },
+  {
+    "name": "[Arcane Harpoon Arrow](https://bg3.wiki/wiki/Arcane_Harpoon_Arrow)",
+    "image": "https://bg3.wiki/w/images/thumb/0/07/MISC_Arcane_Harpoon_Arrow_Unfaded_Icon.png/40px-MISC_Arcane_Harpoon_Arrow_Unfaded_Icon.png",
+    "rare": "common",
+    "arrowType": "unusable"
+  },
+  {
+    "name": "[Arrow of Sparrow Slaying](https://bg3.wiki/wiki/Arrow_of_Sparrow_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "arrowType": "unusable"
+  },
+  {
+    "name": "[Arrow](https://bg3.wiki/wiki/Arrow)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9e/MISC_Arrow_Unfaded_Icon.png/40px-MISC_Arrow_Unfaded_Icon.png",
+    "rare": "common",
+    "arrowType": "unusable"
+  },
+  {
+    "name": "[Ballista Arrow](https://bg3.wiki/wiki/Ballista_Arrow)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9e/MISC_Arrow_Unfaded_Icon.png/40px-MISC_Arrow_Unfaded_Icon.png",
+    "rare": "common",
+    "arrowType": "unusable"
+  },
+  {
+    "name": "[Arrow of Celestial Slaying](https://bg3.wiki/wiki/Arrow_of_Celestial_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "arrowType": "unavailable"
+  },
+  {
+    "name": "[Arrow of Fey Slaying](https://bg3.wiki/wiki/Arrow_of_Fey_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "arrowType": "unavailable"
+  },
+  {
+    "name": "[Arrow of Giant Slaying](https://bg3.wiki/wiki/Arrow_of_Giant_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "arrowType": "unavailable"
+  },
+  {
+    "name": "[Arrow of Ooze Slaying](https://bg3.wiki/wiki/Arrow_of_Ooze_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "arrowType": "unavailable"
+  },
+  {
+    "name": "[Arrow of Plant Slaying](https://bg3.wiki/wiki/Arrow_of_Plant_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "arrowType": "unavailable"
+  }
+]

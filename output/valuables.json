@@ -1,0 +1,617 @@
+[
+  {
+    "name": "[Bronze Ingot](https://bg3.wiki/wiki/Bronze_Ingot)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cb/Bronze_Ingot_Unfaded_Icon.png/40px-Bronze_Ingot_Unfaded_Icon.png",
+    "valuableType": "ingots"
+  },
+  {
+    "name": "[Gold Ingot](https://bg3.wiki/wiki/Gold_Ingot)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c3/Gold_Ingot_Unfaded_Icon.png/40px-Gold_Ingot_Unfaded_Icon.png",
+    "valuableType": "ingots"
+  },
+  {
+    "name": "[Mithral Ingot](https://bg3.wiki/wiki/Mithral_Ingot)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6b/Item_LOOT_GEN_Metalbar_Mithral_A_Unfaded_Icon.png/40px-Item_LOOT_GEN_Metalbar_Mithral_A_Unfaded_Icon.png",
+    "valuableType": "ingots"
+  },
+  {
+    "name": "[Silver Ingot](https://bg3.wiki/wiki/Silver_Ingot)",
+    "image": "https://bg3.wiki/w/images/thumb/9/91/Silver_Ingot_Unfaded_Icon.png/40px-Silver_Ingot_Unfaded_Icon.png",
+    "valuableType": "ingots"
+  },
+  {
+    "name": "[Agate](https://bg3.wiki/wiki/Agate)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/GEM_Agate_Unfaded_Icon.png/40px-GEM_Agate_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Amethyst](https://bg3.wiki/wiki/Amethyst)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a8/GEM_Amethyst_Unfaded_Icon.png/40px-GEM_Amethyst_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Black Diamond](https://bg3.wiki/wiki/Black_Diamond)",
+    "image": "https://bg3.wiki/w/images/thumb/5/56/GEM_Black_Diamond_Unfaded_Icon.png/40px-GEM_Black_Diamond_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Bloodstone](https://bg3.wiki/wiki/Bloodstone)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/GEM_Bloodstone_Unfaded_Icon.png/40px-GEM_Bloodstone_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Diamond](https://bg3.wiki/wiki/Diamond)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/GEM_Diamond_Unfaded_Icon.png/40px-GEM_Diamond_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Infernal Diamond](https://bg3.wiki/wiki/Infernal_Diamond)",
+    "image": "https://bg3.wiki/w/images/thumb/5/56/GEM_Black_Diamond_Unfaded_Icon.png/40px-GEM_Black_Diamond_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Jacinth](https://bg3.wiki/wiki/Jacinth)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dc/GEM_Jacinth_Unfaded_Icon.png/40px-GEM_Jacinth_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Jade](https://bg3.wiki/wiki/Jade)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/GEM_Jade_Unfaded_Icon.png/40px-GEM_Jade_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Keepsake Gem](https://bg3.wiki/wiki/Keepsake_Gem)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1e/GEM_Malachite_Unfaded_Icon.png/40px-GEM_Malachite_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Malachite](https://bg3.wiki/wiki/Malachite)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1e/GEM_Malachite_Unfaded_Icon.png/40px-GEM_Malachite_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Onyx](https://bg3.wiki/wiki/Onyx)",
+    "image": "https://bg3.wiki/w/images/thumb/6/68/GEM_Onyx_Unfaded_Icon.png/40px-GEM_Onyx_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Pearl](https://bg3.wiki/wiki/Pearl)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/GEM_Pearl_Unfaded_Icon.png/40px-GEM_Pearl_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Peridot](https://bg3.wiki/wiki/Peridot)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/GEM_Peridot_Unfaded_Icon.png/40px-GEM_Peridot_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Purple Fluorite Shard](https://bg3.wiki/wiki/Purple_Fluorite_Shard)",
+    "image": "https://bg3.wiki/w/images/thumb/2/23/Crystal_Fluorite_Shard_Unfaded_Icon.png/40px-Crystal_Fluorite_Shard_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Ruby](https://bg3.wiki/wiki/Ruby)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5e/GEM_Ruby_Unfaded_Icon.png/40px-GEM_Ruby_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Sapphire](https://bg3.wiki/wiki/Sapphire)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1f/GEM_Sapphire_Unfaded_Icon.png/40px-GEM_Sapphire_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Topaz (Gemstone)](https://bg3.wiki/wiki/Topaz_(Gemstone))",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/GEM_Topaz_Unfaded_Icon.png/40px-GEM_Topaz_Unfaded_Icon.png",
+    "valuableType": "gemstones"
+  },
+  {
+    "name": "[Archibald Ravenshade](https://bg3.wiki/wiki/Archibald_Ravenshade)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Painting_Portrait_Rectangle_J_Unfaded_Icon.png/40px-Painting_Portrait_Rectangle_J_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Aspen Lamentation](https://bg3.wiki/wiki/Aspen_Lamentation)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Painting_Landscape_E_Unfaded_Icon.png/40px-Painting_Landscape_E_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Blank Canvas](https://bg3.wiki/wiki/Blank_Canvas)",
+    "image": "https://bg3.wiki/w/images/thumb/2/24/Blank_Canvas_Unfaded_Icon.png/40px-Blank_Canvas_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Beach at Dusk](https://bg3.wiki/wiki/Beach_at_Dusk)",
+    "image": "https://bg3.wiki/w/images/thumb/5/53/Painting_Landscape_B_Unfaded_Icon.png/40px-Painting_Landscape_B_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Butterfly on Skull](https://bg3.wiki/wiki/Butterfly_on_Skull)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/Butterfly_on_Skull_Unfaded_Icon.png/40px-Butterfly_on_Skull_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Cabin in Motion](https://bg3.wiki/wiki/Cabin_in_Motion)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ef/Painting_Landscape_K_Unfaded_Icon.png/40px-Painting_Landscape_K_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Clerebold Rillyn](https://bg3.wiki/wiki/Clerebold_Rillyn)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Young_Boy_In_Plate_Armour_Unfaded_Icon.png/40px-Young_Boy_In_Plate_Armour_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Condemnation](https://bg3.wiki/wiki/Condemnation)",
+    "image": "https://bg3.wiki/w/images/thumb/1/11/Condemnation_Unfaded_Icon.png/40px-Condemnation_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Elegant Blush-Filled Portrait](https://bg3.wiki/wiki/Elegant_Blush-Filled_Portrait)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dc/Elegant_Blush-Filled_Portrait_Unfaded_Icon.png/40px-Elegant_Blush-Filled_Portrait_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Elven Eminence](https://bg3.wiki/wiki/Elven_Eminence)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8e/Elven_Eminence_Unfaded_Icon.png/40px-Elven_Eminence_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Envoys at Table](https://bg3.wiki/wiki/Envoys_at_Table)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/Envoys_at_Table_Unfaded_Icon.png/40px-Envoys_at_Table_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Ernest Tillerturn](https://bg3.wiki/wiki/Ernest_Tillerturn)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Portrait_of_a_Bored_Girl_%28Playing_Music%29_Unfaded_Icon.png/40px-Portrait_of_a_Bored_Girl_%28Playing_Music%29_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Fake Portrait of a Noble Before His Death](https://bg3.wiki/wiki/Fake_Portrait_of_a_Noble_Before_His_Death)",
+    "image": "https://bg3.wiki/w/images/thumb/5/53/Portrait_of_a_Noble_Before_His_Death_Oval_Unfaded_Icon.png/40px-Portrait_of_a_Noble_Before_His_Death_Oval_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Forgotten Temple](https://bg3.wiki/wiki/Forgotten_Temple)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Painting_Forgotten_Temple_Unfaded_Icon.png/40px-Painting_Forgotten_Temple_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Full Body Depiction of a Tiefling](https://bg3.wiki/wiki/Full_Body_Depiction_of_a_Tiefling)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Full_Body_Depiction_of_a_Tiefling_Unfaded_Icon.png/40px-Full_Body_Depiction_of_a_Tiefling_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Gilbert Irlentree](https://bg3.wiki/wiki/Gilbert_Irlentree)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Nobleman_Regards_Us_Unfaded_Icon.png/40px-Nobleman_Regards_Us_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Grand Infernal Painting](https://bg3.wiki/wiki/Grand_Infernal_Painting)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f2/Painting_Grand_Infernal_Painting_Unfaded_Icon.png/40px-Painting_Grand_Infernal_Painting_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Grass House](https://bg3.wiki/wiki/Grass_House)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Painting_Landscape_G_Unfaded_Icon.png/40px-Painting_Landscape_G_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Graveyard Coiler](https://bg3.wiki/wiki/Graveyard_Coiler)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fa/Graveyard_Coiler_Unfaded_Icon.png/40px-Graveyard_Coiler_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Harrowing Painting](https://bg3.wiki/wiki/Harrowing_Painting)",
+    "image": "https://bg3.wiki/w/images/thumb/1/11/Condemnation_Unfaded_Icon.png/40px-Condemnation_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Hellish Landscape](https://bg3.wiki/wiki/Hellish_Landscape)",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/Painting_Landscape_J_Unfaded_Icon.png/40px-Painting_Landscape_J_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Landscape](https://bg3.wiki/wiki/Landscape)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Painting_Valley_with_Brook_Unfaded_Icon.png/40px-Painting_Valley_with_Brook_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Maid with Duster](https://bg3.wiki/wiki/Maid_with_Duster)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f3/Portrait_Maid_With_Duster_Unfaded_Icon.png/40px-Portrait_Maid_With_Duster_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Nobleman Regards Us](https://bg3.wiki/wiki/Nobleman_Regards_Us)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Nobleman_Regards_Us_Unfaded_Icon.png/40px-Nobleman_Regards_Us_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Oskar Fevras (Painting)](https://bg3.wiki/wiki/Oskar_Fevras_(Painting))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Oskar_Fevras_%28Painting%29_Unfaded_Icon.png/40px-Oskar_Fevras_%28Painting%29_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Oval Framed Elven Eminence](https://bg3.wiki/wiki/Oval_Framed_Elven_Eminence)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Portrait_Oval_Framed_Elven_Eminence_Unfaded_Icon.png/40px-Portrait_Oval_Framed_Elven_Eminence_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Painting of Gortash](https://bg3.wiki/wiki/Painting_of_Gortash)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fc/Painting_Gortash_Unfaded_Icon.png/40px-Painting_Gortash_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Painting of a Noble Before His Death](https://bg3.wiki/wiki/Painting_of_a_Noble_Before_His_Death)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Painting_Portrait_Rectangle_J_Unfaded_Icon.png/40px-Painting_Portrait_Rectangle_J_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Painting of a Smiling Maiden](https://bg3.wiki/wiki/Painting_of_a_Smiling_Maiden)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e8/Painting_Portrait_A_Item_Icon.png/40px-Painting_Portrait_A_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Painting of an Elegant Noble](https://bg3.wiki/wiki/Painting_of_an_Elegant_Noble)",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Painting_Portrait_B_Item_Icon.png/40px-Painting_Portrait_B_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Painting of Lady Jannath](https://bg3.wiki/wiki/Painting_of_Lady_Jannath)",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Painting_Portrait_B_Item_Icon.png/40px-Painting_Portrait_B_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Personal Portrait](https://bg3.wiki/wiki/Personal_Portrait)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/Personal_Portrait_Icon.webp/40px-Personal_Portrait_Icon.webp.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Poet Unveils Review](https://bg3.wiki/wiki/Poet_Unveils_Review)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0f/Poet_Unveils_Review_Unfaded_Icon.png/40px-Poet_Unveils_Review_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Bored Girl](https://bg3.wiki/wiki/Portrait_of_a_Bored_Girl)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Portrait_of_a_Bored_Girl_Unfaded_Icon.png/40px-Portrait_of_a_Bored_Girl_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Bored Girl (Playing Music)](https://bg3.wiki/wiki/Portrait_of_a_Bored_Girl_(Playing_Music))",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Portrait_of_a_Bored_Girl_%28Playing_Music%29_Unfaded_Icon.png/40px-Portrait_of_a_Bored_Girl_%28Playing_Music%29_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Noble Before His Death](https://bg3.wiki/wiki/Portrait_of_a_Noble_Before_His_Death)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Portrait_of_a_Noble_Before_His_Death_Unfaded_Icon.png/40px-Portrait_of_a_Noble_Before_His_Death_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Fur-Shouldered Noble](https://bg3.wiki/wiki/Portrait_of_a_Fur-Shouldered_Noble)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a4/Portrait_of_a_Fur-Shouldered_Noble_Unfaded_Icon.png/40px-Portrait_of_a_Fur-Shouldered_Noble_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Snowy-Brownbeard](https://bg3.wiki/wiki/Portrait_of_a_Snowy-Brownbeard)",
+    "image": "https://bg3.wiki/w/images/thumb/4/44/Portrait_of_a_Snowy-Brownbeard_Unfaded_Icon.png/40px-Portrait_of_a_Snowy-Brownbeard_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Tiefling](https://bg3.wiki/wiki/Portrait_of_a_Tiefling)",
+    "image": "https://bg3.wiki/w/images/thumb/9/94/Portrait_of_a_Tiefling_Unfaded_Icon.png/40px-Portrait_of_a_Tiefling_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Trademaster](https://bg3.wiki/wiki/Portrait_of_a_Trademaster)",
+    "image": "https://bg3.wiki/w/images/thumb/8/86/Portrait_of_a_Trademaster_Unfaded_Icon.png/40px-Portrait_of_a_Trademaster_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of a Woman](https://bg3.wiki/wiki/Portrait_of_a_Woman)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c3/Portrait_of_a_Woman_Unfaded_Icon.png/40px-Portrait_of_a_Woman_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of an Elven Poet](https://bg3.wiki/wiki/Portrait_of_an_Elven_Poet)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Painting_Portrait_Rectangle_J_Unfaded_Icon.png/40px-Painting_Portrait_Rectangle_J_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of Fane](https://bg3.wiki/wiki/Portrait_of_Fane)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Portrait_of_Fane_Item_Icon.png/40px-Portrait_of_Fane_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of Ifan ben-Mezd](https://bg3.wiki/wiki/Portrait_of_Ifan_ben-Mezd)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/Portrait_of_Ifan_ben-Mezd_Item_Icon.png/40px-Portrait_of_Ifan_ben-Mezd_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of Lohse](https://bg3.wiki/wiki/Portrait_of_Lohse)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5d/Portrait_of_Lohse_Item_Icon.png/40px-Portrait_of_Lohse_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of Marcus Miles](https://bg3.wiki/wiki/Portrait_of_Marcus_Miles)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/Portrait_of_Marcus_Miles_Item_Icon.png/40px-Portrait_of_Marcus_Miles_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of Sebille Kaleran](https://bg3.wiki/wiki/Portrait_of_Sebille_Kaleran)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/Portrait_of_Sebille_Kaleran_Item_Icon.png/40px-Portrait_of_Sebille_Kaleran_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Portrait of the Red Prince](https://bg3.wiki/wiki/Portrait_of_the_Red_Prince)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Portrait_of_the_Red_Prince_Item_Icon.png/40px-Portrait_of_the_Red_Prince_Item_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[River Goes](https://bg3.wiki/wiki/River_Goes)",
+    "image": "https://bg3.wiki/w/images/thumb/d/db/Painting_Landscape_L_Unfaded_Icon.png/40px-Painting_Landscape_L_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Ruffled Noblewoman](https://bg3.wiki/wiki/Ruffled_Noblewoman)",
+    "image": "https://bg3.wiki/w/images/thumb/0/06/Ruffled_Noblewoman_Unfaded_Icon.png/40px-Ruffled_Noblewoman_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Sinister Painting](https://bg3.wiki/wiki/Sinister_Painting)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4a/The_Lay_of_Larethian_Unfaded_Icon.png/40px-The_Lay_of_Larethian_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Sororal Dance](https://bg3.wiki/wiki/Sororal_Dance)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Sororal_Dance_Unfaded_Icon.png/40px-Sororal_Dance_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Staunch Tiefling Before Work](https://bg3.wiki/wiki/Staunch_Tiefling_Before_Work)",
+    "image": "https://bg3.wiki/w/images/thumb/8/88/Staunch_Tiefling_Before_Work_Unfaded_Icon.png/40px-Staunch_Tiefling_Before_Work_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Stelmane's Portrait](https://bg3.wiki/wiki/Stelmane%27s_Portrait)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c3/Portrait_of_a_Woman_Unfaded_Icon.png/40px-Portrait_of_a_Woman_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Struck Match](https://bg3.wiki/wiki/Struck_Match)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Struck_Match_Unfaded_Icon.png/40px-Struck_Match_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Stump under Autumn Tree](https://bg3.wiki/wiki/Stump_under_Autumn_Tree)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/Painting_Landscape_C_Unfaded_Icon.png/40px-Painting_Landscape_C_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Tableau of Ibex and Rose](https://bg3.wiki/wiki/Tableau_of_Ibex_and_Rose)",
+    "image": "https://bg3.wiki/w/images/thumb/b/ba/Tableau_of_Ibex_and_Rose_Unfaded_Icon.png/40px-Tableau_of_Ibex_and_Rose_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[The Vanthampur Brothers](https://bg3.wiki/wiki/The_Vanthampur_Brothers)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0f/Poet_Unveils_Review_Unfaded_Icon.png/40px-Poet_Unveils_Review_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[The Vammas Elder Sisters](https://bg3.wiki/wiki/The_Vammas_Elder_Sisters)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Struck_Match_Unfaded_Icon.png/40px-Struck_Match_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Tigermist](https://bg3.wiki/wiki/Tigermist)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0e/Painting_Landscape_H_Unfaded_Icon.png/40px-Painting_Landscape_H_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[The Lay of Larethian](https://bg3.wiki/wiki/The_Lay_of_Larethian)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4a/The_Lay_of_Larethian_Unfaded_Icon.png/40px-The_Lay_of_Larethian_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Valley with Brook](https://bg3.wiki/wiki/Valley_with_Brook)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Painting_Valley_with_Brook_Unfaded_Icon.png/40px-Painting_Valley_with_Brook_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Young Boy In Plate Armour](https://bg3.wiki/wiki/Young_Boy_In_Plate_Armour)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Young_Boy_In_Plate_Armour_Unfaded_Icon.png/40px-Young_Boy_In_Plate_Armour_Unfaded_Icon.png",
+    "valuableType": "paintings"
+  },
+  {
+    "name": "[Arrow of Sparrow Slaying](https://bg3.wiki/wiki/Arrow_of_Sparrow_Slaying)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Arrow_of_Slaying_Unfaded_Icon.png/40px-Arrow_of_Slaying_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Baldur's Gate Stone](https://bg3.wiki/wiki/Baldur%27s_Gate_Stone)",
+    "image": "https://bg3.wiki/w/images/thumb/4/43/Heavy_Stone_Unfaded_Icon.png/40px-Heavy_Stone_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Bone (Uncommon)](https://bg3.wiki/wiki/Bone_(Uncommon))",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/Bone_A_Unfaded_Icon.png/40px-Bone_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Bowl (Valuable)](https://bg3.wiki/wiki/Bowl_(Valuable))",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/VAL_MISC_Bowl_%28Valuable%29_Unfaded_Icon.png/40px-VAL_MISC_Bowl_%28Valuable%29_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Broken Lute](https://bg3.wiki/wiki/Broken_Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/VAL_MISC_Broken_Lute_Unfaded_Icon.png/40px-VAL_MISC_Broken_Lute_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Broken Parasite Jar](https://bg3.wiki/wiki/Broken_Parasite_Jar)",
+    "image": "https://bg3.wiki/w/images/thumb/5/50/Broken_Parasite_Jar_Unfaded_Icon.png/40px-Broken_Parasite_Jar_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Bronze Chalice](https://bg3.wiki/wiki/Bronze_Chalice)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/VAL_MISC_Bronze_Chalice_Unfaded_Icon.png/40px-VAL_MISC_Bronze_Chalice_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Bronze Goblet](https://bg3.wiki/wiki/Bronze_Goblet)",
+    "image": "https://bg3.wiki/w/images/thumb/4/44/VAL_MISC_Bronze_Goblet_Unfaded_Icon.png/40px-VAL_MISC_Bronze_Goblet_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Bundle of Incense](https://bg3.wiki/wiki/Bundle_of_Incense)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3e/VAL_MISC_Bundle_of_Incense_Unfaded_Icon.png/40px-VAL_MISC_Bundle_of_Incense_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Conical Flask](https://bg3.wiki/wiki/Conical_Flask)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6d/Conical_Flask_Unfaded_Icon.png/40px-Conical_Flask_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Crescent Moon Earring](https://bg3.wiki/wiki/Crescent_Moon_Earring)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Crescent_Moon_Earring_Unfaded_Icon.png/40px-Crescent_Moon_Earring_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Decanter of Nearly Endless Water](https://bg3.wiki/wiki/Decanter_of_Nearly_Endless_Water)",
+    "image": "https://bg3.wiki/w/images/thumb/3/34/Decanter_of_Nearly_Endless_Water_Unfaded_Icon.png/40px-Decanter_of_Nearly_Endless_Water_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Fishing Rod of Alertness](https://bg3.wiki/wiki/Fishing_Rod_of_Alertness)",
+    "image": "https://bg3.wiki/w/images/thumb/0/05/Fishing_Rod_Unfaded_Icon.png/40px-Fishing_Rod_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Forgery Kit](https://bg3.wiki/wiki/Forgery_Kit)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/Forgery_Kit_Unfaded_Icon.png/40px-Forgery_Kit_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Fork](https://bg3.wiki/wiki/Fork)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Fork_A_Unfaded_Icon.png/40px-Fork_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Glass Goblet](https://bg3.wiki/wiki/Glass_Goblet)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/VAL_MISC_Glass_Goblet_Unfaded_Icon.png/40px-VAL_MISC_Glass_Goblet_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Glass Retort](https://bg3.wiki/wiki/Glass_Retort)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/VAL_MISC_Glass_Retort_A_Unfaded_Icon.png/40px-VAL_MISC_Glass_Retort_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Gold Chalice](https://bg3.wiki/wiki/Gold_Chalice)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/Gold_Chalice_Unfaded_Icon.png/40px-Gold_Chalice_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Holy Hand Soap](https://bg3.wiki/wiki/Holy_Hand_Soap)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Soap_Bar_Unfaded_Icon.png/40px-Soap_Bar_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Horn](https://bg3.wiki/wiki/Horn)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fa/Instrument_Horn_Unfaded_Icon.png/40px-Instrument_Horn_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Incense](https://bg3.wiki/wiki/Incense)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1c/VAL_MISC_Incense_A_Unfaded_Icon.png/40px-VAL_MISC_Incense_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Plate (Valuable)](https://bg3.wiki/wiki/Plate_(Valuable))",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/Plate_Valuable_Unfaded_Icon.png/40px-Plate_Valuable_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Poisoner's Kit](https://bg3.wiki/wiki/Poisoner%27s_Kit)",
+    "image": "https://bg3.wiki/w/images/thumb/e/eb/Poisoner%27s_Kit_Unfaded_Icon.png/40px-Poisoner%27s_Kit_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Round Flask](https://bg3.wiki/wiki/Round_Flask)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/VAL_MISC_Round_Glass_A_Unfaded_Icon.png/40px-VAL_MISC_Round_Glass_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Sekolah Goblet](https://bg3.wiki/wiki/Sekolah_Goblet)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1b/VAL_MISC_Silver_Goblet_Unfaded_Icon.png/40px-VAL_MISC_Silver_Goblet_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Sending Shell](https://bg3.wiki/wiki/Sending_Shell)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/Clutter_Conch_B_Unfaded_Icon.webp/40px-Clutter_Conch_B_Unfaded_Icon.webp.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Separatory Funnel](https://bg3.wiki/wiki/Separatory_Funnel)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6d/VAL_MISC_Separatory_Funnel_Unfaded_Icon.png/40px-VAL_MISC_Separatory_Funnel_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Cake Stand](https://bg3.wiki/wiki/Silver_Cake_Stand)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/VAL_MISC_Silver_Cake_Stand_A_Unfaded_Icon.png/40px-VAL_MISC_Silver_Cake_Stand_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Chalice](https://bg3.wiki/wiki/Silver_Chalice)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/VAL_MISC_Silver_Chalice_Unfaded_Icon.png/40px-VAL_MISC_Silver_Chalice_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Fork](https://bg3.wiki/wiki/Silver_Fork)",
+    "image": "https://bg3.wiki/w/images/thumb/6/69/VAL_MISC_Silver_Fork_Unfaded_Icon.png/40px-VAL_MISC_Silver_Fork_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Glass](https://bg3.wiki/wiki/Silver_Glass)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8f/VAL_MISC_Silver_Glass_A_Unfaded_Icon.png/40px-VAL_MISC_Silver_Glass_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Goblet](https://bg3.wiki/wiki/Silver_Goblet)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1b/VAL_MISC_Silver_Goblet_Unfaded_Icon.png/40px-VAL_MISC_Silver_Goblet_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Knife](https://bg3.wiki/wiki/Silver_Knife)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6b/VAL_MISC_Silver_Knife_Unfaded_Icon.png/40px-VAL_MISC_Silver_Knife_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Plate](https://bg3.wiki/wiki/Silver_Plate)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/VAL_MISC_Silver_Plate_A_Unfaded_Icon.png/40px-VAL_MISC_Silver_Plate_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Spoon](https://bg3.wiki/wiki/Silver_Spoon)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/VAL_MISC_Silver_Spoon_Unfaded_Icon.png/40px-VAL_MISC_Silver_Spoon_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Silver Tray](https://bg3.wiki/wiki/Silver_Tray)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b6/VAL_MISC_Silver_Tray_G_Unfaded_Icon.png/40px-VAL_MISC_Silver_Tray_G_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Spoon](https://bg3.wiki/wiki/Spoon)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5d/Metal_Spoon_A_Unfaded_Icon.png/40px-Metal_Spoon_A_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[Spoon of Saltiness](https://bg3.wiki/wiki/Spoon_of_Saltiness)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/VAL_MISC_Silver_Spoon_Unfaded_Icon.png/40px-VAL_MISC_Silver_Spoon_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  },
+  {
+    "name": "[War Drum](https://bg3.wiki/wiki/War_Drum)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Instrument_Drum_Big_Unfaded_Icon.png/40px-Instrument_Drum_Big_Unfaded_Icon.png",
+    "valuableType": "valuable clutter"
+  }
+]

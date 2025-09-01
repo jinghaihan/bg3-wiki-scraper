@@ -1,0 +1,906 @@
+[
+  {
+    "name": "[Cup of Water](https://bg3.wiki/wiki/Cup_of_Water)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/Cup_of_Water_Unfaded_Icon.png/30px-Cup_of_Water_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Red Apples](https://bg3.wiki/wiki/Red_Apple)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/FOOD_Apple_Unfaded_Icon.png/30px-FOOD_Apple_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Spoiled Treacle Tart](https://bg3.wiki/wiki/Spoiled_Treacle_Tart)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Spoiled_Treacle_Tart_Unfaded_Icon.png/30px-Spoiled_Treacle_Tart_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Roasted Dwarf Belly](https://bg3.wiki/wiki/Roasted_Dwarf_Belly)",
+    "image": "https://bg3.wiki/w/images/thumb/0/03/FOOD_Grilled_Pork_Belly_Unfaded_Icon.png/30px-FOOD_Grilled_Pork_Belly_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Roasted Dwarf Leg](https://bg3.wiki/wiki/Roasted_Dwarf_Leg)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/FOOD_Grilled_Pork_Leg_Unfaded_Icon.png/30px-FOOD_Grilled_Pork_Leg_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Roasted Dwarf Ribs](https://bg3.wiki/wiki/Roasted_Dwarf_Ribs)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/FOOD_Grilled_Roth%C3%A9_Ribs_Unfaded_Icon.png/30px-FOOD_Grilled_Roth%C3%A9_Ribs_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Heavy Supply Pack](https://bg3.wiki/wiki/Heavy_Supply_Pack)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Heavy_Supply_Pack_Unfaded_Icon.png/40px-Heavy_Supply_Pack_Unfaded_Icon.png",
+    "campSupplies": 80
+  },
+  {
+    "name": "[Owlbear Egg](https://bg3.wiki/wiki/Owlbear_Egg)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/FOOD_Owlbear_Egg_Unfaded_Icon.png/40px-FOOD_Owlbear_Egg_Unfaded_Icon.png",
+    "campSupplies": 40
+  },
+  {
+    "name": "[Supply Pack](https://bg3.wiki/wiki/Supply_Pack)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/Supply_Pack_Unfaded_Icon.png/40px-Supply_Pack_Unfaded_Icon.png",
+    "campSupplies": 40
+  },
+  {
+    "name": "[Haggis](https://bg3.wiki/wiki/Haggis)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e0/FOOD_Haggis_Unfaded_Icon.png/40px-FOOD_Haggis_Unfaded_Icon.png",
+    "campSupplies": 21
+  },
+  {
+    "name": "[Chelo Khoresh](https://bg3.wiki/wiki/Chelo_Khoresh)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/FOOD_Stout_Stew_Unfaded_Icon.png/40px-FOOD_Stout_Stew_Unfaded_Icon.png",
+    "campSupplies": 20
+  },
+  {
+    "name": "[Poutine](https://bg3.wiki/wiki/Poutine)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/FOOD_Poutine_Unfaded_Icon.png/40px-FOOD_Poutine_Unfaded_Icon.png",
+    "campSupplies": 20
+  },
+  {
+    "name": "[Roast Beef Joint](https://bg3.wiki/wiki/Roast_Beef_Joint)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/FOOD_Hearty_Dinner_Unfaded_Icon.png/40px-FOOD_Hearty_Dinner_Unfaded_Icon.png",
+    "campSupplies": 20
+  },
+  {
+    "name": "[Salmon Pie](https://bg3.wiki/wiki/Salmon_Pie)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/FOOD_Salmon_Pie_Unfaded_Icon.png/40px-FOOD_Salmon_Pie_Unfaded_Icon.png",
+    "campSupplies": 20
+  },
+  {
+    "name": "[Baldurian Mash](https://bg3.wiki/wiki/Baldurian_Mash)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/FOOD_Murky_Stew_Unfaded_Icon.png/40px-FOOD_Murky_Stew_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Baldurian Seafood Stew](https://bg3.wiki/wiki/Baldurian_Seafood_Stew)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/FOOD_Sun-Dappled_Paella_Unfaded_Icon.png/40px-FOOD_Sun-Dappled_Paella_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Hearty Dinner](https://bg3.wiki/wiki/Hearty_Dinner)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/FOOD_Hearty_Dinner_Unfaded_Icon.png/40px-FOOD_Hearty_Dinner_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Pizza](https://bg3.wiki/wiki/Pizza)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/FOOD_Pizza_Unfaded_Icon.png/40px-FOOD_Pizza_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Roast Pork](https://bg3.wiki/wiki/Roast_Pork)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/FOOD_Roast_Pork_Unfaded_Icon.png/40px-FOOD_Roast_Pork_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Roast Turkey](https://bg3.wiki/wiki/Roast_Turkey)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/FOOD_Roast_Turkey_Unfaded_Icon.png/40px-FOOD_Roast_Turkey_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Seafood Bouillabaisse](https://bg3.wiki/wiki/Seafood_Bouillabaisse)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/FOOD_Seafood_Bouillabaisse_Unfaded_Icon.png/40px-FOOD_Seafood_Bouillabaisse_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Sun-Dappled Paella](https://bg3.wiki/wiki/Sun-Dappled_Paella)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/FOOD_Sun-Dappled_Paella_Unfaded_Icon.png/40px-FOOD_Sun-Dappled_Paella_Unfaded_Icon.png",
+    "campSupplies": 15
+  },
+  {
+    "name": "[Black Pudding Platter](https://bg3.wiki/wiki/Black_Pudding_Platter)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/FOOD_Hearty_Dinner_Unfaded_Icon.png/40px-FOOD_Hearty_Dinner_Unfaded_Icon.png",
+    "campSupplies": 12
+  },
+  {
+    "name": "[Boiled Beholder Eyestalks](https://bg3.wiki/wiki/Boiled_Beholder_Eyestalks)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1a/FOOD_Boiled_Beholder_Eyestalks_Unfaded_Icon.png/40px-FOOD_Boiled_Beholder_Eyestalks_Unfaded_Icon.png",
+    "campSupplies": 12
+  },
+  {
+    "name": "[Carnival Squash](https://bg3.wiki/wiki/Carnival_Squash)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/FOOD_Squash_Unfaded_Icon.png/40px-FOOD_Squash_Unfaded_Icon.png",
+    "campSupplies": 12
+  },
+  {
+    "name": "[Pumpkin](https://bg3.wiki/wiki/Pumpkin)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/FOOD_Pumpkin_Unfaded_Icon.png/40px-FOOD_Pumpkin_Unfaded_Icon.png",
+    "campSupplies": 12
+  },
+  {
+    "name": "[Fish (Big)](https://bg3.wiki/wiki/Fish_(Big))",
+    "image": "https://bg3.wiki/w/images/thumb/a/aa/FOOD_Fish_%28Big%29_Unfaded_Icon.png/40px-FOOD_Fish_%28Big%29_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Fragrant Fungus Stew](https://bg3.wiki/wiki/Fragrant_Fungus_Stew)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/FOOD_Murky_Stew_Unfaded_Icon.png/40px-FOOD_Murky_Stew_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Grilled Cormorant](https://bg3.wiki/wiki/Grilled_Cormorant)",
+    "image": "https://bg3.wiki/w/images/thumb/5/58/FOOD_Grilled_Cormorant_Unfaded_Icon.png/40px-FOOD_Grilled_Cormorant_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Grilled Miniature Giant Space Hamster](https://bg3.wiki/wiki/Grilled_Miniature_Giant_Space_Hamster)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/FOOD_Grilled_Miniature_Giant_Space_Hamster_Unfaded_Icon.png/40px-FOOD_Grilled_Miniature_Giant_Space_Hamster_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Honeyed Ham](https://bg3.wiki/wiki/Honeyed_Ham)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/FOOD_Roast_Pork_Unfaded_Icon.png/40px-FOOD_Roast_Pork_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Neogi Claws](https://bg3.wiki/wiki/Neogi_Claws)",
+    "image": "https://bg3.wiki/w/images/thumb/1/17/FOOD_Neogi_Claws_Unfaded_Icon.png/40px-FOOD_Neogi_Claws_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Neogi Rolls](https://bg3.wiki/wiki/Neogi_Rolls)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/FOOD_Hearty_Dinner_Unfaded_Icon.png/40px-FOOD_Hearty_Dinner_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Pork Shoulder](https://bg3.wiki/wiki/Pork_Shoulder)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ef/FOOD_Pork_Shoulder_Unfaded_Icon.png/40px-FOOD_Pork_Shoulder_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Potato Scone Platter](https://bg3.wiki/wiki/Potato_Scone_Platter)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/FOOD_Potato_Scone_Platter_Unfaded_Icon.png/40px-FOOD_Potato_Scone_Platter_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Raw Steak](https://bg3.wiki/wiki/Raw_Steak)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/FOOD_Raw_Steak_Unfaded_Icon.png/40px-FOOD_Raw_Steak_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Sunmelon](https://bg3.wiki/wiki/Sunmelon)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/FOOD_Sunmelon_Unfaded_Icon.png/40px-FOOD_Sunmelon_Unfaded_Icon.png",
+    "campSupplies": 10
+  },
+  {
+    "name": "[Chevon](https://bg3.wiki/wiki/Chevon)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/FOOD_Chevon_Unfaded_Icon.png/40px-FOOD_Chevon_Unfaded_Icon.png",
+    "campSupplies": 8
+  },
+  {
+    "name": "[Grilled Pork Belly](https://bg3.wiki/wiki/Grilled_Pork_Belly)",
+    "image": "https://bg3.wiki/w/images/thumb/0/03/FOOD_Grilled_Pork_Belly_Unfaded_Icon.png/40px-FOOD_Grilled_Pork_Belly_Unfaded_Icon.png",
+    "campSupplies": 8
+  },
+  {
+    "name": "[Grilled Pork Leg](https://bg3.wiki/wiki/Grilled_Pork_Leg)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/FOOD_Grilled_Pork_Leg_Unfaded_Icon.png/40px-FOOD_Grilled_Pork_Leg_Unfaded_Icon.png",
+    "campSupplies": 8
+  },
+  {
+    "name": "[Grilled Rothé Ribs](https://bg3.wiki/wiki/Grilled_Roth%C3%A9_Ribs)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/FOOD_Grilled_Roth%C3%A9_Ribs_Unfaded_Icon.png/40px-FOOD_Grilled_Roth%C3%A9_Ribs_Unfaded_Icon.png",
+    "campSupplies": 8
+  },
+  {
+    "name": "[Grilled Steak](https://bg3.wiki/wiki/Grilled_Steak)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/FOOD_Grilled_Steak_Unfaded_Icon.png/40px-FOOD_Grilled_Steak_Unfaded_Icon.png",
+    "campSupplies": 8
+  },
+  {
+    "name": "[Berry Tart](https://bg3.wiki/wiki/Berry_Tart)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/FOOD_Berry_Tart_Unfaded_Icon.png/40px-FOOD_Berry_Tart_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Cabbage](https://bg3.wiki/wiki/Cabbage)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/FOOD_Cabbage_Unfaded_Icon.png/40px-FOOD_Cabbage_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Cormyrian Seafood Soup](https://bg3.wiki/wiki/Cormyrian_Seafood_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/FOOD_Seafood_Bouillabaisse_Unfaded_Icon.png/40px-FOOD_Seafood_Bouillabaisse_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Courgette](https://bg3.wiki/wiki/Courgette)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/FOOD_Courgette_Unfaded_Icon.png/40px-FOOD_Courgette_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Head of Lettuce](https://bg3.wiki/wiki/Head_of_Lettuce)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7d/FOOD_Head_of_Lettuce_Unfaded_Icon.png/40px-FOOD_Head_of_Lettuce_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Murky Stew](https://bg3.wiki/wiki/Murky_Stew)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/FOOD_Murky_Stew_Unfaded_Icon.png/40px-FOOD_Murky_Stew_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Neverwinter Stew](https://bg3.wiki/wiki/Neverwinter_Stew)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/FOOD_Stout_Stew_Unfaded_Icon.png/40px-FOOD_Stout_Stew_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Spicy Shrimp Soup](https://bg3.wiki/wiki/Spicy_Shrimp_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/FOOD_Sun-Dappled_Paella_Unfaded_Icon.png/40px-FOOD_Sun-Dappled_Paella_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Stout Stew](https://bg3.wiki/wiki/Stout_Stew)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/FOOD_Stout_Stew_Unfaded_Icon.png/40px-FOOD_Stout_Stew_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Treacle Tart](https://bg3.wiki/wiki/Treacle_Tart)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6d/FOOD_Treacle_Tart_Unfaded_Icon.png/40px-FOOD_Treacle_Tart_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Vegetable Broth](https://bg3.wiki/wiki/Vegetable_Broth)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a6/FOOD_Onion_Soup_Unfaded_Icon.png/40px-FOOD_Onion_Soup_Unfaded_Icon.png",
+    "campSupplies": 7
+  },
+  {
+    "name": "[Bluejay corpse](https://bg3.wiki/wiki/Bluejay_corpse)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/FOOD_Whole_Chicken_Unfaded_Icon.png/40px-FOOD_Whole_Chicken_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Bunch of Horseradish](https://bg3.wiki/wiki/Bunch_of_Horseradish)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/FOOD_Horseradish_Unfaded_Icon.png/40px-FOOD_Horseradish_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Whole Chicken](https://bg3.wiki/wiki/Whole_Chicken)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/FOOD_Whole_Chicken_A_Unfaded_Icon.png/40px-FOOD_Whole_Chicken_A_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Bagel](https://bg3.wiki/wiki/Bagel)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2a/FOOD_Bagel_Unfaded_Icon.png/40px-FOOD_Bagel_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Baguette](https://bg3.wiki/wiki/Baguette)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ab/FOOD_Baguette_Unfaded_Icon.png/40px-FOOD_Baguette_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Beregost Blue Wheel](https://bg3.wiki/wiki/Beregost_Blue_Wheel)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png/40px-FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Bloodless Pig Meat](https://bg3.wiki/wiki/Bloodless_Pig_Meat)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/FOOD_Roughly_Cut_Ham_Unfaded_Icon.png/40px-FOOD_Roughly_Cut_Ham_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Chopped-Up Pig](https://bg3.wiki/wiki/Chopped-Up_Pig)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/FOOD_Chopped-Up_Pig_Unfaded_Icon.png/40px-FOOD_Chopped-Up_Pig_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Everything Soup](https://bg3.wiki/wiki/Everything_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/d/db/FOOD_Everything_Soup_Unfaded_Icon.png/40px-FOOD_Everything_Soup_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Frites](https://bg3.wiki/wiki/Frites)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/FOOD_Potato_Wedges_Unfaded_Icon.png/40px-FOOD_Potato_Wedges_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Fruit Porridge](https://bg3.wiki/wiki/Fruit_Porridge)",
+    "image": "https://bg3.wiki/w/images/thumb/6/68/FOOD_Fruit_Porridge_R_Unfaded_Icon.png/40px-FOOD_Fruit_Porridge_R_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Honey Comb](https://bg3.wiki/wiki/Honey_Comb)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0d/FOOD_Honey_Comb_Unfaded_Icon.png/40px-FOOD_Honey_Comb_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Leg of Mutton](https://bg3.wiki/wiki/Leg_of_Mutton)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e6/FOOD_Pork_Loin_Unfaded_Icon.png/40px-FOOD_Pork_Loin_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Mashed Potatoes](https://bg3.wiki/wiki/Mashed_Potatoes)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/FOOD_Mashed_Potatoes_Unfaded_Icon.png/40px-FOOD_Mashed_Potatoes_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Mushroom Soup](https://bg3.wiki/wiki/Mushroom_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/FOOD_Mushroom_Soup_B_Unfaded_Icon.png/40px-FOOD_Mushroom_Soup_B_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Onion Soup](https://bg3.wiki/wiki/Onion_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/1/15/FOOD_Onion_Soup_R_Unfaded_Icon.png/40px-FOOD_Onion_Soup_R_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Pork Loin](https://bg3.wiki/wiki/Pork_Loin)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e6/FOOD_Pork_Loin_Unfaded_Icon.png/40px-FOOD_Pork_Loin_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Potato Porridge](https://bg3.wiki/wiki/Potato_Porridge)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/FOOD_Potato_Porridge_Unfaded_Icon.png/40px-FOOD_Potato_Porridge_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Potato Wedges](https://bg3.wiki/wiki/Potato_Wedges)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/FOOD_Potato_Wedges_Unfaded_Icon.png/40px-FOOD_Potato_Wedges_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Puff Pastry Braid](https://bg3.wiki/wiki/Puff_Pastry_Braid)",
+    "image": "https://bg3.wiki/w/images/thumb/2/26/FOOD_Puff_Pastry_Braid_Unfaded_Icon.png/40px-FOOD_Puff_Pastry_Braid_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Pumpkin Soup](https://bg3.wiki/wiki/Pumpkin_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/FOOD_Pumpkin_Soup_Unfaded_Icon.png/40px-FOOD_Pumpkin_Soup_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Roughly-Cut Ham](https://bg3.wiki/wiki/Roughly-Cut_Ham)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/FOOD_Roughly_Cut_Ham_Unfaded_Icon.png/40px-FOOD_Roughly_Cut_Ham_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Sourdough Bread](https://bg3.wiki/wiki/Sourdough_Bread)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/FOOD_Sourdough_Bread_Unfaded_Icon.png/40px-FOOD_Sourdough_Bread_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Split Pea Soup](https://bg3.wiki/wiki/Split_Pea_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8d/FOOD_Split_Pea_Soup_R_Unfaded_Icon.png/40px-FOOD_Split_Pea_Soup_R_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Sunflower Seed Bun](https://bg3.wiki/wiki/Sunflower_Seed_Bun)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/FOOD_Sunflower_Seed_Bun_Unfaded_Icon.png/40px-FOOD_Sunflower_Seed_Bun_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Sunmelon Half](https://bg3.wiki/wiki/Sunmelon_Half)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bb/FOOD_Sunmelon_Piece_Unfaded_icon.png/40px-FOOD_Sunmelon_Piece_Unfaded_icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Suspicious Meat](https://bg3.wiki/wiki/Suspicious_Meat)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e6/FOOD_Pork_Loin_Unfaded_Icon.png/40px-FOOD_Pork_Loin_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Vegetable Soup](https://bg3.wiki/wiki/Vegetable_Soup)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/FOOD_Vegetable_Soup_Unfaded_Icon.png/40px-FOOD_Vegetable_Soup_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Waterdhavian Cheese Wheel](https://bg3.wiki/wiki/Waterdhavian_Cheese_Wheel)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/FOOD_Waterdhavian_Cheese_Wheel_Unfaded_Icon.png/40px-FOOD_Waterdhavian_Cheese_Wheel_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[White Bread](https://bg3.wiki/wiki/White_Bread)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/FOOD_Sourdough_Bread_Unfaded_Icon.png/40px-FOOD_Sourdough_Bread_Unfaded_Icon.png",
+    "campSupplies": 5
+  },
+  {
+    "name": "[Boiled Potato](https://bg3.wiki/wiki/Boiled_Potato)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/FOOD_Boiled_Potato_Unfaded_Icon.png/40px-FOOD_Boiled_Potato_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Fish](https://bg3.wiki/wiki/Fish)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/FOOD_Fish_AA_Unfaded_Icon.png/40px-FOOD_Fish_AA_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Fish Fillet](https://bg3.wiki/wiki/Fish_Fillet)",
+    "image": "https://bg3.wiki/w/images/thumb/0/03/FOOD_Fish_Fillet_Unfaded_Icon.png/40px-FOOD_Fish_Fillet_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Headless Fish](https://bg3.wiki/wiki/Headless_Fish)",
+    "image": "https://bg3.wiki/w/images/thumb/1/15/FOOD_Headless_Fish_Unfaded_Icon.png/40px-FOOD_Headless_Fish_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Pig's Head](https://bg3.wiki/wiki/Pig%27s_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/4/41/FOOD_Pig%27s_Head_A_Unfaded_Icon.png/40px-FOOD_Pig%27s_Head_A_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Banana](https://bg3.wiki/wiki/Banana)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/FOOD_Banana_Unfaded_Icon.png/40px-FOOD_Banana_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Bex's Handmade Cookies](https://bg3.wiki/wiki/Bex%27s_Handmade_Cookies)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/FOOD_Biscuit_Unfaded_Icon.png/40px-FOOD_Biscuit_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Biscuit](https://bg3.wiki/wiki/Biscuit)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/FOOD_Biscuit_Unfaded_Icon.png/40px-FOOD_Biscuit_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Butter Bun](https://bg3.wiki/wiki/Butter_Bun)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/FOOD_Butter_Bun_Unfaded_Icon.png/40px-FOOD_Butter_Bun_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Carrot](https://bg3.wiki/wiki/Carrot)",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/FOOD_Carrot_Unfaded_Icon.png/40px-FOOD_Carrot_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Charming Little Egg](https://bg3.wiki/wiki/Charming_Little_Egg)",
+    "image": "https://bg3.wiki/w/images/thumb/5/57/FOOD_Egg_Unfaded_Icon.png/40px-FOOD_Egg_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Chicken Egg](https://bg3.wiki/wiki/Chicken_Egg)",
+    "image": "https://bg3.wiki/w/images/thumb/5/57/FOOD_Egg_Unfaded_Icon.png/40px-FOOD_Egg_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Cinnamon Roll](https://bg3.wiki/wiki/Cinnamon_Roll)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2e/FOOD_Cinnamon_Roll_Unfaded_Icon.png/40px-FOOD_Cinnamon_Roll_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Coffee](https://bg3.wiki/wiki/Coffee)",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/FOOD_Coffee_Unfaded_Icon.png/40px-FOOD_Coffee_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Dried Beef Sausage](https://bg3.wiki/wiki/Dried_Beef_Sausage)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d8/FOOD_Dried_Beef_Sausage_Unfaded_Icon.png/40px-FOOD_Dried_Beef_Sausage_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Dried Pork Sausage](https://bg3.wiki/wiki/Dried_Pork_Sausage)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/FOOD_Dried_Pork_Sausage_Unfaded_Icon.png/40px-FOOD_Dried_Pork_Sausage_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Dried Rope Sausage](https://bg3.wiki/wiki/Dried_Rope_Sausage)",
+    "image": "https://bg3.wiki/w/images/thumb/3/38/FOOD_Dried_Rope_Sausage_Unfaded_Icon.png/40px-FOOD_Dried_Rope_Sausage_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Dried Sausage Links](https://bg3.wiki/wiki/Dried_Sausage_Links)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f5/FOOD_Dried_Sausage_Links_A_Unfaded_Icon.png/40px-FOOD_Dried_Sausage_Links_A_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Fire-Spiced Chicken Sausages](https://bg3.wiki/wiki/Fire-Spiced_Chicken_Sausages)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ab/FOOD_Spicy_Sausage_Links_Unfaded_Icon.png/40px-FOOD_Spicy_Sausage_Links_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Fried Rat Skewer](https://bg3.wiki/wiki/Fried_Rat_Skewer)",
+    "image": "https://bg3.wiki/w/images/thumb/1/11/FOOD_Fried_Rat_Skewer_Unfaded_Icon.png/40px-FOOD_Fried_Rat_Skewer_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Milk](https://bg3.wiki/wiki/Milk)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/FOOD_Milk_Unfaded_Icon.png/40px-FOOD_Milk_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Milk bowl](https://bg3.wiki/wiki/Milk_bowl)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/FOOD_Mushroom_Soup_A_Unfaded_Icon.png/40px-FOOD_Mushroom_Soup_A_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Mixed Coffee](https://bg3.wiki/wiki/Mixed_Coffee)",
+    "image": "https://bg3.wiki/w/images/thumb/5/59/FOOD_Coffee_Unfaded_Icon.png/40px-FOOD_Coffee_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Onion](https://bg3.wiki/wiki/Onion)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fa/FOOD_Onion_Unfaded_Icon.png/40px-FOOD_Onion_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Orange](https://bg3.wiki/wiki/Orange)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ad/FOOD_Orange_Unfaded_Icon.png/40px-FOOD_Orange_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Pear](https://bg3.wiki/wiki/Pear)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0e/FOOD_Pear_Unfaded_Icon.png/40px-FOOD_Pear_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Potato](https://bg3.wiki/wiki/Potato)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/FOOD_Potato_Unfaded_Icon.png/40px-FOOD_Potato_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Red Apple](https://bg3.wiki/wiki/Red_Apple)",
+    "image": "https://bg3.wiki/w/images/thumb/5/54/FOOD_Apple_Unfaded_Icon.png/40px-FOOD_Apple_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Spicy Pork Sausage](https://bg3.wiki/wiki/Spicy_Pork_Sausage)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2e/FOOD_Spicy_Pork_Sausage_Unfaded_Icon.png/40px-FOOD_Spicy_Pork_Sausage_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Spicy Sausage Links](https://bg3.wiki/wiki/Spicy_Sausage_Links)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ab/FOOD_Spicy_Sausage_Links_Unfaded_Icon.png/40px-FOOD_Spicy_Sausage_Links_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Spilled Mashed Potatoes](https://bg3.wiki/wiki/Spilled_Mashed_Potatoes)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8b/FOOD_Spilled_Mashed_Potatoes_Unfaded_Icon.png/40px-FOOD_Spilled_Mashed_Potatoes_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Stale Bread](https://bg3.wiki/wiki/Stale_Bread)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/FOOD_Stale_Bread_Unfaded_Icon.png/40px-FOOD_Stale_Bread_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Succulent Pear](https://bg3.wiki/wiki/Succulent_Pear)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0e/FOOD_Pear_Unfaded_Icon.png/40px-FOOD_Pear_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Sweet Potato](https://bg3.wiki/wiki/Sweet_Potato)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ea/FOOD_Sweet_Potato_Unfaded_Icon.png/40px-FOOD_Sweet_Potato_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Tea](https://bg3.wiki/wiki/Tea)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d5/FOOD_Tea_Unfaded_Icon.png/40px-FOOD_Tea_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Tomato](https://bg3.wiki/wiki/Tomato)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/FOOD_Tomato_Unfaded_Icon.png/40px-FOOD_Tomato_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Turnip](https://bg3.wiki/wiki/Turnip)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d9/FOOD_Turnip_Unfaded_Icon.png/40px-FOOD_Turnip_Unfaded_Icon.png",
+    "campSupplies": 3
+  },
+  {
+    "name": "[Beregost Blue Wedge](https://bg3.wiki/wiki/Beregost_Blue_Wedge)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png/40px-FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Bluecap](https://bg3.wiki/wiki/Bluecap)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8e/FOOD_Bluecap_Unfaded_Icon.png/40px-FOOD_Bluecap_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Blushcap Mushroom](https://bg3.wiki/wiki/Blushcap_Mushroom)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/FOOD_Blushcap_Mushroom_Unfaded_Icon.png/40px-FOOD_Blushcap_Mushroom_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Durinbold Cheese Wedge](https://bg3.wiki/wiki/Durinbold_Cheese_Wedge)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2e/FOOD_Durinbold_Cheese_Wedge_Unfaded_Icon.png/40px-FOOD_Durinbold_Cheese_Wedge_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Garlic](https://bg3.wiki/wiki/Garlic)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/FOOD_Garlic_Unfaded_Icon.png/40px-FOOD_Garlic_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Glowcap Mushroom](https://bg3.wiki/wiki/Glowcap_Mushroom)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/FOOD_Glowcap_Mushroom_Unfaded_Icon.png/40px-FOOD_Glowcap_Mushroom_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Green Grapes](https://bg3.wiki/wiki/Green_Grapes)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4b/FOOD_Green_Grapes_Unfaded_Icon.png/40px-FOOD_Green_Grapes_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Horseradish](https://bg3.wiki/wiki/Horseradish)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/FOOD_Horseradish_Unfaded_Icon.png/40px-FOOD_Horseradish_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Kiwi](https://bg3.wiki/wiki/Kiwi)",
+    "image": "https://bg3.wiki/w/images/thumb/8/81/FOOD_Kiwi_Unfaded_Icon.png/40px-FOOD_Kiwi_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Lemon](https://bg3.wiki/wiki/Lemon)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4b/FOOD_Lemon_Unfaded_Icon.png/40px-FOOD_Lemon_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Moulded Cheese Wedge](https://bg3.wiki/wiki/Moulded_Cheese_Wedge)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png/40px-FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Pale Mint](https://bg3.wiki/wiki/Pale_Mint)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c3/FOOD_Pale_Mint_Unfaded_Icon.png/40px-FOOD_Pale_Mint_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Purple Grapes](https://bg3.wiki/wiki/Purple_Grapes)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ee/FOOD_Purple_Grapes_Unfaded_Icon.png/40px-FOOD_Purple_Grapes_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Red Pepper](https://bg3.wiki/wiki/Red_Pepper)",
+    "image": "https://bg3.wiki/w/images/thumb/b/be/FOOD_Red_Pepper_Unfaded_Icon.png/40px-FOOD_Red_Pepper_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Sunmelon Piece](https://bg3.wiki/wiki/Sunmelon_Piece)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bb/FOOD_Sunmelon_Piece_Unfaded_icon.png/40px-FOOD_Sunmelon_Piece_Unfaded_icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Walnut](https://bg3.wiki/wiki/Walnut)",
+    "image": "https://bg3.wiki/w/images/thumb/0/08/FOOD_Walnut_Unfaded_Icon.png/40px-FOOD_Walnut_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Waterdhavian Cheese Wedge](https://bg3.wiki/wiki/Waterdhavian_Cheese_Wedge)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png/40px-FOOD_Waterdhavian_Cheese_Wedge_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[White Mushroom](https://bg3.wiki/wiki/White_Mushroom)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8f/FOOD_White_Mushroom_Unfaded_Icon.png/40px-FOOD_White_Mushroom_Unfaded_Icon.png",
+    "campSupplies": 2
+  },
+  {
+    "name": "[Fish Head](https://bg3.wiki/wiki/Fish_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/9/95/FOOD_Fish_Head_Unfaded_Icon.png/40px-FOOD_Fish_Head_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Goodberry](https://bg3.wiki/wiki/Goodberry_(Item))",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/FOOD_Goodberry_Unfaded_Icon.png/40px-FOOD_Goodberry_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Gruel](https://bg3.wiki/wiki/Gruel)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e9/FOOD_Gruel_Unfaded_Icon.png/40px-FOOD_Gruel_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Half-Eaten Apple](https://bg3.wiki/wiki/Half-Eaten_Apple)",
+    "image": "https://bg3.wiki/w/images/thumb/9/97/FOOD_Half-Eaten_Apple_Unfaded_Icon.png/40px-FOOD_Half-Eaten_Apple_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Okta's Alternative Meal](https://bg3.wiki/wiki/Okta%27s_Alternative_Meal)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ab/FOOD_Okta%27s_Alternative_Meal_Unfaded_Icon.png/40px-FOOD_Okta%27s_Alternative_Meal_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Raspberry](https://bg3.wiki/wiki/Raspberry)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b3/FOOD_Raspberry_Unfaded_Icon.png/40px-FOOD_Raspberry_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Arabellan Dry](https://bg3.wiki/wiki/Arabellan_Dry)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Baalor Ale](https://bg3.wiki/wiki/Baalor_Ale)",
+    "image": "https://bg3.wiki/w/images/thumb/4/45/ALCH_Balor_Ale_Unfaded_Icon.png/40px-ALCH_Balor_Ale_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Baldur's Grape](https://bg3.wiki/wiki/Baldur%27s_Grape)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7b/ALCH_Arkhen%27s_Hoard_Unfaded_Icon.png/40px-ALCH_Arkhen%27s_Hoard_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Barrel-Aged Callidyrran](https://bg3.wiki/wiki/Barrel-Aged_Callidyrran)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c2/ALCH_Barrel-Aged_Callidyrran_Unfaded_Icon.png/40px-ALCH_Barrel-Aged_Callidyrran_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Gulthmeran Reserve](https://bg3.wiki/wiki/Gulthmeran_Reserve)",
+    "image": "https://bg3.wiki/w/images/thumb/1/19/ALCH_Gulthmeran_Reserve_Unfaded_Icon.png/40px-ALCH_Gulthmeran_Reserve_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Highsun Liqueur](https://bg3.wiki/wiki/Highsun_Liqueur)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Marsember Ice Wine](https://bg3.wiki/wiki/Marsember_Ice_Wine)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/ALCH_Marsember_Ice_Wine_Unfaded_Icon.png/40px-ALCH_Marsember_Ice_Wine_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Mermaid Whiskey](https://bg3.wiki/wiki/Mermaid_Whiskey)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/ALCH_Mermaid_Whiskey_Unfaded_Icon.png/40px-ALCH_Mermaid_Whiskey_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Purple Dragon Blush](https://bg3.wiki/wiki/Purple_Dragon_Blush)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/ALCH_Purple_Dragon_Blush_Unfaded_Icon.png/40px-ALCH_Purple_Dragon_Blush_Unfaded_Icon.png",
+    "campSupplies": 6
+  },
+  {
+    "name": "[Amnian Dessert Wine](https://bg3.wiki/wiki/Amnian_Dessert_Wine)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Arkhen's Hoard](https://bg3.wiki/wiki/Arkhen%27s_Hoard)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7b/ALCH_Arkhen%27s_Hoard_Unfaded_Icon.png/40px-ALCH_Arkhen%27s_Hoard_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Blackstaff](https://bg3.wiki/wiki/Blackstaff)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4b/ALCH_Blackstaff_Unfaded_Icon.png/40px-ALCH_Blackstaff_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Eigersstor Noblerot](https://bg3.wiki/wiki/Eigersstor_Noblerot)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fb/ALCH_Purple_Dragon_Blush_Unfaded_Icon.png/40px-ALCH_Purple_Dragon_Blush_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Frostkiss Ale](https://bg3.wiki/wiki/Frostkiss_Ale)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Portal Sherry](https://bg3.wiki/wiki/Portal_Sherry)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Stagswift Tonic](https://bg3.wiki/wiki/Stagswift_Tonic)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Suzailian Sweet](https://bg3.wiki/wiki/Suzailian_Sweet)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Syl-Pashan Sup](https://bg3.wiki/wiki/Syl-Pashan_Sup)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/ALCH_Esmeltar_Red_Unfaded_Icon.png/40px-ALCH_Esmeltar_Red_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Tyche Pink](https://bg3.wiki/wiki/Tyche_Pink)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Wine](https://bg3.wiki/wiki/Wine)",
+    "image": "https://bg3.wiki/w/images/thumb/6/69/ALCH_Wine_Unfaded_Icon.png/40px-ALCH_Wine_Unfaded_Icon.png",
+    "campSupplies": 4
+  },
+  {
+    "name": "[Ashaba Dusk](https://bg3.wiki/wiki/Ashaba_Dusk)",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/ALCH_Ashaba_Dusk_Unfaded_Icon.png/40px-ALCH_Ashaba_Dusk_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Blingdenstone Blush](https://bg3.wiki/wiki/Blingdenstone_Blush)",
+    "image": "https://bg3.wiki/w/images/thumb/9/92/ALCH_Blingdenstone_Blush_Unfaded_Icon.png/40px-ALCH_Blingdenstone_Blush_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Brass City Scrangle](https://bg3.wiki/wiki/Brass_City_Scrangle)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Carafe of Wine](https://bg3.wiki/wiki/Carafe_of_Wine)",
+    "image": "https://bg3.wiki/w/images/thumb/7/71/ALCH_Carafe_of_Wine_B_Unfaded_Icon.png/40px-ALCH_Carafe_of_Wine_B_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Chultan Fireswill](https://bg3.wiki/wiki/Chultan_Fireswill)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/ALCH_Chultan_Fireswill_Unfaded_Icon.png/40px-ALCH_Chultan_Fireswill_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Common Table-Wine](https://bg3.wiki/wiki/Common_Table-Wine)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Esmeltar Red](https://bg3.wiki/wiki/Esmeltar_Red)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/ALCH_Esmeltar_Red_Unfaded_Icon.png/40px-ALCH_Esmeltar_Red_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Farsea Marshwine](https://bg3.wiki/wiki/Farsea_Marshwine)",
+    "image": "https://bg3.wiki/w/images/thumb/a/af/ALCH_Farsea_Marshwine_Unfaded_Icon.png/40px-ALCH_Farsea_Marshwine_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Ithbank](https://bg3.wiki/wiki/Ithbank)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Lovely Malty Beer](https://bg3.wiki/wiki/Lovely_Malty_Beer)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ce/ALCH_Mug_of_Beer_Unfaded_Icon.png/40px-ALCH_Mug_of_Beer_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Monastery Firewine](https://bg3.wiki/wiki/Monastery_Firewine)",
+    "image": "https://bg3.wiki/w/images/thumb/6/69/ALCH_Wine_Unfaded_Icon.png/40px-ALCH_Wine_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Mug of Beer](https://bg3.wiki/wiki/Mug_of_Beer)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cb/ALCH_Mug_of_Beer_A_Unfaded_Icon.png/40px-ALCH_Mug_of_Beer_A_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Pitcher of Beer](https://bg3.wiki/wiki/Pitcher_of_Beer)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/ALCH_Pitcher_of_Beer_Unfaded_Icon.png/40px-ALCH_Pitcher_of_Beer_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Plum Fizz](https://bg3.wiki/wiki/Plum_Fizz)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f3/ALCH_Plum_Fizz_Unfaded_Icon.png/40px-ALCH_Plum_Fizz_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Rolling Deck Rum](https://bg3.wiki/wiki/Rolling_Deck_Rum)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Rosymorn Firewine](https://bg3.wiki/wiki/Rosymorn_Firewine)",
+    "image": "https://bg3.wiki/w/images/thumb/7/71/ALCH_Carafe_of_Wine_B_Unfaded_Icon.png/40px-ALCH_Carafe_of_Wine_B_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Starburst Shandy](https://bg3.wiki/wiki/Starburst_Shandy)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6f/ALCH_Wine_Bottle_A_Unfaded_Icon.png/40px-ALCH_Wine_Bottle_A_Unfaded_Icon.png",
+    "campSupplies": 1
+  },
+  {
+    "name": "[Whalebone Spiced](https://bg3.wiki/wiki/Whalebone_Spiced)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d2/ALCH_Whalebone_Spiced_Unfaded_Icon.png/40px-ALCH_Whalebone_Spiced_Unfaded_Icon.png",
+    "campSupplies": 1
+  }
+]

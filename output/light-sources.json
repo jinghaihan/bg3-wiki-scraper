@@ -1,0 +1,72 @@
+[
+  {
+    "name": "[Cemetery-Blue Torch](https://bg3.wiki/wiki/Cemetery-Blue_Torch)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Torch_Unfaded_Icon.png/50px-Torch_Unfaded_Icon.png",
+    "rare": "common",
+    "glowEmitted": "Blue",
+    "weight": "0.9 kg\n1.8 lb",
+    "damage": "1d4[Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) + [Strength modifier](https://bg3.wiki/wiki/Damage_Roll#Modifiers) \n1d4[Fire](https://bg3.wiki/wiki/Fire) (when lit)",
+    "description": "A deep oily smell wafts from this crude tree branch.",
+    "firstSeen": 3
+  },
+  {
+    "name": "[Drunk-Purple Torch](https://bg3.wiki/wiki/Drunk-Purple_Torch)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Torch_Unfaded_Icon.png/50px-Torch_Unfaded_Icon.png",
+    "rare": "common",
+    "glowEmitted": "Purple",
+    "weight": "0.9 kg\n1.8 lb",
+    "damage": "1d4[Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) + [Strength modifier](https://bg3.wiki/wiki/Damage_Roll#Modifiers) \n1d4[Fire](https://bg3.wiki/wiki/Fire) (when lit)",
+    "description": "A deep oily smell wafts from this crude tree branch.",
+    "firstSeen": 3
+  },
+  {
+    "name": "[Lantern](https://bg3.wiki/wiki/Lantern)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ed/Lantern_Weapon_Unfaded_Icon.png/50px-Lantern_Weapon_Unfaded_Icon.png",
+    "rare": "common",
+    "glowEmitted": "Orange",
+    "weight": "0.9 kg\n1.8 lb",
+    "damage": "1d4[Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) + [Strength modifier](https://bg3.wiki/wiki/Damage_Roll#Modifiers) \n1d4[Fire](https://bg3.wiki/wiki/Fire) (when lit)",
+    "description": "A deep oily smell wafts from this crude tree branch.",
+    "firstSeen": 2
+  },
+  {
+    "name": "[Plague-Green Torch](https://bg3.wiki/wiki/Plague-Green_Torch)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Torch_Unfaded_Icon.png/50px-Torch_Unfaded_Icon.png",
+    "rare": "common",
+    "glowEmitted": "Green",
+    "weight": "0.9 kg\n1.8 lb",
+    "damage": "1d4[Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) + [Strength modifier](https://bg3.wiki/wiki/Damage_Roll#Modifiers) \n1d4[Fire](https://bg3.wiki/wiki/Fire) (when lit)",
+    "description": "A deep oily smell wafts from this crude tree branch.",
+    "firstSeen": 3
+  },
+  {
+    "name": "[Torch](https://bg3.wiki/wiki/Torch)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Torch_Unfaded_Icon.png/50px-Torch_Unfaded_Icon.png",
+    "rare": "common",
+    "glowEmitted": "Orange",
+    "weight": "0.9 kg\n1.8 lb",
+    "damage": "1d4[Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) + [Strength modifier](https://bg3.wiki/wiki/Damage_Roll#Modifiers) \n1d4[Fire](https://bg3.wiki/wiki/Fire) (when lit)",
+    "description": "A deep oily smell wafts from this crude tree branch.",
+    "firstSeen": 1
+  },
+  {
+    "name": "[Moonlantern](https://bg3.wiki/wiki/Moonlantern)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3e/Moonlantern_Unfaded_Icon.png/50px-Moonlantern_Unfaded_Icon.png",
+    "rare": "story item",
+    "glowEmitted": "White",
+    "weight": "0.9 kg\n1.8 lb",
+    "damage": "1d4[Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) + [Strength modifier](https://bg3.wiki/wiki/Damage_Roll#Modifiers) \n1d4[Fire](https://bg3.wiki/wiki/Fire) (when lit)",
+    "description": "Each framed facet of the lantern glass is pierced by lances and long tendrils of eerily beautiful moonlight.",
+    "firstSeen": 2
+  },
+  {
+    "name": "[Torch of Revocation](https://bg3.wiki/wiki/Torch_of_Revocation)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f5/Torch_of_Revocation_Unfaded_Icon.png/50px-Torch_of_Revocation_Unfaded_Icon.png",
+    "rare": "story item",
+    "glowEmitted": "Green",
+    "weight": "0.9 kg\n1.8 lb",
+    "damage": "1d4[Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) + [Strength modifier](https://bg3.wiki/wiki/Damage_Roll#Modifiers) \n1d4[Necrotic](https://bg3.wiki/wiki/Necrotic) \n1d4[Fire](https://bg3.wiki/wiki/Fire) (when lit)",
+    "description": "This staple of any worthwhile exorcist burns with a pale flame that destroys the anchors of troublesome ghosts in need of banishment.",
+    "firstSeen": 3
+  }
+]

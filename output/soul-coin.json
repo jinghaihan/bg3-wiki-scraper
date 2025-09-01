@@ -1,0 +1,90 @@
+[
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "in a sarcophagus in the trapped room of the [Dank Crypt](https://bg3.wiki/wiki/Dank_Crypt)",
+    "position": {
+      "x": -304,
+      "y": -323
+    }
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "in a sarcophagus next to the [Book of Dead Gods](https://bg3.wiki/wiki/Book_of_Dead_Gods) within the Dank Crypt",
+    "position": {
+      "x": -324,
+      "y": -274
+    }
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "in the sarcophagus that  [Withers](https://bg3.wiki/wiki/Withers) emerges from in the Dank Crypt",
+    "position": {
+      "x": -290,
+      "y": -235
+    }
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "carried by  [Nadira](https://bg3.wiki/wiki/Nadira) at the top of a hill in the [Emerald Grove](https://bg3.wiki/wiki/Emerald_Grove)"
+  },
+  {
+    "chapter": 1,
+    "count": 1,
+    "description": "on the balcony of the Toll House at [The Risen Road](https://bg3.wiki/wiki/The_Risen_Road)",
+    "position": {
+      "x": 109,
+      "y": 550
+    }
+  },
+  {
+    "chapter": 2,
+    "count": 1,
+    "description": "on a table behind a secret wall in [Reithwin Tollhouse](https://bg3.wiki/wiki/Reithwin_Tollhouse) basement",
+    "position": {
+      "x": 301,
+      "y": -715
+    }
+  },
+  {
+    "chapter": 2,
+    "count": 3,
+    "description": "sold by  [Lann Tarv](https://bg3.wiki/wiki/Lann_Tarv), the bugbear merchant in the main hall of [Moonrise Towers](https://bg3.wiki/wiki/Moonrise_Towers)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "the mailbox outside Peartree's house, [Lower City](https://bg3.wiki/wiki/Lower_City)",
+    "position": {
+      "x": 32,
+      "y": -96
+    }
+  },
+  {
+    "chapter": 3,
+    "count": 2,
+    "description": "in the basement of [Peartree House](https://bg3.wiki/wiki/Peartree_House), inside a \"Strongbox\" on the wall"
+  },
+  {
+    "chapter": 3,
+    "count": 5,
+    "description": "inside  [Raphael's](https://bg3.wiki/wiki/Raphael) safe at the Boudoir in the [House of Hope](https://bg3.wiki/wiki/House_of_Hope)"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "in [Philgrave's Mansion](https://bg3.wiki/wiki/Philgrave%27s_Mansion) inside Viscera"
+  },
+  {
+    "chapter": 3,
+    "count": 1,
+    "description": "in the Rustic Chest atop the stairs in Nortale's Hostel, [Lower City](https://bg3.wiki/wiki/Lower_City)",
+    "position": {
+      "x": 90,
+      "y": -56
+    }
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "name": "[Amulet of the Absolute](https://bg3.wiki/wiki/Amulet_of_the_Absolute)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d6/Absolute%27s_Talisman_Unfaded_Icon.png/50px-Absolute%27s_Talisman_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Barnabus' Collar](https://bg3.wiki/wiki/Barnabus%27_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/2/26/Amulet_Necklace_A_Silver_A_Unfaded_Icon.png/50px-Amulet_Necklace_A_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 25,
+    "effects": ""
+  },
+  {
+    "name": "[Bronze Necklace](https://bg3.wiki/wiki/Bronze_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/0/07/Amulet_Necklace_B_Bronze_A_Unfaded_Icon.png/50px-Amulet_Necklace_B_Bronze_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Bronze Pendant](https://bg3.wiki/wiki/Bronze_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6d/Amulet_Necklace_D_Bronze_A_Unfaded_Icon.png/50px-Amulet_Necklace_D_Bronze_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Burnished Necklace](https://bg3.wiki/wiki/Burnished_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1f/Amulet_Necklace_C_Bronze_A_Unfaded_Icon.png/50px-Amulet_Necklace_C_Bronze_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Destroyed Kill Collar](https://bg3.wiki/wiki/Destroyed_Kill_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Dog_Collar_A_Unfaded_Icon.png/50px-Dog_Collar_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": ""
+  },
+  {
+    "name": "[Dog Collar](https://bg3.wiki/wiki/Dog_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Dog_Collar_A_Unfaded_Icon.png/50px-Dog_Collar_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Dog Collar](https://bg3.wiki/wiki/Dog_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/a/af/Dog_Collar_Unfaded_Icon.png/50px-Dog_Collar_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Necklace](https://bg3.wiki/wiki/Gold_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0b/Amulet_Necklace_B_Gold_A_Unfaded_Icon.png/50px-Amulet_Necklace_B_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Necklace](https://bg3.wiki/wiki/Gold_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Amulet_Necklace_B_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Pendant](https://bg3.wiki/wiki/Gold_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Amulet_Necklace_A_Gold_A_Unfaded_Icon.png/50px-Amulet_Necklace_A_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Pendant](https://bg3.wiki/wiki/Gold_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2f/Amulet_Necklace_A_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Pendant](https://bg3.wiki/wiki/Gold_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/Amulet_Necklace_D_Gold_A_Unfaded_Icon.png/50px-Amulet_Necklace_D_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Gold Pendant](https://bg3.wiki/wiki/Gold_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Amulet_Necklace_D_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_D_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Gordis' Dog Collar](https://bg3.wiki/wiki/Gordis%27_Dog_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Dog_Collar_A_Unfaded_Icon.png/50px-Dog_Collar_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Pearl Necklace](https://bg3.wiki/wiki/Pearl_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cd/Amulet_Necklace_E_Pearl_A_Unfaded_Icon.png/50px-Amulet_Necklace_E_Pearl_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Pearl Necklace](https://bg3.wiki/wiki/Pearl_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Amulet_Necklace_E_Pearl_B_Unfaded_Icon.png/50px-Amulet_Necklace_E_Pearl_B_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Pearl Necklace](https://bg3.wiki/wiki/Pearl_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/3/38/Item_LOOT_GEN_Amulet_Necklace_E_Pearl_C_Unfaded_Icon.png/50px-Item_LOOT_GEN_Amulet_Necklace_E_Pearl_C_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Pearl Necklace](https://bg3.wiki/wiki/Pearl_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/3/34/Amulet_Necklace_E_Pearl_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_E_Pearl_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Necklace](https://bg3.wiki/wiki/Polished_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/5/57/Amulet_Necklace_F_Gold_A_Unfaded_Icon.png/50px-Amulet_Necklace_F_Gold_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Necklace](https://bg3.wiki/wiki/Polished_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Amulet_Necklace_F_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Gold_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Necklace](https://bg3.wiki/wiki/Polished_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b1/Amulet_Necklace_F_Silver_A_Unfaded_Icon.png/50px-Amulet_Necklace_F_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Necklace](https://bg3.wiki/wiki/Polished_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/Amulet_Necklace_F_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Necklace](https://bg3.wiki/wiki/Polished_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f4/Amulet_Necklace_F_Bronze_A_Unfaded_Icon.png/50px-Amulet_Necklace_F_Bronze_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Polished Necklace](https://bg3.wiki/wiki/Polished_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Amulet_Necklace_F_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 35,
+    "effects": ""
+  },
+  {
+    "name": "[Rocky's Dog Collar](https://bg3.wiki/wiki/Rocky%27s_Dog_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Dog_Collar_A_Unfaded_Icon.png/50px-Dog_Collar_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Selûnite Amulet](https://bg3.wiki/wiki/Sel%C3%BBnite_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Selunite_Amulet_Unfaded_Icon.png/50px-Selunite_Amulet_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Silver Amulet](https://bg3.wiki/wiki/Silver_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/2/26/Amulet_Necklace_A_Silver_A_Unfaded_Icon.png/50px-Amulet_Necklace_A_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 25,
+    "effects": ""
+  },
+  {
+    "name": "[Silver Amulet](https://bg3.wiki/wiki/Silver_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Amulet_Necklace_A_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 25,
+    "effects": ""
+  },
+  {
+    "name": "[Silver Locket](https://bg3.wiki/wiki/Silver_Locket)",
+    "image": "https://bg3.wiki/w/images/thumb/2/26/Amulet_Necklace_A_Silver_A_Unfaded_Icon.png/50px-Amulet_Necklace_A_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Silver Necklace](https://bg3.wiki/wiki/Silver_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/Amulet_Necklace_B_Silver_A_Unfaded_Icon.png/50px-Amulet_Necklace_B_Silver_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 25,
+    "effects": ""
+  },
+  {
+    "name": "[Silver Necklace](https://bg3.wiki/wiki/Silver_Necklace)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": ".05 kg\n\n0.1 lb",
+    "price": 25,
+    "effects": ""
+  },
+  {
+    "name": "[Tarnished Locket](https://bg3.wiki/wiki/Tarnished_Locket)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Keepsake_Locket_A_Unfaded_Icon.png/50px-Keepsake_Locket_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.11 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Tarnished Pendant](https://bg3.wiki/wiki/Tarnished_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2c/Amulet_Necklace_A_Bronze_A_Unfaded_Icon.png/50px-Amulet_Necklace_A_Bronze_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Tarnished Pendant](https://bg3.wiki/wiki/Tarnished_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Zina's Dog Collar](https://bg3.wiki/wiki/Zina%27s_Dog_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Dog_Collar_A_Unfaded_Icon.png/50px-Dog_Collar_A_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Aberration Hunters' Amulet](https://bg3.wiki/wiki/Aberration_Hunters%27_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Aberration_Hunters%27_Amulet_Unfaded_Icon.png/50px-Aberration_Hunters%27_Amulet_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Ancient Grudges](https://bg3.wiki/wiki/Ancient_Grudges) \nTouch your amulet to subsume a sliver of the knowledge of the gith. You gain  [Advantage](https://bg3.wiki/wiki/Advantage) on [Attack Rolls](https://bg3.wiki/wiki/Attack_Rolls) against [aberrations](https://bg3.wiki/wiki/List_of_Creature_Types#Aberration). ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Aberration Hunter](https://bg3.wiki/wiki/Aberration_Hunter)A [githyanki](https://bg3.wiki/wiki/Githyanki) wearing this amulet has  [Advantage](https://bg3.wiki/wiki/Advantage) on Intelligence  [Saving throws](https://bg3.wiki/wiki/Saving_throw). [Aberrations](https://bg3.wiki/wiki/Aberration) also have  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on [Attack rolls](https://bg3.wiki/wiki/Attack_roll) against them."
+  },
+  {
+    "name": "[Absolute Confidence Amulet](https://bg3.wiki/wiki/Absolute_Confidence_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b6/Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 45,
+    "effects": "[Performance](https://bg3.wiki/wiki/Performance) +1\n [Intimidation](https://bg3.wiki/wiki/Intimidation) -1"
+  },
+  {
+    "name": "[Absolute's Talisman](https://bg3.wiki/wiki/Absolute%27s_Talisman)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d6/Absolute%27s_Talisman_Unfaded_Icon.png/50px-Absolute%27s_Talisman_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Absolute's Talisman: Aid](https://bg3.wiki/wiki/Absolute%27s_Talisman:_Aid) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[The Absolute's Mercy](https://bg3.wiki/wiki/The_Absolute%27s_Mercy)If the wearer bears the Absolute's [Brand](https://bg3.wiki/wiki/Brand), they have  [Advantage](https://bg3.wiki/wiki/Advantage) on [Death Saving Throws](https://bg3.wiki/wiki/Death_Saving_Throw)."
+  },
+  {
+    "name": "[Amulet of Elemental Torment](https://bg3.wiki/wiki/Amulet_of_Elemental_Torment)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/Amulet_Necklace_B_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Nature's Vengeance](https://bg3.wiki/wiki/Nature%27s_Vengeance)When the wearer stands in certain surfaces and casts a spell that deals damage, the target also suffers the surface's effects."
+  },
+  {
+    "name": "[Amulet of Misty Step](https://bg3.wiki/wiki/Amulet_of_Misty_Step)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Misty Step](https://bg3.wiki/wiki/Misty_Step) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Amulet of Selûne's Chosen](https://bg3.wiki/wiki/Amulet_of_Sel%C3%BBne%27s_Chosen)",
+    "image": "https://bg3.wiki/w/images/thumb/3/34/Amulet_Necklace_E_Pearl_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_E_Pearl_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Selûne's Dream](https://bg3.wiki/wiki/Sel%C3%BBne%27s_Dream) \nCast as a cantrip ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Amulet of Silvanus](https://bg3.wiki/wiki/Amulet_of_Silvanus)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b6/Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Lesser Restoration](https://bg3.wiki/wiki/Lesser_Restoration) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Amulet of the Unworthy](https://bg3.wiki/wiki/Amulet_of_the_Unworthy)",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Keepsake_Locket_A_Glowing_Unfaded_Icon.png/50px-Keepsake_Locket_A_Glowing_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Resistance](https://bg3.wiki/wiki/Resistance) to [Slashing](https://bg3.wiki/wiki/Slashing) damage\n[Vulnerability](https://bg3.wiki/wiki/Vulnerability) to [Bludgeoning](https://bg3.wiki/wiki/Bludgeoning) damage"
+  },
+  {
+    "name": "[Beastmaster's Chain](https://bg3.wiki/wiki/Beastmaster%27s_Chain)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b6/Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Animal Friendship](https://bg3.wiki/wiki/Animal_Friendship) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Broodmother's Revenge](https://bg3.wiki/wiki/Broodmother%27s_Revenge)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Amulet_Necklace_F_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Venomous Revenge](https://bg3.wiki/wiki/Venomous_Revenge)Whenever the wearer is healed, their weapon becomes coated in magic and deals an additional 1d6Poison  damage."
+  },
+  {
+    "name": "[Fireheart](https://bg3.wiki/wiki/Fireheart)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Amulet_Necklace_F_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Fervent Flames](https://bg3.wiki/wiki/Fervent_Flames)Whenever you take [Fire](https://bg3.wiki/wiki/Fire) damage dealt by another creature, you gain 2 turns of  [Heat](https://bg3.wiki/wiki/Heat_(Condition))."
+  },
+  {
+    "name": "[Frost Prince](https://bg3.wiki/wiki/Frost_Prince)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Ice Knife](https://bg3.wiki/wiki/Ice_Knife) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Hammergrim Mist Amulet](https://bg3.wiki/wiki/Hammergrim_Mist_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2f/Amulet_Necklace_A_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Fog Cloud](https://bg3.wiki/wiki/Fog_Cloud) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Kill Collar](https://bg3.wiki/wiki/Kill_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4f/Dog_Collar_A_Unfaded_Icon.png/50px-Dog_Collar_A_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": ""
+  },
+  {
+    "name": "[Komira's Locket](https://bg3.wiki/wiki/Komira%27s_Locket)",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Keepsake_Locket_A_Glowing_Unfaded_Icon.png/50px-Keepsake_Locket_A_Glowing_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Dancing Lights](https://bg3.wiki/wiki/Dancing_Lights) \nCast as a cantrip ( Recharge: Per turn.)"
+  },
+  {
+    "name": "[Moondrop Pendant](https://bg3.wiki/wiki/Moondrop_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Moondrop_Pendant_Unfaded_Icon.png/50px-Moondrop_Pendant_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Writhing Dance](https://bg3.wiki/wiki/Writhing_Dance)When the wearer has 50% hit points or less, they don't provoke [Attacks of Opportunity](https://bg3.wiki/wiki/Attack_of_Opportunity)."
+  },
+  {
+    "name": "[Necklace of Elemental Augmentation](https://bg3.wiki/wiki/Necklace_of_Elemental_Augmentation)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Amulet_Necklace_F_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Gold_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Elemental Augmentation](https://bg3.wiki/wiki/Elemental_Augmentation)When one of your [cantrips](https://bg3.wiki/wiki/List_of_cantrips) deals [Acid](https://bg3.wiki/wiki/Acid), [Cold](https://bg3.wiki/wiki/Cold), [Fire](https://bg3.wiki/wiki/Fire), [Lightning](https://bg3.wiki/wiki/Lightning), or [Thunder](https://bg3.wiki/wiki/Thunder) damage, add your [Spellcasting Modifier](https://bg3.wiki/wiki/Spellcasting_Modifier) to the damage dealt."
+  },
+  {
+    "name": "[Pearl of Power Amulet](https://bg3.wiki/wiki/Pearl_of_Power_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6c/Pearl_of_Power_Amulet_Unfaded_Icon.png/50px-Pearl_of_Power_Amulet_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 45,
+    "effects": "[Pearlescent Restoration](https://bg3.wiki/wiki/Pearlescent_Restoration) \nYou can replenish expended [spell slots](https://bg3.wiki/wiki/Spell_Slot) of your choice up to third level. ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Psychic Spark](https://bg3.wiki/wiki/Psychic_Spark)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Magic Missile](https://bg3.wiki/wiki/Magic_Missile) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Psychic Missiles](https://bg3.wiki/wiki/Psychic_Missiles)Shoot an additional dart whenever you cast  [Magic Missile](https://bg3.wiki/wiki/Magic_Missile)."
+  },
+  {
+    "name": "[Shar's Temptation](https://bg3.wiki/wiki/Shar%27s_Temptation)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Amulet_Necklace_E_Pearl_C_Unfaded_Icon.png/50px-Amulet_Necklace_E_Pearl_C_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Charm Person](https://bg3.wiki/wiki/Charm_Person) \nCast as a level 1 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Silver Pendant](https://bg3.wiki/wiki/Silver_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f8/Silver_Pendant_Unfaded_Icon.png/50px-Silver_Pendant_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Guidance](https://bg3.wiki/wiki/Guidance) \nCast as a cantrip at will."
+  },
+  {
+    "name": "[Spineshudder Amulet](https://bg3.wiki/wiki/Spineshudder_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/2/28/Amulet_Necklace_C_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_C_Silver_A_1_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Crackling Resonance](https://bg3.wiki/wiki/Crackling_Resonance)When the wearer deals damage with a ranged [Spell Attack](https://bg3.wiki/wiki/Spell_Attack), inflict 2 turns of  [Reverberation](https://bg3.wiki/wiki/Reverberation_(Condition)) on the target(s)."
+  },
+  {
+    "name": "[Tarnished Charm](https://bg3.wiki/wiki/Tarnished_Charm)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Tarnished_Charm_Unfaded_Icon.png/50px-Tarnished_Charm_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Fey Life](https://bg3.wiki/wiki/Fey_Life)Makes it easier for the wearer to succeed on [death saving throws](https://bg3.wiki/wiki/Death_Saving_Throw)."
+  },
+  {
+    "name": "[The Blast Pendant](https://bg3.wiki/wiki/The_Blast_Pendant)",
+    "image": "https://bg3.wiki/w/images/thumb/4/48/The_Blast_Pendant_Unfaded_Icon.png/50px-The_Blast_Pendant_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Lightning Blast](https://bg3.wiki/wiki/Lightning_Blast) \nFocus the electricity in your veins to strengthen your next spell or [cantrip](https://bg3.wiki/wiki/Cantrip). ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[The Ever-Seeing Eye](https://bg3.wiki/wiki/The_Ever-Seeing_Eye)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/The_Ever-Seeing_Eye_Unfaded_Icon.png/50px-The_Ever-Seeing_Eye_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 3,
+    "effects": "[Protection from Evil and Good](https://bg3.wiki/wiki/Protection_from_Evil_and_Good) \nCast as a level 1 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Amulet of Branding](https://bg3.wiki/wiki/Amulet_of_Branding)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5e/Amulet_Necklace_D_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_D_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Brand the Weak](https://bg3.wiki/wiki/Brand_the_Weak) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Amulet of Restoration](https://bg3.wiki/wiki/Amulet_of_Restoration)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/Amulet_Necklace_F_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 160,
+    "effects": "[Healing Word](https://bg3.wiki/wiki/Healing_Word) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n\n [Mass Healing Word](https://bg3.wiki/wiki/Mass_Healing_Word) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Amulet of the Drunkard](https://bg3.wiki/wiki/Amulet_of_the_Drunkard)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Amulet_Necklace_A_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 190,
+    "effects": "[Booze Remedy](https://bg3.wiki/wiki/Booze_Remedy)While wearing this amulet, regain 2d4hit points per turn while  [Drunk](https://bg3.wiki/wiki/Alcohol_(Condition)). Additionally, increase the duration of your inebriation by 5 rounds."
+  },
+  {
+    "name": "[Amulet of the Harpers](https://bg3.wiki/wiki/Amulet_of_the_Harpers)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b9/Amulet_Necklace_F_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Advantage](https://bg3.wiki/wiki/Advantage) with [Wisdom](https://bg3.wiki/wiki/Wisdom)  [Saving throws](https://bg3.wiki/wiki/Saving_throw).\n\n [Shield](https://bg3.wiki/wiki/Shield_(spell)) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Champion's Chain](https://bg3.wiki/wiki/Champion%27s_Chain)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Champions_Chain_Unfaded_Icon.png/50px-Champions_Chain_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Tyrant Tongue](https://bg3.wiki/wiki/Tyrant_Tongue) \nGrant an ally a +2 bonus on   [Intimidation](https://bg3.wiki/wiki/Intimidation) [checks](https://bg3.wiki/wiki/Ability_check). ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Chancer's Carcanet](https://bg3.wiki/wiki/Chancer%27s_Carcanet)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ae/Amulet_Necklace_B_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 190,
+    "effects": "[Innate Fortitude](https://bg3.wiki/wiki/Innate_Fortitude)Once per [Long Rest](https://bg3.wiki/wiki/Long_Rest), you can use a  [Reaction](https://bg3.wiki/wiki/Actions#Reactions) to make an [Attack roll](https://bg3.wiki/wiki/Attack_roll) or  [Saving throw](https://bg3.wiki/wiki/Saving_throw) with  [Advantage](https://bg3.wiki/wiki/Advantage)."
+  },
+  {
+    "name": "[Envoy's Amulet](https://bg3.wiki/wiki/Envoy%27s_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c9/Envoys_Amulet_Unfaded_Icon.png/50px-Envoys_Amulet_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Voice of the Circle](https://bg3.wiki/wiki/Voice_of_the_Circle) \nGrant an ally a +2 bonus on   [Persuasion](https://bg3.wiki/wiki/Persuasion) [checks](https://bg3.wiki/wiki/Ability_check). ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Periapt of Wound Closure](https://bg3.wiki/wiki/Periapt_of_Wound_Closure)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Periapt_of_Wound_Closure_Unfaded_Icon.png/50px-Periapt_of_Wound_Closure_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Wound Closure](https://bg3.wiki/wiki/Wound_Closure)When  [Downed](https://bg3.wiki/wiki/Downed_(Condition)), automatically stabilise at the start of the turn.[Potent Healing](https://bg3.wiki/wiki/Potent_Healing)Whenever you are healed, you restore the maximum number of possible [hit points](https://bg3.wiki/wiki/Hit_points)."
+  },
+  {
+    "name": "[Sentient Amulet (Rare)](https://bg3.wiki/wiki/Sentient_Amulet_(Rare))",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Sentient_Amulet_Unfaded_Icon.png/50px-Sentient_Amulet_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Shatter](https://bg3.wiki/wiki/Shatter) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n\n [Talk to the Sentient Amulet](https://bg3.wiki/wiki/Talk_to_the_Sentient_Amulet) \nSpeak with the consciousness lingering inside the Sentient Amulet. \n\n\n [Ki Restoration](https://bg3.wiki/wiki/Ki_Restoration_(Lesser)) \nUsing the spiritual energy in the amulet, you restore  2 [Ki Points](https://bg3.wiki/wiki/Monk#Level_1). ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\nWearing this amulet applies the condition:\n\n [High Spirits](https://bg3.wiki/wiki/High_Spirits_(Condition))\nThe amulet's spirit lingers, making everything seem a little more vibrant. Must succeed a  [Wisdom](https://bg3.wiki/wiki/Wisdom)  [Saving throw](https://bg3.wiki/wiki/Saving_throw) ([DC](https://bg3.wiki/wiki/Difficulty_Class) 10/15, see notes) when using the amulet's power, or become  [Hysterical](https://bg3.wiki/wiki/Hysterical_(Condition)) (equivalent in effect to  [Tasha's Hideous Laughter](https://bg3.wiki/wiki/Tasha%27s_Hideous_Laughter) with a duration of 1 turn)."
+  },
+  {
+    "name": "[Spell Savant Amulet](https://bg3.wiki/wiki/Spell_Savant_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Amulet_Necklace_B_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Gold_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Spell Amplification](https://bg3.wiki/wiki/Spell_Amplification)You gain an additional  [Level 2 Spell Slot](https://bg3.wiki/wiki/Spells#Spell_slots)."
+  },
+  {
+    "name": "[Strange Tendril Amulet](https://bg3.wiki/wiki/Strange_Tendril_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Amulet_Necklace_B_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Gold_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 190,
+    "effects": "[Evard's Black Tentacles](https://bg3.wiki/wiki/Evard%27s_Black_Tentacles) \nCast as a level 4 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Surgeon's Subjugation Amulet](https://bg3.wiki/wiki/Surgeon%27s_Subjugation_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/5/51/Amulet_Necklace_A_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Paralysing Critical](https://bg3.wiki/wiki/Paralysing_Critical) \nOnce per [Long Rest](https://bg3.wiki/wiki/Long_Rest), when scoring a [Critical Hit](https://bg3.wiki/wiki/Critical_Hit) on a [humanoid](https://bg3.wiki/wiki/List_of_Creature_Types#Humanoid), the wearer can  [Paralyse](https://bg3.wiki/wiki/Paralysed_(Condition)) the target for 2 turns. ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[The Amulet of Lost Voices](https://bg3.wiki/wiki/The_Amulet_of_Lost_Voices)",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/Amulet_of_Lost_Voices_Unfaded_Icon.png/50px-Amulet_of_Lost_Voices_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[Speak with Dead](https://bg3.wiki/wiki/Speak_with_Dead) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Uncovered Mysteries](https://bg3.wiki/wiki/Uncovered_Mysteries)",
+    "image": "https://bg3.wiki/w/images/thumb/3/33/Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_B_Silver_A_1_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 125,
+    "effects": "[Detect Thoughts](https://bg3.wiki/wiki/Detect_Thoughts) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Amulet of Greater Health](https://bg3.wiki/wiki/Amulet_of_Greater_Health)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d3/Amulet_of_Greater_Health_Unfaded_Icon.png/50px-Amulet_of_Greater_Health_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 210,
+    "effects": "Set the wearer's  [Constitution](https://bg3.wiki/wiki/Constitution) score to 23. The enchantment has no effect if their Constitution score is higher without it.\n [Advantage](https://bg3.wiki/wiki/Advantage) on [Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Amulet of the Devout](https://bg3.wiki/wiki/Amulet_of_the_Devout)",
+    "image": "https://bg3.wiki/w/images/thumb/4/45/Amulet_of_the_devout_Unfaded_Icon.png/50px-Amulet_of_the_devout_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 65,
+    "effects": "[High Spellcasting](https://bg3.wiki/wiki/High_Spellcasting_(%2B2))You gain a +2 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC).[Godswill](https://bg3.wiki/wiki/Godswill)You gain an additional use of  [Channel Divinity Charge](https://bg3.wiki/wiki/Channel_Divinity_Charge). Once used, it is restored upon taking a [Long Rest](https://bg3.wiki/wiki/Long_Rest)[[See: Bugs](https://bg3.wiki/wiki/Godswill#Bugs)]."
+  },
+  {
+    "name": "[Amulet of Windrider](https://bg3.wiki/wiki/Amulet_of_Windrider)",
+    "image": "https://bg3.wiki/w/images/thumb/1/13/Amulet_Necklace_D_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_D_Gold_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 210,
+    "effects": "[Ride the Winds](https://bg3.wiki/wiki/Ride_the_Winds) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n\n [Gust of Wind](https://bg3.wiki/wiki/Gust_of_Wind) \nCast as a level 2 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)"
+  },
+  {
+    "name": "[Corvid Token](https://bg3.wiki/wiki/Corvid_Token)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Amulet_Necklace_F_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_F_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 230,
+    "effects": "[Polymorph: Dire Raven](https://bg3.wiki/wiki/Polymorph:_Dire_Raven) \nTake the shape of a dire raven that can avoid attention and  [Blind](https://bg3.wiki/wiki/Blinded_(Condition)) enemies. It has  13 [hit points](https://bg3.wiki/wiki/Hit_points). ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Boon of the Raven Queen](https://bg3.wiki/wiki/Boon_of_the_Raven_Queen)While wearing the amulet, the wearer's jump and flying speed increase by  1.5 m / 5 ft, and they gain the  [Feather Fall](https://bg3.wiki/wiki/Feather_Fall_(Condition)) condition. Feather Fall's effect will persist while the wearer is  [Polymorphed](https://bg3.wiki/wiki/Polymorphed_(Condition)) or [Wild-Shaped](https://bg3.wiki/wiki/Wild_Shape)."
+  },
+  {
+    "name": "[Fey Semblance Amulet](https://bg3.wiki/wiki/Fey_Semblance_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/f/ff/Amulet_Necklace_C_Gold_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_C_Gold_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 210,
+    "effects": "[Semblance of Fey](https://bg3.wiki/wiki/Semblance_of_Fey)You have  [Advantage](https://bg3.wiki/wiki/Advantage) on [Intelligence](https://bg3.wiki/wiki/Intelligence), [Wisdom](https://bg3.wiki/wiki/Wisdom), and [Charisma](https://bg3.wiki/wiki/Charisma)  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Khalid's Gift](https://bg3.wiki/wiki/Khalid%27s_Gift)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 140,
+    "effects": "[Wisdom](https://bg3.wiki/wiki/Wisdom) +1 (up to 21)\n\n [Khalid's Gift: Aid](https://bg3.wiki/wiki/Khalid%27s_Gift:_Aid) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Odd Gift](https://bg3.wiki/wiki/Odd_Gift)While wearing Khalid's Gift, [Jaheira](https://bg3.wiki/wiki/Jaheira) cannot be [Cursed](https://bg3.wiki/wiki/Cursed_(status_group))."
+  },
+  {
+    "name": "[Sentient Amulet (Very Rare)](https://bg3.wiki/wiki/Sentient_Amulet_(Very_Rare))",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Sentient_Amulet_Unfaded_Icon.png/50px-Sentient_Amulet_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 210,
+    "effects": "[Shatter](https://bg3.wiki/wiki/Shatter) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n\n [Ki Restoration](https://bg3.wiki/wiki/Ki_Restoration_(Greater)) \nUsing the spiritual energy in the amulet, you restore a number of  [Ki Points](https://bg3.wiki/wiki/Monk#Level_1) equal to your martial arts die. [[See Notes](https://bg3.wiki/wiki/Ki_Restoration_(Greater)#Notes)] ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Spellcrux Amulet](https://bg3.wiki/wiki/Spellcrux_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b6/Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_D_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 210,
+    "effects": "[Spell Slot Restoration](https://bg3.wiki/wiki/Spell_Slot_Restoration)\nReplenish an expended [spell slot](https://bg3.wiki/wiki/Spells#Spell_Slots) of any level as a  [Bonus Action](https://bg3.wiki/wiki/Actions#Resources) once per [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[The Spectator Eyes](https://bg3.wiki/wiki/The_Spectator_Eyes)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 360,
+    "effects": "[Ray of Fear](https://bg3.wiki/wiki/Ray_of_Fear) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n\n [Wounding Ray](https://bg3.wiki/wiki/Wounding_Ray) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Tressym Collar](https://bg3.wiki/wiki/Tressym_Collar)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png/50px-Amulet_Necklace_A_Bronze_A_1_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 360,
+    "effects": "[Telekinesis](https://bg3.wiki/wiki/Telekinesis) \nCast as a level 5 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Unflinching Protector Amulet](https://bg3.wiki/wiki/Unflinching_Protector_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Keepsake_Locket_A_Unfaded_Icon.png/50px-Keepsake_Locket_A_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 210,
+    "effects": "[Unflinching Protection](https://bg3.wiki/wiki/Unflinching_Protection)When a nearby ally is targeted by an attack of any kind, you can use your  [Reaction](https://bg3.wiki/wiki/Actions#Reactions) to make that attack automatically miss. This effect can only be used once per [Short Rest](https://bg3.wiki/wiki/Resting#Short_rest)."
+  },
+  {
+    "name": "[Amulet of Bhaal](https://bg3.wiki/wiki/Amulet_of_Bhaal)",
+    "image": "https://bg3.wiki/w/images/thumb/8/87/Amulet_of_Bhaal_Unfaded_Icon.png/50px-Amulet_of_Bhaal_Unfaded_Icon.png",
+    "rare": "story item",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 120,
+    "effects": "[First Blood](https://bg3.wiki/wiki/First_Blood)On a hit, inflict  [Bleeding](https://bg3.wiki/wiki/Bleeding_(Condition)) upon targets that have maximum [Hit Points](https://bg3.wiki/wiki/Hit_Points)."
+  },
+  {
+    "name": "[Bloody Amulet](https://bg3.wiki/wiki/Bloody_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Bloody_Amulet_Unfaded_Icon.png/50px-Bloody_Amulet_Unfaded_Icon.png",
+    "rare": "story item",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 20,
+    "effects": ""
+  },
+  {
+    "name": "[Brass Locket](https://bg3.wiki/wiki/Brass_Locket)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Keepsake_Locket_A_Unfaded_Icon.png/50px-Keepsake_Locket_A_Unfaded_Icon.png",
+    "rare": "story item",
+    "weight": "0.05 kg\n\n0.1 lb",
+    "price": 40,
+    "effects": ""
+  },
+  {
+    "name": "[Mayrina's Locket](https://bg3.wiki/wiki/Mayrina%27s_Locket)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/Mayrinas_Locket_Unfaded_Icon.png/50px-Mayrinas_Locket_Unfaded_Icon.png",
+    "rare": "story item",
+    "weight": "0.02 kg\n\n0.04 lb",
+    "price": 1,
+    "effects": ""
+  }
+]

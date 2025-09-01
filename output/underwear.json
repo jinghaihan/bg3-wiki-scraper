@@ -1,0 +1,236 @@
+{
+  "Dragonborn": [
+    {
+      "name": "Underwear (Dragonborn)",
+      "image": "https://bg3.wiki/w/images/thumb/1/15/Underwear_Dragonborn_A_Icon.png/300px-Underwear_Dragonborn_A_Icon.png",
+      "racial": "dragonborn",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Dragonborn_A",
+      "uuid": "8494f6d9-d588-4d18-bb0d-c5a58e911771"
+    },
+    {
+      "name": "Underwear (Dragonborn Bronze)",
+      "image": "https://bg3.wiki/w/images/thumb/1/15/Underwear_Dragonborn_A_Icon.png/300px-Underwear_Dragonborn_A_Icon.png",
+      "racial": "dragonborn",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Dragonborn_A_Bronze",
+      "uuid": "6afe0665-ef74-44bb-916a-fb00a267b4b9"
+    }
+  ],
+  "Drow": [
+    {
+      "name": "Underwear (Drow)",
+      "image": "https://bg3.wiki/w/images/thumb/2/2b/Underwear_Elves_A_Purple_Icon.png/300px-Underwear_Elves_A_Purple_Icon.png",
+      "racial": "drow",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Elves_A_Purple",
+      "uuid": "6d076cab-f23a-4a80-89b6-107be7f345bd"
+    }
+  ],
+  "Dwarf": [
+    {
+      "name": "Underwear (Dwarf)",
+      "image": "https://bg3.wiki/w/images/thumb/6/66/Underwear_Dwarves_A_Icon.png/300px-Underwear_Dwarves_A_Icon.png",
+      "racial": "dwarf",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Dwarves_A",
+      "uuid": "9fecf84d-911f-4986-9454-0429ac437f45"
+    },
+    {
+      "name": "Underwear (Dwarf Green)",
+      "image": "https://bg3.wiki/w/images/thumb/8/8c/Underwear_Dwarf_B_Icon.png/300px-Underwear_Dwarf_B_Icon.png",
+      "racial": "dwarf",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Dwarves_A_Green",
+      "uuid": "d19364cf-18f9-4841-919b-1e3f0ba2c58c"
+    }
+  ],
+  "Elf": [
+    {
+      "name": "Underwear (Elf)",
+      "image": "https://bg3.wiki/w/images/thumb/2/24/Underwear_Elves_A_Icon.png/300px-Underwear_Elves_A_Icon.png",
+      "racial": "elf",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Elves_A",
+      "uuid": "0ec7d956-e65f-4bfa-b677-22f399f81a32"
+    },
+    {
+      "name": "Properties",
+      "image": "https://bg3.wiki/w/images/thumb/5/5c/Underwear_Elves_B_Icon.png/300px-Underwear_Elves_B_Icon.png",
+      "racial": "elf",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Elves_A_Blue",
+      "uuid": "f328179e-f5e1-4fd4-bd41-efad411223e8"
+    }
+  ],
+  "Githyanki": [
+    {
+      "name": "Underwear (Githyanki)",
+      "image": "https://bg3.wiki/w/images/thumb/3/31/Underwear_Githyanki_A_Icon.png/300px-Underwear_Githyanki_A_Icon.png",
+      "racial": "githyanki",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Githyanki_A",
+      "uuid": "1cb3fb1b-2dfc-446a-9c9b-666eb0de05d6"
+    },
+    {
+      "name": "Underwear (Githyanki Black)",
+      "image": "https://bg3.wiki/w/images/thumb/9/99/Underwear_Githyanki_B_Icon.png/300px-Underwear_Githyanki_B_Icon.png",
+      "racial": "githyanki",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Githyanki_A_Black",
+      "uuid": "1dc7ff19-a089-4289-8a4f-77c4be1c229d"
+    }
+  ],
+  "Gnome": [
+    {
+      "name": "Underwear (Gnome)",
+      "image": "https://bg3.wiki/w/images/thumb/1/18/Underwear_Gnomes_A_Icon.png/300px-Underwear_Gnomes_A_Icon.png",
+      "racial": "gnome",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Gnomes_A",
+      "uuid": "d692d48f-9a39-4001-8a38-c01e397953dc"
+    },
+    {
+      "name": "Underwear (Gnome Blue)",
+      "image": "https://bg3.wiki/w/images/thumb/2/2d/Underwear_Gnome_B_Icon.png/300px-Underwear_Gnome_B_Icon.png",
+      "racial": "gnome",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Gnomes_A_Blue",
+      "uuid": "50a2cef0-8e1b-4166-ac15-06f8bde59e29"
+    }
+  ],
+  "Half-Elf": [
+    {
+      "name": "Underwear (Half-Elf)",
+      "image": "https://bg3.wiki/w/images/thumb/a/a0/Underwear_Half-Elf_Icon.png/300px-Underwear_Half-Elf_Icon.png",
+      "racial": "half-elf",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Elves_A_Blue",
+      "uuid": "f328179e-f5e1-4fd4-bd41-efad411223e8"
+    }
+  ],
+  "Half-Orc": [
+    {
+      "name": "Underwear (Half-Orc)",
+      "image": "https://bg3.wiki/w/images/thumb/e/eb/Underwear_HalfOrcs_A_Icon.png/300px-Underwear_HalfOrcs_A_Icon.png",
+      "racial": "half-orc",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_HalfOrcs_A",
+      "uuid": "3caad2f1-719f-4070-b7f0-887c49c773d3"
+    },
+    {
+      "name": "Underwear (Half-Orc Orange)",
+      "image": "https://bg3.wiki/w/images/thumb/8/85/Underwear_Half-Orc_B_Icon.png/300px-Underwear_Half-Orc_B_Icon.png",
+      "racial": "half-orc",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_HalfOrcs_A_Orange",
+      "uuid": "7d989a9c-ab69-43e0-8fca-02b13d254ae2"
+    }
+  ],
+  "Halfling": [
+    {
+      "name": "Underwear (Halfling)",
+      "image": "https://bg3.wiki/w/images/thumb/1/10/Underwear_Halflings_A_Icon.png/300px-Underwear_Halflings_A_Icon.png",
+      "racial": "halfling",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Halflings_A",
+      "uuid": "78063154-288f-41aa-a99f-e56cbf601129"
+    }
+  ],
+  "Human": [
+    {
+      "name": "Underwear (Human A)",
+      "image": "https://bg3.wiki/w/images/thumb/e/e0/Underwear_Humans_A_Icon.png/300px-Underwear_Humans_A_Icon.png",
+      "racial": "human",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Humans_A",
+      "uuid": "d40b567d-6b66-447e-8923-2bbd0d7aea00"
+    },
+    {
+      "name": "Underwear (Human B)",
+      "image": "https://bg3.wiki/w/images/thumb/7/75/Underwear_Humans_B_Icon.png/300px-Underwear_Humans_B_Icon.png",
+      "racial": "human",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Humans_B",
+      "uuid": "7efbf614-e004-4e64-b39e-c7928e703b8b"
+    },
+    {
+      "name": "Underwear (Human C)",
+      "image": "https://bg3.wiki/w/images/thumb/3/39/Underwear_Humans_C_Icon.png/300px-Underwear_Humans_C_Icon.png",
+      "racial": "human",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Humans_C",
+      "uuid": "e1797af7-5459-4db2-99da-5703fa203edb"
+    }
+  ],
+  "Incubus": [
+    {
+      "name": "Underwear (Incubus A)",
+      "image": "https://bg3.wiki/w/images/thumb/b/b0/Underwear_Incubus_A_Icon.png/300px-Underwear_Incubus_A_Icon.png",
+      "racial": "incubus",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Incubus",
+      "uuid": "5fa043bf-0445-49ad-9e82-0df77c639fe2"
+    },
+    {
+      "name": "Underwear (Incubus B)",
+      "image": "https://bg3.wiki/w/images/thumb/6/6c/Underwear_Incubus_B_Icon.png/300px-Underwear_Incubus_B_Icon.png",
+      "racial": "incubus",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Incubus_B",
+      "uuid": "82c84433-0464-442a-8e5a-0891d829f99a"
+    }
+  ],
+  "Tiefling": [
+    {
+      "name": "Underwear (Tiefling)",
+      "image": "https://bg3.wiki/w/images/thumb/9/96/Underwear_Tieflings_A_Icon.png/300px-Underwear_Tieflings_A_Icon.png",
+      "racial": "tiefling",
+      "rare": "common",
+      "weight": "0.1 kg / 0.2 lb",
+      "price": 6,
+      "uid": "Underwear_Tieflings_A",
+      "uuid": "498c155f-8675-4a55-9cb0-89dd7270469f"
+    }
+  ]
+}

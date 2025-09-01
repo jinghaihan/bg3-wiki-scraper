@@ -1,0 +1,1186 @@
+[
+  {
+    "title": "Prologue",
+    "quests": [
+      {
+        "image": "https://bg3.wiki/w/images/thumb/e/ee/Prologue.webp/250px-Prologue.webp.png",
+        "title": "Escape the Nautiloid",
+        "description": "We've been abducted by mind flayers and infected with some kind of parasite. We need to find a way off this ship."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/4/45/Shart_trapped.webp/250px-Shart_trapped.webp.png",
+        "title": "Rescue the Illithids' Captive",
+        "description": "We encountered a survivor, trapped inside one of the pods aboard the nautiloid. Perhaps we can find a way to free her."
+      }
+    ]
+  },
+  {
+    "title": "Multi-act main quests",
+    "quests": [
+      {
+        "image": "https://bg3.wiki/w/images/thumb/0/02/Chapter_1.webp/250px-Chapter_1.webp.png",
+        "title": "Find a Cure",
+        "chapter": [
+          1,
+          2
+        ],
+        "description": "Main quest. Subquests:",
+        "subQuests": [
+          {
+            "title": "Ask the Goblin Priestess for Help",
+            "link": "https://bg3.wiki/wiki/Ask_the_Goblin_Priestess_for_Help"
+          },
+          {
+            "title": "Find the Githyanki Crèche",
+            "link": "https://bg3.wiki/wiki/Find_the_Githyanki_Cr%C3%A8che"
+          },
+          {
+            "title": "Get Help from Auntie Ethel",
+            "link": "https://bg3.wiki/wiki/Get_Help_from_Auntie_Ethel"
+          },
+          {
+            "title": "Get Help from Healer Nettie",
+            "link": "https://bg3.wiki/wiki/Get_Help_from_Healer_Nettie"
+          },
+          {
+            "title": "Help Omeluum Investigate the Parasite",
+            "link": "https://bg3.wiki/wiki/Help_Omeluum_Investigate_the_Parasite"
+          },
+          {
+            "title": "Rescue the Druid Halsin",
+            "link": "https://bg3.wiki/wiki/Rescue_the_Druid_Halsin"
+          }
+        ]
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/6/69/Umbral_Gem_Statue_Quest.jpg/250px-Umbral_Gem_Statue_Quest.jpg",
+        "title": "Find the Nightsong",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "A wizard will pay anyone to track down an ancient relic, the Nightsong and bring it to him. The Nightsong is in some kind of temple."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/8/8a/High_Hall_Allies_Quest.jpg/250px-High_Hall_Allies_Quest.jpg",
+        "title": "Gather Your Allies",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "Recruit allies in the fight against the cult."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/7/78/Chapter_2.webp/250px-Chapter_2.webp.png",
+        "title": "Travel to Moonrise Towers",
+        "chapter": [
+          1,
+          2
+        ],
+        "description": "Main quest. It is divided into two subquests, reflective of the two paths to the Shadow-Cursed Lands:",
+        "subQuests": [
+          {
+            "title": "Travel through the Mountain Pass",
+            "link": "https://bg3.wiki/wiki/Travel_through_the_Mountain_Pass"
+          },
+          {
+            "title": "Travel through the Underdark",
+            "link": "https://bg3.wiki/wiki/Travel_through_the_Underdark"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Companions",
+    "quests": [],
+    "children": [
+      {
+        "title": "Main Quests",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/cf/Shadowheart_Mysterious_Wound_Quest.jpg/250px-Shadowheart_Mysterious_Wound_Quest.jpg",
+            "title": "Daughter of Darkness",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "We recruited a half-elf named Shadowheart. She was also infected aboard the nautiloid and was playing with a strange object when we met her.",
+            "subQuests": [
+              {
+                "title": "A Familiar Face",
+                "link": "https://bg3.wiki/wiki/A_Familiar_Face"
+              },
+              {
+                "title": "The Chosen of Shar",
+                "link": "https://bg3.wiki/wiki/The_Chosen_of_Shar"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/b9/Karlach_Infernal_Engine_Recruitment.jpg/250px-Karlach_Infernal_Engine_Recruitment.jpg",
+            "title": "Our Fiery Friend",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "We met a fiery tiefling called Karlach. She said servants of the archdevil Zariel were nearby, disguised as paladins of Tyr.",
+            "subQuests": [
+              {
+                "title": "The Hellion's Heart",
+                "link": "https://bg3.wiki/wiki/The_Hellion%27s_Heart"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/4b/Wyll_Karlach_Head_Quest.jpg/250px-Wyll_Karlach_Head_Quest.jpg",
+            "title": "The Blade of Frontiers",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "We recruited Wyll, a monster hunter known as the Blade of Frontiers. He is on a mission to kill Karlach, a powerful devil who is a danger to the entire Sword Coast.",
+            "subQuests": [
+              {
+                "title": "The Grand Duke",
+                "link": "https://bg3.wiki/wiki/The_Grand_Duke"
+              },
+              {
+                "title": "Wyrmway",
+                "link": "https://bg3.wiki/wiki/Wyrmway"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f8/Free_Laezel_Quest.jpg/250px-Free_Laezel_Quest.jpg",
+            "title": "The Githyanki Warrior",
+            "chapter": [
+              1,
+              2
+            ],
+            "description": "Lae'zel promised we could be cleansed of our parasites at a Githyanki Crèche. We should be on the lookout for signs of githyanki presence during our travels."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/3/35/High_Harper_Jaheira_Quest.jpg/250px-High_Harper_Jaheira_Quest.jpg",
+            "title": "The High Harper",
+            "chapter": [
+              3
+            ],
+            "description": "Jaheira asked us to go to Danthelon's Dancing Axe in Wyrm's Crossing, where her Harper contacts are waiting to report."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/29/Astarion_Back_Scars_Quest.jpg/250px-Astarion_Back_Scars_Quest.jpg",
+            "title": "The Pale Elf",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "We met a strange elf who had also been infected with a parasite. He was hostile at first, but agreed to join us when he learned we were infected too."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/8/88/Gale_Recruitment_Hand.jpg/250px-Gale_Recruitment_Hand.jpg",
+            "title": "The Wizard of Waterdeep",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "A wizard named Gale joined the party. He claims to have been on the nautiloid - which means he's infected too.",
+            "subQuests": [
+              {
+                "title": "Balthazar's Experiment",
+                "link": "https://bg3.wiki/wiki/Balthazar%27s_Experiment"
+              },
+              {
+                "title": "In Case of Death...",
+                "link": "https://bg3.wiki/wiki/In_Case_of_Death..."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sub Quests",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/6/6a/Nocturne_Quest.jpg/250px-Nocturne_Quest.jpg",
+            "title": "A Familiar Face",
+            "chapter": [
+              3
+            ],
+            "description": "We have entered the Lower City - Shadowheart's old stomping grounds. Perhaps the friend she remembered due to the Noblestalk can still be found with the rest of the Sharrans."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/c0/Ritual-Circle.jpg/250px-Ritual-Circle.jpg",
+            "title": "Balthazar's Experiment",
+            "chapter": [
+              2
+            ],
+            "description": "We found a strange ritual circle hidden in a secret workshop within Balthazar's chambers. Gale was able to understand the strange sigils used to cast it, and says it was used to create the Moonlanterns that protect their wielders from the shadow curse."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/d9/In_Case_of_Death.png/250px-In_Case_of_Death.png",
+            "title": "In Case of Death...",
+            "description": "Gale died, activating a magical projection of himself which insisted that he be resurrected with the utmost urgency."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/c8/Shadowheart_Aylin_Quest.jpg/250px-Shadowheart_Aylin_Quest.jpg",
+            "title": "The Chosen of Shar",
+            "chapter": [
+              2
+            ],
+            "description": "Shadowheart has shown interest in finding the lair of the Dark Justiciar - an elite force dedicated to the goddess Shar."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/a5/Gortash_Coronation_Quest.jpg/250px-Gortash_Coronation_Quest.jpg",
+            "title": "The Grand Duke",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "A group of Flaming Fist mercenaries believe Grand Duke Ravengard of Baldur's Gate is trapped inside, and are trying to break inside."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/7/7a/Hellion_Heart_Quest.jpg/250px-Hellion_Heart_Quest.jpg",
+            "title": "The Hellion's Heart",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "Karlach needs an infernal mechanic to tune up the engine she has for a heart. There might be one nearby."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/6/6a/Wyrmway.jpg/250px-Wyrmway.jpg",
+            "title": "Wyrmway",
+            "chapter": [
+              3
+            ],
+            "description": "After reading 'The Legend of Ansur', We discovered the great wyrm Ansur resides in a secret lair called the Wyrmway. The entrance is apparently located somewhere within Wyrm's Rock Prison, and the notes inside it hint that opening the way involves lightning sparks and torches."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Personal quests",
+    "quests": [
+      {
+        "image": "https://bg3.wiki/w/images/thumb/b/bc/Raphael_Deal_with_the_Devil.jpg/250px-Raphael_Deal_with_the_Devil.jpg",
+        "title": "Deal with the Devil",
+        "chapter": [
+          3
+        ],
+        "description": "We spoke with Mamzell Amira on the ground floor of Sharess' Caress, and she mentioned that the devil Raphael has taken a room on the top floor. What's he doing here? We should pay Raphael a visit and find out.",
+        "subQuests": [
+          {
+            "title": "Escape the Deal",
+            "link": "https://bg3.wiki/wiki/Escape_the_Deal"
+          },
+          {
+            "title": "Fulfill the Deal",
+            "link": "https://bg3.wiki/wiki/Fulfill_the_Deal"
+          }
+        ]
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/c/c6/Astral_Prism_Secrets_Quest.jpg/250px-Astral_Prism_Secrets_Quest.jpg",
+        "title": "Discover the Artefact's Secrets",
+        "chapter": [
+          1,
+          2
+        ],
+        "description": "Shadowheart carries a strange artefact. It seemed to protect us from a horrible voice. She stubbornly avoids the subject. We should find out more about it."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/d/d4/Orpheus_Slate_Quest.jpg/250px-Orpheus_Slate_Quest.jpg",
+        "title": "Discover the History of Prince Orpheus",
+        "chapter": [
+          1,
+          2
+        ],
+        "description": "There may be a way to decipher these books. We should keep an eye out for something that might aid us."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/e/ef/Embrace_Your_Potential_Tadpole_Quest.jpg/250px-Embrace_Your_Potential_Tadpole_Quest.jpg",
+        "title": "Embrace Your Potential",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "We were visited in our dreams by a mysterious figure, who told us that our illithid parasites are special and the source of great potential."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/3/38/Soul-Sworn_Contract_Quest.jpg/250px-Soul-Sworn_Contract_Quest.jpg",
+        "title": "Escape the Deal",
+        "chapter": [
+          3
+        ],
+        "description": "We signed Raphael's deal but are having second thoughts about giving the ultra-powerful Crown of Karsus to a devil. Raphael is smart, but perhaps he can be outsmarted."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/a/a1/Free_Orpheus_Quest.jpg/250px-Free_Orpheus_Quest.jpg",
+        "title": "Free Orpheus",
+        "chapter": [
+          3
+        ],
+        "description": "We found out that the Astral Prism is a prison for the githyanki prince Orpheus. The mind flayer has been using Orpheus' powers to suppress the influence of the Absolute. We should find out if there's a way to free Orpheus from his chains."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/1/12/Raphael_Astral_Prism.jpg/250px-Raphael_Astral_Prism.jpg",
+        "title": "Fulfill the Deal",
+        "chapter": [
+          3
+        ],
+        "description": "According to the terms of our deal with Raphael, we must give him the Crown of Karsus after we've defeated the Absolute threat. But first we must get hold of the relic."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/4/49/Help_Kithrak_Voss_Quest.jpg/250px-Help_Kithrak_Voss_Quest.jpg",
+        "title": "Help Kith'rak Voss",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "Kith'rak Voss visited our camp and asked us to help him free someone held prisoner within the Astral Prism. We agreed to bring the Prism to Baldur's Gate and meet him there."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/8/8e/Dream_Visitor_Identity_Revealed_Quest.jpg/250px-Dream_Visitor_Identity_Revealed_Quest.jpg",
+        "title": "Help Your Protector",
+        "chapter": [
+          3
+        ],
+        "description": "During the night, we were awoken by the voice of the Absolute. A githyanki contingent ambushed us. We heard the voice of the Dream Visitor, desperately seeking our help."
+      }
+    ]
+  },
+  {
+    "title": "Origin personal quests",
+    "quests": [
+      {
+        "image": "https://bg3.wiki/w/images/thumb/2/29/Astarion_Back_Scars_Quest.jpg/250px-Astarion_Back_Scars_Quest.jpg",
+        "title": "Call of the Blood",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "I'm... alive? But it won't be long before my old master realises I'm missing, so I had better find out what in the hells is going on and quickly."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/1/17/Dammon_Karlach_Inspection.jpg/250px-Dammon_Karlach_Inspection.jpg",
+        "title": "Forging a Heart",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "Dammon, an infernal mechanic, told me to find some infernal iron. He might be able to repair my heart."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/b/b9/Dark_Urge_Headshot.webp/250px-Dark_Urge_Headshot.webp.png",
+        "title": "Open Your Scars",
+        "chapter": [
+          2,
+          3
+        ],
+        "description": "The Dark Urge finally learns the truth about themselves."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/7/7a/Hellion_Heart_Quest.jpg/250px-Hellion_Heart_Quest.jpg",
+        "title": "Servant of None",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "This is it. I've been trapped in the Hells for a decade - and this nautiloid is my ticket out.",
+        "subQuests": [
+          {
+            "title": "Forging a Heart",
+            "link": "https://bg3.wiki/wiki/Forging_a_Heart"
+          }
+        ]
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/a/a1/Free_Orpheus_Quest.jpg/250px-Free_Orpheus_Quest.jpg",
+        "title": "The Prince of the Comet (Quest)",
+        "chapter": [
+          2,
+          3
+        ],
+        "description": "Gith's son, the Prince of the Comet, is the rightful heir to the Githyanki Empire."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/c/c2/TheDarkUrge.jpg/250px-TheDarkUrge.jpg",
+        "title": "The Urge",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "These vile things you do... Don't you wonder why you're doing them? You want to know, don't you?",
+        "subQuests": [
+          {
+            "title": "Open Your Scars",
+            "link": "https://bg3.wiki/wiki/Open_Your_Scars"
+          }
+        ]
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/8/88/Gale_Recruitment_Hand.jpg/250px-Gale_Recruitment_Hand.jpg",
+        "title": "The Wizard of Waterdeep (Origin)",
+        "chapter": [
+          1,
+          2,
+          3
+        ],
+        "description": "I was an archmage - powerful, proud, full of potential - until my failed attempt to impress my lover, the goddess Mystra..."
+      },
+      {
+        "image": "https://bg3.wiki/w/images/thumb/4/43/Vlaakith_Creche_Visitor_Quest.jpg/250px-Vlaakith_Creche_Visitor_Quest.jpg",
+        "title": "Vlaakith's Will",
+        "chapter": [
+          2,
+          3
+        ],
+        "description": "Orpheus will die by my hand, and I will be named Baht t'Vlaakith."
+      }
+    ]
+  },
+  {
+    "title": "Act One",
+    "quests": [],
+    "children": [
+      {
+        "title": "Ravaged Beach",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/e/eb/Explore_the_Ruins_Skull_Button_Quest.jpg/250px-Explore_the_Ruins_Skull_Button_Quest.jpg",
+            "title": "Explore the Ruins",
+            "description": "We met some bandits near some ruins. They've been trying to break into a crypt - with no success. Whatever they're after is probably still inside."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f8/Free_Laezel_Quest.jpg/250px-Free_Laezel_Quest.jpg",
+            "title": "Free Lae'zel",
+            "description": "We found Lae'zel, the githyanki from the nautiloid, trapped in a hanging cage. Two tieflings are deciding what to do with her."
+          }
+        ]
+      },
+      {
+        "title": "Emerald Grove",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/05/Dror_Ragzlin_Quest.webp/250px-Dror_Ragzlin_Quest.webp.png",
+            "title": "Defeat the Goblins",
+            "description": "If the tieflings are to make their way to Baldur's Gate, we will need to deal with the goblins. Zevlor thinks someone must be organising them. We should investigate their camp."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/9b/Find_Doni_Quest.jpg/250px-Find_Doni_Quest.jpg",
+            "title": "Find Doni",
+            "description": "As the tieflings prepare for the siege, Rikka asked us to find Doni and bring him to safety."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/03/Mattis_Find_Your_Belongings_Quest.jpg/250px-Mattis_Find_Your_Belongings_Quest.jpg",
+            "title": "Find Your Belongings",
+            "description": "We've been robbed - by children no less. They distracted us by posing as merchants. We should have a word with them."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/ac/Healer_Nettie_Quest.jpg/250px-Healer_Nettie_Quest.jpg",
+            "title": "Get Help from Healer Nettie",
+            "description": "Aradin told us that the druid Halsin has an apprentice. If we can find her, she might be able to help us with the parasite."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/4c/Investigate_Kagha_Quest.jpg/250px-Investigate_Kagha_Quest.jpg",
+            "title": "Investigate Kagha",
+            "description": "The Rite of Thorns is dangerous magic. Why is Kagha so determined to do this? We should investigate."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/a7/Investigate_the_Beach_Quest.jpg/250px-Investigate_the_Beach_Quest.jpg",
+            "title": "Investigate the Beach",
+            "description": "We heard strange music on the beach. Where is it coming from?"
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/28/Kill_Kagha_Quest.jpg/250px-Kill_Kagha_Quest.jpg",
+            "title": "Kill Kagha",
+            "description": "The tieflings and druids are at an impasse. Killing Kagha might tip the balance."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/d9/Raid_the_Grove_Quest.jpg/250px-Raid_the_Grove_Quest.jpg",
+            "title": "Raid the Emerald Grove",
+            "description": "Minthara is preparing to attack the grove and told us to wait for next light. We should get some rest."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/1/1d/Return_the_Locket_Quest.jpg/250px-Return_the_Locket_Quest.jpg",
+            "title": "Return the Locket",
+            "description": "We met an adventurer called Barth who accused a tiefling child of stealing his locket. We suspected the child but couldn't get the locket back."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/fc/Arabella_Quest.webp/250px-Arabella_Quest.webp.png",
+            "title": "Save Arabella",
+            "description": "We learned that a child named Arabella is being held by the druids on charges of theft. We should check on her."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f9/Save_the_First_Druid_Quest.jpg/250px-Save_the_First_Druid_Quest.jpg",
+            "title": "Save the First Druid",
+            "description": "First Druid Halsin might be the only one capable of stopping Kagha from finishing the ritual. He was last seen on an expedition into goblin territory."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/b8/Sazza_Goblin_Cage_Quest.jpg/250px-Sazza_Goblin_Cage_Quest.jpg",
+            "title": "Save the Goblin Sazza",
+            "description": "The goblin Sazza is a prisoner in the grove. She's promise us an introduction to her tribe and their powerful healer - if we break her out."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/3/3c/Idol_of_Silvanus_Location.jpg/250px-Idol_of_Silvanus_Location.jpg",
+            "title": "Save the Refugees",
+            "description": "Kagha, the leader of the druids, ordered the tiefling to leave the grove. Zevlor fears they won't survive on the road and asked us to intervene."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/a4/Mol_Steal_the_Idol_Quest.jpg/250px-Mol_Steal_the_Idol_Quest.jpg",
+            "title": "Steal the Sacred Idol",
+            "description": "Mol asked us to steal some kind of idol from the druids."
+          }
+        ]
+      },
+      {
+        "title": "Blighted Village",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/fc/Search_the_Cellar_Book_Quest.jpg/250px-Search_the_Cellar_Book_Quest.jpg",
+            "title": "Destroy the Ancient Tome",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "Evil is inscribed on every page of this book. But all evil has a weakness - there must be a way to destroy it."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/6/68/Dread_Hollow.jpg/250px-Dread_Hollow.jpg",
+            "title": "Finish the Masterwork Weapon",
+            "description": "We found blueprints for masterwork weapons. All we need to forge one is some bark from a Sussur Tree."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/3/30/Barcus_on_Windmill_Quest.jpg/250px-Barcus_on_Windmill_Quest.jpg",
+            "title": "Rescue the Gnome",
+            "description": "We spotted a deep gnome tied to the blades of a windmill. He's being tormented by a group of goblins."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/1/13/Apothecary_House_Quest.jpg/250px-Apothecary_House_Quest.jpg",
+            "title": "Search the Cellar",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "We found a journal that mentioned a cellar - along with some powerful items. This sounds promising and, more importantly, valuable.",
+            "subQuests": [
+              {
+                "title": "Unlock the Ancient Tome",
+                "link": "https://bg3.wiki/wiki/Unlock_the_Ancient_Tome"
+              },
+              {
+                "title": "Destroy the Ancient Tome",
+                "link": "https://bg3.wiki/wiki/Destroy_the_Ancient_Tome"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/48/Thay_Book_Unlocked_Quest.jpg/250px-Thay_Book_Unlocked_Quest.jpg",
+            "title": "Unlock the Ancient Tome",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "This book is locked tight, and the mechanism isn't shaped for a key. Maybe some kind of stone would work?"
+          }
+        ]
+      },
+      {
+        "title": "Sunlit Wetlands",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/2d/Ethel_Help_Quest.jpg/250px-Ethel_Help_Quest.jpg",
+            "title": "Get Help from Auntie Ethel",
+            "description": "We met an eccentric old lady in the Emerald Grove. She's confident she can remove our parasites and invited us to her teahouse."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/7/7f/Save_Mayrina_Quest.jpg/250px-Save_Mayrina_Quest.jpg",
+            "title": "Save Mayrina",
+            "description": "Two brothers said that their sister Mayrina is being held against her will at Ethel's house - something the old woman denied."
+          }
+        ]
+      },
+      {
+        "title": "The Risen Road",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/ca/Find_the_Missing_Shipment_Rugan_Quest.jpg/250px-Find_the_Missing_Shipment_Rugan_Quest.jpg",
+            "title": "Find the Missing Shipment",
+            "description": "Zarys, leader of the local Zhentarim, said her agents went missing while transporting a shipment. She'll pay a hefty sum if we return it unopened."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/d6/Free_the_Artist_Quest.jpg/250px-Free_the_Artist_Quest.jpg",
+            "title": "Free the Artist",
+            "chapter": [
+              1,
+              3
+            ],
+            "description": "We met Oskar, an artist captured by the Zhentarim. He begged us to help him escape, promising that his patron will reward us handsomely."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/08/Hunt_the_Devil_Quest.jpg/250px-Hunt_the_Devil_Quest.jpg",
+            "title": "Hunt the Devil",
+            "description": "We met a group of paladins of Tyr who are hunting a devil. Anders asked for our help - we agreed to search for the devil."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/5/5a/Flaming_Fist_Waukeen_Quest.jpg/250px-Flaming_Fist_Waukeen_Quest.jpg",
+            "title": "Rescue the Grand Duke",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "We approached a burning inn called Waukeen's Rest. Flaming Fists are trying to break down the door - a Grand Duke of Baldur's Gate is trapped inside."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/e/e1/Benryn_Waukeen_Quest.jpg/250px-Benryn_Waukeen_Quest.jpg",
+            "title": "Rescue the Trapped Man",
+            "description": "We found a man trapped under a beam in Waukeen's Rest."
+          }
+        ]
+      },
+      {
+        "title": "Goblin Camp and Shattered Sanctum",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/9a/Ask_the_Goblin_Priestess_for_Help_Quest.jpg/250px-Ask_the_Goblin_Priestess_for_Help_Quest.jpg",
+            "title": "Ask the Goblin Priestess for Help",
+            "description": "We learned that a goblin tribe is led by a priestess with powerful magic. Dealing with goblins is risky, but this might be one way to cure ourselves."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f9/Save_the_First_Druid_Quest.jpg/250px-Save_the_First_Druid_Quest.jpg",
+            "title": "Rescue the Druid Halsin",
+            "description": "Halsin was actively researching the parasite - he might be one of the few people who understand our condition."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/97/Rescue_Volo_Quest.jpg/250px-Rescue_Volo_Quest.jpg",
+            "title": "Rescue Volo",
+            "description": "We found Volo performing for the goblins under significant duress. He was led into the camp's interior by a guard - he clearly needs help."
+          }
+        ]
+      },
+      {
+        "title": "Underdark",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f2/Gluts_Circle_Quest.jpg/250px-Gluts_Circle_Quest.jpg",
+            "title": "Avenge Glut's Circle",
+            "description": "A myconid named Glut heard the Sovereign ask us to kill the duergar. It wants to join us."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/b1/Defeat_the_Duergar_Quest.jpg/250px-Defeat_the_Duergar_Quest.jpg",
+            "title": "Defeat the Duergar Intruders",
+            "description": "We agreed to help the Sovereign remove the duergar who threatened the myconid colony."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/5/57/Deliver_Neres_Head_Quest.jpg/250px-Deliver_Neres_Head_Quest.jpg",
+            "title": "Deliver Nere's Head",
+            "description": "Sovereign Spaw wants the head of the drow Nere."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/3/3a/Thulla_Poisoned_Quest.jpg/250px-Thulla_Poisoned_Quest.jpg",
+            "title": "Cure the Poisoned Gnome",
+            "description": "We met Thulla, a deep gnome who was poisoned. The Underdark might hold a cure, but we have to be quick, she won't survive for long."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/09/Coal_Missing_Boots_Quest.jpg/250px-Coal_Missing_Boots_Quest.jpg",
+            "title": "Find the Missing Boots",
+            "description": "We offered to help a duergar to track down a runaway slave. The slave escaped with a pair of boots belonging to the duergar's sergeant."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/20/Baelen_Bibberbang_Quest.jpg/250px-Baelen_Bibberbang_Quest.jpg",
+            "title": "Find the Mushroom Picker",
+            "description": "Derryth told us about her husband Baelen. He's lost somewhere in the Underdark."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/8/85/Omeluum_Quest.jpg/250px-Omeluum_Quest.jpg",
+            "title": "Help Omeluum Investigate the Parasite",
+            "description": "We mentioned the parasite to Blurg, a hobgoblin. His colleague, a mind flayer named Omeluum, offered to examine it. Perhaps it can cure us?"
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/3/30/Enter_the_Underdark_Quest.jpg/250px-Enter_the_Underdark_Quest.jpg",
+            "title": "Travel through the Underdark",
+            "description": "We learned that the best way to get to Moonrise Towers is through the Underdark. Tunnels beneath the temple of Selûne will lead us there."
+          }
+        ]
+      },
+      {
+        "title": "Grymforge",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/de/Blind_the_Absolute_Quest.jpg/250px-Blind_the_Absolute_Quest.jpg",
+            "title": "Blind the Absolute",
+            "description": "We agreed to help Brithvar and his group double-cross Nere. First, we need to take out the scrying eye - discreetly."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/9b/Philomeen_Runepowder_Explosives_Quest.jpg/250px-Philomeen_Runepowder_Explosives_Quest.jpg",
+            "title": "Find Explosives",
+            "description": "Brithvar mentioned that a deep gnome fled with some smokepowder. Her crew should know more."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/3/3a/Nere_Freed_Quest.jpg/250px-Nere_Freed_Quest.jpg",
+            "title": "Free True Soul Nere",
+            "description": "Sergeant Thrinn said the True-Soul leading them is trapped behind the cave-in. She wants us to clear it."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/7/71/Clear_Rubble_Rothe_Quest.jpg/250px-Clear_Rubble_Rothe_Quest.jpg",
+            "title": "Get Past the Rubble",
+            "description": "We found a passage buried in rubble that leads to the Adamantine Forge. We should clear it."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/91/Help_the_Cursed_Monk_Quest.jpg/250px-Help_the_Cursed_Monk_Quest.jpg",
+            "title": "Help the Spirit of the Amulet",
+            "chapter": [
+              1,
+              3
+            ],
+            "description": "We read the journal of a Dark Justiciar. He mentioned an amulet of great power that also made the wearer laugh. It was cast into the lava."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/05/Save_the_Grymforge_Gnomes_Quest.jpg/250px-Save_the_Grymforge_Gnomes_Quest.jpg",
+            "title": "Save the Grymforge Gnomes",
+            "description": "Thulla, a gnome of the Ironhand clan, asked us to help her kin. Duergar are holding them captive."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/de/Grym_Adamantine_Forge_Quest.jpg/250px-Grym_Adamantine_Forge_Quest.jpg",
+            "title": "The Adamantine Forge (Quest)",
+            "description": "We learned than an adamantine forge is hidden deep within the Underdark."
+          }
+        ]
+      },
+      {
+        "title": "Rosymorn Monastery Trail",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f7/Blood_of_Lathander_Quest.jpg/250px-Blood_of_Lathander_Quest.jpg",
+            "title": "Find the Blood of Lathander",
+            "description": "We learned that a powerful holy relic, the Blood of Lathander, could be somewhere nearby. We should keep an eye out for it as we explore the monastery."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/4a/Laezel_Zaithisk_Quest.jpg/250px-Laezel_Zaithisk_Quest.jpg",
+            "title": "Find the Githyanki Crèche",
+            "description": "Lae'zel told us that the githyanki should be able to cure us, if we can find one of their crèches."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/8/8c/Rosymorn_Monastery_Trail_Blue_Jay.jpg/250px-Rosymorn_Monastery_Trail_Blue_Jay.jpg",
+            "title": "Reclaim the Blue Jay's Nest",
+            "description": "We met a blue jay who asked us to kill the eagles on the monastery roof. He claimed they stole his nest."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/ca/Githyanki_Egg_Quest.jpg/250px-Githyanki_Egg_Quest.jpg",
+            "title": "Steal a Githyanki Egg",
+            "description": "Lady Esther has asked that we steal an egg from the githyanki. The Society of Brilliance want to incubate it, raise it, and soothe its so-called violent nature."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/6/65/Shadow_Cursed_Lands_Overland_Quest.jpg/250px-Shadow_Cursed_Lands_Overland_Quest.jpg",
+            "title": "Travel through the Mountain Pass",
+            "description": "We decided to take the mountain pass. This road should lead us to Moonrise Towers."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Act Two",
+    "quests": [],
+    "children": [
+      {
+        "title": "Shadow-Cursed Lands",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/e/ee/Lyrthindor_Transformed_Quest.jpg/250px-Lyrthindor_Transformed_Quest.jpg",
+            "title": "Break Yurgir's Contract",
+            "description": "The orthon is bound by Raphael's contract and seeks a way to free himself from it."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/ae/Find_Arabellas_Parents_Quest.jpg/250px-Find_Arabellas_Parents_Quest.jpg",
+            "title": "Find Arabella's Parents",
+            "description": "We met Arabella, a tiefling child from the grove, in the shadow-cursed lands. She was looking for her parents. We offered to search for them, and invited her to our camp."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/db/Save_Rolan_Quest.jpg/250px-Save_Rolan_Quest.jpg",
+            "title": "Find Rolan in the Shadows",
+            "description": "Rolan has disappeared into the darkness. He left a message for his siblings to wait for him at Last Light. He's out in the shadow curse alone. We should look for him."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/95/Selunite_Resistance_Quest.jpg/250px-Selunite_Resistance_Quest.jpg",
+            "title": "Investigate the Selûnite Resistance",
+            "description": "We found the old notes of a Sharran inquisitor. She had been investigating rumours of clandestine Selûne-worship in the region, and had been following a lead to an abandoned potter's workshop. Perhaps we should look for it."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/25/Yurgir_Enemy_Quest.jpg/250px-Yurgir_Enemy_Quest.jpg",
+            "title": "Kill Raphael's Old Enemy",
+            "description": "Raphael told us of a nemesis of his who lurks in the depths beneath the mausoleum. Evidently we should try to deal with this old enemy."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/0d/Oliver_Confronted_Quest.jpg/250px-Oliver_Confronted_Quest.jpg",
+            "title": "Lift the Shadow Curse",
+            "description": "According to Halsin, if we want to lift the shadow curse, we must find Thaniel - the spirit of the land."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/4a/He_Who_Was_Quest.webp/250px-He_Who_Was_Quest.webp.png",
+            "title": "Punish the Wicked",
+            "description": "He Who Was wants to bring justice to the victims of a murderer - to do so, he needs a ledger belonging to the killer. It is hidden in The Waning Moon."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/7/7c/Wake_Art_Cullagh_Quest.jpg/250px-Wake_Art_Cullagh_Quest.jpg",
+            "title": "Wake Art Cullagh",
+            "description": "We met Art Cullagh, a mysterious man lying unconscious in Last Light Inn. He's being cared for by a Flaming Fist. He may have knowledge about the shadow curse. We should see if we can wake him somehow."
+          }
+        ]
+      },
+      {
+        "title": "Moonrise Towers",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/6/6d/Marcus_Successful_Quest.jpg/250px-Marcus_Successful_Quest.jpg",
+            "title": "Capture Isobel the Selûnite Cleric",
+            "description": "Z'rell, Ketheric's enforcer, told us to kidnap Isobel from Last Light and bring her to Moonrise Towers. If we do this, Last Light will no longer be protected from the shadow curse."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/bb/Minthy_Quest.webp/250px-Minthy_Quest.webp.png",
+            "title": "Decide Minthara's Fate",
+            "description": "Nightwarden Minthara has been condemned to death. We ought to visit her while we can."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/1/1b/Defeat_Ketty_Thorm_Quest.jpg/250px-Defeat_Ketty_Thorm_Quest.jpg",
+            "title": "Defeat Ketheric Thorm",
+            "description": "We battled Ketheric Thorm. Before we could finish him, he fled somewhere below the tower. We need to follow him."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/8/8b/Balthazar_Relic_Quest.jpg/250px-Balthazar_Relic_Quest.jpg",
+            "title": "Find Ketheric Thorm's Relic",
+            "description": "Minthara told us that the necromancer Balthazar might know more about Ketheric's invulnerability. She suspects the answers we seek lie in Balthazar's chambers on the upper floor."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/da/Mol_Kidnapped_Quest.jpg/250px-Mol_Kidnapped_Quest.jpg",
+            "title": "Find Mol",
+            "description": "We found out that Mol, the leader of the young tiefling pickpockets, has vanished. We should help them find her."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/8/8f/Zevlor_Pod_Quest.jpg/250px-Zevlor_Pod_Quest.jpg",
+            "title": "Find Zevlor",
+            "description": "Zevlor was captured by the cult of the Absolute. His fellow tieflings claim he froze and tried to surrender. We should look for him."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/05/Follow_the_Convoy_Quest.jpg/250px-Follow_the_Convoy_Quest.jpg",
+            "title": "Follow the Convoy",
+            "description": "We met a group of cultists preparing to travel to Moonrise Towers. They are waiting for a guide who must be summoned using an instrument the drow Minthara possessed."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/0/01/Infiltrate_Moonrise_Towers_Quest.jpg/250px-Infiltrate_Moonrise_Towers_Quest.jpg",
+            "title": "Infiltrate Moonrise Towers",
+            "description": "The dream visitor told us to go to Moonrise Towers and infiltrate the cult of the Absolute. The cult's secrets may teach us how to free ourselves of these parasites."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/b5/Tiefling_Prisoners_Quest.jpg/250px-Tiefling_Prisoners_Quest.jpg",
+            "title": "Rescue the Tieflings",
+            "description": "We learned from Alfira that some of the tieflings were taken to Moonrise Towers. She's asked us to save them."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/5/5f/Rescue_Wulbren_Quest.jpg/250px-Rescue_Wulbren_Quest.jpg",
+            "title": "Rescue Wulbren",
+            "description": "We freed the deep gnomes in Grymforge, but more of their kin were taken to Moonrise Towers - including their leader Wulbren. We need to find and rescue them."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/5/50/Isobel_Moonlight_Prayer_Quest.jpg/250px-Isobel_Moonlight_Prayer_Quest.jpg",
+            "title": "Resolve the Abduction",
+            "description": "Marcus, a True Soul who has infiltrated Last Light, told us that his powerful master demands that the cleric Isobel be taken to Moonrise Towers alive. If we do this, Last Light will no longer be protected from the shadow curse."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/6/67/Shadow_Curse_Quest.jpg/250px-Shadow_Curse_Quest.jpg",
+            "title": "Seek Protection from the Shadow Curse",
+            "description": "A deadly curse plagues this land. One wrong step could kill us.\nThe shadow curse is even stronger in certain areas. We need to find a way to fend it off."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Act Three",
+    "quests": [],
+    "children": [
+      {
+        "title": "Rivington",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/3/37/Falcao_Quest.jpg/250px-Falcao_Quest.jpg",
+            "title": "Deal with the Gnomes",
+            "description": "We agreed to help Manip Falcäo track down and kill the gnomes attacking their checkpoint. He promised to reward us if we bring him the head of their leader. We should find the gnomes' hideout."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/23/Newborn_Mind_Flayer_Sleeping.jpg/250px-Newborn_Mind_Flayer_Sleeping.jpg",
+            "title": "Feed the Mind Flayer",
+            "description": "A ravenous mind flayer asked us to bring it a humanoid to feast on."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/d4/Blaze_Elin_Entry.jpg/250px-Blaze_Elin_Entry.jpg",
+            "title": "Find a Way into Wyrm's Rock Fortress",
+            "description": "Wyrm's Rock is closed due to the ordination of Gortash - who is about to become Archduke of Baldur's Gate. There must be someone, or something, in Wyrm's Crossing that could help us gain entry."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/21/Dribbles_Imposter.jpg/250px-Dribbles_Imposter.jpg",
+            "title": "Find Dribbles the Clown",
+            "description": "Dribbles the Clown, star of the circus, is missing. Ringmaster Lucretious asked us to find him. He's likely dead, but that doesn't seem to bother her."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/a3/Commander_Lightfeathers_Quest.jpg/250px-Commander_Lightfeathers_Quest.jpg",
+            "title": "Find the Missing Letters",
+            "description": "Carrier pigeons have gone missing. Postmaster Danzo asked us to retrieve the letters they carried. He said that if we find the letters, we shouldn't read them."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/b1/Mamzell_Amira_Quest.jpg/250px-Mamzell_Amira_Quest.jpg",
+            "title": "Find the 'Stern Librarian' Ffion",
+            "description": "We spoke to Mamzell Amira, the proprietor of Sharess' Caress. She asked us to find Ffion, a worker of hers who has gone missing. She told us to start in Ffion's pleasure room called 'Elminster's Library', two flights up."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/e/e7/Florrick_Prison_Quest.jpg/250px-Florrick_Prison_Quest.jpg",
+            "title": "Free Counsellor Florrick",
+            "description": "We learned of Counsellor Florrick's impending execution, but not her exact location. If we want her help, we should find where she's being kept."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f8/Devilish_Ox_Chapter_3.jpg/250px-Devilish_Ox_Chapter_3.jpg",
+            "title": "Help the Devilish Ox",
+            "description": "We met an odd creature. It has the shape of an ox, but is clearly something else. We agreed to help it reach the city. It transformed into an apple so we could carry it."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/fc/Arfur_Confrontation.jpg/250px-Arfur_Confrontation.jpg",
+            "title": "Investigate the Suspicious Toys",
+            "description": "We found a blackmail letter in a toymaker's cellar - something dangerous has been placed inside toys donated to the refugees. We should find them, and quickly."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/7/77/Yannis_Valeria.jpg/250px-Yannis_Valeria.jpg",
+            "title": "Solve the Open Hand Temple Murders",
+            "description": "We've been asked to look into the deaths of Father Lorgan and Brilgor at the Open Hand Temple. Sister Yannis, the temple's rector, believes Brilgor's been blamed for the crime too hastily by Investigator Valeria."
+          }
+        ]
+      },
+      {
+        "title": "Baldur's Gate",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/db/Nine_Fingers_Keen_Underduke_Quest.jpg/250px-Nine_Fingers_Keen_Underduke_Quest.jpg",
+            "title": "Aid the Underduke",
+            "description": "Nine-Fingers, leader of the city's criminal Guild, is having her territory threatened by a new player on the scene: the Stone Lord. We should head to the Guildhall to find out more."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/20/Allandra_Grey_Quest.jpg/250px-Allandra_Grey_Quest.jpg",
+            "title": "Avenge the Drowned",
+            "description": "Flood Tide Allandra Grey bid us avenge Holli, a fallen Waveservant of Umberlee. She was killed by a noxious, polluting beast around Grey Harbour - we must find it and slay its master."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/ac/Ethel_Grizzly.jpg/250px-Ethel_Grizzly.jpg",
+            "title": "Avenge the Hag Survivors",
+            "description": "We disposed of a hag spy named Jatlo. Cold comfort for the hag's victims, who believe her to be in the city, and who want her gone."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/9e/Wulbren_Avenge_Quest.jpg/250px-Wulbren_Avenge_Quest.jpg",
+            "title": "Avenge the Ironhands",
+            "description": "The Ironhand Gnomes are planning something big in Baldur's Gate. We should look for them once we arrive in the city."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/2/2d/Thrumbo_Quest.jpg/250px-Thrumbo_Quest.jpg",
+            "title": "End Mystic Carrion's Immortality",
+            "description": "We agreed to help Thrumbo permanently defeat Mystic Carrion. He told us to look for a chamber beneath Carrion's mansion."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/a7/Mystic_Carrion_Servant_Quest.jpg/250px-Mystic_Carrion_Servant_Quest.jpg",
+            "title": "Find Mystic Carrion's Servant",
+            "description": "We met Mystic Carrion, who promised to reward us if we bring back the body of one of his zombie servants, Thrumbo.",
+            "subQuests": [
+              {
+                "title": "End Mystic Carrion's Immortality",
+                "link": "https://bg3.wiki/wiki/End_Mystic_Carrion%27s_Immortality"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/b3/Hag_Survivors.jpg/250px-Hag_Survivors.jpg",
+            "title": "Help the Hag Survivors",
+            "description": "We found a poster that mentions a meeting for people who have survived hags. It's being held at Barren's Coop."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/8/82/Vampire_Spawn_in_Flophouse.jpg/250px-Vampire_Spawn_in_Flophouse.jpg",
+            "title": "Investigate Cazador's Palace",
+            "description": "Ulma told us that a vampire called Cazador has been killing their people and kidnapping their children. She asked us to save the children and slay the vampire."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/cb/Mirie_House_of_Grief.jpg/250px-Mirie_House_of_Grief.jpg",
+            "title": "Investigate the House of Grief",
+            "description": "We found a very disoriented merchant called Arves loitering outside a building. We should find out what happened to him.",
+            "subQuests": [
+              {
+                "title": "Surrender Shadowheart to Viconia",
+                "link": "https://bg3.wiki/wiki/Surrender_Shadowheart_to_Viconia"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/a/a5/Gortash_Coronation_Quest.jpg/250px-Gortash_Coronation_Quest.jpg",
+            "title": "Rescue the Grand Duke",
+            "chapter": [
+              1,
+              2,
+              3
+            ],
+            "description": "We finally found Grand Duke Ravengard - standing by Gortash's side as he crowned Gortash the new Archduke. He disappeared after the ceremony."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/5/5e/Blurg_Act_3.webp/250px-Blurg_Act_3.webp.png",
+            "title": "Retrieve Omeluum",
+            "description": "We spoke to a hobgoblin called Blurg in the Society of Brilliance Lodge. His illithid companion Omeluum is missing - we agreed to look for it."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/f/f8/Rakath_Glitterbeard_Quest.jpg/250px-Rakath_Glitterbeard_Quest.jpg",
+            "title": "Return Rakath's Gold",
+            "description": "We witnessed a heist in the Counting House. Head Banker Rakath asked us to recover the stolen gold - we need to look for clues."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/43/Roveer_Quest.jpg/250px-Roveer_Quest.jpg",
+            "title": "Roveer's Storehouse",
+            "description": "Chef Roveer wants us to kill the rats in his cellar. It's not clear why he can't just do this himself..."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/c3/Prinskis_Motivation.jpg/250px-Prinskis_Motivation.jpg",
+            "title": "Save the Gondians",
+            "description": "We agreed to free the gondians' families, kept hostage by Gortash, in exchange for the Steel Watch's destruction. The hostages' location is kept secret, but Zanner thinks there may be clues in the Foundry's lower levels."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/1/12/Lora_Quest.jpg/250px-Lora_Quest.jpg",
+            "title": "Save Vanra",
+            "description": "Mayrina told us that a hag has kidnapped a child. The mother, Lora, can be found at Basilisk Gate. We should speak to her."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/dd/Ettvard_Quest.jpg/250px-Ettvard_Quest.jpg",
+            "title": "Stop the Presses",
+            "description": "We met a journalist, Estra Stir, who told us we're set to star in the next edition of the Baldur's Mouth Gazette. We should find out why."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/4b/Viconia_Deal.jpg/250px-Viconia_Deal.jpg",
+            "title": "Surrender Shadowheart to Viconia",
+            "description": "Viconia asked that we surrender Shadowheart to her in exchange for her help defeating the Absolute."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/6/69/Emperor_Storeroom_Button.jpg/250px-Emperor_Storeroom_Button.jpg",
+            "title": "Visit the Emperor's Old Hideout",
+            "description": "The Emperor asked us to check its old hideout in the Elfsong Tavern - some of its old items may be of use to us."
+          }
+        ]
+      },
+      {
+        "title": "House of Hope",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/e/e3/Helsik_Gauntlets_Quest.jpg/250px-Helsik_Gauntlets_Quest.jpg",
+            "title": "Acquire the Gauntlets for Helsik",
+            "description": "Helsik the diabolist said she will help us reach the House of Hope if we steal a powerful artefact for her while we're there: Gauntlets of Hill Giant Strength."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/c/ce/Hope_Quest.jpg/250px-Hope_Quest.jpg",
+            "title": "Save Hope",
+            "description": "We met a strange spirit imprisoned in Raphael's home - named Hope, oddly enough. She mentioned an important hammer before disappearing abruptly."
+          }
+        ]
+      },
+      {
+        "title": "Finale",
+        "quests": [
+          {
+            "image": "https://bg3.wiki/w/images/thumb/5/53/Confront_the_Elder_Brain_Quest.jpg/250px-Confront_the_Elder_Brain_Quest.jpg",
+            "title": "Confront the Elder Brain",
+            "description": "We can thwart the Chosen of the Dead Three by taking control of the elder brain - but will we use that control to liberate or to conquer? Whatever the answer, it lies in Baldur's Gate."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/bd/Gortash_Bargain_Quest.jpg/250px-Gortash_Bargain_Quest.jpg",
+            "title": "Consider Gortash's Bargain",
+            "description": "Gortash proposed a pact of allegiance with us. If we kill Orin and take her Netherstone, he will let us rule the city alongside him with the elder brain at our command."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/5/57/Control_the_Elder_Brain_Quest.jpg/250px-Control_the_Elder_Brain_Quest.jpg",
+            "title": "Control the Elder Brain",
+            "description": "Whoever has control over the Netherbrain will hold unspeakable power. We could dominate it and have a thousand kingdoms at our command."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/e/e2/Destroy_the_Elder_Brain_Quest.jpg/250px-Destroy_the_Elder_Brain_Quest.jpg",
+            "title": "Destroy the Elder Brain",
+            "description": "The Netherbrain is too powerful to let live. Destroying it may be the smartest thing to do."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/7/7a/Disable_the_Steel_Watch_Quest.jpg/250px-Disable_the_Steel_Watch_Quest.jpg",
+            "title": "Disable the Steel Watch",
+            "description": "Gortash is protected by the Steel Watchers. We need to figure out how to disable the Steel Watch."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/9/93/Gortash_Wyrms_Rock_Quest.jpg/250px-Gortash_Wyrms_Rock_Quest.jpg",
+            "title": "Get Gortash's Netherstone",
+            "description": "We discovered that Gortash is in Wyrm's Rock Fortress, where he will be sworn in as Archduke of Baldur's Gate. We need to make our way there.",
+            "subQuests": [
+              {
+                "title": "Consider Gortash's Bargain",
+                "link": "https://bg3.wiki/wiki/Consider_Gortash%27s_Bargain"
+              },
+              {
+                "title": "Disable the Steel Watch",
+                "link": "https://bg3.wiki/wiki/Disable_the_Steel_Watch"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/4/4a/Orin_Bhaal_Temple_Quest.jpg/250px-Orin_Bhaal_Temple_Quest.jpg",
+            "title": "Get Orin's Netherstone",
+            "description": "Orin, the Lash of Bhaal, is hiding somewhere in Baldur's Gate with a Netherstone. We must find her and take it.",
+            "subQuests": [
+              {
+                "title": "Rescue Orin's Victim",
+                "link": "https://bg3.wiki/wiki/Rescue_Orin%27s_Victim"
+              },
+              {
+                "title": "Investigate the Murders",
+                "link": "https://bg3.wiki/wiki/Investigate_the_Murders"
+              },
+              {
+                "title": "Impress the Murder Tribunal",
+                "link": "https://bg3.wiki/wiki/Impress_the_Murder_Tribunal"
+              }
+            ]
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/d/dd/Sarevok_Murder_Tribunal.jpg/250px-Sarevok_Murder_Tribunal.jpg",
+            "title": "Impress the Murder Tribunal",
+            "description": "An unnerving stranger gave us a list of people and asked us to kill from it. If we do so, and bring a severed hand as proof, we can stand before the Murder Tribunal and enter the Temple of Bhaal."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/b/b6/Devella_Quest.jpg/250px-Devella_Quest.jpg",
+            "title": "Investigate the Murders",
+            "description": "Duke Stelmane was ritualistically killed at the Elfsong Tavern shortly before our arrival into the city. We should investigate - it may help us find the Lord of Murder's Chosen."
+          },
+          {
+            "image": "https://bg3.wiki/w/images/thumb/7/7d/Orin_Victim_Halsin_Quest.jpg/250px-Orin_Victim_Halsin_Quest.jpg",
+            "title": "Rescue Orin's Victim",
+            "description": "Orin abducted one of our friends. She told us that she'll release them if we kill Gortash."
+          }
+        ]
+      }
+    ]
+  }
+]

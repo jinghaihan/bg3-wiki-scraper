@@ -1,0 +1,477 @@
+[
+  {
+    "name": "[Iron Flask](https://bg3.wiki/wiki/Iron_Flask)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Iron_Flask_Unfaded_Icon.png/40px-Iron_Flask_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Mayrina's Locket](https://bg3.wiki/wiki/Mayrina%27s_Locket)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5b/Mayrinas_Locket_Unfaded_Icon.png/40px-Mayrinas_Locket_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Mind Flayer Parasite Specimen](https://bg3.wiki/wiki/Mind_Flayer_Parasite_Specimen)",
+    "image": "https://bg3.wiki/w/images/thumb/9/91/Mind_Flayer_Parasite_Specimen_Item_Icon.png/40px-Mind_Flayer_Parasite_Specimen_Item_Icon.png"
+  },
+  {
+    "name": "[Qua'nith Psionic Detector](https://bg3.wiki/wiki/Qua%27nith_Psionic_Detector)",
+    "image": "https://bg3.wiki/w/images/thumb/d/da/Psionic_Detector_Unfaded_Icon.png/40px-Psionic_Detector_Unfaded_Icon.png"
+  },
+  {
+    "name": "[Scratch's Ball](https://bg3.wiki/wiki/Scratch%27s_Ball)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Ball_Unfaded_Icon.png/40px-Ball_Unfaded_Icon.png"
+  },
+  {
+    "name": "[An Opportunity from the Society of Brilliance](https://bg3.wiki/wiki/An_Opportunity_from_the_Society_of_Brilliance)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Book_Note_V_Item_Icon.png/40px-Book_Note_V_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Blooming Drow Head](https://bg3.wiki/wiki/Blooming_Drow_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/2/20/Blooming_Drow_Head_Unfaded_Icon.png/40px-Blooming_Drow_Head_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Brass Locket](https://bg3.wiki/wiki/Brass_Locket)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Keepsake_Locket_A_Unfaded_Icon.png/40px-Keepsake_Locket_A_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Dark Amethyst](https://bg3.wiki/wiki/Dark_Amethyst)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Dark_Amethyst_Unfaded_Icon.png/40px-Dark_Amethyst_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Disintegrating Night Walkers](https://bg3.wiki/wiki/Disintegrating_Night_Walkers)",
+    "image": "https://bg3.wiki/w/images/thumb/4/42/Disintegrating_Nightwalkers_Unfaded_Icon.png/40px-Disintegrating_Nightwalkers_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Duergar Antidote](https://bg3.wiki/wiki/Duergar_Antidote)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/POT_Antidote_Unfaded_Icon.png/40px-POT_Antidote_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Elaborate Slate](https://bg3.wiki/wiki/Elaborate_Slate)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9b/Elaborate_Slate_Unfaded_Icon.png/40px-Elaborate_Slate_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Eldritch Rune](https://bg3.wiki/wiki/Eldritch_Rune)",
+    "image": "https://bg3.wiki/w/images/thumb/9/94/Book_Rune_A_Item_Icon.png/40px-Book_Rune_A_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Flumph Mating Rituals](https://bg3.wiki/wiki/Flumph_Mating_Rituals)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Book_Generic_I_Item_Icon.png/40px-Book_Generic_I_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Gift from the Absolute](https://bg3.wiki/wiki/Gift_from_the_Absolute)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/TadpolePowerJar_Absolute_Unfaded_Icon.png/40px-TadpolePowerJar_Absolute_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Goblin's Drawing](https://bg3.wiki/wiki/Goblin%27s_Drawing)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a4/Book_Parchment_I_Item_Icon.png/40px-Book_Parchment_I_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Guiding Light](https://bg3.wiki/wiki/Guiding_Light)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bf/Ring_D_Gold_A_1_Unfaded_Icon.png/40px-Ring_D_Gold_A_1_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Halsin's Journal, Vol II](https://bg3.wiki/wiki/Halsin%27s_Journal,_Vol_II)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0e/Book_Generic_G_Item_Icon.png/40px-Book_Generic_G_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Hastily Written Note (Druids Grove)](https://bg3.wiki/wiki/Hastily_Written_Note_(Druids_Grove))",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/Book_Note_D_Item_Icon.png/40px-Book_Note_D_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Hide-Bound Journal](https://bg3.wiki/wiki/Hide-Bound_Journal)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Book_Generic_I_Item_Icon.png/40px-Book_Generic_I_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Highcliff's Blueprints](https://bg3.wiki/wiki/Highcliff%27s_Blueprints)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Book_Parchment_C_Item_Icon.png/40px-Book_Parchment_C_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Karlach's Head](https://bg3.wiki/wiki/Karlach%27s_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Karlachs_Head_Unfaded_Icon.png/40px-Karlachs_Head_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Letter to Kagha](https://bg3.wiki/wiki/Letter_to_Kagha)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fe/Book_Note_N_Item_Icon.png/40px-Book_Note_N_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Lihala's Lute](https://bg3.wiki/wiki/Lihala%27s_Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Instrument_Lute2_Unfaded_Icon.png/40px-Instrument_Lute2_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Lump's War Horn](https://bg3.wiki/wiki/Lump%27s_War_Horn)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/Lumps_War_Horn_Unfaded_Icon.png/40px-Lumps_War_Horn_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Memory Shard](https://bg3.wiki/wiki/Memory_Shard)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/Memory_Shard_Unfaded_Icon.png/40px-Memory_Shard_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Mithral Ore](https://bg3.wiki/wiki/Mithral_Ore)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c6/Mithral_Ore_Item_Icon.png/40px-Mithral_Ore_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Mysterious Artefact](https://bg3.wiki/wiki/Mysterious_Artefact)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Mysterious_Artefact_Unfaded_Icon.png/40px-Mysterious_Artefact_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Necromancy of Thay](https://bg3.wiki/wiki/Necromancy_of_Thay)",
+    "image": "https://bg3.wiki/w/images/thumb/6/65/Book_Thay_A_Item_Icon.png/40px-Book_Thay_A_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Nere's Head](https://bg3.wiki/wiki/Nere%27s_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9c/Nere%27s_Head_Unfaded_Icon.png/40px-Nere%27s_Head_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Noblestalk](https://bg3.wiki/wiki/Noblestalk)",
+    "image": "https://bg3.wiki/w/images/thumb/1/10/Noblestalk_Unfaded_Icon.png/40px-Noblestalk_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[On Antidotes](https://bg3.wiki/wiki/On_Antidotes)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/Book_Tome_T_Item_Icon.png/40px-Book_Tome_T_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Rancid Note](https://bg3.wiki/wiki/Rancid_Note)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Book_Note_M_Item_Icon.png/40px-Book_Note_M_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Rune of the Wolf](https://bg3.wiki/wiki/Rune_of_the_Wolf)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7c/Rune_of_the_Wolf_Unfaded_Icon.png/40px-Rune_of_the_Wolf_Unfaded_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Scribbled Notes](https://bg3.wiki/wiki/Scribbled_Notes)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fe/Book_Note_N_Item_Icon.png/40px-Book_Note_N_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Shipment Orders](https://bg3.wiki/wiki/Shipment_Orders)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fe/Book_Note_N_Item_Icon.png/40px-Book_Note_N_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Sussur Bloom](https://bg3.wiki/wiki/Sussur_Bloom)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b2/Sussur_Bloom_Item_Icon.png/40px-Sussur_Bloom_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Sussur Tree Bark](https://bg3.wiki/wiki/Sussur_Tree_Bark)",
+    "image": "https://bg3.wiki/w/images/thumb/d/db/Sussur_Tree_Bark_Item_Icon.png/40px-Sussur_Tree_Bark_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Tattered Scroll](https://bg3.wiki/wiki/Tattered_Scroll)",
+    "image": "https://bg3.wiki/w/images/thumb/0/02/Book_Note_J_Item_Icon.png/40px-Book_Note_J_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[The Great Furnace of Grymforge](https://bg3.wiki/wiki/The_Great_Furnace_of_Grymforge)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/Book_Tome_F_Item_Icon.png/40px-Book_Tome_F_Item_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Battered Lute](https://bg3.wiki/wiki/Battered_Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e4/Instrument_Lute_Unfaded_Icon.png/40px-Instrument_Lute_Unfaded_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Broken Moonlantern](https://bg3.wiki/wiki/Broken_Moonlantern)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6a/Broken_Moonlantern_Unfaded_Icon.png/40px-Broken_Moonlantern_Unfaded_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Grey Scout's Journal](https://bg3.wiki/wiki/Grey_Scout%27s_Journal)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Book_Generic_I_Item_Icon.png/40px-Book_Generic_I_Item_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Madeline's Ledger](https://bg3.wiki/wiki/Madeline%27s_Ledger)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0e/Book_Generic_G_Item_Icon.png/40px-Book_Generic_G_Item_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[In Search of the Nightsong](https://bg3.wiki/wiki/In_Search_of_the_Nightsong)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fe/Book_Tome_X_Item_Icon.png/40px-Book_Tome_X_Item_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Ketheric's Netherstone](https://bg3.wiki/wiki/Ketheric%27s_Netherstone)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/Ketheric%27s_Netherstone_Unfaded_Icon.png/40px-Ketheric%27s_Netherstone_Unfaded_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Moonlantern](https://bg3.wiki/wiki/Moonlantern)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3e/Moonlantern_Unfaded_Icon.png/40px-Moonlantern_Unfaded_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Spider's Lyre](https://bg3.wiki/wiki/Spider%27s_Lyre)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d6/Instrument_Spider%27s_Lyre_Unfaded_Icon.png/40px-Instrument_Spider%27s_Lyre_Unfaded_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Umbral Gem](https://bg3.wiki/wiki/Umbral_Gem)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dc/Umbral_Gem_Icon.png/40px-Umbral_Gem_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "['The Cell'](https://bg3.wiki/wiki/%27The_Cell%27)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/%27The_Cell%27_Unfaded_Icon.png/40px-%27The_Cell%27_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "['The Hanging'](https://bg3.wiki/wiki/%27The_Hanging%27)",
+    "image": "https://bg3.wiki/w/images/thumb/d/de/%27The_Hanging%27_Unfaded_Icon.png/40px-%27The_Hanging%27_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Alexander's Hand](https://bg3.wiki/wiki/Alexander%27s_Hand)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/Body_Part_Hand_Unfaded_Icon.png/40px-Body_Part_Hand_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Amulet of Bhaal](https://bg3.wiki/wiki/Amulet_of_Bhaal)",
+    "image": "https://bg3.wiki/w/images/thumb/8/87/Amulet_of_Bhaal_Unfaded_Icon.png/40px-Amulet_of_Bhaal_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Archducal Coronation - Admission Pass](https://bg3.wiki/wiki/Archducal_Coronation_-_Admission_Pass)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2d/Book_Note_L_Item_Icon.png/40px-Book_Note_L_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Astral-Touched Tadpole](https://bg3.wiki/wiki/Astral-Touched_Tadpole)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cc/Astral_Tadpole_Unfaded_Icon.png/40px-Astral_Tadpole_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Bloodstained Parchment](https://bg3.wiki/wiki/Bloodstained_Parchment)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Book_Note_B_Item_Icon.png/40px-Book_Note_B_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Bloody Amulet](https://bg3.wiki/wiki/Bloody_Amulet)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Bloody_Amulet_Unfaded_Icon.png/40px-Bloody_Amulet_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Clown's Severed Arm](https://bg3.wiki/wiki/Clown%27s_Severed_Arm)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/Clown_Arm_Unfaded_Icon.png/40px-Clown_Arm_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Clown's Severed Foot](https://bg3.wiki/wiki/Clown%27s_Severed_Foot)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Clown_Foot_Unfaded_Icon.png/40px-Clown_Foot_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Clown's Severed Hand](https://bg3.wiki/wiki/Clown%27s_Severed_Hand)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Clown_Hand_With_Ring_Unfaded_Icon.png/40px-Clown_Hand_With_Ring_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Clown's Severed Head](https://bg3.wiki/wiki/Clown%27s_Severed_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Clown_Head_Unfaded_Icon.png/40px-Clown_Head_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Clown's Severed Leg](https://bg3.wiki/wiki/Clown%27s_Severed_Leg)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Clown_Leg_Unfaded_Icon.png/40px-Clown_Leg_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Clown's Severed Pelvis](https://bg3.wiki/wiki/Clown%27s_Severed_Pelvis)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1f/Clown_Waist_Unfaded_Icon.png/40px-Clown_Waist_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Clown's Severed Torso](https://bg3.wiki/wiki/Clown%27s_Severed_Torso)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Clown_Torso_Unfaded_Icon.png/40px-Clown_Torso_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Coin of Mammon](https://bg3.wiki/wiki/Coin_of_Mammon)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d9/Coin_of_Mammon_Unfaded_Icon.png/40px-Coin_of_Mammon_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Debtor's Attire](https://bg3.wiki/wiki/Debtor%27s_Attire)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Debtors_Attire_A_Unfaded_Icon.png/40px-Debtors_Attire_A_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Dirge of the Unholy Assassin](https://bg3.wiki/wiki/Dirge_of_the_Unholy_Assassin)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Book_Parchment_N_Item_Icon.png/40px-Book_Parchment_N_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Duke Stelmane's Hand](https://bg3.wiki/wiki/Duke_Stelmane%27s_Hand)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/Body_Part_Hand_Unfaded_Icon.png/40px-Body_Part_Hand_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Franc's Hand](https://bg3.wiki/wiki/Franc%27s_Hand)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/Body_Part_Hand_Unfaded_Icon.png/40px-Body_Part_Hand_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "['Freedom'](https://bg3.wiki/wiki/%27Freedom%27)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/%27Freedom%27_Unfaded_Icon.png/40px-%27Freedom%27_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Gortash's Hand](https://bg3.wiki/wiki/Gortash%27s_Hand)",
+    "image": "https://bg3.wiki/w/images/thumb/c/ca/Body_Part_Hand_Unfaded_Icon.png/40px-Body_Part_Hand_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Gortash's Netherstone](https://bg3.wiki/wiki/Gortash%27s_Netherstone)",
+    "image": "https://bg3.wiki/w/images/thumb/4/47/Gortash%27s_Netherstone_Unfaded_Icon.png/40px-Gortash%27s_Netherstone_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Grimoire Bound in Imp Skin](https://bg3.wiki/wiki/Grimoire_Bound_in_Imp_Skin)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7b/Book_Grimoire_Unfaded_Icon.png/40px-Book_Grimoire_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Guild Ring](https://bg3.wiki/wiki/Guild_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Guild_Ring_Unfaded_Icon.png/40px-Guild_Ring_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Infernal Marble](https://bg3.wiki/wiki/Infernal_Marble)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7d/Infernal_Marble_Unfaded_Icon.png/40px-Infernal_Marble_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Jar of Mystic Carrion's Brain](https://bg3.wiki/wiki/Jar_of_Mystic_Carrion%27s_Brain)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Canopic_Jar_Unfaded_Icon.png/40px-Canopic_Jar_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Jar of Mystic Carrion's Heart](https://bg3.wiki/wiki/Jar_of_Mystic_Carrion%27s_Heart)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Canopic_Jar_Unfaded_Icon.png/40px-Canopic_Jar_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Jar of Mystic Carrion's Liver](https://bg3.wiki/wiki/Jar_of_Mystic_Carrion%27s_Liver)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Canopic_Jar_Unfaded_Icon.png/40px-Canopic_Jar_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Jar of Mystic Carrion's Lungs](https://bg3.wiki/wiki/Jar_of_Mystic_Carrion%27s_Lungs)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b5/Canopic_Jar_Unfaded_Icon.png/40px-Canopic_Jar_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Ketheric's Netherstone](https://bg3.wiki/wiki/Ketheric%27s_Netherstone)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/Ketheric%27s_Netherstone_Unfaded_Icon.png/40px-Ketheric%27s_Netherstone_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Kozakuran Dictionary](https://bg3.wiki/wiki/Kozakuran_Dictionary)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Book_Generic_K_Item_Icon.png/40px-Book_Generic_K_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Lorroakan's Contract](https://bg3.wiki/wiki/Lorroakan%27s_Contract)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Book_Note_M_Item_Icon.png/40px-Book_Note_M_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Lower City Pass](https://bg3.wiki/wiki/Lower_City_Pass)",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/Book_Note_D_Item_Icon.png/40px-Book_Note_D_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Map of Murder](https://bg3.wiki/wiki/Map_of_Murder)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Book_Note_P_Item_Icon.png/40px-Book_Note_P_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Map to Bhaal Temple](https://bg3.wiki/wiki/Map_to_Bhaal_Temple)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c3/Book_Note_F_Item_Icon.png/40px-Book_Note_F_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Mind Flayer Brain](https://bg3.wiki/wiki/Mind_Flayer_Brain)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d4/Intellect_Devourer_Cerebellum_Item_Icon.png/40px-Intellect_Devourer_Cerebellum_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Note from BUSINESSLORD POPPER](https://bg3.wiki/wiki/Note_from_BUSINESSLORD_POPPER)",
+    "image": "https://bg3.wiki/w/images/thumb/7/76/Book_Note_D_Item_Icon.png/40px-Book_Note_D_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Orin's Netherstone](https://bg3.wiki/wiki/Orin%27s_Netherstone)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3b/Orin%27s_Netherstone_Unfaded_Icon.png/40px-Orin%27s_Netherstone_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Orphic Hammer](https://bg3.wiki/wiki/Orphic_Hammer)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3b/Orphic_Hammer_Unfaded_Icon.png/40px-Orphic_Hammer_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Regarding the Slayer](https://bg3.wiki/wiki/Regarding_the_Slayer)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/Book_Tome_Y_Item_Icon.png/40px-Book_Tome_Y_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sarin's Skull](https://bg3.wiki/wiki/Sarin%27s_Skull)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Skull_A_Unfaded_Icon.webp/40px-Skull_A_Unfaded_Icon.webp.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Stamped Handbill](https://bg3.wiki/wiki/Stamped_Handbill)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Book_Note_M_Item_Icon.png/40px-Book_Note_M_Item_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Szarr Family Ring](https://bg3.wiki/wiki/Szarr_Family_Ring)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bc/Szarr_Family_Ring_Unfaded_Icon.png/40px-Szarr_Family_Ring_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Torch of Revocation](https://bg3.wiki/wiki/Torch_of_Revocation)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f5/Torch_of_Revocation_Unfaded_Icon.png/40px-Torch_of_Revocation_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Triune Netherstone](https://bg3.wiki/wiki/Triune_Netherstone)",
+    "image": "https://bg3.wiki/w/images/thumb/1/10/Triune_Netherstone_Unfaded_Icon.png/40px-Triune_Netherstone_Unfaded_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Wulbren's Head](https://bg3.wiki/wiki/Wulbren%27s_Head)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e0/Severed_Head_Male_Unfaded_Icon.png/40px-Severed_Head_Male_Unfaded_Icon.png",
+    "chapter": 3
+  }
+]

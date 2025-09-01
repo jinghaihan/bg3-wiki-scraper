@@ -1,0 +1,1237 @@
+[
+  {
+    "name": "[Adamantine Key](https://bg3.wiki/wiki/Adamantine_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Antique Key](https://bg3.wiki/wiki/Antique_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Aradin's Key](https://bg3.wiki/wiki/Aradin%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Bandit's Key](https://bg3.wiki/wiki/Bandit%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Cabinet Key](https://bg3.wiki/wiki/Cabinet_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Cage Key](https://bg3.wiki/wiki/Cage_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Cage Key (Gribbo)](https://bg3.wiki/wiki/Cage_Key_(Gribbo))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Charred Key](https://bg3.wiki/wiki/Charred_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Dror Ragzlin's Key](https://bg3.wiki/wiki/Dror_Ragzlin%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Engraved Key](https://bg3.wiki/wiki/Engraved_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Engraved Key (Cellar)](https://bg3.wiki/wiki/Engraved_Key_(Cellar))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Engraved Key (Salazon)](https://bg3.wiki/wiki/Engraved_Key_(Salazon))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Gold Key](https://bg3.wiki/wiki/Gold_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Grubby Key](https://bg3.wiki/wiki/Grubby_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Harper Key](https://bg3.wiki/wiki/Harper_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Heavy Key](https://bg3.wiki/wiki/Heavy_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Heavy Key (Blighted Village)](https://bg3.wiki/wiki/Heavy_Key_(Blighted_Village))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Infirmary Key (Crèche Y'llek)](https://bg3.wiki/wiki/Infirmary_Key_(Cr%C3%A8che_Y%27llek))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Intricate Key](https://bg3.wiki/wiki/Intricate_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Iron Cell Key](https://bg3.wiki/wiki/Iron_Cell_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Iron Key](https://bg3.wiki/wiki/Iron_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Iron Key (Garias)](https://bg3.wiki/wiki/Iron_Key_(Garias))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Kagha's Key](https://bg3.wiki/wiki/Kagha%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Key (Crèche Hatchery)](https://bg3.wiki/wiki/Key_(Cr%C3%A8che_Hatchery))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Key (Crèche Y'llek)](https://bg3.wiki/wiki/Key_(Cr%C3%A8che_Y%27llek))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Mechanical Key](https://bg3.wiki/wiki/Mechanical_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Moss-Covered Key](https://bg3.wiki/wiki/Moss-Covered_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Old Key](https://bg3.wiki/wiki/Old_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Ornate Key](https://bg3.wiki/wiki/Ornate_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Padlock Key](https://bg3.wiki/wiki/Padlock_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Pitted Key](https://bg3.wiki/wiki/Pitted_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Priestess' Key](https://bg3.wiki/wiki/Priestess%27_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Prison Key](https://bg3.wiki/wiki/Prison_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Prison Key (Emerald Grove)](https://bg3.wiki/wiki/Prison_Key_(Emerald_Grove))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Prison Key (Plig)](https://bg3.wiki/wiki/Prison_Key_(Plig))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Rusted Key](https://bg3.wiki/wiki/Rusted_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Rusted Key (Apothecary)](https://bg3.wiki/wiki/Rusted_Key_(Apothecary))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Selûnite Key](https://bg3.wiki/wiki/Sel%C3%BBnite_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Shiny Key](https://bg3.wiki/wiki/Shiny_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Society of Brilliance Traveller's Chest Key](https://bg3.wiki/wiki/Society_of_Brilliance_Traveller%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Storage Key](https://bg3.wiki/wiki/Storage_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Suite Key](https://bg3.wiki/wiki/Suite_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Tarnished Silver Key](https://bg3.wiki/wiki/Tarnished_Silver_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Teahouse Key](https://bg3.wiki/wiki/Teahouse_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Temple Trader's Key](https://bg3.wiki/wiki/Temple_Trader%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Toll Collector's Key](https://bg3.wiki/wiki/Toll_Collector%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Torturer's Key](https://bg3.wiki/wiki/Torturer%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Worn Key (Toron)](https://bg3.wiki/wiki/Worn_Key_(Toron))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Zevlor's Key](https://bg3.wiki/wiki/Zevlor%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Zhentarim Key](https://bg3.wiki/wiki/Zhentarim_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 1
+  },
+  {
+    "name": "[Absolutist Expedition Key](https://bg3.wiki/wiki/Absolutist_Expedition_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Balthazar's Room Key](https://bg3.wiki/wiki/Balthazar%27s_Room_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Bone Key](https://bg3.wiki/wiki/Bone_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Hospital Library Key](https://bg3.wiki/wiki/Hospital_Library_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Innkeeper's Key](https://bg3.wiki/wiki/Innkeeper%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Key (Malus Thorm Office)](https://bg3.wiki/wiki/Key_(Malus_Thorm_Office))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Key (Sinda)](https://bg3.wiki/wiki/Key_(Sinda))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Last Light Detention Cell Key](https://bg3.wiki/wiki/Last_Light_Detention_Cell_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Last Light Side Entrance Key](https://bg3.wiki/wiki/Last_Light_Side_Entrance_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Moonrise Guard's Key](https://bg3.wiki/wiki/Moonrise_Guard%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Morgue Cage Key](https://bg3.wiki/wiki/Morgue_Cage_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Necrotic Laboratory Spare Key](https://bg3.wiki/wiki/Necrotic_Laboratory_Spare_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Potter's Chest Key](https://bg3.wiki/wiki/Potter%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Prison Key (Moonrise)](https://bg3.wiki/wiki/Prison_Key_(Moonrise))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Soft-Step Trial Key](https://bg3.wiki/wiki/Soft-Step_Trial_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Tollhouse Basement Key](https://bg3.wiki/wiki/Tollhouse_Basement_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Tollhouse Clerk's Key](https://bg3.wiki/wiki/Tollhouse_Clerk%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Tollhouse Master's Office Key](https://bg3.wiki/wiki/Tollhouse_Master%27s_Office_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Tower-Shaped Key](https://bg3.wiki/wiki/Tower-Shaped_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Worn Key](https://bg3.wiki/wiki/Worn_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 2
+  },
+  {
+    "name": "[Abandoned House Chest Key](https://bg3.wiki/wiki/Abandoned_House_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Abattoir Key](https://bg3.wiki/wiki/Abattoir_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Altar Key](https://bg3.wiki/wiki/Altar_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Ancient Mausoleum Key](https://bg3.wiki/wiki/Ancient_Mausoleum_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[A Private Stash Key](https://bg3.wiki/wiki/A_Private_Stash_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Avery's Storage Key](https://bg3.wiki/wiki/Avery%27s_Storage_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Bakshi's Chest Key](https://bg3.wiki/wiki/Bakshi%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Baldur's Mouth Basement Key](https://bg3.wiki/wiki/Baldur%27s_Mouth_Basement_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Baldur's Mouth Chest Key](https://bg3.wiki/wiki/Baldur%27s_Mouth_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Baldur's Mouth Storage Key](https://bg3.wiki/wiki/Baldur%27s_Mouth_Storage_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Barracks Office Key](https://bg3.wiki/wiki/Barracks_Office_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Basement Key (Forge of the Nine)](https://bg3.wiki/wiki/Basement_Key_(Forge_of_the_Nine))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Beach House Hatch Key](https://bg3.wiki/wiki/Beach_House_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Beast Cage Key](https://bg3.wiki/wiki/Beast_Cage_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Benryr's Key](https://bg3.wiki/wiki/Benryr%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Key_Flower_A_Icon.png/40px-Key_Flower_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Bill's Chest Key](https://bg3.wiki/wiki/Bill%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Blacksmith's Chest Key](https://bg3.wiki/wiki/Blacksmith%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Blood Merchant's Chest Key](https://bg3.wiki/wiki/Blood_Merchant%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Bonecloak Apothecary's Chest Key](https://bg3.wiki/wiki/Bonecloak_Apothecary%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Bookshop Chest Key](https://bg3.wiki/wiki/Bookshop_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Camp Chest Key](https://bg3.wiki/wiki/Camp_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Central Wall Chest Key](https://bg3.wiki/wiki/Central_Wall_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Chamberlain's Private Room Key](https://bg3.wiki/wiki/Chamberlain%27s_Private_Room_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Cold Room Chest Key](https://bg3.wiki/wiki/Cold_Room_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Control Lever Key](https://bg3.wiki/wiki/Control_Lever_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº1 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA1_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº2 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA2_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº3 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA3_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº4 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA4_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº5 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA5_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº6 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA6_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº7 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA7_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Safe nº8 Key](https://bg3.wiki/wiki/Counting_House_Safe_n%C2%BA8_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Vault nº1 Key](https://bg3.wiki/wiki/Counting_House_Vault_n%C2%BA1_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Vault nº2 Key](https://bg3.wiki/wiki/Counting_House_Vault_n%C2%BA2_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Vault nº3 Key](https://bg3.wiki/wiki/Counting_House_Vault_n%C2%BA3_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Vault nº4 Key](https://bg3.wiki/wiki/Counting_House_Vault_n%C2%BA4_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Vault nº5 Key](https://bg3.wiki/wiki/Counting_House_Vault_n%C2%BA5_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Counting House Vault nº6 Key](https://bg3.wiki/wiki/Counting_House_Vault_n%C2%BA6_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Crimson Draughts' Hatch Key](https://bg3.wiki/wiki/Crimson_Draughts%27_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Dashkent's Key](https://bg3.wiki/wiki/Dashkent%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Key_Flower_A_Icon.png/40px-Key_Flower_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Debin's Chest Key](https://bg3.wiki/wiki/Debin%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Dheeber's Chest Key](https://bg3.wiki/wiki/Dheeber%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Docktower Key](https://bg3.wiki/wiki/Docktower_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Donation Chest Key](https://bg3.wiki/wiki/Donation_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Donnick's Chest Key](https://bg3.wiki/wiki/Donnick%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Dresten's Chest Key](https://bg3.wiki/wiki/Dresten%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Drim's Key](https://bg3.wiki/wiki/Drim%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Key_Flower_A_Icon.png/40px-Key_Flower_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Durinbold Mausoleum Key](https://bg3.wiki/wiki/Durinbold_Mausoleum_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Elarrathin Residence Backdoor Key](https://bg3.wiki/wiki/Elarrathin_Residence_Backdoor_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Elfsong Room Key](https://bg3.wiki/wiki/Elfsong_Room_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Ethel's Chest Key](https://bg3.wiki/wiki/Ethel%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Ethel's Lair Key](https://bg3.wiki/wiki/Ethel%27s_Lair_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Facemaker Fashion Basement Key](https://bg3.wiki/wiki/Facemaker_Fashion_Basement_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Falice's Chest Key](https://bg3.wiki/wiki/Falice%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Felogyr's Fireworks Cellar Key](https://bg3.wiki/wiki/Felogyr%27s_Fireworks_Cellar_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Ffion's Key](https://bg3.wiki/wiki/Ffion%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Key_Flower_A_Icon.png/40px-Key_Flower_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Figaro's Chest Key](https://bg3.wiki/wiki/Figaro%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Figaro's Safe Key](https://bg3.wiki/wiki/Figaro%27s_Safe_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Fireworks Workshop Key](https://bg3.wiki/wiki/Fireworks_Workshop_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Flowery Key](https://bg3.wiki/wiki/Flowery_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/69/Key_Flower_B_Icon.png/40px-Key_Flower_B_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Fraygo's Flophouse Back Door Key](https://bg3.wiki/wiki/Fraygo%27s_Flophouse_Back_Door_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[General Streets Chest Key](https://bg3.wiki/wiki/General_Streets_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Glitter Gala Store Key](https://bg3.wiki/wiki/Glitter_Gala_Store_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Golbraith's Chest Key](https://bg3.wiki/wiki/Golbraith%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Golbraith's Hatch Key](https://bg3.wiki/wiki/Golbraith%27s_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Golbraith's Key](https://bg3.wiki/wiki/Golbraith%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Gorion Mausoleum Key](https://bg3.wiki/wiki/Gorion_Mausoleum_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Goris' Chest Key](https://bg3.wiki/wiki/Goris%27_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Gortash's Chest Key](https://bg3.wiki/wiki/Gortash%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Gortash's Key](https://bg3.wiki/wiki/Gortash%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Grand Mausoleum Offerings Key](https://bg3.wiki/wiki/Grand_Mausoleum_Offerings_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Graveyard Door Key](https://bg3.wiki/wiki/Graveyard_Door_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Grief Key](https://bg3.wiki/wiki/Grief_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Griska's Key](https://bg3.wiki/wiki/Griska%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Key_Flower_A_Icon.png/40px-Key_Flower_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Groundskeeper's Hatch Key](https://bg3.wiki/wiki/Groundskeeper%27s_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Guild Hall Hatch Key](https://bg3.wiki/wiki/Guild_Hall_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Havkelaag's Key](https://bg3.wiki/wiki/Havkelaag%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Heapside Armoury Key](https://bg3.wiki/wiki/Heapside_Armoury_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Helsik's Key](https://bg3.wiki/wiki/Helsik%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Hhune Mausoleum Golden Key](https://bg3.wiki/wiki/Hhune_Mausoleum_Golden_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Hhune Mausoleum Iron Key](https://bg3.wiki/wiki/Hhune_Mausoleum_Iron_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Hhune Mausoleum Key](https://bg3.wiki/wiki/Hhune_Mausoleum_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Highberry's Strongbox Key](https://bg3.wiki/wiki/Highberry%27s_Strongbox_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Hall Key](https://bg3.wiki/wiki/High_Hall_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº1 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA1_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº2 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA2_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº3 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA3_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº4 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA4_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº5 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA5_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº6 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA6_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº7 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA7_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº8 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA8_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[High Security Vault nº9 Key](https://bg3.wiki/wiki/High_Security_Vault_n%C2%BA9_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Ink-Spattered Key](https://bg3.wiki/wiki/Ink-Spattered_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Jaheira's Chest Key](https://bg3.wiki/wiki/Jaheira%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Jol's Chest Key](https://bg3.wiki/wiki/Jol%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key (Clover)](https://bg3.wiki/wiki/Key_(Clover))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key (Dringo)](https://bg3.wiki/wiki/Key_(Dringo))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key (Falcäo)](https://bg3.wiki/wiki/Key_(Falc%C3%A4o))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key From Raphael's Safe](https://bg3.wiki/wiki/Key_From_Raphael%27s_Safe)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key (Gloomy Fentonson)](https://bg3.wiki/wiki/Key_(Gloomy_Fentonson))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key (Philgrave's Mansion)](https://bg3.wiki/wiki/Key_(Philgrave%27s_Mansion))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key to Buried Treasure](https://bg3.wiki/wiki/Key_to_Buried_Treasure)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key to Cazador's Dungeon](https://bg3.wiki/wiki/Key_to_Cazador%27s_Dungeon)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key to Ramparts Door](https://bg3.wiki/wiki/Key_to_Ramparts_Door)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key to the Kennel](https://bg3.wiki/wiki/Key_to_the_Kennel)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Key to the Murder Tribunal](https://bg3.wiki/wiki/Key_to_the_Murder_Tribunal)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Kobold's Chest Key](https://bg3.wiki/wiki/Kobold%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Kurwin's Mortuary Key](https://bg3.wiki/wiki/Kurwin%27s_Mortuary_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Limeleech's Chest Key](https://bg3.wiki/wiki/Limeleech%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Loading Dock Chest Key](https://bg3.wiki/wiki/Loading_Dock_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Lockbox Key](https://bg3.wiki/wiki/Lockbox_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Lodge Dormitory Key](https://bg3.wiki/wiki/Lodge_Dormitory_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Lora's Key](https://bg3.wiki/wiki/Lora%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Lorgan's Chest Key](https://bg3.wiki/wiki/Lorgan%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Lost Training Hall Key](https://bg3.wiki/wiki/Lost_Training_Hall_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Loudstone's Chest Key](https://bg3.wiki/wiki/Loudstone%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Metal Crate Key](https://bg3.wiki/wiki/Metal_Crate_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Mottled Key](https://bg3.wiki/wiki/Mottled_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Munition Chest Key](https://bg3.wiki/wiki/Munition_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Office Storage Key](https://bg3.wiki/wiki/Office_Storage_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Old Garlow's Basement Backroom Key](https://bg3.wiki/wiki/Old_Garlow%27s_Basement_Backroom_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Omotola's Chest Key](https://bg3.wiki/wiki/Omotola%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Omotola's stockroom key](https://bg3.wiki/wiki/Omotola%27s_stockroom_key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Orin's Chest Key](https://bg3.wiki/wiki/Orin%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Oriona's Chest Key](https://bg3.wiki/wiki/Oriona%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Painted Key](https://bg3.wiki/wiki/Painted_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Park Chest Key](https://bg3.wiki/wiki/Park_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Peartree's Chest Key](https://bg3.wiki/wiki/Peartree%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Peartree's Hatch Key](https://bg3.wiki/wiki/Peartree%27s_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Prison Entrance Key](https://bg3.wiki/wiki/Prison_Entrance_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Queelia's Key](https://bg3.wiki/wiki/Queelia%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Key_Flower_A_Icon.png/40px-Key_Flower_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Quirkilious' Chest Key](https://bg3.wiki/wiki/Quirkilious%27_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Quirkilious' Stockroom Key](https://bg3.wiki/wiki/Quirkilious%27_Stockroom_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Rainforest's Chest Key](https://bg3.wiki/wiki/Rainforest%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Ringmaster's Key](https://bg3.wiki/wiki/Ringmaster%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Rosanna's Key](https://bg3.wiki/wiki/Rosanna%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Key_Flower_A_Icon.png/40px-Key_Flower_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Rose's Chest Key](https://bg3.wiki/wiki/Rose%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Rosewood Desk Key](https://bg3.wiki/wiki/Rosewood_Desk_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Rusty Key](https://bg3.wiki/wiki/Rusty_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Rusty Key (Entharl)](https://bg3.wiki/wiki/Rusty_Key_(Entharl))",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sailor's Key](https://bg3.wiki/wiki/Sailor%27s_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sarevok's Golden Key](https://bg3.wiki/wiki/Sarevok%27s_Golden_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Security Office Key](https://bg3.wiki/wiki/Security_Office_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Serrik's Chest Key](https://bg3.wiki/wiki/Serrik%27s_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Severn's Sewer Key](https://bg3.wiki/wiki/Severn%27s_Sewer_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sharess' Caress Cellar Key](https://bg3.wiki/wiki/Sharess%27_Caress_Cellar_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sharess' Caress Rooms Key](https://bg3.wiki/wiki/Sharess%27_Caress_Rooms_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Silver Key (Chamber of Loss)](https://bg3.wiki/wiki/Silver_Key_(Chamber_of_Loss))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Silver Key (Szarr Palace)](https://bg3.wiki/wiki/Silver_Key_(Szarr_Palace))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sorcerous Sundries Basement Chest Key](https://bg3.wiki/wiki/Sorcerous_Sundries_Basement_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sorcerous Sundries Mystery Door Key](https://bg3.wiki/wiki/Sorcerous_Sundries_Mystery_Door_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sorcerous Sundries Office Key](https://bg3.wiki/wiki/Sorcerous_Sundries_Office_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Storage Key (Stylin' Horst)](https://bg3.wiki/wiki/Storage_Key_(Stylin%27_Horst))",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Storage Room Key](https://bg3.wiki/wiki/Storage_Room_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Sword Coast Couriers Key](https://bg3.wiki/wiki/Sword_Coast_Couriers_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Tabernacle Hatch Key](https://bg3.wiki/wiki/Tabernacle_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Tefoco's Basement Chest Key](https://bg3.wiki/wiki/Tefoco%27s_Basement_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Tefoco's Hatch Key](https://bg3.wiki/wiki/Tefoco%27s_Hatch_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[The Forge Key](https://bg3.wiki/wiki/The_Forge_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[The Glitter Gala Stockroom Key](https://bg3.wiki/wiki/The_Glitter_Gala_Stockroom_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Toadbreath Stash Key](https://bg3.wiki/wiki/Toadbreath_Stash_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Tombstone Shop Key](https://bg3.wiki/wiki/Tombstone_Shop_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Toymaker's Basement Key](https://bg3.wiki/wiki/Toymaker%27s_Basement_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Toymaker's Basement Chest Key](https://bg3.wiki/wiki/Toymaker%27s_Basement_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Toymaker's House Key](https://bg3.wiki/wiki/Toymaker%27s_House_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Tribunal Prison Key](https://bg3.wiki/wiki/Tribunal_Prison_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Undercity Ruins Chasm Door Key](https://bg3.wiki/wiki/Undercity_Ruins_Chasm_Door_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Vault Chest Key](https://bg3.wiki/wiki/Vault_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Vault Key](https://bg3.wiki/wiki/Vault_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Viconia's Personal Chest Key](https://bg3.wiki/wiki/Viconia%27s_Personal_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Key_Gold_A_Icon.png/40px-Key_Gold_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Windmill Key](https://bg3.wiki/wiki/Windmill_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Wine Cellar Key](https://bg3.wiki/wiki/Wine_Cellar_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Wyrm's Rock Prison Cell Key](https://bg3.wiki/wiki/Wyrm%27s_Rock_Prison_Cell_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4d/Key_Silver_A_Icon.png/40px-Key_Silver_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Wyrm's Rock Prison Key](https://bg3.wiki/wiki/Wyrm%27s_Rock_Prison_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  },
+  {
+    "name": "[Yannis' Chest Key](https://bg3.wiki/wiki/Yannis%27_Chest_Key)",
+    "image": "https://bg3.wiki/w/images/thumb/2/22/Key_Iron_A_Icon.png/40px-Key_Iron_A_Icon.png",
+    "chapter": 3
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "name": "[Acid Splash](https://bg3.wiki/wiki/Acid_Splash)",
+    "image": "https://bg3.wiki/w/images/thumb/9/99/Acid_Splash_Icon.webp/25px-Acid_Splash_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Blade Ward](https://bg3.wiki/wiki/Blade_Ward)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/Blade_Ward_Icon.webp/25px-Blade_Ward_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Booming Blade](https://bg3.wiki/wiki/Booming_Blade)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Booming_Blade_Icon.webp/25px-Booming_Blade_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Bursting Sinew](https://bg3.wiki/wiki/Bursting_Sinew)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0f/Bursting_Sinew_Icon.webp/25px-Bursting_Sinew_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Dancing Lights](https://bg3.wiki/wiki/Dancing_Lights)",
+    "image": "https://bg3.wiki/w/images/thumb/b/ba/Dancing_Lights_Icon.webp/25px-Dancing_Lights_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Eldritch Blast](https://bg3.wiki/wiki/Eldritch_Blast)",
+    "image": "https://bg3.wiki/w/images/thumb/d/db/Eldritch_Blast_Icon.webp/25px-Eldritch_Blast_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Friends](https://bg3.wiki/wiki/Friends)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Friends_Icon.webp/25px-Friends_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Guidance](https://bg3.wiki/wiki/Guidance)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Guidance_Icon.webp/25px-Guidance_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Light](https://bg3.wiki/wiki/Light)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5c/Light_Icon.webp/25px-Light_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Mage Hand](https://bg3.wiki/wiki/Mage_Hand)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f9/Mage_Hand_Icon.webp/25px-Mage_Hand_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Minor Illusion](https://bg3.wiki/wiki/Minor_Illusion)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9d/Minor_Illusion_Icon.webp/25px-Minor_Illusion_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Poison Spray](https://bg3.wiki/wiki/Poison_Spray)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1d/Poison_Spray_Icon.webp/25px-Poison_Spray_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Produce Flame](https://bg3.wiki/wiki/Produce_Flame)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ec/Produce_Flame_Icon.webp/25px-Produce_Flame_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Resistance](https://bg3.wiki/wiki/Resistance)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/Resistance_Cantrip_Icon.webp/25px-Resistance_Cantrip_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Sacred Flame](https://bg3.wiki/wiki/Sacred_Flame)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Sacred_Flame_Icon.webp/25px-Sacred_Flame_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Shillelagh](https://bg3.wiki/wiki/Shillelagh)",
+    "image": "https://bg3.wiki/w/images/thumb/6/68/Shillelagh_Icon.webp/25px-Shillelagh_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Thaumaturgy](https://bg3.wiki/wiki/Thaumaturgy)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3f/Thaumaturgy_Icon.webp/25px-Thaumaturgy_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Thorn Whip](https://bg3.wiki/wiki/Thorn_Whip)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e8/Thorn_Whip_Icon.webp/25px-Thorn_Whip_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Toll the Dead](https://bg3.wiki/wiki/Toll_the_Dead)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c0/Toll_the_Dead_Icon.webp/25px-Toll_the_Dead_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[True Strike](https://bg3.wiki/wiki/True_Strike)",
+    "image": "https://bg3.wiki/w/images/thumb/4/47/True_Strike_Icon.webp/25px-True_Strike_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Vicious Mockery](https://bg3.wiki/wiki/Vicious_Mockery)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Vicious_Mockery_Icon.webp/25px-Vicious_Mockery_Icon.webp.png",
+    "cantrip": true
+  },
+  {
+    "name": "[Armour of Agathys](https://bg3.wiki/wiki/Armour_of_Agathys)",
+    "image": "https://bg3.wiki/w/images/thumb/7/77/Armour_of_Agathys_Icon.webp/25px-Armour_of_Agathys_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Arms of Hadar](https://bg3.wiki/wiki/Arms_of_Hadar)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3e/Arms_of_Hadar_Icon.webp/25px-Arms_of_Hadar_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Bane](https://bg3.wiki/wiki/Bane)",
+    "image": "https://bg3.wiki/w/images/thumb/1/19/Bane_spell_Icon.webp/25px-Bane_spell_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Bless](https://bg3.wiki/wiki/Bless)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c4/Bless_Icon.webp/25px-Bless_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Command](https://bg3.wiki/wiki/Command)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7f/Command_Halt_Icon.webp/25px-Command_Halt_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Compelled Duel](https://bg3.wiki/wiki/Compelled_Duel)",
+    "image": "https://bg3.wiki/w/images/thumb/7/73/Compelled_Duel_Icon.webp/25px-Compelled_Duel_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Create or Destroy Water](https://bg3.wiki/wiki/Create_or_Destroy_Water)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Create_Water_Icon.webp/25px-Create_Water_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Cure Wounds](https://bg3.wiki/wiki/Cure_Wounds)",
+    "image": "https://bg3.wiki/w/images/thumb/4/40/Cure_Wounds_Icon.webp/25px-Cure_Wounds_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Dissonant Whispers](https://bg3.wiki/wiki/Dissonant_Whispers)",
+    "image": "https://bg3.wiki/w/images/thumb/4/40/Dissonant_Whispers_Icon.webp/25px-Dissonant_Whispers_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Divine Favour](https://bg3.wiki/wiki/Divine_Favour)",
+    "image": "https://bg3.wiki/w/images/thumb/4/44/Divine_Favour_Icon.webp/25px-Divine_Favour_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Ensnaring Strike](https://bg3.wiki/wiki/Ensnaring_Strike)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/Ensnaring_Strike_Ranged_Icon.webp/25px-Ensnaring_Strike_Ranged_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Entangle](https://bg3.wiki/wiki/Entangle)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d9/Entangle_Icon.webp/25px-Entangle_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Faerie Fire](https://bg3.wiki/wiki/Faerie_Fire)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/Faerie_Fire_Icon.webp/25px-Faerie_Fire_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Find Familiar](https://bg3.wiki/wiki/Find_Familiar)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8b/Find_Familiar_Cat_Icon.webp/25px-Find_Familiar_Cat_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Guiding Bolt](https://bg3.wiki/wiki/Guiding_Bolt)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2c/Guiding_Bolt_Icon.webp/25px-Guiding_Bolt_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Hail of Thorns](https://bg3.wiki/wiki/Hail_of_Thorns)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/Hail_of_Thorns_Icon.webp/25px-Hail_of_Thorns_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Healing Word](https://bg3.wiki/wiki/Healing_Word)",
+    "image": "https://bg3.wiki/w/images/thumb/e/ef/Healing_Word_Icon.webp/25px-Healing_Word_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Hellish Rebuke](https://bg3.wiki/wiki/Hellish_Rebuke)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/Hellish_Rebuke_Icon.webp/25px-Hellish_Rebuke_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Heroism](https://bg3.wiki/wiki/Heroism)",
+    "image": "https://bg3.wiki/w/images/thumb/1/19/Heroism_Icon.webp/25px-Heroism_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Hex](https://bg3.wiki/wiki/Hex)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/Hex_Icon.webp/25px-Hex_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Hunter's Mark](https://bg3.wiki/wiki/Hunter%27s_Mark)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f6/Hunter%27s_Mark_Icon.webp/25px-Hunter%27s_Mark_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Inflict Wounds](https://bg3.wiki/wiki/Inflict_Wounds)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Inflict_Wounds_Icon.webp/25px-Inflict_Wounds_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Longstrider](https://bg3.wiki/wiki/Longstrider)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Longstrider_Icon.webp/25px-Longstrider_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Sanctuary](https://bg3.wiki/wiki/Sanctuary)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Sanctuary_Icon.webp/25px-Sanctuary_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Searing Smite](https://bg3.wiki/wiki/Searing_Smite)",
+    "image": "https://bg3.wiki/w/images/thumb/5/50/Searing_Smite_Icon.webp/25px-Searing_Smite_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Shield](https://bg3.wiki/wiki/Shield)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Shield_spell_Icon.webp/25px-Shield_spell_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Shield of Faith](https://bg3.wiki/wiki/Shield_of_Faith)",
+    "image": "https://bg3.wiki/w/images/thumb/8/83/Shield_of_Faith_Icon.webp/25px-Shield_of_Faith_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Speak with Animals](https://bg3.wiki/wiki/Speak_with_Animals)",
+    "image": "https://bg3.wiki/w/images/thumb/2/24/Speak_with_Animals_Icon.webp/25px-Speak_with_Animals_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Thunderous Smite](https://bg3.wiki/wiki/Thunderous_Smite)",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Thunderous_Smite_Icon.webp/25px-Thunderous_Smite_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Wrathful Smite](https://bg3.wiki/wiki/Wrathful_Smite)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/Wrathful_Smite_Icon.webp/25px-Wrathful_Smite_Icon.webp.png",
+    "level": 1,
+    "cantrip": false
+  },
+  {
+    "name": "[Barkskin](https://bg3.wiki/wiki/Barkskin)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8b/Barkskin_Icon.webp/25px-Barkskin_Icon.webp.png",
+    "level": 2,
+    "cantrip": false
+  },
+  {
+    "name": "[Heat Metal](https://bg3.wiki/wiki/Heat_Metal)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a3/Heat_Metal_Icon.webp/25px-Heat_Metal_Icon.webp.png",
+    "level": 2,
+    "cantrip": false
+  },
+  {
+    "name": "[Moonbeam](https://bg3.wiki/wiki/Moonbeam)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8b/Moonbeam_Icon.webp/25px-Moonbeam_Icon.webp.png",
+    "level": 2,
+    "cantrip": false
+  },
+  {
+    "name": "[Pass Without Trace](https://bg3.wiki/wiki/Pass_Without_Trace)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2b/Pass_Without_Trace_Icon.webp/25px-Pass_Without_Trace_Icon.webp.png",
+    "level": 2,
+    "cantrip": false
+  },
+  {
+    "name": "[Shadow Blade](https://bg3.wiki/wiki/Shadow_Blade)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/Shadow_Blade_Icon.webp/25px-Shadow_Blade_Icon.webp.png",
+    "level": 2,
+    "cantrip": false
+  },
+  {
+    "name": "[Counterspell](https://bg3.wiki/wiki/Counterspell)",
+    "image": "https://bg3.wiki/w/images/thumb/5/50/Counterspell_Icon.webp/25px-Counterspell_Icon.webp.png",
+    "level": 3,
+    "cantrip": false
+  },
+  {
+    "name": "[Arcane Gate](https://bg3.wiki/wiki/Arcane_Gate)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/Arcane_Gate_Icon.webp/25px-Arcane_Gate_Icon.webp.png",
+    "level": 6,
+    "cantrip": false
+  },
+  {
+    "name": "[Create Undead](https://bg3.wiki/wiki/Create_Undead)",
+    "image": "https://bg3.wiki/w/images/thumb/d/da/Create_Undead_Icon.webp/25px-Create_Undead_Icon.webp.png",
+    "level": 6,
+    "cantrip": false
+  }
+]

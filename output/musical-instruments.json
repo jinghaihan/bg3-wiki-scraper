@@ -1,0 +1,92 @@
+[
+  {
+    "name": "[Lute](https://bg3.wiki/wiki/Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e4/Instrument_Lute_Unfaded_Icon.png/30px-Instrument_Lute_Unfaded_Icon.png",
+    "rare": "common",
+    "instrumentType": "starting"
+  },
+  {
+    "name": "[Flute](https://bg3.wiki/wiki/Flute)",
+    "image": "https://bg3.wiki/w/images/thumb/0/07/Instrument_Flute_Unfaded_Icon.png/30px-Instrument_Flute_Unfaded_Icon.png",
+    "rare": "common",
+    "instrumentType": "starting"
+  },
+  {
+    "name": "[Hand Drum](https://bg3.wiki/wiki/Hand_Drum)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Instrument_Hand_Drum_Unfaded_Icon.png/30px-Instrument_Hand_Drum_Unfaded_Icon.png",
+    "rare": "common",
+    "instrumentType": "starting"
+  },
+  {
+    "name": "[Lyre](https://bg3.wiki/wiki/Lyre)",
+    "image": "https://bg3.wiki/w/images/thumb/3/31/Instrument_Lyre_Unfaded_Icon.png/30px-Instrument_Lyre_Unfaded_Icon.png",
+    "rare": "common",
+    "instrumentType": "starting"
+  },
+  {
+    "name": "[Violin](https://bg3.wiki/wiki/Violin)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/Instrument_Violin_Unfaded_Icon.png/30px-Instrument_Violin_Unfaded_Icon.png",
+    "rare": "common",
+    "instrumentType": "starting"
+  },
+  {
+    "name": "[Alfira's Lute](https://bg3.wiki/wiki/Alfira%27s_Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e4/Instrument_Lute_Unfaded_Icon.png/30px-Instrument_Lute_Unfaded_Icon.png",
+    "rare": "common",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Battered Lute](https://bg3.wiki/wiki/Battered_Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e4/Instrument_Lute_Unfaded_Icon.png/30px-Instrument_Lute_Unfaded_Icon.png",
+    "rare": "story item",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Lihala's Lute](https://bg3.wiki/wiki/Lihala%27s_Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Instrument_Lute2_Unfaded_Icon.png/30px-Instrument_Lute2_Unfaded_Icon.png",
+    "rare": "story item",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Spider's Lyre](https://bg3.wiki/wiki/Spider%27s_Lyre)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d6/Instrument_Spider%27s_Lyre_Unfaded_Icon.png/30px-Instrument_Spider%27s_Lyre_Unfaded_Icon.png",
+    "rare": "story item",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Dostrealt's Piccolo](https://bg3.wiki/wiki/Dostrealt%27s_Piccolo)",
+    "image": "https://bg3.wiki/w/images/thumb/0/07/Instrument_Flute_Unfaded_Icon.png/30px-Instrument_Flute_Unfaded_Icon.png",
+    "rare": "rare",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Falataeric Cli Lyre](https://bg3.wiki/wiki/Falataeric_Cli_Lyre)",
+    "image": "https://bg3.wiki/w/images/thumb/3/31/Instrument_Lyre_Unfaded_Icon.png/30px-Instrument_Lyre_Unfaded_Icon.png",
+    "rare": "rare",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Glimmergad's Selgaunt Fiddle](https://bg3.wiki/wiki/Glimmergad%27s_Selgaunt_Fiddle)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/Instrument_Violin_Unfaded_Icon.png/30px-Instrument_Violin_Unfaded_Icon.png",
+    "rare": "rare",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Kiam Goda's Kilat Drum](https://bg3.wiki/wiki/Kiam_Goda%27s_Kilat_Drum)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Instrument_Hand_Drum_Unfaded_Icon.png/30px-Instrument_Hand_Drum_Unfaded_Icon.png",
+    "rare": "rare",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Stolyarof's Table Lute](https://bg3.wiki/wiki/Stolyarof%27s_Table_Lute)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e4/Instrument_Lute_Unfaded_Icon.png/30px-Instrument_Lute_Unfaded_Icon.png",
+    "rare": "rare",
+    "instrumentType": "unique"
+  },
+  {
+    "name": "[Lute of the Merryweather Bard](https://bg3.wiki/wiki/Lute_of_the_Merryweather_Bard)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e2/Instrument_Lohses_Lute_Unfaded_Icon.png/30px-Instrument_Lohses_Lute_Unfaded_Icon.png",
+    "rare": "common",
+    "instrumentType": "unique"
+  }
+]

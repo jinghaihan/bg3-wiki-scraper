@@ -1,0 +1,383 @@
+[
+  {
+    "name": "[Potion of Healing](https://bg3.wiki/wiki/Potion_of_Healing)",
+    "image": "https://bg3.wiki/w/images/thumb/0/04/POT_Potion_of_Healing_Unfaded_Icon.png/40px-POT_Potion_of_Healing_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "potionType": "healing",
+    "ingredientName": "[Rogue's Morsel](https://bg3.wiki/wiki/Rogue%27s_Morsel)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/a/aa/Rogue%27s_Morsel_Item_Icon.png/25px-Rogue%27s_Morsel_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": true,
+    "effect": "Restores 2d4+2[hit points](https://bg3.wiki/wiki/Healing) and removes the  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) condition."
+  },
+  {
+    "name": "[Potion of Greater Healing](https://bg3.wiki/wiki/Potion_of_Greater_Healing)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3e/POT_Potion_of_Greater_Healing_Unfaded_Icon.png/40px-POT_Potion_of_Greater_Healing_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 16,
+    "potionType": "healing",
+    "ingredientName": "[Balsam](https://bg3.wiki/wiki/Balsam)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/0/09/Balsam_Item_Icon.png/25px-Balsam_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": true,
+    "effect": "Restores 4d4+4[hit points](https://bg3.wiki/wiki/Healing) and removes the  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) condition."
+  },
+  {
+    "name": "[Potion of Superior Healing](https://bg3.wiki/wiki/Potion_of_Superior_Healing)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/POT_Potion_of_Superior_Healing_Unfaded_Icon.png/40px-POT_Potion_of_Superior_Healing_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 25,
+    "potionType": "healing",
+    "ingredientName": "[Yellow Musk Creeper Petals](https://bg3.wiki/wiki/Yellow_Musk_Creeper_Petals)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/0/09/Yellow_Musk_Creeper_Petals_Item_Icon.png/25px-Yellow_Musk_Creeper_Petals_Item_Icon.png",
+    "tradeLevel": 8,
+    "throwable": true,
+    "effect": "Restores 8d4+8[hit points](https://bg3.wiki/wiki/Healing) and removes the  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) condition."
+  },
+  {
+    "name": "[Potion of Supreme Healing](https://bg3.wiki/wiki/Potion_of_Supreme_Healing)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a6/POT_Potion_of_Supreme_Healing_Unfaded_Icon.png/40px-POT_Potion_of_Supreme_Healing_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "price": 45,
+    "potionType": "healing",
+    "ingredientName": "[Ki-Rin Hair](https://bg3.wiki/wiki/Ki-Rin_Hair)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/5/50/Ki-Rin_Hair_Item_Icon.png/25px-Ki-Rin_Hair_Item_Icon.png",
+    "tradeLevel": 11,
+    "throwable": true,
+    "effect": "Restores 10d4+20[hit points](https://bg3.wiki/wiki/Healing) and removes the  [Burning](https://bg3.wiki/wiki/Burning_(Condition)) condition."
+  },
+  {
+    "name": "[Antidote](https://bg3.wiki/wiki/Antidote)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/POT_Antidote_Unfaded_Icon.png/40px-POT_Antidote_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 13,
+    "potionType": "regular",
+    "ingredientName": "[Mugwort](https://bg3.wiki/wiki/Mugwort)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/3/35/Mugwort_Item_Icon.png/25px-Mugwort_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": true,
+    "effect": "Neutralizes all poisons."
+  },
+  {
+    "name": "[Basilisk Oil](https://bg3.wiki/wiki/Basilisk_Oil)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d9/POT_Basilisk_Oil_Unfaded_Icon.png/40px-POT_Basilisk_Oil_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 10,
+    "potionType": "regular",
+    "tradeLevel": 1,
+    "throwable": true,
+    "effect": "Turns a  [Petrified](https://bg3.wiki/wiki/Petrified_(Condition)) creature back to its organic form."
+  },
+  {
+    "name": "[Potion of Angelic Reprieve](https://bg3.wiki/wiki/Potion_of_Angelic_Reprieve)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/POT_Potion_of_Angelic_Reprieve_Unfaded_Icon.png/40px-POT_Potion_of_Angelic_Reprieve_Unfaded_Icon.png",
+    "rare": "rare",
+    "price": 90,
+    "potionType": "regular",
+    "ingredientName": "[Unicorn Horn](https://bg3.wiki/wiki/Unicorn_Horn)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/4/48/Unicorn_Horn_Unfaded_Icon.png/25px-Unicorn_Horn_Unfaded_Icon.png",
+    "tradeLevel": 1,
+    "throwable": false,
+    "effect": "Fall asleep for  Duration: 2 turns. Unless interrupted gain the benefits of a [Short Rest](https://bg3.wiki/wiki/Short_Rest) and regain all 1st and 2nd Level spell slots."
+  },
+  {
+    "name": "[Potion of Angelic Slumber](https://bg3.wiki/wiki/Potion_of_Angelic_Slumber)",
+    "image": "https://bg3.wiki/w/images/thumb/6/62/POT_Potion_of_Angelic_Slumber_Unfaded_Icon.png/40px-POT_Potion_of_Angelic_Slumber_Unfaded_Icon.png",
+    "rare": "very rare",
+    "price": 200,
+    "potionType": "regular",
+    "ingredientName": "[Planetar Feather](https://bg3.wiki/wiki/Planetar_Feather)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/b/bf/Planetar_Feather_Item_Icon.png/25px-Planetar_Feather_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": false,
+    "effect": "Fall asleep for  Duration: 2 turns. Unless interrupted gain the benefits of a [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[Potion of Animal Speaking](https://bg3.wiki/wiki/Potion_of_Animal_Speaking)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c9/POT_Potion_of_Animal_Speaking_Unfaded_Icon.png/40px-POT_Potion_of_Animal_Speaking_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 13,
+    "potionType": "regular",
+    "ingredientName": "[Acorn Truffle](https://bg3.wiki/wiki/Acorn_Truffle)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/1/11/Acorn_Truffle_Item_Icon.png/25px-Acorn_Truffle_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": false,
+    "effect": "Grants  [Speak with Animals](https://bg3.wiki/wiki/Speak_with_Animals_(Condition)) for  Duration: Until [Long rest](https://bg3.wiki/wiki/Long_rest)."
+  },
+  {
+    "name": "[Potion of Feather Fall](https://bg3.wiki/wiki/Potion_of_Feather_Fall)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7a/POT_Potion_of_Feather_Fall_Unfaded_Icon.png/40px-POT_Potion_of_Feather_Fall_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 13,
+    "potionType": "regular",
+    "ingredientName": "[Autumncrocus](https://bg3.wiki/wiki/Autumncrocus)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/c/cb/Autumncrocus_Item_Icon.png/25px-Autumncrocus_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": true,
+    "effect": "Grants  [Feather Fall](https://bg3.wiki/wiki/Feather_Fall_(Condition)) for  Duration: 10 turns."
+  },
+  {
+    "name": "[Potion of Flying](https://bg3.wiki/wiki/Potion_of_Flying)",
+    "image": "https://bg3.wiki/w/images/thumb/6/63/POT_Potion_of_Flying_Unfaded_Icon.png/40px-POT_Potion_of_Flying_Unfaded_Icon.png",
+    "rare": "rare",
+    "price": 30,
+    "potionType": "regular",
+    "ingredientName": "[Eagle Feather](https://bg3.wiki/wiki/Eagle_Feather)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/6/60/Eagle_Feather_Item_Icon.png/25px-Eagle_Feather_Item_Icon.png",
+    "tradeLevel": 6,
+    "throwable": true,
+    "effect": "Grants  [Flight](https://bg3.wiki/wiki/Flight_(Condition)) for  Duration: 10 turns."
+  },
+  {
+    "name": "[Potion of Gaseous Form](https://bg3.wiki/wiki/Potion_of_Gaseous_Form)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0f/POT_Potion_of_Gaseous_Form_Unfaded_Icon.png/40px-POT_Potion_of_Gaseous_Form_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 60,
+    "potionType": "regular",
+    "tradeLevel": 1,
+    "throwable": false,
+    "effect": "Grants  [Gaseous Form](https://bg3.wiki/wiki/Gaseous_Form_(Condition)) for  Duration: 10 turns."
+  },
+  {
+    "name": "[Potion of Glorious Vaulting](https://bg3.wiki/wiki/Potion_of_Glorious_Vaulting)",
+    "image": "https://bg3.wiki/w/images/thumb/3/30/POT_Potion_of_Glorious_Vaulting_Unfaded_Icon.png/40px-POT_Potion_of_Glorious_Vaulting_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 13,
+    "potionType": "regular",
+    "ingredientName": "[Wispweed](https://bg3.wiki/wiki/Wispweed)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/7/72/Wispweed_Item_Icon.png/25px-Wispweed_Item_Icon.png",
+    "tradeLevel": 6,
+    "throwable": true,
+    "effect": "Grants  [Potion of Glorious Vaulting](https://bg3.wiki/wiki/Potion_of_Glorious_Vaulting_(Condition)) for  Duration: 10 turns."
+  },
+  {
+    "name": "[Potion of Invisibility](https://bg3.wiki/wiki/Potion_of_Invisibility)",
+    "image": "https://bg3.wiki/w/images/thumb/8/89/POT_Potion_of_Invisibility_Unfaded_Icon.png/40px-POT_Potion_of_Invisibility_Unfaded_Icon.png",
+    "rare": "rare",
+    "price": 65,
+    "potionType": "regular",
+    "ingredientName": "[Imp Patagium](https://bg3.wiki/wiki/Imp_Patagium)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/1/10/Imp_Patagium_Item_Icon.png/25px-Imp_Patagium_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": true,
+    "effect": "Grants  [Invisible](https://bg3.wiki/wiki/Invisible_(Condition)) for  Duration: 10 turns."
+  },
+  {
+    "name": "[Potion of Mind Reading](https://bg3.wiki/wiki/Potion_of_Mind_Reading)",
+    "image": "https://bg3.wiki/w/images/thumb/8/80/POT_Potion_of_Mind_Reading_Unfaded_Icon.png/40px-POT_Potion_of_Mind_Reading_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 20,
+    "potionType": "regular",
+    "ingredientName": "[Mergrass](https://bg3.wiki/wiki/Mergrass)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/8/8c/Mergrass_Item_Icon.png/25px-Mergrass_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": false,
+    "effect": "Grants  [Detect Thoughts](https://bg3.wiki/wiki/Detect_Thoughts_(Condition)) for  Duration: Until [Long rest](https://bg3.wiki/wiki/Long_rest)."
+  },
+  {
+    "name": "[Potion of Sleep](https://bg3.wiki/wiki/Potion_of_Sleep)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6c/POT_Potion_of_Sleep_Unfaded_Icon.png/40px-POT_Potion_of_Sleep_Unfaded_Icon.png",
+    "rare": "common",
+    "price": 25,
+    "potionType": "regular",
+    "throwable": true,
+    "effect": "Inflicts  [Sleeping](https://bg3.wiki/wiki/Sleeping_(Condition)) for  Duration: 3 turns."
+  },
+  {
+    "name": "[Potion of Speed](https://bg3.wiki/wiki/Potion_of_Speed)",
+    "image": "https://bg3.wiki/w/images/thumb/8/87/POT_Potion_of_Speed_Unfaded_Icon.png/40px-POT_Potion_of_Speed_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "price": 20,
+    "potionType": "regular",
+    "ingredientName": "[Hyena Ear](https://bg3.wiki/wiki/Hyena_Ear)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/b/bd/Hyena_Ear_Item_Icon.png/25px-Hyena_Ear_Item_Icon.png",
+    "tradeLevel": 1,
+    "throwable": true,
+    "effect": "Grants  [Hastened](https://bg3.wiki/wiki/Hastened_(Condition)) for  Duration: 3 turns."
+  },
+  {
+    "name": "[Remedial Potion](https://bg3.wiki/wiki/Remedial_Potion)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5d/POT_Remedial_Potion_Unfaded_Icon.png/40px-POT_Remedial_Potion_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "price": 25,
+    "potionType": "regular",
+    "ingredientName": "[Xorn Scales](https://bg3.wiki/wiki/Xorn_Scales)",
+    "ingredientImage": "https://bg3.wiki/w/images/thumb/9/9a/Xorn_Scales_Item_Icon.png/25px-Xorn_Scales_Item_Icon.png",
+    "tradeLevel": 6,
+    "throwable": true,
+    "effect": "Cures  [Blinded](https://bg3.wiki/wiki/Blinded_(Condition)),  [Silenced](https://bg3.wiki/wiki/Silenced_(Condition)),  [Paralysed](https://bg3.wiki/wiki/Paralysed_(Condition)), and  [Poisoned](https://bg3.wiki/wiki/Poisoned_(Condition)) conditions."
+  },
+  {
+    "name": "[A Mother's Loathing](https://bg3.wiki/wiki/A_Mother%27s_Loathing)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/ELX_Superior_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Superior_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "Until Long Rest",
+    "effect": "Gains  [Bite](https://bg3.wiki/wiki/Bite_(Mother%27s_Loathing)) until next [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[Broken Promises](https://bg3.wiki/wiki/Broken_Promises)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/ELX_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "Until Long Rest",
+    "effect": "[Strength](https://bg3.wiki/wiki/Strength) is increased by 2 until the next [Long Rest](https://bg3.wiki/wiki/Long_Rest). Strength is decreased indefinitely by 1 after that [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[Butterflies in the Stomach](https://bg3.wiki/wiki/Butterflies_in_the_Stomach)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/ELX_Supreme_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Supreme_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "5 turns",
+    "effect": "Takes 1d6[Piercing](https://bg3.wiki/wiki/Piercing) damage at the end of each turn."
+  },
+  {
+    "name": "[Faltering Will](https://bg3.wiki/wiki/Faltering_Will)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/ELX_Greater_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Greater_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "Until Long Rest",
+    "effect": "[Disadvantage](https://bg3.wiki/wiki/Disadvantage) on Wisdom [Saving Throws](https://bg3.wiki/wiki/Saving_Throws) until [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[Heart of Stone](https://bg3.wiki/wiki/Heart_of_Stone)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/ELX_Superior_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Superior_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "Until Long Rest",
+    "effect": "Gain [Resistance](https://bg3.wiki/wiki/Resistance) to [Poison](https://bg3.wiki/wiki/Poison) until next [Long Rest](https://bg3.wiki/wiki/Long_Rest)."
+  },
+  {
+    "name": "[Insanity's Kiss](https://bg3.wiki/wiki/Insanity%27s_Kiss)",
+    "image": "https://bg3.wiki/w/images/thumb/7/79/ELX_Supreme_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Supreme_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "5 turns",
+    "effect": "Hostile to all other creatures for the condition's duration."
+  },
+  {
+    "name": "[Lover's Avarice](https://bg3.wiki/wiki/Lover%27s_Avarice)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c8/ELX_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "Until Long Rest",
+    "effect": "Wisdom is indefinitely reduced by 1."
+  },
+  {
+    "name": "[Lost Time](https://bg3.wiki/wiki/Lost_Time)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/POT_Wilted_Dreams_Unfaded_Icon.png/40px-POT_Wilted_Dreams_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "5 turns",
+    "effect": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) is reduced by 2. Can't take [Reactions](https://bg3.wiki/wiki/Reactions_(disambiguation))."
+  },
+  {
+    "name": "[Missing Pets](https://bg3.wiki/wiki/Missing_Pets)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/ELX_Greater_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png/40px-ELX_Greater_Elixir_of_Arcane_Cultivation_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "3 turns",
+    "effect": "Cannot move. Has  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on [Ability Checks](https://bg3.wiki/wiki/Ability_Check) and [Attack rolls](https://bg3.wiki/wiki/Attack_roll)."
+  },
+  {
+    "name": "[Wilted Dreams](https://bg3.wiki/wiki/Wilted_Dreams)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6e/POT_Wilted_Dreams_Unfaded_Icon.png/40px-POT_Wilted_Dreams_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "hag",
+    "duration": "Until Long Rest",
+    "effect": "Takes 3d6[Psychic](https://bg3.wiki/wiki/Psychic) during its next Long Rest."
+  },
+  {
+    "name": "[Dream Mist](https://bg3.wiki/wiki/Dream_Mist)",
+    "image": "https://bg3.wiki/w/images/thumb/4/44/DRUG_Dream_Mist_Unfaded_Icon.png/40px-DRUG_Dream_Mist_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "drugs",
+    "duration": "3 turns",
+    "effect": "Inflicts  [Dream Mist Apparitions](https://bg3.wiki/wiki/Dream_Mist_Apparitions_(Condition)), equivalent to the  [Incapacitated](https://bg3.wiki/wiki/Incapacitated_(Condition)) condition."
+  },
+  {
+    "name": "[Essence of Ether](https://bg3.wiki/wiki/Essence_of_Ether)",
+    "image": "https://bg3.wiki/w/images/thumb/0/01/DRUG_Essence_of_Ether_Unfaded_Icon.png/40px-DRUG_Essence_of_Ether_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "drugs",
+    "duration": "2 turns",
+    "effect": "Inflicts  [Ether-Essence Slumber](https://bg3.wiki/wiki/Ether-Essence_Slumber_(Condition)), equivalent to the  [Sleeping](https://bg3.wiki/wiki/Sleeping_(Condition)) condition."
+  },
+  {
+    "name": "[Silkroot](https://bg3.wiki/wiki/Silkroot)",
+    "image": "https://bg3.wiki/w/images/thumb/7/71/DRUG_Silkroot_Unfaded_Icon.png/40px-DRUG_Silkroot_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "drugs",
+    "duration": "3 turns",
+    "effect": "Inflicts  [Silkroot Euphoria](https://bg3.wiki/wiki/Silkroot_Euphoria_(Condition)), equivalent to the  [Drunk](https://bg3.wiki/wiki/Drunk_(Condition)) condition."
+  },
+  {
+    "name": "[Terazul](https://bg3.wiki/wiki/Terazul)",
+    "image": "https://bg3.wiki/w/images/thumb/6/62/DRUG_Terazul_Unfaded_Icon.png/40px-DRUG_Terazul_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "drugs",
+    "duration": "2 turns",
+    "effect": "Inflicts  [The Terazul Jitters](https://bg3.wiki/wiki/The_Terazul_Jitters_(Condition)), equivalent to the  [Hastened](https://bg3.wiki/wiki/Hastened_(Condition)) condition, but also stacks with it."
+  },
+  {
+    "name": "[Duergar Antidote](https://bg3.wiki/wiki/Duergar_Antidote)",
+    "image": "https://bg3.wiki/w/images/thumb/6/60/POT_Antidote_Unfaded_Icon.png/40px-POT_Antidote_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "unique",
+    "duration": "10 turns",
+    "effect": "Grants [Poison](https://bg3.wiki/wiki/Poison) resistance and nullifies certain [Duergar](https://bg3.wiki/wiki/Duergar) poisons."
+  },
+  {
+    "name": "[Elixir of Health](https://bg3.wiki/wiki/Elixir_of_Health)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fe/POT_Elixir_of_Health_Unfaded_Icon.png/40px-POT_Elixir_of_Health_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "unique",
+    "duration": "–",
+    "effect": "Neutralize all [poisons](https://bg3.wiki/wiki/Poisoned_(Condition_Type)), [blindness](https://bg3.wiki/wiki/Blinded_(Condition_Type)), [petrification](https://bg3.wiki/wiki/Petrified_(status_group)), and [diseases](https://bg3.wiki/wiki/Diseased_(Condition_Type))."
+  },
+  {
+    "name": "[Elixir of Silvanus](https://bg3.wiki/wiki/Elixir_of_Silvanus)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6a/ELX_Elixir_of_Silvanus_Unfaded_Icon.png/40px-ELX_Elixir_of_Silvanus_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "unique",
+    "duration": "–",
+    "effect": "Neutralizes all [poisons](https://bg3.wiki/wiki/Poisoned_(Condition_Type))."
+  },
+  {
+    "name": "[Mysterious Elixir](https://bg3.wiki/wiki/Mysterious_Elixir)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9c/Mysterious_Elixir_Unfaded_Icon.png/40px-Mysterious_Elixir_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "unique",
+    "duration": "10 turns",
+    "effect": "Casts  [Feign Death](https://bg3.wiki/wiki/Feign_Death) on the user."
+  },
+  {
+    "name": "[Potion of Everlasting Vigour](https://bg3.wiki/wiki/Potion_of_Everlasting_Vigour)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/POT_Potion_of_Everlasting_Vigour_Unfaded_Icon.png/40px-POT_Potion_of_Everlasting_Vigour_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "unique",
+    "duration": "Permanent",
+    "effect": "Permanently increase your [Strength](https://bg3.wiki/wiki/Strength) by 2."
+  },
+  {
+    "name": "[Potion of Vitality](https://bg3.wiki/wiki/Potion_of_Vitality)",
+    "image": "https://bg3.wiki/w/images/thumb/b/bd/POT_Potion_of_Vitality_Unfaded_Icon.png/40px-POT_Potion_of_Vitality_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "unique",
+    "duration": "–",
+    "effect": "Cures any Poison or Disease."
+  },
+  {
+    "name": "[Bottled Breath](https://bg3.wiki/wiki/Bottled_Breath)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7a/POT_Potion_of_Feather_Fall_Unfaded_Icon.png/40px-POT_Potion_of_Feather_Fall_Unfaded_Icon.png",
+    "rare": "common",
+    "potionType": "legacy"
+  },
+  {
+    "name": "[Oil of Slipperiness](https://bg3.wiki/wiki/Oil_of_Slipperiness)",
+    "image": "https://bg3.wiki/w/images/thumb/3/39/Bottle_A_Icon.png/40px-Bottle_A_Icon.png",
+    "rare": "common",
+    "potionType": "legacy"
+  }
+]

@@ -1,0 +1,407 @@
+[
+  {
+    "name": "[Apprentice's Pack](https://bg3.wiki/wiki/Apprentice%27s_Pack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Backpack_A_Unfaded_Icon.webp/40px-Backpack_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Backpack](https://bg3.wiki/wiki/Backpack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Backpack_A_Unfaded_Icon.webp/40px-Backpack_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Baelen's Pack](https://bg3.wiki/wiki/Baelen%27s_Pack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Backpack_A_Unfaded_Icon.webp/40px-Backpack_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Bag of Moulding](https://bg3.wiki/wiki/Bag_of_Moulding)",
+    "image": "https://bg3.wiki/w/images/thumb/9/98/Leather_Pouch_Old_Unfaded_Icon.webp/40px-Leather_Pouch_Old_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Bewildering Adventurer's Pack](https://bg3.wiki/wiki/Bewildering_Adventurer%27s_Pack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a6/Backpack_B_Unfaded_Icon.webp/40px-Backpack_B_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Bucket of Fish](https://bg3.wiki/wiki/Bucket_of_Fish)",
+    "image": "https://bg3.wiki/w/images/thumb/b/b4/Bucket_of_Fish_Unfaded_Icon.png/40px-Bucket_of_Fish_Unfaded_Icon.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Burlap Sack](https://bg3.wiki/wiki/Burlap_Sack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Pouch_A_Unfaded_Icon.webp/40px-Pouch_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Gale's Pouch](https://bg3.wiki/wiki/Gale%27s_Pouch)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3e/Gales_Pouch_Unfaded_Icon.png/40px-Gales_Pouch_Unfaded_Icon.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Hand Bag](https://bg3.wiki/wiki/Hand_Bag)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Pouch_A_Unfaded_Icon.webp/40px-Pouch_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Heavy Backpack](https://bg3.wiki/wiki/Heavy_Backpack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Backpack_A_Unfaded_Icon.webp/40px-Backpack_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Kanon's Belongings](https://bg3.wiki/wiki/Kanon%27s_Belongings)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Leather_Pouch_A_Unfaded_Icon.webp/40px-Leather_Pouch_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Magical Walnut](https://bg3.wiki/wiki/Magical_Walnut)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Leather_Pouch_A_Unfaded_Icon.webp/40px-Leather_Pouch_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Old Backpack](https://bg3.wiki/wiki/Old_Backpack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Backpack_A_Unfaded_Icon.webp/40px-Backpack_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Old Pouch](https://bg3.wiki/wiki/Old_Pouch)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Leather_Pouch_A_Unfaded_Icon.webp/40px-Leather_Pouch_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Patched-Together Sack](https://bg3.wiki/wiki/Patched-Together_Sack)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Backpack_A_Unfaded_Icon.webp/40px-Backpack_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Pickpocket's Bag](https://bg3.wiki/wiki/Pickpocket%27s_Bag)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a5/Backpack_A_Unfaded_Icon.webp/40px-Backpack_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Pouch](https://bg3.wiki/wiki/Pouch)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/Leather_Pouch_A_Unfaded_Icon.webp/40px-Leather_Pouch_A_Unfaded_Icon.webp.png",
+    "containerType": "Bags and Pouches"
+  },
+  {
+    "name": "[Adamantine Chest](https://bg3.wiki/wiki/Adamantine_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Jeweled_Chest_A_Unfaded_Icon.webp/40px-Jeweled_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Caravan Strongbox](https://bg3.wiki/wiki/Caravan_Strongbox)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Common_Chest_A_Unfaded_Icon.webp/40px-Common_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Cartilaginous Chest](https://bg3.wiki/wiki/Cartilaginous_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/1/10/Cartilaginous_Chest_Unfaded_Icon.webp/40px-Cartilaginous_Chest_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Chest of the Mundane](https://bg3.wiki/wiki/Chest_of_the_Mundane)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Jeweled_Chest_A_Unfaded_Icon.webp/40px-Jeweled_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Crude Chest](https://bg3.wiki/wiki/Crude_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3d/Goblin_Chest_Unfaded_Icon.png/40px-Goblin_Chest_Unfaded_Icon.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Elaborate Reliquary](https://bg3.wiki/wiki/Elaborate_Reliquary)",
+    "image": "https://bg3.wiki/w/images/thumb/1/12/Jeweled_Chest_B_Unfaded_Icon.webp/40px-Jeweled_Chest_B_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Elegant Chest](https://bg3.wiki/wiki/Elegant_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/6/65/Rich_Chest_B_Unfaded_Icon.webp/40px-Rich_Chest_B_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Feast Supplies](https://bg3.wiki/wiki/Feast_Supplies)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c9/Wicker_Chest_Unfaded_Icon.webp/40px-Wicker_Chest_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Gilded Chest](https://bg3.wiki/wiki/Gilded_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Jeweled_Chest_A_Unfaded_Icon.webp/40px-Jeweled_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Grimy Chest](https://bg3.wiki/wiki/Grimy_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4e/Wood_Chest_Unfaded_Icon.webp/40px-Wood_Chest_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Harper Stash](https://bg3.wiki/wiki/Harper_Stash)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Common_Chest_A_Unfaded_Icon.webp/40px-Common_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Heavy Chest](https://bg3.wiki/wiki/Heavy_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/Heavy_Chest_Unfaded_Icon.webp/40px-Heavy_Chest_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Innkeeper's Lockbox](https://bg3.wiki/wiki/Innkeeper%27s_Lockbox)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Common_Chest_A_Unfaded_Icon.webp/40px-Common_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Moss-Covered Chest](https://bg3.wiki/wiki/Moss-Covered_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Common_Chest_B_Unfaded_Icon.webp/40px-Common_Chest_B_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Opulent Chest](https://bg3.wiki/wiki/Opulent_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cc/Rich_Chest_C_Unfaded_Icon.webp/40px-Rich_Chest_C_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Ornate Chest](https://bg3.wiki/wiki/Ornate_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Common_Chest_A_Unfaded_Icon.webp/40px-Common_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Painted Chest](https://bg3.wiki/wiki/Painted_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/0/03/Painted_Wooden_Chest_Icon.webp/40px-Painted_Wooden_Chest_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Rustic Chest](https://bg3.wiki/wiki/Rustic_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Common_Chest_A_Unfaded_Icon.webp/40px-Common_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Shiny Chest](https://bg3.wiki/wiki/Shiny_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8a/Jeweled_Chest_A_Unfaded_Icon.webp/40px-Jeweled_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Storage Chest](https://bg3.wiki/wiki/Storage_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/Heavy_Chest_Unfaded_Icon.webp/40px-Heavy_Chest_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Travel-Worn Chest](https://bg3.wiki/wiki/Travel-Worn_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Common_Chest_A_Unfaded_Icon.webp/40px-Common_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Wicker Chest](https://bg3.wiki/wiki/Wicker_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c9/Wicker_Chest_Unfaded_Icon.webp/40px-Wicker_Chest_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Wooden Chest](https://bg3.wiki/wiki/Wooden_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/5/55/Common_Chest_A_Unfaded_Icon.webp/40px-Common_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Chests"
+  },
+  {
+    "name": "[Absolutist Expedition Trunk](https://bg3.wiki/wiki/Absolutist_Expedition_Trunk)",
+    "image": "https://bg3.wiki/w/images/thumb/a/ac/Heavy_Chest_Unfaded_Icon.webp/40px-Heavy_Chest_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Cormyte Shipment Box](https://bg3.wiki/wiki/Cormyte_Shipment_Box)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/Wooden_Crate_A_Unfaded_Icon.webp/40px-Wooden_Crate_A_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Dale Shipment Trunk](https://bg3.wiki/wiki/Dale_Shipment_Trunk)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Wooden_Crate_C_Unfaded_Icon.webp/40px-Wooden_Crate_C_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Decorated Barrel](https://bg3.wiki/wiki/Decorated_Barrel)",
+    "image": "https://bg3.wiki/w/images/thumb/3/35/CONT_GTY_Barrel_A_Unfaded.webp/40px-CONT_GTY_Barrel_A_Unfaded.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Fish Barrel](https://bg3.wiki/wiki/Fish_Barrel)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a7/Barrel_B_Unfaded_Icon.webp/40px-Barrel_B_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Metal Crate](https://bg3.wiki/wiki/Metal_Crate)",
+    "image": "https://bg3.wiki/w/images/thumb/6/64/MetalCrateUnfaded_Icon.png/40px-MetalCrateUnfaded_Icon.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Metal Trunk](https://bg3.wiki/wiki/Metal_Trunk)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e0/MetalTrunkUnfaded_Icon.png/40px-MetalTrunkUnfaded_Icon.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Thayan Shipment Box](https://bg3.wiki/wiki/Thayan_Shipment_Box)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/Wooden_Crate_A_Unfaded_Icon.webp/40px-Wooden_Crate_A_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Wooden Barrel](https://bg3.wiki/wiki/Wooden_Barrel)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a4/Barrel_A_Unfaded_Icon.webp/40px-Barrel_A_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Wooden Crate (regular)](https://bg3.wiki/wiki/Wooden_Crate_(regular))",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/Wooden_Crate_A_Unfaded_Icon.webp/40px-Wooden_Crate_A_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Wooden Crate (Emerald Enclave)](https://bg3.wiki/wiki/Wooden_Crate_(Emerald_Enclave))",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Emerald_Enclave_Wood_Crate_A_Unfaded_Icon.webp/40px-Emerald_Enclave_Wood_Crate_A_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Wooden Crate (Zhentarim)](https://bg3.wiki/wiki/Wooden_Crate_(Zhentarim))",
+    "image": "https://bg3.wiki/w/images/thumb/d/dd/Zhentarim_Wood_Crate_A_Unfaded_Icon.webp/40px-Zhentarim_Wood_Crate_A_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Wooden Trunk](https://bg3.wiki/wiki/Wooden_Trunk)",
+    "image": "https://bg3.wiki/w/images/thumb/4/49/Wooden_Crate_C_Unfaded_Icon.webp/40px-Wooden_Crate_C_Unfaded_Icon.webp.png",
+    "containerType": "Barrels, Crates and Trunks"
+  },
+  {
+    "name": "[Adventurer's Chest](https://bg3.wiki/wiki/Adventurer%27s_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Small_Traveling_Chest_Icon.webp/40px-Small_Traveling_Chest_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Bottle Rack](https://bg3.wiki/wiki/Bottle_Rack)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7d/Item_LAB_GEN_Bottle_Rack_C_Unfaded_Icon.png/40px-Item_LAB_GEN_Bottle_Rack_C_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Damaged Vase](https://bg3.wiki/wiki/Damaged_Vase)",
+    "image": "https://bg3.wiki/w/images/thumb/8/84/Vase_Large_C_Glazed_Unfaded_Icon.png/40px-Vase_Large_C_Glazed_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Loose Plank](https://bg3.wiki/wiki/Loose_Plank)",
+    "image": "https://bg3.wiki/w/images/d/d9/Loose_Plank_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Pile of Books](https://bg3.wiki/wiki/Pile_of_Books)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4b/Item_BOOK_GEN_Books_Stack_A_Unfaded_Icon.png/40px-Item_BOOK_GEN_Books_Stack_A_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Rosewood Desk](https://bg3.wiki/wiki/Rosewood_Desk)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e7/Item_FUR_GEN_Desk_Common_B_Unfaded_Icon.png/40px-Item_FUR_GEN_Desk_Common_B_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Row of Books](https://bg3.wiki/wiki/Row_of_Books)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d5/Item_BOOK_GEN_Books_Row_Multiple_D_Unfaded_Icon.webp/40px-Item_BOOK_GEN_Books_Row_Multiple_D_Unfaded_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Shabby Wardrobe](https://bg3.wiki/wiki/Shabby_Wardrobe)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1c/Interactitem_Cupboard_Unfaded_Icon.webp/40px-Interactitem_Cupboard_Unfaded_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Shelf](https://bg3.wiki/wiki/Shelf)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1c/Interactitem_Cupboard_Unfaded_Icon.webp/40px-Interactitem_Cupboard_Unfaded_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Society of Brilliance Traveller's Chest](https://bg3.wiki/wiki/Society_of_Brilliance_Traveller%27s_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Small_Traveling_Chest_A_Unfaded_Icon.webp/40px-Small_Traveling_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Stack of Books](https://bg3.wiki/wiki/Stack_of_Books)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4b/Item_BOOK_GEN_Books_Stack_A_Unfaded_Icon.png/40px-Item_BOOK_GEN_Books_Stack_A_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Stone Tablets](https://bg3.wiki/wiki/Stone_Tablets)",
+    "image": "https://bg3.wiki/w/images/thumb/8/82/DEC_Druids_Tablet_Stone_Row_Multiple_A_Unfaded.webp/40px-DEC_Druids_Tablet_Stone_Row_Multiple_A_Unfaded.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Storage Box](https://bg3.wiki/wiki/Storage_Box)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Small_Traveling_Chest_A_Unfaded_Icon.webp/40px-Small_Traveling_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Strongbox](https://bg3.wiki/wiki/Strongbox)",
+    "image": "https://bg3.wiki/w/images/thumb/9/90/Strongbox_Unfaded_Icon.png/37px-Strongbox_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Table](https://bg3.wiki/wiki/Table)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e7/Item_FUR_GEN_Desk_Common_B_Unfaded_Icon.png/40px-Item_FUR_GEN_Desk_Common_B_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Traveller's Chest](https://bg3.wiki/wiki/Traveller%27s_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Small_Traveling_Chest_A_Unfaded_Icon.webp/40px-Small_Traveling_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Traveller's Chest (small)](https://bg3.wiki/wiki/Traveller%27s_Chest_(small))",
+    "image": "https://bg3.wiki/w/images/thumb/2/29/Small_Traveling_Chest_A_Unfaded_Icon.webp/40px-Small_Traveling_Chest_A_Unfaded_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Watertight Chest](https://bg3.wiki/wiki/Watertight_Chest)",
+    "image": "https://bg3.wiki/w/images/thumb/1/16/Small_Traveling_Chest_Icon.webp/40px-Small_Traveling_Chest_Icon.webp.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Wooden Desk](https://bg3.wiki/wiki/Wooden_Desk)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e7/Item_FUR_GEN_Desk_Common_B_Unfaded_Icon.png/40px-Item_FUR_GEN_Desk_Common_B_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Wooden Shelf](https://bg3.wiki/wiki/Wooden_Shelf)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7d/Item_LAB_GEN_Bottle_Rack_C_Unfaded_Icon.png/40px-Item_LAB_GEN_Bottle_Rack_C_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Vase](https://bg3.wiki/wiki/Vase)",
+    "image": "https://bg3.wiki/w/images/thumb/8/8e/Vase_Generic_Unfaded_Icon.png/40px-Vase_Generic_Unfaded_Icon.png",
+    "containerType": "Static Containers"
+  },
+  {
+    "name": "[Animal Carcass](https://bg3.wiki/wiki/Animal_Carcass)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Ribcage_Unfaded_Icon.png/40px-Ribcage_Unfaded_Icon.png",
+    "containerType": "Other"
+  },
+  {
+    "name": "[Curious Book](https://bg3.wiki/wiki/Curious_Book)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d1/Book_Generic_K_Item_Icon.png/40px-Book_Generic_K_Item_Icon.png",
+    "containerType": "Other"
+  },
+  {
+    "name": "[Ribcage](https://bg3.wiki/wiki/Ribcage)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Ribcage_Unfaded_Icon.png/40px-Ribcage_Unfaded_Icon.png",
+    "containerType": "Other"
+  },
+  {
+    "name": "[Stuffed Bear (Container)](https://bg3.wiki/wiki/Stuffed_Bear_(Container))",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/MISC_Stuffed_Bear_Clean_Unfaded_Icon.png/40px-MISC_Stuffed_Bear_Clean_Unfaded_Icon.png",
+    "containerType": "Other"
+  },
+  {
+    "name": "[Alchemy Pouch](https://bg3.wiki/wiki/Alchemy_Pouch)",
+    "image": "https://bg3.wiki/w/images/thumb/7/75/Alchemy_Pouch_Item_Icon.png/40px-Alchemy_Pouch_Item_Icon.png",
+    "containerType": "Special Containers"
+  },
+  {
+    "name": "[Camp Supply Sack](https://bg3.wiki/wiki/Camp_Supply_Sack)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e3/Camp_Supply_Sack_Unfaded_Icon.png/40px-Camp_Supply_Sack_Unfaded_Icon.png",
+    "containerType": "Special Containers"
+  },
+  {
+    "name": "[Keychain](https://bg3.wiki/wiki/Keychain)",
+    "image": "https://bg3.wiki/w/images/thumb/2/2a/Keychain_Unfaded_Icon.png/40px-Keychain_Unfaded_Icon.png",
+    "containerType": "Special Containers"
+  }
+]

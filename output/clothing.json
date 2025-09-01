@@ -1,0 +1,338 @@
+[
+  {
+    "name": "[Barbarian Clothes](https://bg3.wiki/wiki/Barbarian_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3c/Barbarian_Clothes_Unfaded_Icon.png/50px-Barbarian_Clothes_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Barbarian Clothes](https://bg3.wiki/wiki/Barbarian_Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9a/Barbarian_Clothes_Karlach_Unfaded_Icon.png/50px-Barbarian_Clothes_Karlach_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Clothes](https://bg3.wiki/wiki/Clothes)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cc/Clothes_Unfaded_Icon.png/50px-Clothes_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Monastic Robes](https://bg3.wiki/wiki/Monastic_Robes)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Monastic_Robes_Unfaded_Icon.png/50px-Monastic_Robes_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Robe](https://bg3.wiki/wiki/Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Robe_B_Unfaded_Icon.png/50px-Robe_B_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Robe](https://bg3.wiki/wiki/Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c7/Robe_D_Unfaded_Icon.png/50px-Robe_D_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Robe](https://bg3.wiki/wiki/Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Robe_E_Unfaded_Icon.png/50px-Robe_E_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Simple Robe](https://bg3.wiki/wiki/Simple_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Simple_Robe_Unfaded_Icon.png/50px-Simple_Robe_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Simple Robe](https://bg3.wiki/wiki/Simple_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/6/66/Simple_Robe_Unfaded_Icon.png/50px-Simple_Robe_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Sorcerer Robe](https://bg3.wiki/wiki/Sorcerer_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/2/24/Sorcerer_Robe_Unfaded_Icon.png/50px-Sorcerer_Robe_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Sorcerer Robe](https://bg3.wiki/wiki/Sorcerer_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/2/24/Sorcerer_Robe_Unfaded_Icon.png/50px-Sorcerer_Robe_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Sorcerer Robe](https://bg3.wiki/wiki/Sorcerer_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/2/24/Sorcerer_Robe_Unfaded_Icon.png/50px-Sorcerer_Robe_Unfaded_Icon.png",
+    "rare": "common",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Armour of Uninhibited Kushigo](https://bg3.wiki/wiki/Armour_of_Uninhibited_Kushigo)",
+    "image": "https://bg3.wiki/w/images/thumb/e/e1/Armour_of_Uninhibited_Kushigo_Unfaded_Icon.png/50px-Armour_of_Uninhibited_Kushigo_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 250,
+    "effects": "[Kushigo Counter](https://bg3.wiki/wiki/Kushigo_Counter) \nWhile  [Patient Defence](https://bg3.wiki/wiki/Patient_Defence_(Condition)) is active: the wearer can use their reaction to make an unarmed strike against any attacker that misses."
+  },
+  {
+    "name": "[Bided Time](https://bg3.wiki/wiki/Bided_Time)",
+    "image": "https://bg3.wiki/w/images/thumb/2/24/Bided_Time_Unfaded_Icon.png/50px-Bided_Time_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 250,
+    "effects": "[Time Thoroughly Bided](https://bg3.wiki/wiki/Time_Thoroughly_Bided)The wearer gains  [Arcane Charge](https://bg3.wiki/wiki/Arcane_Charge_(Condition)) whenever they are hit by a melee attack."
+  },
+  {
+    "name": "[Bloodguzzler Garb](https://bg3.wiki/wiki/Bloodguzzler_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/d/df/Bloodguzzler_Garb_Unfaded_Icon.png/50px-Bloodguzzler_Garb_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 250,
+    "effects": "[Grievous Retribution](https://bg3.wiki/wiki/Grievous_Retribution)When an enemy damages the wearer, the wearer gains  [Wrath](https://bg3.wiki/wiki/Wrath_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Cloth Armour](https://bg3.wiki/wiki/Cloth_Armour)",
+    "image": "https://bg3.wiki/w/images/thumb/2/21/Cloth_Armour_Unfaded_Icon.png/50px-Cloth_Armour_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 250,
+    "effects": "[Grievous Retribution](https://bg3.wiki/wiki/Grievous_Retribution)When an enemy damages the wearer, the wearer gains  [Wrath](https://bg3.wiki/wiki/Wrath_(Condition)) for 2 turns."
+  },
+  {
+    "name": "[Poisoner's Robe](https://bg3.wiki/wiki/Poisoner%27s_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/4/46/Poisoners_Robe_Unfaded_Icon.png/50px-Poisoners_Robe_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 250,
+    "effects": "[Poison Trails](https://bg3.wiki/wiki/Poison_Trails)When the wearer casts a spell that deals [Poison](https://bg3.wiki/wiki/Poison) damage, it deals an additional 1d4Poison damage."
+  },
+  {
+    "name": "[Robe](https://bg3.wiki/wiki/Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/c/c1/Robe_B_Unfaded_Icon.png/50px-Robe_B_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 11,
+    "effects": ""
+  },
+  {
+    "name": "[Robe of Summer](https://bg3.wiki/wiki/Robe_of_Summer)",
+    "image": "https://bg3.wiki/w/images/thumb/6/61/Robe_of_Summer_Unfaded_Icon.png/50px-Robe_of_Summer_Unfaded_Icon.png",
+    "rare": "uncommon",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 250,
+    "effects": "[Resistance](https://bg3.wiki/wiki/Resistance) to [Cold](https://bg3.wiki/wiki/Cold) damage."
+  },
+  {
+    "name": "[Cloth of Authority](https://bg3.wiki/wiki/Cloth_of_Authority)",
+    "image": "https://bg3.wiki/w/images/thumb/0/0a/Cloth_of_Authority_Unfaded_Icon.png/50px-Cloth_of_Authority_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n[Dauntless](https://bg3.wiki/wiki/Dauntless)You can't be  [Frightened](https://bg3.wiki/wiki/Frightened_(Condition)), and cannot be afflicted with other emotion-altering conditions.[Authority](https://bg3.wiki/wiki/Authority)You have  [Advantage](https://bg3.wiki/wiki/Advantage) on [Intimidation](https://bg3.wiki/wiki/Intimidation) checks and [Insight](https://bg3.wiki/wiki/Insight) checks."
+  },
+  {
+    "name": "[Drunken Cloth](https://bg3.wiki/wiki/Drunken_Cloth)",
+    "image": "https://bg3.wiki/w/images/thumb/f/fd/Drunken_Cloth_Unfaded_Icon.png/50px-Drunken_Cloth_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Snowy Liver](https://bg3.wiki/wiki/Snowy_Liver)While  [Drunk](https://bg3.wiki/wiki/Alcohol_(Condition)) you have  [Advantage](https://bg3.wiki/wiki/Advantage) on [Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw), and you gain [Temporary Hit Points](https://bg3.wiki/wiki/Temporary_Hit_Points) equal to your [Constitution](https://bg3.wiki/wiki/Constitution) Modifier at the start of your turn."
+  },
+  {
+    "name": "[Enraging Heart Garb](https://bg3.wiki/wiki/Enraging_Heart_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Enraging_Heart_Garb_Unfaded_Icon.png/50px-Enraging_Heart_Garb_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Constitution](https://bg3.wiki/wiki/Constitution) +2 (up to 20)\n[Ruintamer Heart](https://bg3.wiki/wiki/Ruintamer_Heart)While  [Raging](https://bg3.wiki/wiki/Rage_(Condition)), the wearer generates 2 turns of  [Wrath](https://bg3.wiki/wiki/Wrath_(Condition)).[[See: Bugs](https://bg3.wiki/wiki/Ruintamer_Heart#Bugs)]"
+  },
+  {
+    "name": "[Garb of the Land and Sky](https://bg3.wiki/wiki/Garb_of_the_Land_and_Sky)",
+    "image": "https://bg3.wiki/w/images/thumb/d/d0/Garb_of_the_Land_and_Sky_Unfaded_Icon.png/50px-Garb_of_the_Land_and_Sky_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n[Mountainous Poise](https://bg3.wiki/wiki/Mountainous_Poise)While using  [Patient Defence](https://bg3.wiki/wiki/Patient_Defence), you also benefit from the effect of  [Blade Ward](https://bg3.wiki/wiki/Blade_Ward_(Condition)).[Breezeswift Speed](https://bg3.wiki/wiki/Breezeswift_Speed)While using  [Step of the Wind](https://bg3.wiki/wiki/Step_of_the_Wind), your next [Attack roll](https://bg3.wiki/wiki/Attack_roll) has  [Advantage](https://bg3.wiki/wiki/Advantage) and deals an additional 1d8Force damage."
+  },
+  {
+    "name": "[Icebite Robe](https://bg3.wiki/wiki/Icebite_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/1/1a/Icebite_Robe_Unfaded_Icon.png/50px-Icebite_Robe_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Resistance](https://bg3.wiki/wiki/Resistance) to [Cold](https://bg3.wiki/wiki/Cold) damage.\n\n [Armour of Agathys](https://bg3.wiki/wiki/Armour_of_Agathys) \nCast as a level 3 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Mutilated Carapace](https://bg3.wiki/wiki/Mutilated_Carapace)",
+    "image": "https://bg3.wiki/w/images/thumb/5/5a/Mutilated_Carapace_Unfaded_Icon.png/50px-Mutilated_Carapace_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n[Formless Slaughter](https://bg3.wiki/wiki/Formless_Slaughter)You gain a +1 to Attack and Damage rolls while shapeshifting or disguised.[Faceless Masquerade](https://bg3.wiki/wiki/Faceless_Masquerade)You have  [Advantage](https://bg3.wiki/wiki/Advantage) on  [Deception](https://bg3.wiki/wiki/Deception) [Checks](https://bg3.wiki/wiki/Ability_Check) and  [Persuasion](https://bg3.wiki/wiki/Persuasion) [Checks](https://bg3.wiki/wiki/Ability_Check)."
+  },
+  {
+    "name": "[Obsidian Laced Robe](https://bg3.wiki/wiki/Obsidian_Laced_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/c/cf/Obsidian_Laced_Robe_Unfaded_Icon.png/50px-Obsidian_Laced_Robe_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "Grants [Resistance](https://bg3.wiki/wiki/Resistance) to [Fire](https://bg3.wiki/wiki/Fire) damage.\n[Flaming Revenge](https://bg3.wiki/wiki/Flaming_Revenge)On a successful  [Saving throw](https://bg3.wiki/wiki/Saving_throw) against a foe's [spell](https://bg3.wiki/wiki/Spell), deal 1d4 + [proficiency bonus](https://bg3.wiki/wiki/Proficiency_bonus)Fire damage to them."
+  },
+  {
+    "name": "[Robe](https://bg3.wiki/wiki/Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/f/f7/Robe_B_2_Unfaded_Icon.png/50px-Robe_B_2_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1100,
+    "effects": ""
+  },
+  {
+    "name": "[Robe of Exquisite Focus](https://bg3.wiki/wiki/Robe_of_Exquisite_Focus)",
+    "image": "https://bg3.wiki/w/images/thumb/2/25/Robe_of_Exquisite_Focus_Unfaded_Icon.png/50px-Robe_of_Exquisite_Focus_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[High Spellcasting](https://bg3.wiki/wiki/High_Spellcasting_(%2B1))You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC)."
+  },
+  {
+    "name": "[Shelter of Athkatla](https://bg3.wiki/wiki/Shelter_of_Athkatla)",
+    "image": "https://bg3.wiki/w/images/thumb/6/6b/Shelter_of_Athkatla_Unfaded_Icon.png/50px-Shelter_of_Athkatla_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1000,
+    "effects": "[Mirror Image](https://bg3.wiki/wiki/Mirror_Image) \nCast as a level 2 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Spell Resistance](https://bg3.wiki/wiki/Spell_Resistance)You have  [Advantage](https://bg3.wiki/wiki/Advantage) on  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against spells."
+  },
+  {
+    "name": "[The Graceful Cloth](https://bg3.wiki/wiki/The_Graceful_Cloth)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/The_Graceful_Cloth_Unfaded_Icon.png/50px-The_Graceful_Cloth_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Cat's Grace](https://bg3.wiki/wiki/Cat%27s_Grace_(passive_feature))You gain  [Cat's Grace](https://bg3.wiki/wiki/Cat%27s_Grace) and increase your  [Dexterity](https://bg3.wiki/wiki/Dexterity) by 2, to a maximum of 20.[Nimble As a Cat](https://bg3.wiki/wiki/Nimble_As_a_Cat)You gain a +1 bonus to your [Dexterity](https://bg3.wiki/wiki/Dexterity)  [Saving throws](https://bg3.wiki/wiki/Saving_throw) and also increase your  [Jump](https://bg3.wiki/wiki/Jump) distance by  1.5 m / 5 ft."
+  },
+  {
+    "name": "[The Mighty Cloth](https://bg3.wiki/wiki/The_Mighty_Cloth)",
+    "image": "https://bg3.wiki/w/images/thumb/9/9f/The_Graceful_Cloth_Unfaded_Icon.png/50px-The_Graceful_Cloth_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 800,
+    "effects": "[Bull Rush](https://bg3.wiki/wiki/Bull_Rush) ( + )\nCharge forward and possibly knock your foes back 3 m / 10 ft. ( Recharge: Per turn.)\n\n[Bull's Strength](https://bg3.wiki/wiki/Bull%27s_Strength_(passive_feature))You gain  [Bull's Strength](https://bg3.wiki/wiki/Bull%27s_Strength) and increase your  [Strength](https://bg3.wiki/wiki/Strength) by 2, to a maximum of 20.[Unwavering Bull](https://bg3.wiki/wiki/Unwavering_Bull)You cannot be pushed against your will and you have an  [Advantage](https://bg3.wiki/wiki/Advantage) on  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against being  [Restrained](https://bg3.wiki/wiki/Restrained_(Condition))."
+  },
+  {
+    "name": "[The Protecty Sparkswall](https://bg3.wiki/wiki/The_Protecty_Sparkswall)",
+    "image": "https://bg3.wiki/w/images/thumb/7/7e/The_Protecty_Sparkswall_Unfaded_Icon.png/50px-The_Protecty_Sparkswall_Unfaded_Icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 260,
+    "effects": "[High Spellcasting](https://bg3.wiki/wiki/High_Spellcasting_(%2B1))You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC).[Sparkswall Armour](https://bg3.wiki/wiki/Sparkswall_Armour)The wearer has +1 to  [Armour Class](https://bg3.wiki/wiki/Armour_Class) and  [Saving throws](https://bg3.wiki/wiki/Saving_throw) as long as they have  [Lightning Charges](https://bg3.wiki/wiki/Lightning_Charges_(Condition))."
+  },
+  {
+    "name": "[Viconia's Priestess Robe](https://bg3.wiki/wiki/Viconia%27s_Priestess_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/3/3a/Viconia%27s_Priestess_Robe_Unfaded_icon.png/50px-Viconia%27s_Priestess_Robe_Unfaded_icon.png",
+    "rare": "rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1600,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n[Shar's Umbrae](https://bg3.wiki/wiki/Shar%27s_Umbrae)While [obscured](https://bg3.wiki/wiki/Obscured), the wearer has  [Advantage](https://bg3.wiki/wiki/Advantage) on [Stealth Checks](https://bg3.wiki/wiki/Stealth).[Sharran Veil](https://bg3.wiki/wiki/Sharran_Veil) [Shield of Faith](https://bg3.wiki/wiki/Shield_of_Faith) also grants you a +2 to all  [Saving throws](https://bg3.wiki/wiki/Saving_throw)."
+  },
+  {
+    "name": "[Bonespike Garb](https://bg3.wiki/wiki/Bonespike_Garb)",
+    "image": "https://bg3.wiki/w/images/thumb/2/27/Bonespike_Garb_Unfaded_Icon.png/50px-Bonespike_Garb_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1600,
+    "effects": "[Slabjaw Determination](https://bg3.wiki/wiki/Slabjaw_Determination)You gain  15 [temporary hit points](https://bg3.wiki/wiki/Temporary_Hit_Points) whenever you  [Rage](https://bg3.wiki/wiki/Rage).[Exoskeletal Endurance](https://bg3.wiki/wiki/Exoskeletal_Endurance)Reduce all incoming damage by 2. When the wearer is struck by a melee attack, the attacker takes [Constitution modifier](https://bg3.wiki/wiki/Constitution)Piercing damage."
+  },
+  {
+    "name": "[Infernal Robe](https://bg3.wiki/wiki/Infernal_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/0/06/Infernal_Robe_Unfaded_Icon.png/50px-Infernal_Robe_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1600,
+    "effects": "Grants [Resistance](https://bg3.wiki/wiki/Resistance) to [Fire](https://bg3.wiki/wiki/Fire) damage.\n [Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n\n [Fire Shield: Warm](https://bg3.wiki/wiki/Fire_Shield:_Warm) \nCast as a level 4 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)"
+  },
+  {
+    "name": "[Moon Devotion Robe](https://bg3.wiki/wiki/Moon_Devotion_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/a/a1/Moon_Devotion_Robe_Unfaded_Icon.png/50px-Moon_Devotion_Robe_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1600,
+    "effects": "[Advantage](https://bg3.wiki/wiki/Advantage) on [Constitution](https://bg3.wiki/wiki/Constitution)  [Saving throws](https://bg3.wiki/wiki/Saving_throw).\n [Saving throws](https://bg3.wiki/wiki/Saving_throw) +1\n\n [Lunar Bulwark](https://bg3.wiki/wiki/Lunar_Bulwark) \nCast as a level 1 spell ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n\n [Produce Flame](https://bg3.wiki/wiki/Produce_Flame) \nCast as a cantrip at will.\n\n[Selûne's Protection](https://bg3.wiki/wiki/Sel%C3%BBne%27s_Protection)While the wearer has  [Mage Armour](https://bg3.wiki/wiki/Mage_Armour_(Condition)), each successful  [Saving throw](https://bg3.wiki/wiki/Saving_throw) causes the source of the Saving Throw to take 1-4Radiant damage."
+  },
+  {
+    "name": "[Potent Robe](https://bg3.wiki/wiki/Potent_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/4/4c/Potent_Robe_Unfaded_Icon.png/50px-Potent_Robe_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1600,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1\n[Gregarious Caster](https://bg3.wiki/wiki/Gregarious_Caster)Your [cantrips](https://bg3.wiki/wiki/Cantrip) deal additional damage equal to your [Charisma](https://bg3.wiki/wiki/Charisma) Modifier.[Well-Liked and Well-Fortified](https://bg3.wiki/wiki/Well-Liked_and_Well-Fortified)At the beginning of the wearer's turn, the robe activates, granting them [Temporary Hit Points](https://bg3.wiki/wiki/Temporary_Hit_Points) equal to their [Charisma](https://bg3.wiki/wiki/Charisma) Modifier."
+  },
+  {
+    "name": "[Robe of Supreme Defences](https://bg3.wiki/wiki/Robe_of_Supreme_Defences)",
+    "image": "https://bg3.wiki/w/images/thumb/d/de/Robe_of_Supreme_Defences_Unfaded_Icon.png/50px-Robe_of_Supreme_Defences_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1600,
+    "effects": "[Exquisite Focus](https://bg3.wiki/wiki/Exquisite_Focus)While [concentrating](https://bg3.wiki/wiki/Concentration), you add your [Spellcasting Modifier](https://bg3.wiki/wiki/Spellcasting_Modifier) to your  [Saving throws](https://bg3.wiki/wiki/Saving_throw) and gain a +1 bonus to your  [Armour Class](https://bg3.wiki/wiki/Armour_Class)."
+  },
+  {
+    "name": "[Robe of the Weave](https://bg3.wiki/wiki/Robe_of_the_Weave)",
+    "image": "https://bg3.wiki/w/images/thumb/8/85/Robe_of_the_Weave_Unfaded_Icon.png/50px-Robe_of_the_Weave_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 2900,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +2\n[Arcane Enchantment](https://bg3.wiki/wiki/Arcane_Enchantment_(%2B1))You gain a +1 bonus to [Spell Save DC](https://bg3.wiki/wiki/Spell_Save_DC) and [Spell Attack](https://bg3.wiki/wiki/Spell_Attack) rolls.[Weave Eater](https://bg3.wiki/wiki/Weave_Eater)Whenever the wearer succeeds a  [Saving throw](https://bg3.wiki/wiki/Saving_throw) against a spell, they regain 1d6hit points."
+  },
+  {
+    "name": "[Veil of the Morning](https://bg3.wiki/wiki/Veil_of_the_Morning)",
+    "image": "https://bg3.wiki/w/images/thumb/0/00/Veil_of_the_Morning_Unfaded_Icon.png/50px-Veil_of_the_Morning_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 1600,
+    "effects": "[Turn Undead](https://bg3.wiki/wiki/Turn_Undead) \nPray to Turn all undead that can see you. ( Recharge: [Long rest](https://bg3.wiki/wiki/Long_rest).)\n\n[Let The Undead Blanch With Fear](https://bg3.wiki/wiki/Let_The_Undead_Blanch_With_Fear)Undead have  [Disadvantage](https://bg3.wiki/wiki/Disadvantage) on [attack rolls](https://bg3.wiki/wiki/Attack_Roll) against you, and you have  [Advantage](https://bg3.wiki/wiki/Advantage) on  [Saving throws](https://bg3.wiki/wiki/Saving_throw) against their actions and spells."
+  },
+  {
+    "name": "[Vest of Soul Rejuvenation](https://bg3.wiki/wiki/Vest_of_Soul_Rejuvenation)",
+    "image": "https://bg3.wiki/w/images/thumb/3/37/Vest_of_Soul_Rejuvenation_Unfaded_Icon.png/50px-Vest_of_Soul_Rejuvenation_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 4160,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +2\n[Defier's Rejuvenation](https://bg3.wiki/wiki/Defier%27s_Rejuvenation)Whenever the wearer succeeds on a  [Saving throw](https://bg3.wiki/wiki/Saving_throw) against a [Spell](https://bg3.wiki/wiki/Spells), they regain 1d4hit points.[Greater Kushigo Counter](https://bg3.wiki/wiki/Greater_Kushigo_Counter)The wearer can use a  [Reaction](https://bg3.wiki/wiki/Actions#Reactions) to make an  [Unarmed Strike](https://bg3.wiki/wiki/Unarmed_Strike) against any attacker that misses."
+  },
+  {
+    "name": "[Wavemother's Robe](https://bg3.wiki/wiki/Wavemother%27s_Robe)",
+    "image": "https://bg3.wiki/w/images/thumb/7/74/Wavemother%27s_Robe_Unfaded_Icon.png/50px-Wavemother%27s_Robe_Unfaded_Icon.png",
+    "rare": "very rare",
+    "weight": "1.8 kg\n\n3.6 lb",
+    "price": 610,
+    "effects": "[Armour Class](https://bg3.wiki/wiki/Armour_Class) +1.\n\n [Create or Destroy Water](https://bg3.wiki/wiki/Create_or_Destroy_Water) \nCast as a level 4 spell ( Recharge: [Short rest](https://bg3.wiki/wiki/Short_rest).)\n\n[Temperature Adjustment](https://bg3.wiki/wiki/Temperature_Adjustment)You have [Resistance](https://bg3.wiki/wiki/Resistance) to [Fire](https://bg3.wiki/wiki/Fire) and [Cold](https://bg3.wiki/wiki/Cold) Damage.[Watery Rejuvenation](https://bg3.wiki/wiki/Watery_Rejuvenation)If the wearer is standing in a  [Water](https://bg3.wiki/wiki/Water_(surface)) surface at the start of their turn, they heal 1d4hit points."
+  }
+]

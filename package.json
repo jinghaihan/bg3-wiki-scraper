@@ -1,0 +1,48 @@
+{
+  "name": "bg3-wiki-scraper",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.15.1",
+  "description": "A simple scraper for extracting data from https://bg3.wiki/.",
+  "author": "jinghaihan",
+  "license": "MIT",
+  "keywords": [
+    "baldur's gate 3",
+    "bg3",
+    "bg3.wiki",
+    "scraper"
+  ],
+  "scripts": {
+    "start": "tsx src/cli.ts",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "deps": "taze major -I",
+    "test": "vitest"
+  },
+  "dependencies": {
+    "@clack/prompts": "catalog:node",
+    "ansis": "catalog:node",
+    "axios": "catalog:network",
+    "cac": "catalog:node",
+    "cheerio": "catalog:utils"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "catalog:lint",
+    "@octohash/tsconfig": "catalog:dev",
+    "@types/node": "catalog:types",
+    "domhandler": "catalog:dev",
+    "eslint": "catalog:lint",
+    "lint-staged": "catalog:lint",
+    "pncat": "catalog:cli",
+    "simple-git-hooks": "catalog:lint",
+    "taze": "catalog:cli",
+    "tsx": "catalog:script",
+    "typescript": "catalog:dev",
+    "vitest": "catalog:test"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "eslint --fix"
+  }
+}
